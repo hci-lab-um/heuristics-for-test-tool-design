@@ -4,7 +4,7 @@ These 12 heuristic questions are intended to provoke thought and ideas when desi
 
 ## Summary list of heuristic questions
 
-    Theme: Why?
+        Theme: Why?
 1. Why do we need this tool?
 
       Theme: Who?
