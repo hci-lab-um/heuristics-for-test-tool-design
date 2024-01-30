@@ -4,7 +4,7 @@ These 12 heuristic questions are intended to provoke thought and ideas when desi
 
 ## Summary list of heuristic questions
 
-        Theme: Why?     Why is this line a different format to in 10 and 17???
+        Theme: Why?     Why is this line a different format to lines 10 and 17??? (Theme: who? and Theme:Context?)?
 1. Why do we need this tool?
 
       Theme: Who?
