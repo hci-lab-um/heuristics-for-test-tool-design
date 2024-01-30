@@ -6,15 +6,11 @@ These 12 heuristic questions are intended to provoke thought and ideas when desi
 
 Theme: WHY?
 1. Why do we need this tool?
-
-Theme: WHO?
 2. Who will use or be affected by the tool?
-
 3. What previous experiences do people bring to the tool?
-4. 
-5. What communication needs or preferences do those people have?
-6. What learning perspectives or goals do those people bring?
-7. What learning preferences do those people have?
+4. What communication needs or preferences do those people have?
+5. What learning perspectives or goals do those people bring?
+6. What learning preferences do those people have?
 
 Theme: CONTEXT?
 7. Where will the tool be used?
