@@ -4,7 +4,7 @@ Summary list of heuristic questions
 1. [Why do we need this tool?](H1-why-do-we-need-this-tool.md)
 2. [Who will use or be affected by the tool?](H2-Who-will-use-or-be-affected-by-this-tool.md)
 3. [What previous experiences do people bring to the tool?](H3-What-previous-experiences-do-people-bring-to-the-tool.md)
-4. What communication needs or preferences do those people have?
+4. [What communication needs or preferences do those people have?](H4-What-communication-needs-or-preferences-do-those-people-have.md)
 5. What learning perspectives or goals do those people bring?
 6. What learning preferences do those people have?
 7. Where will the tool be used?
