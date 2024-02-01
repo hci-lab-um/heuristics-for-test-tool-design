@@ -1,6 +1,6 @@
 # heuristics-for-test-tool-design
 
-These 12 heuristic questions are intended to provoke thought and ideas when designing or choosing a test tool.
+These 12 heuristic questions are intended to provoke thought and ideas when designing or choosing a test tool. Elsewhere in this repository are explanations and action lists for each heuristic, plus background to the research. When I have worked out how to do it, I will start to link the files together... Meantime, keeping it simple.
 
 ## Summary list of heuristic questions
 1. Why do we need this tool?
