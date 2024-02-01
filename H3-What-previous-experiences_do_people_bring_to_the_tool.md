@@ -1,6 +1,6 @@
 # H3 What previous experiences do people bring to the tool?
 
-Theme: WHY?
+Theme: WHO?
 
 Heuristic Question: What previous experiences do people bring to the tool?
 
