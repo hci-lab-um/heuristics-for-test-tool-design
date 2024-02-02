@@ -1,4 +1,4 @@
-These 12 heuristic questions are intended to provoke thought and ideas when designing or choosing a test tool.
+These 12 heuristic questions were designed by ISabel Evans of University of Malta. They are intended to provoke thought and ideas when designing or choosing a test tool.
 
 Summary list of heuristic questions
 1. [Why do we need this tool?](H1-why-do-we-need-this-tool.md)
