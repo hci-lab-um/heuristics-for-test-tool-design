@@ -5,7 +5,7 @@ Summary list of heuristic questions
 2. [Who will use or be affected by the tool?](H2-Who-will-use-or-be-affected-by-this-tool.md)
 3. [What previous experiences do people bring to the tool?](H3-What-previous-experiences-do-people-bring-to-the-tool.md)
 4. [What communication needs or preferences do those people have?](H4-What-communication-needs-or-preferences-do-those-people-have.md)
-5. What learning perspectives or goals do those people bring?
+5. [What learning perspectives or goals do those people bring?](H5-What-learning-perspectives-or-goals-do-those-people-bring.md)
 6. What learning preferences do those people have?
 7. Where will the tool be used?
 8. What workflows will the tool be part of?
