@@ -25,7 +25,7 @@ Key questions to ask yourself:
 -	Will this tool support what we are doing/want to achieve?
 -	Does use of this tool cause any breach of ethical goals?
 
-##Activities, tools and techniques to help answer the questions
+## Activities, tools and techniques to help answer the questions
 
 To understand why you are building the tool, you need to consider goals for different stakeholders – including yourself.
 
