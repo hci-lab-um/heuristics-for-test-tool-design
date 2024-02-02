@@ -19,22 +19,18 @@ Key questions to ask yourself:
 - Are people working solo, paired and/or in groups?
 - What level of autonomy do people have over their work approaches?
 - TBC
+TBD: also relate this back to Freedom from Risk – the domain may dictate the workflow, approaches, tools.
+Also relate this to Flexibility -. Work in situations with high level of autonomy to change approaches and tools.
+
 
 ## Activities, tools and techniques to help answer the questions
-To understand how to address risk appropriately in your design choices, you will need to understand the stakeholders’ attitudes to risks.
+
+To understand what styles of working the tool must support, you will need to how the cultural context of the organization affects how people are enabled or blocked from taking different approaches.
+
 
 
 Activities:
-- Risk identification and assessment with Stakeholders;
-- Domain identification;
-- Identify what testing of the tool is appropriate;
-- Use humanity-centered design processes.
-
-
-Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the QiU/UX goals for the tool.
+- TBD (I have some materials I developed on team shape – to be uploaded in a usable format – activities to identify team shapes that occur in different levels of manager authority and team autonomy)
+- TBD – activities to understand where the workflow intersects activities that require testing tasks, and potentially are supported by tools
 
 Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the testers’ QiU/UX requirements within their context for the tool.
-
-
-NB: add point that the Environmental risk mitigation and the Health and Safety mitigation are both covered in humanity-centered design.
-Note from Reviewer: Do we distinguish the difference between the risks of the tools themselves and the risk of the workflows the tools are used in?
