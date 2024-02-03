@@ -1,5 +1,5 @@
 # Heuristics for Test Tool Design
-_Developed by: Isabel Evans - University of Malta_
+_Developed by: [Isabel Evans](mailto:isabel.evans.17@um.edu.mt) - University of Malta_
 
 These 12 heuristic questions are intended to provoke thought and ideas when designing or choosing a test tool. Elsewhere in this repository are explanations and action lists for each heuristic, plus background to the research. As I have data to add (and as I work out how to do things) I will update things... Meantime, keeping it simple.
 
