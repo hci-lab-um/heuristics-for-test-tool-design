@@ -22,6 +22,10 @@ Key questions to ask yourself:
 - have you considered solo and group learning routes?
 - have you considered what mix of theory, practice, guided and exploratory learning is appropriate?
 - have you considered learning and help materials in different media?
+- have you considered both face to face and remote learning?
+- have you considered how mentoring, coaching, listening and doing might be included?
+- have you considered how self-help learning might be used?
+- have you considered how to taine the trainers, coaches and mentors?
 
 ## Activities, tools and techniques to help answer the questions
 To understand Who learns How you need to understand their different learning preferences.  
