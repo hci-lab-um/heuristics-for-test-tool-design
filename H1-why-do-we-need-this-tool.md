@@ -20,11 +20,16 @@ Research Point: In the research leading to the design of these heuristics, we fo
 Key questions to ask yourself:
 -	Is there a problem to solve?
 -	Is it organizational or technical or something else?
-- 	Can you design to increase productivity?
+- Can you design to increase productivity?
 -	Can you design to reduce risk and increase value?
 -	Can you design to improve the reach and certainty of people’s work?
 -	Will this tool support what we are doing/want to achieve?
 -	Does use of this tool cause any breach of ethical goals?
+-	What is missing from the existing toolset?
+-	Why does the tester need the tool?
+-	Why does the organization want the tool?
+-	Are there contradicting goals from different parts of the organization?
+- What happens if (part of) the tool is not used?
 
 ## Activities, tools and techniques to help answer the questions
 
