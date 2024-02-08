@@ -32,7 +32,7 @@ You will need to either understand the specific communication preferences of you
 You also must consider accessibility needs and how those affect the choice of media, input and output options, etc.  You can use the accessibility analysis as a way to improve the communication through the tool for everyone. Accessibility needs may be permanent, situational or temporary. Accessibility needs may be based on sensory, physical, cognitive and emotional states.
 
 Activities: 
--Look at the DISC profile communication preferences either to inform personas, or to carry out DISC profiling;
+- Look at the DISC profile communication preferences either to inform personas, or to carry out DISC profiling;
 - Use the Microsoft Inclusive Design Methodology to guide your design process by following their Inclusive 101 guidebook;
 - A fun workshop developed by the Accessible Reality team supported by the University of Dundee is the “Pirates” workshop which helps you think about the different types of access needs that a person may have.
 - Maybe something here on How Might We questions? TBD
