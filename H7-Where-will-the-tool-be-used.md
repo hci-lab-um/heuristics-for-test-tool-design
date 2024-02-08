@@ -28,9 +28,13 @@ To understand where the tool will be used, you need to understand both its techn
 
 
 Activities:
+- Revisit the "who" questions to see if your personas/archetypes need to be strengthened
 - Localization design
+- Translation design
 - Cross cultural design
-- Infrastructure mapping against the OSI model
+- Infrastructure mapping for example against the OSI model or using service modelling to understand what technology environments to consider
+- Map the physical locations where the tool may be used (inside, outside, challenging locations, etc) to focus on how rugged the tool needs to be
+- Map the organizational locations where the tool might be used to understand how security and firewalls may be needed or may be blockers to use. 
 
 
 Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the testers’ QiU/UX requirements within their context for the tool.
