@@ -18,7 +18,7 @@ Research Point: We found that testers reported tools not supporting their workfl
 
 Key questions to ask yourself:
 - What choices about their work practices and workflow contributions should individuals and teams have?
-- Does the proposed tool cover part of a workflow, the whole of a workflow, or across more than one workflow?
+- Does the proposed tool cover part of a workflow, the whole of a workflow, or across more than one workflow? (TBD add link to detailed points about intersection of workflows)
 
 ## Activities, tools and techniques to help answer the questions
 To understand and describe a workflow, you need to know the activities to be done, how they link together, who takes part, how workflows link together.
