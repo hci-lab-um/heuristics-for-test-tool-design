@@ -13,13 +13,19 @@ Think about:
 - Level of autonomy individuals and teams have;
 - Level of authority managers and leaders have;
 - Support to solo, pair and group working;
-- How teams are organized.
+- How teams are organized;
+- Level of confidence that teams have in their process. TBD: link to info about maturity, assurance, expereince leading to pattern observation, support to grow that experiences/skills)
 
 Research Point: we found that some testers had autonomy to choose their approaches and tools to fit within the wider business workflows, while for other testers the workflow involvement, approaches and tools were mandated by the organization. We found that some testers were frustrated by tools that prevented pair or team working. 
 
 Key questions to ask yourself:
 - Are people working solo, paired and/or in groups?
 - What level of autonomy do people have over their work approaches?
+- How assured the testers are in their process?
+- How assured are the owners of related processes?
+- How easy are they in their usage, what evidence is there of that?
+- How they feel about it, how confident for example?
+- Wha support you can give via the tool to increase confidence (etc... TBD - needs a reword, relate to maturity, assurance)
 - TBC
 TBD: also relate this back to Freedom from Risk – the domain may dictate the workflow, approaches, tools.
 Also relate this to Flexibility -. Work in situations with high level of autonomy to change approaches and tools.
