@@ -27,7 +27,11 @@ The heuristic questions and explanations are grounded in research data collected
 NOTE: both the heuristics and the underlying explanations and activities are still draft. They are being developed in an iterative process which is looking at the content and the format of the materials. Example activities and links to further information are indicative, and to be replaced later. Format and medium will change. American spellings have been adopted.
 
 ## Citation
-If you use these heuristics please cite our work - citation file is here with no DOI at present: [citation information](CITATION.cff) 
+If you use these heuristics please cite our work: 
+
+*Evans, I., Porter, C., & Micellef, M. (2024). Heuristics-for-test-tool-design (Version 1.0.0) [Computer software]. https://github.com/hci-lab-um/heuristics-for-test-tool-design*
+
+Note: use the "Cite this repository" function for more options (e.g. bibtex).
 
 ## Licence
 This material is [GPL-3.0 licenced](licence). 
