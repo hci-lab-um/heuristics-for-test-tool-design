@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Evans"
+  given-names: "Isabel"
+  orcid: "https://orcid.org/0000-0003-3913-4463"
+- family-names: "Porter"
+  given-names: "Chris"
+  orcid: "https://orcid.org/0000-0003-3813-2941"
+  - family-names: "Micellef"
+  given-names: "Mark"
+  orcid: "https://orcid.org/0000-0003-4159-6923"
+title: "Heuristics-for-test-tool-design"
+version: 1.0.0
+<!--doi: 10.5281/zenodo.1234-->
+date-released: 2024-02-13
+url: "https://github.com/hci-lab-um/heuristics-for-test-tool-design"
