@@ -7,7 +7,7 @@ authors:
 - family-names: "Porter"
   given-names: "Chris"
   orcid: "https://orcid.org/0000-0003-3813-2941"
-  - family-names: "Micellef"
+- family-names: "Micellef"
   given-names: "Mark"
   orcid: "https://orcid.org/0000-0003-4159-6923"
 title: "Heuristics-for-test-tool-design"
