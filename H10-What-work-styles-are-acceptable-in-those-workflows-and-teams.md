@@ -27,7 +27,9 @@ Key questions to ask yourself:
 - How they feel about it, how confident for example?
 - Wha support you can give via the tool to increase confidence (etc... TBD - needs a reword, relate to maturity, assurance)
 - TBC
+- 
 TBD: also relate this back to Freedom from Risk – the domain may dictate the workflow, approaches, tools.
+
 Also relate this to Flexibility -. Work in situations with high level of autonomy to change approaches and tools.
 
 
