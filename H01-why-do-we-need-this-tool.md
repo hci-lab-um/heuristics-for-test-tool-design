@@ -38,7 +38,7 @@ To understand why you are building the tool, you need to consider goals for diff
 You will need to iterate between “Why?” and “Who?” as you identify stakeholders and their goals.
 
 Activities you might find useful to help you understand Why you need this tool  include:
--	SWOT analysis
+-	[SWOT analysis](Technique-SWOT-Analysis.md)
 -	Gap analysis
 -	Contextual enquiry
 
