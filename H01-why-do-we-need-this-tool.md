@@ -39,7 +39,7 @@ You will need to iterate between “Why?” and “Who?” as you identify stake
 
 Activities you might find useful to help you understand Why you need this tool  include:
 -	[SWOT analysis](Technique-SWOT-Analysis.md)
--	Gap analysis
--	Contextual enquiry
+-	[Gap analysis](Technique-Gap_analysis.md)
+-	[Contextual enquiry](Technique-Contextual-Inquiry.md)
 
 Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the QiU/UX goals for the tool.
