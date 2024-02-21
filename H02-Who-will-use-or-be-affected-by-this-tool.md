@@ -35,12 +35,9 @@ To understand who will use or be affected by the tool you need to understand who
 You will need to iterate between “Why?” and “Who?” as you identify stakeholders and their goals.
 
 Activities you might find useful to help you understand Who include:
--	Stakeholder Mapping
--	Mapping stakeholders to quality requirements: Quality Value Chain Mapping and Wardley Mapping
--	Onion model: Stakeholders Without Tears and also from Standard ISO 250109
--	Analyzing stakeholders for influence on your work 
+-	[Stakeholder Mapping](Techiques-Stakeholder-Mapping.md) which includes simple mapping onto a matrix, the onion model, value chain modelling and Wardley Mapping.
 
-Activities to help you understand and model the characteristics of those groups of people include personas and archetypes. With a small number of users you may be able to interview them, and with a large population use sampling, or statistical methods, by using different persona analysis types :
+Activities to help you understand and model the characteristics of those groups of people include [personas and archetypes](Technique-Personas-and_archetypes.md). With a small number of users you may be able to interview them, and with a large population use sampling, or statistical methods, by using different persona analysis types :
 -	Map personas around roles;
 -	Map personas around preferences and perspectives; 
 -	Map personas around communication and work styles;
