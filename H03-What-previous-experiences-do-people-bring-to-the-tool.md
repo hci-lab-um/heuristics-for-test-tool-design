@@ -23,12 +23,12 @@ Key questions to ask yourself:
 
 ## Activities, tools and techniques to help answer the questions
 
-To understand Who you need to know not just the roles but also people’s characteristics. Use the answers to this heuristic question to help you enrich your persona groups.
+To understand Who you need to know not just the roles but also people’s characteristics. Use the answers to this heuristic question to help you enrich your persona groups that you started when anwering heuristic [H02](H02-Who-will-use-or-be-affected-b-this-tool.md).
 
 You need to understand the pre-existing knowledge people bring to the tool so you provide an appropriate experience to them, for example by including both introductory steps for beginners and short cuts for more experienced people.
 
 Activities:
--	Add to your Persona design, including different types of persona;
--	Do a skills gap analysis thinking about your personas as learner personas.
+-	Add to your Persona design, including [different types of persona](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them);
+-	Do a skills gap analysis thinking about your personas as [learner personas](https://corporate.britishcouncil.org/insights/evolving-role-learner-personas).
 
 Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the testers’ QiU/UX requirements for the tool.
