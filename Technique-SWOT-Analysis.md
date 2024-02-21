@@ -28,7 +28,7 @@ It can be done as a discussion workshop where different stakeholders can share t
 ## Rationale
 
 ### Research evidence
-[add link to reseach evidence tbd ]()
+add link to reseach evidence tbd 
 
 ### When to use this technique
 -	To get a quick understanding of areas to improve and protect;
