@@ -6,7 +6,7 @@ I've provided some text below about the research and about myself, and also link
 ## Videos and articles about the Research and the Researcher
 I will make some up-to-date videos when I have time, here are links to some earlier videos about the research. They are each about 30-50 minutes long.
 
-1. [Talk about the research from 2020: "Illusions, Magic and Test Automation"](https://www.youtube.com/watch?v=EAEG3CzZzVY) from Code Camp Romania.
+1. [Talk about the research from 2020: "Illusions, Magic and Test Automation"](https://www.youtube.com/watch?v=EAEG3CzZzVY){:target="_blank"} from Code Camp Romania.
 2. [Report on the research from 2022: "Who is Testing? Do tools help and support them?"](https://www.youtube.com/watch?v=JhmZpnZO_ys) from TestMu conference
 3. [Webinar from 2022 "Who is testing?"](https://www.bigmarker.com/techwell-corporation/Who-Is-Testing-A-Reflection-Part-Way-Through-Data-Analysis) from Techwell
 4. [Interview with Agiletest](https://www.youtube.com/watch?v=0fZlOqjmZqQ) from Agiletest Invites.
