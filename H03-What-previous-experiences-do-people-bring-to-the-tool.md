@@ -23,7 +23,7 @@ Key questions to ask yourself:
 
 ## Activities, tools and techniques to help answer the questions
 
-To understand Who you need to know not just the roles but also people’s characteristics. Use the answers to this heuristic question to help you enrich your persona groups that you started when anwering heuristic [H02](H02-Who-will-use-or-be-affected-b-this-tool.md).
+To understand Who you need to know not just the roles but also people’s characteristics. Use the answers to this heuristic question to help you enrich your persona groups that you started when anwering heuristic [H02](H02-Who-will-use-or-be-affected-by-this-tool.md).
 
 You need to understand the pre-existing knowledge people bring to the tool so you provide an appropriate experience to them, for example by including both introductory steps for beginners and short cuts for more experienced people.
 
