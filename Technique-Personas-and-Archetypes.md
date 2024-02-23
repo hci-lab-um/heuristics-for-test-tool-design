@@ -12,6 +12,7 @@ These activities help you understand and model the characteristics of the groups
 Two techniques you could use are personas and archetypes. 
 
 [Personas](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)
+
 [Archetypes](https://radinadoneva.medium.com/behavioural-archetypes-instead-of-personas-c7ccc5b8b998) 
 
 With a small number of users you may be able to interview them all. 
