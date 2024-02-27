@@ -35,9 +35,11 @@ This flowchart shows how to find your way around this repository:
 
 ![Flowchart showing navigation around the repository. From this README file, you can find links to each heuristic, information on how to use the heuristics, the repository licence, and information about the research and the reseachers. From each heuristic description you will find links to techniquues to answer the heuristic question, plus tester and context characteristics derived from the research, and quality in use attributes. At various points in the repository you will find links to information on webpages outside this repository.][h-flow1](h-flow1.jpg)
 
-[h-flow1][h-flow1]: h-flow1.jpg
+![Flowchart showing navigation around the repository. From this README file, you can find links to each heuristic, information on how to use the heuristics, the repository licence, and information about the research and the reseachers. From each heuristic description you will find links to techniquues to answer the heuristic question, plus tester and context characteristics derived from the research, and quality in use attributes. At various points in the repository you will find links to information on webpages outside this repository.][h-flow1](h-flow1.jpg)
 
-![flowchart](h-flow1.jpg)
+![flowchart alt text][flowchart-label](h-flow1.jpg)
+
+[flowchart-label][h-flow1]: h-flow1.jpg
 
 The heuristic questions and explanations are grounded in research data collected from surveys, workshops, interviews, and industry and academic literature in the period 2018-2023. They have been developed iteratively through a series of reviews with UX, accessibility, and testing industry experts and practitioners. This process is ongoing. [Find out more about the research and the researcher](About-the-research-and-researcher.md).
 
