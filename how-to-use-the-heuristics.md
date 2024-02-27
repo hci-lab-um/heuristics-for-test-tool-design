@@ -5,7 +5,20 @@ This section tells you about different ways to use the heuristics in different s
 
 ## Overview - generic use
 
-TBC - add flow chart
+![Flowchart showing the "Why?" question is followed by the "Who?" questions and then the "Context?" questions, with loop-backs to the "Why?" question.][flow2](h-flow2.jpg)
+
+[flow2: h-flow2.jpg
+
+![Flowchart showing that the "Who?" questions start with an overall question to identify the stakeholders, then four questions to help understand more about their characteristics: level of experiences, communication needs, learning perspectives, and learning preferences. There are iterative loops between the "Who?" and the "Why?" questions, and an onward path to the "Context?" questions.][flow3](h-flow3.jpg)
+
+[flow3: h-flow3.jpg
+
+![Flowchart showing that the Context questions start with a general "Where?" question, followed by 5 questions to understand more about the context: the workflows, risks, work styles, when the tool will be used, and how long for.  There are iterative loops between the "Context?" questions and back to the "Why?" question.][flow4](h-flow4.jpg)
+
+[flow4: h-flow4.jpg
+
+
+TBC - add text to support flowcharts (alt text alread in place)
 
 ### Navigating the Heuristic Explanations
 Each Heuristic has a page with an overview explanation of the heuristic, the research evidence, and activities. You will find on each heuristics page:
@@ -16,7 +29,7 @@ Each Heuristic has a page with an overview explanation of the heuristic, the res
 - **Activities, tools and techniques to help answer the questions:** A menu of useful techniques, linked to further information either within this repository or on the internet. 
 
 ### You can tailor this to suit you
-Don't be limited by the questions or the activities list - you don't have to do them all, and you may have preferred alternatives.
+Don't be limited by the questions or the activities list - you won't have to do them all, and you may have preferred alternatives.
 
 If you want to tailor the heuristics to suit your context, please do - see the [licence](LICENSE) to see how to do that and remember to reshare your versions and tailoring.
 
