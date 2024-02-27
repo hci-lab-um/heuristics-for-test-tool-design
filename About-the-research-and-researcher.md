@@ -18,6 +18,11 @@ I published [an article "Just a tester?"](https://www.womenwhotest.com/2023/04/1
 After nearly four decades working in the IT industry, mainly in software testing, latterly as a consultant and trainer, I had observed that teams and organizations didn’t have the successes they anticipated with adoption of tools to support testing. I wanted to understand the blockers to test tool adoption and what might overcome these, with an initial idea that improving the usability of tools would help people adopt them and use them successfully. I started a post-graduate study at University of Malta to research my ideas. 
 
 ###	Story So Far
+
+![Diagram building up the research from its foundations to the heuristics. From the bottom of the diagram: We asked the question "What are the experiences of testers with their tools?", we used that data to publish three papers: "Stuck in Limbo with Magical Solutions"; "Scared, Frustrated and Quietly Proud" and "The Illusion of Usability". These findings are the foundation for work we did to ask "Who is testing?" (Paper "From artists to urban planners: who is testing and why it matters"). We then asked "How could test tool design be more focused on testers?", started to design heuristics and a framework, which led to the paper "The Shape of Heuristics". We designed the heuristics in this repository. And we are also working on a framework for people-focused, evidence-based test tool design. ][R-pyramid](research-pyramid.jpg)
+
+[R-pyramid]: research-pyramid.jpg
+
 Stories about experiences with test tools: In the initial stage of the research I went out to industry with a simple question “tell me a story about your experiences with test tools” via interviews, surveys and workshops, and was startled by the results. These were:
 1.	Testers’ lived experience is adversely affected by poor tools (Papers: “[Stuck in Limbo with Magical Solutions](https://www.scitepress.org/Link.aspx?doi=10.5220/0009091801950202)” and “[Scared, Frustrated and Quietly Proud](https://dl.acm.org/doi/abs/10.1145/3452853.3452872)”).
 2.	Usability was the major concern about the tools, followed by organizational impacts on tool use. All the other quality attributes of the tool made up about one third of the total concerns.
