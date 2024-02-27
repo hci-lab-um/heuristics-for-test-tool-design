@@ -26,7 +26,6 @@ Each question will be linked to an explanation, with things to think about, rese
 
 ![Orange cat][Orange](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
 
-
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
@@ -36,7 +35,7 @@ This flowchart shows how to find your way around this repository:
 
 ![Flowchart showing navigation around the repository. From this README file, you can find links to each heuristic, information on how to use the heuristics, the repository licence, and information about the research and the reseachers. From each heuristic description you will find links to techniquues to answer the heuristic question, plus tester and context characteristics derived from the research, and quality in use attributes. At various points in the repository you will find links to information on webpages outside this repository.][h-flow1](h-flow1.jpg)
 
-[h-flow1]: h-flow1.jpg
+[h-flow1][h-flow1]: h-flow1.jpg
 
 ![flowchart](h-flow1.jpg)
 
