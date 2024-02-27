@@ -37,7 +37,7 @@ This flowchart shows how to find your way around this repository:
 
 
 
-[flow1]: hlow1.jpg
+[flow1]: h-flow1.jpg
 
 
 
