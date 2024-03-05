@@ -28,7 +28,7 @@ Key questions to ask yourself:
 - have you considered how to taine the trainers, coaches and mentors?
 
 ## Activities, tools and techniques to help answer the questions
-To understand Who learns How you need to understand their different learning preferences.  
+To understand *Who learns how* you need to understand their different learning preferences.  
 
 Some people prefer solo and group/pair learning.  People will need theory, practice, exploring, and guided learning. People may have preferences or needs for different media.
 
