@@ -13,7 +13,7 @@ Think about:
 - Providing learning materials as video, audio, text, pictorial/diagrams.
 - Providing learning materials for both solo and team learning.
 - Providing learning materials for practical and theoretical styles of learning.
-- Online versus  face to face learning
+- Online versus face to face learning
 - Provide “short burst” and extended learning opportunities.
 
 Research Point: we found that people expressed a range of preferences for how to learn – for example whether solo or in pairs, prefer media, whether guided or exploratory AND that these did not necessarily match with their general problem-solving preferences. We also found that people had very little time allowed for learning and development.
@@ -25,7 +25,7 @@ Key questions to ask yourself:
 - have you considered both face to face and remote learning?
 - have you considered how mentoring, coaching, listening and doing might be included?
 - have you considered how self-help learning might be used?
-- have you considered how to taine the trainers, coaches and mentors?
+- have you considered how to train the trainers, coaches and mentors?
 
 ## Activities, tools and techniques to help answer the questions
 To understand *Who learns how* you need to understand their different learning preferences.  
@@ -33,9 +33,7 @@ To understand *Who learns how* you need to understand their different learning p
 Some people prefer solo and group/pair learning.  People will need theory, practice, exploring, and guided learning. People may have preferences or needs for different media.
 
 Activities: 
-- Use what you have discovered about communication styles to inform both the media and the formats in which you supply learning materials.
-- Enrich your persona definition with learning preferences.
+- Use what you have discovered about [communication styles in H04](H04-What-comunication-needs or preferences-do-those-people-have.md) to inform both the media and the formats in which you supply learning materials.
+- Enrich your persona definition with [learning preferences](https://cultivatedmanagement.com/two-learning-styles/).
 
 Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the testers’ QiU/UX requirements for the tool.
-Tbd based on reviewer note:  would also expect mentoring, coaching, intervision, and more of those people-to-people interaction styles that contribute to learning.
-
