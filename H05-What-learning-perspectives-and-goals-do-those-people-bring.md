@@ -7,15 +7,16 @@ Heuristic Question: What learning perspectives or goals do those people bring?
 
 ## Explanation and subquestions
 Depending on the person and the organizational goals people may want to only learn enough to enable them to complete a specific task, or they may want to learn enough to enable expertise/mastery of a role/activity. This may be affected both by personal choice and by organizational pressure.
+
 Think about: 
 - what long and short-term goals people have with the tool, for example learning to use the tool, learning about reasons for particular approaches adopted in the tool, learning how to interpret outcomes from the tool;
-- what perspectives people might have about learning, and how learning is prioritized against other work for example whether they value short-term focused, task-based knowledge, or whether they want to broaden understanding and educate over a longer term, to life-long learning; (TBD add link here to paper on rock star environments damaging learning and progression)
+- what perspectives people might have about learning, and how learning is prioritized against other work for example whether they value short-term focused, task-based knowledge, or whether they want to broaden understanding and educate over a longer term, to life-long learning; 
 - what constraints on training are there (time, budget, resources) and how to overcome those;
 - there may be a time gap between learning and appying - how long might that gap be, and how to bridge it;
 - how to (re)find information to help at the point of completing a task;
 - what types of training material are required and how you cover different personas and perspectives.
 
-Research Point: we found that managers we interviewed had the goal of people learning just enough and coming “up to speed” and complete specific tasks. We found that test practitioners ranged in goals from task-based fast learning to wishing to study to get mastery of a tool. “we live in a world where people have very little time to learn how to do things”
+Research Point: we found that managers we interviewed had the goal of people learning just enough and coming “up to speed” and complete specific tasks. We found that test practitioners ranged in goals from task-based fast learning to wishing to study to get mastery of a tool. Participant: “We live in a world where people have very little time to learn how to do things”
 
 Key questions to ask yourself:
 - are people more focused on the task in hand or moving to the big picture?
@@ -28,10 +29,10 @@ Key questions to ask yourself:
 
 To understand *Who learns how* you need to understand their different constraints, and different learning goals. People will have constraints on learning time, what media they can use, on their goals for learning.
 
-Differentiate between people’s goals for mastery of a subject – which might include mastering the theory, with their need to solve a problem right now, which is likely to be task-based.
+Differentiate between people’s goals for mastery of a subject, which might include mastering the theory, with their need to solve a problem right now, which is likely to be task-based.
 
 Activities: 
-- understanding your stakeholders’ expectations for the training budget (cost and time spent) will help you understand constraints. Revisit stakeholders’ goals.
-- Set learning outcomes for your training material that are clear and appropriate for different personas.
+- Understanding your stakeholders’ expectations for the training budget (cost and time spent) will help you understand constraints. you could [revisit stakeholders’ goals in H01](H01-why-do-we-need-this-toll.md) to understand more.
+- Set [learning outcomes](https://www.ctl.ox.ac.uk/effective-learning-outcomes) for your training material that are clear and appropriate for different personas and add them to your personas.
 
 Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the testers’ QiU/UX requirements for the tool.
