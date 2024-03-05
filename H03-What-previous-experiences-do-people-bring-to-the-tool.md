@@ -21,6 +21,7 @@ Key questions to ask yourself:
 - Will something that feels obvious and intuitive to you be as obvious and intuitive to others? What would be obvious and intuitive to other people?
 - How can your design include others – how will you [design in accessibility, inclusion](https://inclusive.microsoft.design/)?
 - What is your expectation of experience and skill levels and does that match the actual skills and experience people have? (May be lower or higher than yours… Are you over-estimating or under-estimating people’s knowledge and skill?)
+- Have previous experiences with new tools or new methods been supportive to the person? This might include [whether a learning culture is encouraged](https://osf.io/preprints/psyarxiv/qz43x) and [understanding the developer experience](https://dl.acm.org/doi/10.1145/3639443): both those links are to work about developers, but the same questions arise for testers.
 
 ## Activities, tools and techniques to help answer the questions
 
