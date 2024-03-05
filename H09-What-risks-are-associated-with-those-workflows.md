@@ -33,8 +33,9 @@ Key questions to ask yourself:
 
 ## Activities, tools and techniques to help answer the questions
 To understand how to address risk appropriately in your design choices, you will need to understand the stakeholders’ attitudes to risks. Think about the stakeholders you identified in [H02](H02-Who-will-use-or-be-affected-by-this-tool.md) to consider audit, compliance, and marketing stakeholdershaving different viewpoints on risk, for example;
-Related to this is your stakeholders' attitude to adoption of technology. Are they early adopters who may be willing to put up with some rough edges in order to engage with new technology, or are they more mainstream and looking for a a safe, reliable option. See Innovation Diffusion, for example look at Moore's "Crossing the Chasm" to understand where your stakeholders sit in the technology adoption cycle (see [Crossing The Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm) This could be linked to organizational styles you'll look at in [H10](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md) and views on agility, maturity, and other process concepts.
-
+Related to this is your stakeholders' attitude to adoption of technology. Are they early adopters who may be willing to put up with some rough edges in order to engage with new technology, or are they more mainstream and looking for a a safe, reliable option. See Innovation Diffusion, for example look at Moore's "Crossing the Chasm" to understand where your stakeholders sit in the technology adoption cycle (see [Crossing The Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm) 
+Think about the language your personas use, with this [blogpost abut two vocabularies for two audiences from Seth Godin](http://sethgodin.typepad.com/seths_blog/2017/02/the-two-vocabularies-because-there-are-two-audiences.html)
+This could be linked to organizational styles you'll look at in [H10](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md) and views on agility, maturity, and other process concepts.
 
 Activities:
 -	Risk identification and assessment with Stakeholders;
