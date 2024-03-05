@@ -4,14 +4,15 @@
 I've provided some text below about the research and about myself, and also links to videos, academic papers and other resources.
 
 ## Videos and articles about the Research and the Researcher
-I will make some up-to-date videos when I have time, here are links to some earlier videos about the research. They are each about 30-50 minutes long.
+
+If you want a brief summary, here is [an article "Just a tester?"](https://www.womenwhotest.com/2023/04/14/just-a-tester-a-report-part-way-through-data/) from 2023 which summarises the research to that point and highlights of the findings.
+
+Here are links to some earlier videos about the research. They are each about 30-50 minutes long.
 
 1. [Talk about the research from 2020: "Illusions, Magic and Test Automation"](https://www.youtube.com/watch?v=EAEG3CzZzVY) from Code Camp Romania.
 2. [Report on the research from 2022: "Who is Testing? Do tools help and support them?"](https://www.youtube.com/watch?v=JhmZpnZO_ys) from TestMu conference
 3. [Webinar from 2022 "Who is testing?"](https://www.bigmarker.com/techwell-corporation/Who-Is-Testing-A-Reflection-Part-Way-Through-Data-Analysis) from Techwell
 4. [Interview with Agiletest](https://www.youtube.com/watch?v=0fZlOqjmZqQ) from Agiletest Invites.
-
-I published [an article "Just a tester?"](https://www.womenwhotest.com/2023/04/14/just-a-tester-a-report-part-way-through-data/) in 2023 which summarises the research to that point and highlights of the findings.
 
 ## The Research - a brief history
 ###	Background
@@ -26,7 +27,7 @@ After nearly four decades working in the IT industry, mainly in software testing
 Stories about experiences with test tools: In the initial stage of the research I went out to industry with a simple question “tell me a story about your experiences with test tools” via interviews, surveys and workshops, and was startled by the results. These were:
 1.	Testers’ lived experience is adversely affected by poor tools (Papers: “[Stuck in Limbo with Magical Solutions](https://www.scitepress.org/Link.aspx?doi=10.5220/0009091801950202)” and “[Scared, Frustrated and Quietly Proud](https://dl.acm.org/doi/abs/10.1145/3452853.3452872)”).
 2.	Usability was the major concern about the tools, followed by organizational impacts on tool use. All the other quality attributes of the tool made up about one third of the total concerns.
-3.	Attempts to improve usability of tools had sometimes made the overall experience of the tool worse (Paper: “[Test Tools: The Illusion of Usability](https://ieeexplore.ieee.org/abstract/document/9155938)”):
+3.	Attempts to improve usability of tools had sometimes made the overall experience of the tool worse (Paper: “[Test Tools: An Illusion of Usability?](https://ieeexplore.ieee.org/abstract/document/9155938)”):
     -	Usability was not enough by itself – other quality attributes are sometimes forgotten;
     -	Usability was often treated superficially by making the interface attractive but not improving workflows;
     -	Understanding of personas in testing was sometimes superficial – there was not an understanding of the range and type of people doing testing.
