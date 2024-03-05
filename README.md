@@ -1,7 +1,9 @@
 # Heuristics for Test Tool Design
 _Developed by: [Isabel Evans](mailto:isabel.evans.17@um.edu.mt) - University of Malta_
 
-These 12 heuristic questions are intended to provoke thought and ideas when designing or choosing a test tool. Elsewhere in this repository are explanations and action lists for each heuristic, plus background to the research. As I have data to add (and as I work out how to do things) I will update things... Meantime, keeping it simple.
+These 12 heuristic questions are intended to provoke thought and ideas when designing or choosing a test tool. Elsewhere in this repository are explanations and action lists for each heuristic, plus background to the research. 
+
+During evaluation of the heuristics, the repository will be frozen at the start of each case study/evaluation, and then changes made based on data from the evaluations, and from previous research to enrich the contents. Starting from a simple basis.
 
 ## Summary list of heuristic questions
 1. [Why do we need this tool?](H01-why-do-we-need-this-tool.md)
@@ -20,7 +22,7 @@ These 12 heuristic questions are intended to provoke thought and ideas when desi
 
 These questions deliberately have multiple interpretations and a myriad of answers. They are intended to help you to think widely and come up with ideas to consider, who to involve, questions to ask. There are no right answers – by asking the questions and following the corresponding activities, you will find interpretations and answers for your context.
 
-Each question will be linked to an explanation, with things to think about, research points and evidence from industry contributors, key questions to ask yourself, activities to help you answer the questions, plus pointers to quality attributes to consider in your specific context. Further levels of detail will be linked in - ongoing. [Information on how to use the heuristics to be added - placeholder](how-to-use-the-heuristics.md).
+Each question will be linked to an explanation, with things to think about, research points and evidence from industry contributors, key questions to ask yourself, activities to help you answer the questions, plus pointers to quality attributes to consider in your specific context. Further levels of detail will be linked in - ongoing. [Information on how to use the heuristics](how-to-use-the-heuristics.md).
 
 This flowchart shows how to find your way around this repository: 
 
