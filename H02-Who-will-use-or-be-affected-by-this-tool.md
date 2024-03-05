@@ -34,17 +34,10 @@ To understand who will use or be affected by the tool you need to understand who
 
 You will need to iterate between “Why?” and “Who?” as you identify stakeholders and their goals.
 
-Activities you might find useful to help you understand Who include:
+Activities you might find useful to help you understand *Who* include:
 -	[Stakeholder Mapping](Technique-Stakeholder-Mapping.md) which includes simple mapping onto a matrix, the onion model, value chain modelling and Wardley Mapping.
 
-Activities to help you understand and model the characteristics of those groups of people include [personas and archetypes](Technique-Personas-and-Archetypes.md). With a small number of users you may be able to interview them, and with a large population use sampling, or statistical methods, by using different persona analysis types :
--	Map personas around roles;
--	Map personas around preferences and perspectives; 
--	Map personas around communication and work styles;
--	Persona perspectives may cut across roles;
--	Personas may be more or less broad in scope;
--	You can build usage stories per persona, which can be simple stories or scenarios.
--	empathy maps
-
+When you have a small number of people to understand, you may be able to interview them. With a large population, you can use sampling, or statistical methods. You can model this with activities to help you understand and model the *characteristics* of those groups of people include mapping:
+- [personas and archetypes](Technique-Personas-and-Archetypes.md).
 
 Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the QiU/UX goals for the tool.
