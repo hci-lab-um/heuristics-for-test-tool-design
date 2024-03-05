@@ -12,7 +12,7 @@ There are several types of risk to consider, and varying attitudes to risk. The 
 Think about:
 -	Risks inherent to the domain within which the tool is to be used – for example safety critical, regulatory which may dictate tool design and implementation choices;
 -	Risks to be mitigated within the workflows and the tool;
--	Risks that stakeholders want to take, how to support best decision making to take opportunities safely enough TBD link back to stakeholders and make underlying notes about e.g. audit, compliance, marketing having different viewpoints on risk;
+-	Risks that stakeholders want to take, how to support best decision making to take opportunities safely; 
 -	Risks to the people whose work will be changed by the tool, including perceived or actual risk of redundancy, and opportunities for them;
 -	Risks increased because of flaws in the tool itself;
 -	Risks associated with the systems/products under test that the tool will be used with - does the tool itself need to meet requirements because of the domain it will be used in?
@@ -28,25 +28,19 @@ Key questions to ask yourself:
 - Have you considered blockers in the workflows and how the tool will remove them?
 - Have you considered how to prevent the tool adding blockers to the workflow?
 - Have you considered risks associated with where in the technology stack the tool will be used, and risks associated with transferring information across the technolgy stack?
-- Have you considered risks associated with robustness of approaches and methods supported by the tool (depending on context risks may arise from either underdone or overdone levels of control - different risks that need to be balanced)?
-- If this tool design and build is a side project, think about risks associated with maintaining it over time as a side project TBD add link to more detail.
+- Have you considered risks associated with robustness of workflows, approaches and methods supported by the tool (depending on context risks may arise from either underdone or overdone levels of control - different risks that need to be balanced)?
+- If this tool design and build is a side project, think about risks associated with maintaining it over time as a side project.
 
 ## Activities, tools and techniques to help answer the questions
-To understand how to address risk appropriately in your design choices, you will need to understand the stakeholders’ attitudes to risks.
-Related to this is your stakeholders' attitude to adoption of technology. Are they early adopters who may be willing to put up with some rough edges in order to engage with new technology, or are they more mainstream and looking for a a safe, reliable option. See Innovation Diffusion, for example look at Moore's "Crossing the Chasm" to understand where your stakeholders sit in the technology adoption cycle (see [Crossing The Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm) TBD link to agility, maturity, and other process concepts
+To understand how to address risk appropriately in your design choices, you will need to understand the stakeholders’ attitudes to risks. Think about the stakeholders you identified in [H02](H02-Who-will-use-or-be-affected-by-this-tool.md) to consider audit, compliance, and marketing stakeholdershaving different viewpoints on risk, for example;
+Related to this is your stakeholders' attitude to adoption of technology. Are they early adopters who may be willing to put up with some rough edges in order to engage with new technology, or are they more mainstream and looking for a a safe, reliable option. See Innovation Diffusion, for example look at Moore's "Crossing the Chasm" to understand where your stakeholders sit in the technology adoption cycle (see [Crossing The Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm) This could be linked to organizational styles you'll look at in [H10](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md) and views on agility, maturity, and other process concepts.
 
 
 Activities:
 -	Risk identification and assessment with Stakeholders;
--	Domain identification;
--	Innovation disffusion modelling;
+-	Domain identification - will the proposed tool be used in any regulated or safety critical domains, and are there requirements from those domain's standards?;
+-	Use the innovation diffusion model to think about personas with different perceptions of the risk of change - this could be as simple as drawing Moore's curve and plotting your personas onto it;
 -	Identify what testing of the test tool is appropriate;
--	Use humanity-centered design processes.
-
-
+-	Use [humanity-centered design processes](https://www.interaction-design.org/literature/topics/humanity-centered-design) which includes environmental risk mitigation and the health and safety mitigation.
 
 Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the testers’ QiU/UX requirements within their context for the tool.
-
-
-NB: add point that the Environmental risk mitigation and the Health and Safety mitigation are both covered in humanity-centered design.
-Note from Reviewer: Do we distinguish the difference between the risks of the tools themselves and the risk of the workflows the tools are used in?
