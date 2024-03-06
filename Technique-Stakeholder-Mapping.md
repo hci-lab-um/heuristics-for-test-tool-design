@@ -33,16 +33,17 @@ Value Chain Mapping is a way of understanding the value *to* stakeholders *of* a
 
 ## Rationale
 ### Research evidence
-TBC
+We found evidence that stakeholders for tools, whether choosing or using a test tool, did not always feel "heard" and understood by the people supplying the tool. Stakeholder analysis enables you to understand who to communicate with, both to listen and to impart information. 
 
 ### When to use this technique
-TBC
+Always map your stakeholders in some way - in particular thinking about *"who haven't I considered?"*
+Start with the simplest methods (nearer the top of this page) and use the more detailed methods when you find the need for more information.
 
 ### Advantages
-TBC
+Makes sure your have considered different groups of stakeholders, and the level of influence they have on your design decisions.
 
 ### Disadvantages
-TBC
+Some of the methods are more difficult to apply, and may be more than is needed if your situation is not complicated.
 
 ## Where do I find more information?
 [Wikipedia Stakeholder Analysis]( https://en.wikipedia.org/wiki/Stakeholder_analysis) 
