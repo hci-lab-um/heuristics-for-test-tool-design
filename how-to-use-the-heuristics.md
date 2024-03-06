@@ -60,7 +60,7 @@ The sections below show some ways to use the heuristics:
 
 
 
-## Tool vendor (#tool-vendor)
+## Tool vendor
 TBC
 
 top level statement
