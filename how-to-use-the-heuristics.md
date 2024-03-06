@@ -7,7 +7,7 @@ The Generic Use section shows the flow between heuristics, and describes what yo
 
 This is followed by sections that suggest how to use the heuristics in several common situations:
 
-- if you are a [tool vendor designing or building a test tool](#tool-vendor);
+- if you are a [tool vendor designing or building a test tool](#Tool-vendor-designing-or-building-a-test-tool);
 - if you are designing or building an open-source test tool;
 - if you are designing a tool to be used by you or your team in-house;
 - if you are using the heuristics to help you choose or evaluate a test tool.
@@ -60,7 +60,7 @@ The sections below show some ways to use the heuristics:
 
 
 
-## Tool vendor
+## Tool vendor designing or building a test tool
 TBC
 
 top level statement
