@@ -16,6 +16,7 @@ Two techniques you could use are personas and archetypes.
 [Archetypes](https://radinadoneva.medium.com/behavioural-archetypes-instead-of-personas-c7ccc5b8b998) 
 
 [NNGroup have a really useful summary with links to many ways of building personas](https://www.nngroup.com/articles/personas-study-guide/)
+
 You can:
 -	Map personas around roles;
 -	Map personas around preferences and perspectives; 
