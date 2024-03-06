@@ -6,9 +6,10 @@ This section tells you about different ways to use the heuristics in different s
 The Generic Use section shows the flow between heuristics, and describes what you will find in each heuristic's description.
 
 This is followed by sections that suggest how to use the heuristics in several common situations:
-- if you are designing a tool to be used by you or your team in-house;
-- if you are a tool vendor designing or building a test tool;
+
+- if you are a [tool vendor designing or building a test tool](#tool-vendor);
 - if you are designing or building an open-source test tool;
+- if you are designing a tool to be used by you or your team in-house;
 - if you are using the heuristics to help you choose or evaluate a test tool.
 
 ## Generic use
@@ -57,22 +58,9 @@ The sections below show some ways to use the heuristics:
 - if you are designing or building an open-source test tool;
 - if you are using the heuristics to help you choose or evaluate a test tool.
 
-## I'm designing or building test tools to be used in-house for myself, my team or my organization
-TBC after case study
-You probably know *why* you want to build this tool, possibly with yourself in mind as the primary person using the tool, but have you thought carefully about *who else* might want to use it and why they might want to use it?
-It could be *anyone in the organization* which might be too hard to think about, so instead we use personas or archetypes to help us think about groups of people, and the different contexts in which they will use the tool.
 
-### ROI on process
-notes to complete:
-- if you are building the tool just for yourself just read the heuristics, think about "who else?" and then put them to one side. When you find other people are using the tool, and you are having to support them - then spend some time to address the heuristics. Do not lose the opportunity to build yourself a useful tool, but do be prepared to come back to this.
-- tool for your team - discuss the heuristic questions and use them to guide the design - time box
-- tool for multiple teams, across organization - need to spend time on the design, do the UX activities, 
 
-### Shortcuts and essentials
-
-include order to cover the questions
-
-## I'm a tool vendor designing or building a test tool
+## Tool vendor (#tool-vendor)
 TBC
 
 top level statement
@@ -92,6 +80,21 @@ ROI on process
 Shortcuts and essentials
 
 order to cover the questions
+
+## I'm designing or building test tools to be used in-house for myself, my team or my organization
+TBC after case study
+You probably know *why* you want to build this tool, possibly with yourself in mind as the primary person using the tool, but have you thought carefully about *who else* might want to use it and why they might want to use it?
+It could be *anyone in the organization* which might be too hard to think about, so instead we use personas or archetypes to help us think about groups of people, and the different contexts in which they will use the tool.
+
+### ROI on process
+notes to complete:
+- if you are building the tool just for yourself just read the heuristics, think about "who else?" and then put them to one side. When you find other people are using the tool, and you are having to support them - then spend some time to address the heuristics. Do not lose the opportunity to build yourself a useful tool, but do be prepared to come back to this.
+- tool for your team - discuss the heuristic questions and use them to guide the design - time box
+- tool for multiple teams, across organization - need to spend time on the design, do the UX activities, 
+
+### Shortcuts and essentials
+
+include order to cover the questions
 
 ## I'm evaluating or choosing a test tool to use myself or my team or organization
 TBC
