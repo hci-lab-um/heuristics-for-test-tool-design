@@ -4,9 +4,7 @@
 [◄ Go back to README](README.md)
 
 ## Description
-TBC: study people working in context to understand what they do and why.
-
-till complete - links to websites:
+Contextual Inquiry is the study of people working in context to understand what they do and why.
 
 [Wikipedia Contextual Inquiry page](https://en.wikipedia.org/wiki/Contextual_inquiry) 
 
