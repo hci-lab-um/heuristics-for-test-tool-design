@@ -14,9 +14,9 @@ Think about:
 - Level of authority managers and leaders have;
 - Support to solo, pair and group working;
 - How teams are organized;
-- Level of confidence that teams have in their process. This might include maturity, assurance, experience leading to pattern observation, support to grow that experiences/skills.
+- Level of confidence that teams have in their process. This might include maturity, assurance, experience level, support to grow that experiences/skills.
 
-Research Point: we found that some testers had autonomy to choose their approaches and tools to fit within the wider business workflows, while for other testers the workflow involvement, approaches and tools were mandated by the organization. We found that some testers were frustrated by tools that prevented pair or team working. 
+Research Point: we found that some testers had autonomy to choose their approaches and tools to fit within the wider business workflows, while for other testers the workflow involvement, approaches and tools were mandated by the organization. We found that some testers were frustrated by tools that prevented pair or team working. We found that use of pattern-matching and visualization increased with expertise.
 
 Key questions to ask yourself:
 - Are people working solo, paired and/or in groups?
@@ -35,7 +35,8 @@ Relate this back to [H09](H09-What-risks-are-associated-with-those-workflows.md)
 To understand what styles of working the tool must support, you will need to how the cultural context of the organization affects how people are enabled or blocked from taking different approaches.
 
 Activities:
-- TBD (I have some materials I developed on team shape – to be uploaded in a usable format – activities to identify team shapes that occur in different levels of manager authority and team autonomy)
-- TBD – activities to understand where the workflow intersects activities that require testing tasks, and potentially are supported by tools
+- A [map of team autonomy versus organizational authority](https://leadership.org.au/) gives two dimensions to understand work styles that may be needed. For example, if teams are working collaboratively, then a tool would need to support multiple people beign assigned to a task.
+- Adding a third dimension to the map from [H09 - domain and workflow risk](H09-What-risks-are-associated-with-those-workflows.md) - could provide a rationale for how rigidly enforced or tailorable the workflows are.
+- 
 
 Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the testers’ QiU/UX requirements within their context for the tool.
