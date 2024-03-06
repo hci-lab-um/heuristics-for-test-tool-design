@@ -40,7 +40,7 @@ Always map your stakeholders in some way - in particular thinking about *"who ha
 Start with the simplest methods (nearer the top of this page) and use the more detailed methods when you find the need for more information.
 
 ### Advantages
-Makes sure your have considered different groups of stakeholders, and the level of influence they have on your design decisions.
+Makes sure you have considered different groups of stakeholders, and the level of influence they have on your design decisions.
 
 ### Disadvantages
 Some of the methods are more difficult to apply, and may be more than is needed if your situation is not complicated.
