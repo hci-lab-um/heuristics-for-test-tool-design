@@ -28,7 +28,7 @@ It can be done as a discussion workshop where different stakeholders can share t
 ## Rationale
 
 ### Research evidence
-add link to reseach evidence tbd 
+We found that testers did not always have the same view of strengths and weaknesses as their organizations, so a SWOT exercise to show different stakeholder views of the SWOT could enable communication about what goals are achievable and useful. 
 
 ### When to use this technique
 -	To get a quick understanding of areas to improve and protect;
