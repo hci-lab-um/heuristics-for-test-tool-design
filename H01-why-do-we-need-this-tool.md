@@ -35,11 +35,11 @@ Key questions to ask yourself:
 
 To understand why you are building the tool, you need to consider goals for different stakeholders – including yourself.
 
-You will need to iterate between “Why?” and “Who?” as you identify stakeholders and their goals.
+You will need to iterate between *“Why?”* and *“Who?”* as you identify stakeholders and their goals.
 
-Activities you might find useful to help you understand Why you need this tool  include:
+Activities you might find useful to help you understand *Why* you need this tool  include:
 -	[SWOT analysis](Technique-SWOT-Analysis.md)
--	[Gap analysis](Technique-Gap_Analysis.md)
--	[Contextual enquiry](Technique-Contextual-Inquiry.md)
+-	Gap Analysis helps understand what is missing and what's needed to get where we want to be: See [Wikipedia Gap Analysis page]( https://en.wikipedia.org/wiki/Gap_analysis) for an overview, and [Techtarget have a page on Gap Analysis](https://www.techtarget.com/searchcio/definition/gap-analysis)
+-	Contextual Inquiry is the study of people working in context to understand what they do and why. See [Wikipedia Contextual Inquiry page](https://en.wikipedia.org/wiki/Contextual_inquiry) for an overview, and [Think Design have a page on Contextual Inquiry](https://think.design/user-design-research/contextual-inquiry/)
 
 Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the QiU/UX goals for the tool.
