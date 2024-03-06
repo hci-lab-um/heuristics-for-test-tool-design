@@ -29,7 +29,7 @@ The test workflow and the development workflow will interact, but so might other
 Activities: Working with stakeholders and typical users for the tool
 - Make a workflow diagram as a flowchart or a [wireflow diagram](https://www.nngroup.com/articles/wireflows/)
 - As testing activities are complex and iterative, consider [designing for a complex workflow with interruptions](https://www.nngroup.com/articles/designing-for-waits-and-interruptions/)
-- [Journey Mapping](https://www.nngroup.com/articles/journey-mapping-101/) including [experience maps, customer journey maps and wmpathy maps](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
+- [Journey Mapping](https://www.nngroup.com/articles/journey-mapping-101/) including [experience maps, customer journey maps and empathy maps](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
 - [Service blueprint](https://www.nngroup.com/articles/service-blueprints-definition/) to get the interaction between the customer journey, the workflow and the technical flow
 - Ask ["How might we? questions"](https://www.nngroup.com/articles/how-might-we-questions/) to look for options.
 
