@@ -17,7 +17,7 @@ This is followed by sections that suggest how to use the heuristics in several c
 ### Flowchart through the Heuristics
 The heuristics group into three themes: Why? Why? and Context?
 
-NB: you might want to time box how long you spend on each theme, explore them, and then decide whether to allow more time to work more deeply on discovery activities.
+NB: you might want to time box how long you spend on each theme, explore them, and then decide whether to allow more time to work more deeply on discovery activities. One person who used the heuristics as a simple list for input to a workshop said *"They just help you talk about things."* You can keep it as simple as that!
 
 Generally, you would start with answering the question "Why do we need this tool?" then move on to consider the group of "Who?" questions, and finally look at the Context questions. However, information you find out from the "Who?" and "Context?" questions mean you may need to revisit "Why?", because different stakeholders you identify may have different goals in different contexts. You need to iterate between "Why?" and "Who?". The flowchart summarises this.
 ![Flowchart showing the "Why?" question is followed by the "Who?" questions and then the "Context?" questions, with loop-backs to the "Why?" question.][flow2](h-flow2.jpg)
