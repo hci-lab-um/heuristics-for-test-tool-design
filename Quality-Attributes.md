@@ -24,14 +24,20 @@ Table 1: Themes: Organisational, Technical, Usability
 | Technical Attributes        |	102 (91.8%)    |466 (34.4%)|
 | Quality in Use / Usability  |	109 (98.2%)    |511 (37.7%)|
 
+The research to find these figures included several rounds of data collection and analysis.
+![Flowchart showing the research activities to reach the figures in the tables. ][researchflow](r-flow.jpg)
+
+[researchflow]: r-flow.jpg
 
 ## Usability, Quality in Use and the User Experience
 
 Quality in Use and Usability had the most frequent mentions in our data. Understanding how the different attributes are building blocks to the overall user expereince (UX) helps us to design in a better UX. A good User Interface (UI) is supported by interaction design, and contirbutes to usability, which also includes designing for the users' efficiency, effectiveness, support to meet their goals in their context. Usability is one contributor to quality in use, wich also includes flexibility in use and freedom from risk. QUality in use is also suppported by all the technical attributes, such as maintainability, erformance, security. QUality in use conributes to UX, wher also design should address trust, credibility, flow through tasks and the usefuless of the prodcut. All of this, influenced by past experiences, mantal models and personal circumstances leads to the lived experience, and gives rise to emotions. 
 
-![Flowchart showing the relationship between UI design, usability, quality in use, UX and the lived experience. ][researchflow](r-flow.jpg)
+![Flowchart showing the relationship between UI design, usability, quality in use, UX and the lived experience. ][ui-lxflow](UItoLX.jpg)
 
-[researchflow]: r-flow.jpg
+[ui-lxflow]: UItoLX.jpg
+
+
 
 The definitions from the Standard ISO 25010 Quality in Use are a useful starting point. I have used that rather than the newer standard because - at time of writing - you'll find material online and freely available that comments on and helps with this standard, whereas ISO 25019 is so new that there is not the coverage of it. Also I am not sure I find some of the new defintions in there easy to apply. In a real project you will probably want to consider a subset of these. If you want the formal definitions, look in the standard or on the [TMAP website](https://www.tmap.net/wiki/quality-characteristics).
 
