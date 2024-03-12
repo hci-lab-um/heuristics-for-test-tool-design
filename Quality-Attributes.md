@@ -1,11 +1,14 @@
 # Quality Attributes
 
 ## What are quality attributes?
-Quality attributes are properties of a product (generally a software system but it could be some other product or service) which affect how well the product performs.  
+Quality attributes are properties of a product which affect how well the product performs. Generally a software system but it could be some other product or service.  
 Some of these are Quality in Use Attributes: they refer to attributes that are a measure of how good the experience is of using the product. They include the effectiveness with which someone can carry out their task, their safety, the flexibility with which they can work. 
 Others are technical or product attributes which are built into the product and which the building blocks contributing to how the quality in use is achieved. They include functionality, usability, performance, security and many others.  
 
-NB: even as I write this, new standards are being developed, published, and discussed so there are several ways of dividing up the quality in use and product quality attributes. On this page, I am going to provide a simplified summary of some of the main quality attributes. You can of course go to the standard, which, or use the additional defintions some authors have added, or use an list by someone who disagrees with the standard - which was ISO 25010, now replaced - and redefined - in ISO 25019. References and links are at the end of this page.
+NB: even as I write this, new standards are being developed, published, and discussed so there are several ways of dividing up the quality in use and product quality attributes. 
+On this page, I am going to provide a simplified summary of some of the main quality attributes, plus notes from the research data. 
+You can of course go to buy the new standard, [ISO 25019](https://www.iso.org/standard/78177.html) which has different defintions.
+Or use this summary from TMAP of the previous version ISO 25010 with their additional defintions have added for AI and sustainability [Summary of ISO 20510 from TMAP with links to additional attributes](https://www.tmap.net/wiki/quality-characteristics). 
 
 ## Quality Attributes in the research data
 What makes a tool successful is definitely not just its functionality and technical attributes. Here’s some data from the research, also summarised in Table 1:
@@ -25,20 +28,19 @@ Table 1: Themes: Organisational, Technical, Usability
 The technical attributes were mentioned often in the context of a problem that adversely affecting the overall user experience. The breakdown of technical attribute mentions in the data is in table 2. You can see that the attributes are in order of frequency, and the percentage given of the total number of technical comments and the percentage of all comments. Notice how low in the list functionalty comes; people don't want more functionality, they want the overall experience to be better for the functionality supplied.
 
 Table 2: Technical Attributes Mentioned
-| Attribute       | Frequency   | Percentage of technical comments   | Percentage of all comments   |
-|:----------------|:-----------:|:----------------------------------:|:----------------------------:|
-|portability      |	138         | 29.6%                              |10.2%                         |
-|performance      |	102         | 21.9%                              |7.5%                          |   
-|maintainability	 | 68          | 14.6%                              |5.0%                          |
-|functionality	   | 57          | 12.2%                              |4.2%                          |
-|security	        | 46          | 9.9%                               |3.4%                          |
-|compatibility	   | 39          | 8.4%                               |2.9%                          |
-|reliability	     | 16          | 3.4%                               |1.2%                          |
+| Attribute       | Frequency   | Percentage of technical comments   | Percentage of all comments   | Notes | Formal Definition from TMAP based on ISO 25010|
+|:----------------|:-----------:|:----------------------------------:|:----------------------------:|:------|-----------------------------------------------|
+|portability      |	138         | 29.6%                              |10.2%                         | Portabiliity includes installability, adaptability and replaceability: installation and set up problems, and being able to change to a new tool - for example uninstalling without knock-on problems was mentioned by testers participating the surveys and workshops. | Portability – The degree of effectiveness and efficiency with which a system, product or component can be transferred from one hardware, software or other operational or usage environment to another. |
+|performance      |	102         | 21.9%                              |7.5%                          | Performance includes time behaviour, resource utilization and capacity |Performance efficiency – The performance relative to the amount of resources used under stated condition.|
+|maintainability  | 68          | 14.6%                              |5.0%                          |Maintainability includes modularity, reusability, analysability, modifiability.  |Maintainability – The degree of effectiveness and efficiency with which a product or system can be modified by the intended maintainers.|
+|functionality    | 57          | 12.2%                              | 4.2%                         | Functional completeness, Functional correctness, Functional appropriateness| - Functional suitability – The degree to which a product or system provides functions that meet stated and implied needs when used under specified conditions.|
+|security	      | 46          | 9.9%                               |3.4%                          | confidentiality, integrity, non-repudiation, accountability, authenticity|Security – The degree to which a product or system protects information and data so that persons or other products or systems have the degree of data access appropriate to their types and levels of authorization.|
+|compatibility	  | 39          | 8.4%                               |2.9%                          |co-existence, interoperability |Compatibility – The degree to which a product, system or component can exchange information with other products, systems or components, and/or perform its required functions, while sharing the same hardware or software environment.|
+|reliability	  | 16          | 3.4%                               |1.2%                          |maturity, availability, fault tolerance, recoverability|Reliability – The degree to which a system, product or component performs specified functions under specified conditions for a specified period of time.|
+  
+## Usability, Quality in Use and the User Experience
 
-
-## Quality in Use and the User Experience
-
-The definitions from the Standard ISO 25010 Quality in Use are a useful starting point. I have used that rather than the newer standard because - at time of writing - you'll find material online and freely available that comments on and helps with thsi standard, whereas ISO 25019 is so new that there is not the coverage of it. Also I am not sure I find some of the new defintions in there easy to apply. In a real preject you will probably want to consider a subset of these. If you want the formal definitions, look in the standard or on the [TMAP website](https://www.tmap.net/wiki/quality-characteristics).
+The definitions from the Standard ISO 25010 Quality in Use are a useful starting point. I have used that rather than the newer standard because - at time of writing - you'll find material online and freely available that comments on and helps with this standard, whereas ISO 25019 is so new that there is not the coverage of it. Also I am not sure I find some of the new defintions in there easy to apply. In a real project you will probably want to consider a subset of these. If you want the formal definitions, look in the standard or on the [TMAP website](https://www.tmap.net/wiki/quality-characteristics).
 
 TBD: this table needs mulitple lines for one topic but it looks like markdown won't allow that. COncerned that the table will not be easy to understand with a screen reader - check out accessibility and markdown tables. 
 |Attribute         | Subattributes                    | Comment |
@@ -56,56 +58,29 @@ TBD: this table needs mulitple lines for one topic but it looks like markdown wo
 |                  |Flexibility                       |  How much can someone adapt the software to be suitable for their own context and way of working? |
 
 
-## Product or Internal Quality Attributes
 
-TBD: for the moment just a list. next step is to edit this. Put in order from the research priority list above.
 
-- Functional suitability – The degree to which a product or system provides functions that meet stated and implied needs when used under specified conditions.
-    - Functional completeness
-    - Functional correctness
-    - Functional appropriateness
-- Performance efficiency – The performance relative to the amount of resources used under stated condition.
-    - Time behavior
-    - Resource utilization
-    - Capacity
-- Compatibility – The degree to which a product, system or component can exchange information with other products, systems or components, and/or perform its required functions, while sharing the same hardware or software environment.
-    - Co-existence
-    - Interoperability
-- Usability – The degree to which a product or system can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use.
-    - Appropriateness
-    - Recognizability
-    - Learnability
-    - Operability
-    - User error protection
-    - User interface aesthetics
-    - Accessibility
-- Reliability – The degree to which a system, product or component performs specified functions under specified conditions for a specified period of time.
-    - Maturity
-    - Availability
-    - Fault tolerance
-    - Recoverability
-- Security – The degree to which a product or system protects information and data so that persons or other products or systems have the degree of data access appropriate to their types and levels of authorization.
-    - Confidentiality
-    - Integrity
-    - Non-repudiation
-    - Accountability
-    - Authenticity
-- Maintainability – The degree of effectiveness and efficiency with which a product or system can be modified by the intended maintainers.
-    - Modularity
-    - Reusability
-    - Analysability
-    - Modifiability
-    - Testability
-- Portability – The degree of effectiveness and efficiency with which a system, product or component can be transferred from one hardware, software or other operational or usage environment to another.
-    - Adaptability
-    - Installability
-    - Replaceability
+| Attribute       | Frequency   | Percentage of QiU/Usability comments   | Percentage of all comments   | Notes | Formal Definition from TMAP based on ISO 25010|
+|:----------------|:-----------:|:--------------------------------------:|:----------------------------:|:------|-----------------------------------------------|
+|  Usability      |   511       |                                        | 37.7%                        |       |Usability is the degree to which a product or system can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use.                    |
+| Operability     | 250         | 44.4%                                  | 18.5%                         |
+| Learnability    | 125         | 22.2%                                  | 9.2%                          |
+| User goals      |  97         | 17.2%                                  | 7.2%                          |
+| User interface aesthetics |33 | 5.9%                                   | 2.4%                          | 
+| Context         | 34          | 6.0%                                   | 2.5%
+| Satisfaction    | 24          | 4.3%                                   | 1.8% 
+| Appropriateness ||||not mentioned||
+| Recognizability||||not mentioned||
+| User error protection||||not mentioned||
+| Accessibility||||not mentioned by survey or workshop participants, strongly discussed by expert reviewer. Legal and moral implications||
+  
+
  
 ## Standards and Reference Texts
 
-https://www.tmap.net/wiki/quality-characteristics
-https://iso25000.com/index.php/en/iso-25000-standards/iso-
-
+[Summary of ISO 20510 from TMAP with links to additional attributes](https://www.tmap.net/wiki/quality-characteristics)
+[Summary of the ISO/IEC 25000 series of standards](https://iso25000.com/index.php/en/iso-25000-standards)
+[ISO 25019 portal](https://www.iso.org/standard/78177.html)
 
 Evans, Isabel, Chris Porter, Mark Micallef, and Julian Harty. "Stuck in limbo with magical solutions: The testers’ lived experiences of tools and automation." In Proceedings of the 15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, vol. 2, pp. 195-202. SCITEPRESS-Science and Technology Publications, 2020.
 
