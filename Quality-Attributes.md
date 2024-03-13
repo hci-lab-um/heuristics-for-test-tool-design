@@ -15,14 +15,15 @@ What makes a tool successful is definitely not just its functionality and techni
 
 - 98% of the participants mentioned usability of the tools as a concern, issue or necessity with 511 mentions in all the data.
 - 90% of the participants mentioned management and organizational issues as a concern, issue, and support being necessary with 377 mentions in all the data.
-- all of the technical attributes of tools added together came to 466 mentons, by 91% of the particpants. That includes functionality.
+- all of the other technical attributes of tools added together came to 466 mentions, by 91% of the particpants. That includes functionality.
 
 Table 1: Themes: Organisational, Technical, Usability
 |Theme                        |	Participants   | Frequency |
 |:----------------------------|:--------------:|:---------:|
 | Organisational Management   |101 (90.9%)     |377 (27.8%)|
 | Technical Attributes        |	102 (91.8%)    |466 (34.4%)|
-| Quality in Use / Usability  |	109 (98.2%)    |511 (37.7%)|
+|  Usability                  |	109 (98.2%)    |511 (37.7%)|
+| Quality in Use / Usability  |                 | 563      |
 
 The research to find these figures included several rounds of data collection and analysis.
 ![Flowchart showing the research activities to reach the figures in the tables. ][researchflow](r-flow.jpg)
@@ -71,7 +72,7 @@ TBD: this table needs multiple lines for one topic but it looks like markdown wo
 | Appropriateness ||||not mentioned||
 | Recognizability||||not mentioned||
 | User error protection||||not mentioned||
-| Accessibility||||not mentioned by survey or workshop participants, strongly discussed by expert reviewer. Legal and moral implications||
+| Accessibility||||mentioned by 7 survey or workshop participants, strongly discussed by expert reviewer. Legal and moral implications||
   
 
  
