@@ -59,34 +59,56 @@ Usability is a key contributor to QiU, and is multi-faceted. Breaking down the c
 | Learnability    | Learnability is about how easy it to learn to use the tool, it is a pre-requisite for the tool being operable; if you cannot learn it, you cannot use it. About a quarter of usability comments were about the learnability of tools. Some workshop participants discussed a trade-off with some tools being harder to learn, but then more useful, and other tools being easy to learn, but then less powerful. Some management level participants talked about there being no time for training courses, and needing to acquire tools that needed minimal learning. We also found people had strong - and widely differing views - about the media, methods, and purposes of learning - these are reflected in the heuristics.|
 | User Goals      | The tool needs to support people to meet their goals. Just under a third of participants talked about how well - or otherwise - their tools supported them to meet their goals. |
 | User interface aesthetics | The aesthetics of the user interface less mentioned, and then mainly as a source of irritation if a tool ``looked good but didn't meet expecctations. The aesthetics is imporant to support the operability and accessiblity of the tool.|                         | 
-| Context         |  2.5%
-| Satisfaction    |  1.8% 
-| Accessibility   | 10 mentions, by 7 survey or workshop participants, strongly discussed by expert reviewer. Legal and moral implications|
-| Appropriateness | 1           |                                        
-| Recognizability | 1           |                                        
-| User error protection |not mentioned but some participants talked about their fears when using the tools - of looking foolish, of loosing data, |
+| Context         |  under 20% of participants TBD |
+| Satisfaction    |  just over 10% of participants TBD | 
+| Accessibility   | Accessibility was mentioned by a small number of partiicipants in terms of performing accessibility testsiing with specialist tools. However, a question not raised was the accessiblity of test tools themselves. This was strongly discussed by expert accessiblity reviewer. There are legal and moral implications about work places - including test teams - being open to a diverse group of people. |
+| Appropriateness | A very small number of particpants talked about tools not always being appropriate - for their planned purpose but in new context, for example. |                                        
+| Recognizability | A very small number of participants talked about tools not always being recognizable for what their purpose was - the naming of a tool or sometimes wher it was obtainable from sometimes masksed the availability of a useful tool. For example, useful tools in provate repositories.                                       
+| User error protection |Some participants talked about their fears when using the tools - of looking foolish, of loosing data, of making mistakes. Protechting users against making mistakes increases their Effectiveness.|
 
 
 
 ## Technical Quality Attributes
-The technical attributes were mentioned often in the context of a problem that adversely affecting the overall user experience. The breakdown of technical attribute mentions in the data is in table 2. You can see that the attributes are in order of frequency, and the percentage given of the total number of technical comments and the percentage of all comments. Notice how low in the list functionality comes; people don't want more functionality; they want the overall experience to be better for the functionality supplied.
+The technical attributes were mentioned often in the context of a problem that adversely affecting the overall user experience. The breakdown of technical attribute mentions in the data is in table 4. You can see that the attributes are in order of frequency, and the percentage given of the total number of technical comments and the percentage of all comments. Notice how low in the list functionality comes; people don't want more functionality; they want the overall experience to be better for the functionality supplied.
 
-Table 2: Technical Attributes Mentioned
-| Attribute       | Frequency   | Percentage of technical comments   | Percentage of all comments   | Notes | Formal Definition from TMAP based on ISO 25010|
-|:----------------|:-----------:|:----------------------------------:|:----------------------------:|:------|-----------------------------------------------|
-|portability      |	138         | 29.6%                              |10.2%                         | Portability includes installability, adaptability and replaceability: installation and set-up problems, and being able to change to a new tool - for example uninstalling without knock-on problems was mentioned by testers participating the surveys and workshops. | Portability – The degree of effectiveness and efficiency with which a system, product or component can be transferred from one hardware, software or other operational or usage environment to another. |
-|performance      |	102         | 21.9%                              |7.5%                          | Performance includes time behaviour, resource utilization and capacity |Performance efficiency – The performance relative to the amount of resources used under stated condition.|
-|maintainability  | 68          | 14.6%                              |5.0%                          |Maintainability includes modularity, reusability, analysability, modifiability.  |Maintainability – The degree of effectiveness and efficiency with which a product or system can be modified by the intended maintainers.|
-|functionality    | 57          | 12.2%                              | 4.2%                         | Functional completeness, Functional correctness, Functional appropriateness| - Functional suitability – The degree to which a product or system provides functions that meet stated and implied needs when used under specified conditions.|
-|security	      | 46          | 9.9%                               |3.4%                          | confidentiality, integrity, non-repudiation, accountability, authenticity | Security – The degree to which a product or system protects information and data so that persons or other products or systems have the degree of data access appropriate to their types and levels of authorization.|
-|compatibility	  | 39          | 8.4%                               |2.9%                          |co-existence, interoperability |Compatibility – The degree to which a product, system or component can exchange information with other products, systems, or components, and/or perform its required functions, while sharing the same hardware or software environment.|
-|reliability	  | 16          | 3.4%                               |1.2%                          |maturity, availability, fault tolerance, recoverability | Reliability – The degree to which a system, product or component performs specified functions under specified conditions for a specified period of time.|
+**Table 4: Technical Attributes Mentioned**
+| Attribute       |  Notes | 
+|:----------------|:-------|
+|portability      |	Portability was the most frequently mentioned quality attribute apart from usability; just over a quarter of points made were about the installability, adaptability and  of tools. Installation and set-up problems, and being able to change to a new tool - for example uninstalling without knock-on problems was most mentioned by testers participating the surveys and workshops. |
+|performance      |	Just under 10% of comments were about perforamnce of the tool. Performance includes time behaviour, resource utilization and capacity. Resource utilization will be of interest for any stakeholders looking at econmic or environment risk.|
+|maintainability  | Maintainability includes modularity, reusability, analysability, modifiability.  For test tools the design needs to take in account supporting the maintainability of the tests and test artefacts, as well as consideration of the maintainability of the tool itself.|
+|functionality    | Functionality - including the completeness, correctness and appropriateness of the tool for its use - was lower on the list of pepeople's concerns than other attributes. Just under half of the participants mentioned it, but it wasn't what they talked about most.|
+| security	      | Nearly a quarter of the participants had comments about security, access rights and the ability to get to the tool to use it. Security breaches were not mentioned so much; this is all about the aspect of security that provide tool and data access appropriate to the testers' types and levels of authorization, rather than blocking them.|
+|compatibility	  | Around a quarter of participants reported concerns and requirements around co-existence and interoperability of the tool with other tools, and in multiple shared environments |
+|reliability	  | About 10% of participants had requirements and concerns around reliability of the tools. Reliability includes the tool's availability, fault tolerance, and recoverability, while the maturity of the tool's software contributes to its reliability.|
   
+## Building Quality Attribute Pyramids to get to the Desired UX
+
+Once you have a good understanding of *Who* is going to use the tool and *Why*, and their *Context*, you can start to prioritize the quality attributes and identify which technical attributes contribute to the QiU attrbutes.
+
+For example, if this tool is to be used in a safety critical domain, to manage and report on critical tests, and will be used by people with a range of experiences and skills, you might focus on:
+- health and safety as highest priority;
+- effectiveness so that people using the tool are able to see they have taken the action they intended;
+- built into enhanced operability but deliberately lowered flexibility of workflows;
+- learnability supported by a range of learning materials and a training course;
+- supported by high levels of reliability and security.
+
+For example, if this tool is to be used in an organization that values a fast time to market, uses agile processes with high team autonomy, you might focus on:
+- efficiency of the people using the tool to work at speed;
+- flexibility of the workflows to allow teams to tailor workflows to their own needs;
+- learnability supported by the tool interface and with a background of easy to access material;
+- supported by performance to aid speed;
+- supported by maintainability to support change.
+
+
+
 
 ## Standards and Reference Texts
 
 [Summary of ISO 20510 from TMAP with links to additional attributes](https://www.tmap.net/wiki/quality-characteristics)
+
 [Summary of the ISO/IEC 25000 series of standards](https://iso25000.com/index.php/en/iso-25000-standards)
+
 [ISO 25019 portal](https://www.iso.org/standard/78177.html)
 
 ## Our Academic Papers
@@ -98,7 +120,13 @@ Evans, Isabel, Chris Porter, and Mark Micallef. "Scared, frustrated and quietly 
 Evans, Isabel, Chris Porter, Mark Micallef, and Julian Harty. "Test Tools: an illusion of usability?" In 2020 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), pp. 392-397. IEEE, 2020.
 
 ## How did the research reveal these figures?
-The research to find these figures included several rounds of data collection and analysis.
+The research to find these figures included several rounds of data collection and analysis, shown in the flowchart below.
+Data was collected in interviews, workshops, and surveys with test practitioners. 
+The data was analysed using a variety of qualitative and quantitative methods, and re-analysed by a second pair of researchers to check the results matched.
+The analysis results were synthesised into a number of outputs, including this repository of heuristics. 
+The heuristics have been evaluated in reviews with test, UX and accessiblity experts.
+
+
 ![Flowchart showing the research activities to reach the figures in the tables. ][researchflow](r-flow.jpg)
 
 [researchflow]: r-flow.jpg
