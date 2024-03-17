@@ -7,6 +7,7 @@ Heuristic Question: Why do we need this tool?
 
 ## Explanation and subquestions
 
+**Why** is this heuristic interesting? We found nearly a third of comments made about challenges with implementing tools successfully were management and organizational in origin, and were often about conflicting goals across the organization. 
 You've embarked on designing, building, or choosing a new tool to help support testing.  
 Think about:
 
@@ -32,12 +33,11 @@ Key questions to ask yourself:
 - What happens if (part of) the tool is not used?
 
 ## Activities, tools and techniques to help answer the questions
+**How** will you go about answering heuristic question H01? To understand why you are building the tool, you need to consider goals for different stakeholders – including yourself.
 
-To understand why you are building the tool, you need to consider goals for different stakeholders – including yourself.
+You will need to iterate between H01 *“Why?”* and H02 *“Who?”* as you identify stakeholders and their goals.
 
-You will need to iterate between *“Why?”* and *“Who?”* as you identify stakeholders and their goals.
-
-Activities you might find useful to help you understand *Why* you need this tool  include:
+There are many activities you might find useful to help you understand *Why* you need this tool and here are some links to typical activities, which include:
 -	[SWOT analysis](Technique-SWOT-Analysis.md)
 -	Gap Analysis helps understand what is missing and what's needed to get where we want to be: See [Wikipedia Gap Analysis page]( https://en.wikipedia.org/wiki/Gap_analysis) for an overview, and [Techtarget have a page on Gap Analysis](https://www.techtarget.com/searchcio/definition/gap-analysis)
 -	Contextual Inquiry is the study of people working in context to understand what they do and why. See [Wikipedia Contextual Inquiry page](https://en.wikipedia.org/wiki/Contextual_inquiry) for an overview, and [Think Design have a page on Contextual Inquiry](https://think.design/user-design-research/contextual-inquiry/)
