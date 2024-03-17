@@ -39,9 +39,9 @@ What makes a tool successful is definitely not just its functionality and techni
 **Table 1: Themes: Organisational, Technical, Usability**
 |Theme                        |	Participants   | Frequency | Affects Heuristics |
 |:----------------------------|:--------------:|:---------:|:----------------------|
-| Organisational Management   |101 (90.9%)     |377 (27.8%)| [Why do we need this tool?](H01-why-do-we-need-this-tool.md) <br>[Where will the tool be used?](H07-Where-will-the-tool-be-used.md)|  <br> . [What work styles are acceptable in those workflows and teams?](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md) |
-| Technical Attributes        |102 (91.8%)     |466 (34.4%)| |
-| Quality in Use / Usability  |109 (98.2%)     |563 (41.6% | |
+| Organisational Management   |101 (90.9%)     |377 (27.8%)| [H01 Why do we need this tool?](H01-why-do-we-need-this-tool.md) <br>[H07 Where will the tool be used?](H07-Where-will-the-tool-be-used.md)|  <br> . [H10 What work styles are acceptable in those workflows and teams?](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md) |
+| Technical Attributes        |102 (91.8%)     |466 (34.4%)|All heuristics need to be considered to understand the overall experience of using the tool  |
+| Quality in Use / Usability  |109 (98.2%)     |563 (41.6% |All heuristics need to be considered to understand the overall experience of using the tool |
 
 ## Usability, Quality in Use, and the User Experience
 
