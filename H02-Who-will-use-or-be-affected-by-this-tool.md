@@ -1,4 +1,4 @@
-# H2 Who will use of be affected by the tool?
+# H2 Who will use or be affected by the tool?
 [◄ Go back](README.md)
 
 Theme: WHO?
@@ -7,7 +7,8 @@ Heuristic Question: Who will use or be affected by the tool?
 
 ## Explanation and subquestions
 
-As you identify Why the tool is needed, you might find that different stakeholders have different perceptions of why the tool is required and what it should do: you need to understand Who needs the tool.
+This heuristic is important because we found a broad and non-stereotypical group of people are testing, and therefore may be using the tool. You will also have stakeholders who may not use the tool, but may influence the goals for the tool. 
+As you identify *Why* the tool is needed, you might find that different stakeholders have different perceptions of why the tool is required and what it should do: you need to understand *Who* needs the tool.
 
 Think about:
 -	The people/team who have identified/named the problem may not be the person/team who has or needs to solve the problem. 
