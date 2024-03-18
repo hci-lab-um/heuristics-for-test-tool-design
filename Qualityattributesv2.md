@@ -2,6 +2,20 @@
 
 The purpose of this page is to help you prioritize which quality attributes are important for your tool, depending on your answers to the different heuristics. This is based on evidence in the from the research data. You can use the quotes and the data to help you build your requirements - in particular to personalize your context description and personas.
 
+Parts of this page:
+[List of Heuristics with Quality in Use and Product Attributes Associated](#List1)
+[What are Quality Attributes?]
+Quality Attributes in the Research Data
+Table 1: Quality in Use Attributes
+Table 2: Product QUality Attributes
+Building Quality Attribute Pyramids to get to the Desired UX
+Standards and Reference Texts
+Our Academic Papers
+Usability, Quality in Use, and the User Experience: how they relate together
+How did the research reveal these figures?
+
+<a name="List1"></a>
+## List of Heuristics and Related Attributes
 | Heuristic | [Quality in Use](#table1) | [Product Quality Attributes](#table2) |
 |-------------|-----------------------|----------------------------------------------------|
 |1. [Why do we need this tool?](H01-why-do-we-need-this-tool.md)| Freedom from Risk | User goals, Appropriateness|
