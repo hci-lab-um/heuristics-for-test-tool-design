@@ -7,7 +7,7 @@ Heuristic Question: Why do we need this tool?
 
 ## Explanation and subquestions
 
-**Why** is this heuristic interesting? We found nearly a third of comments made about challenges with implementing tools successfully were management and organizational in origin, and were often about conflicting goals across the organization. 
+**Why** is this heuristic useful? We found nearly a third of comments made about challenges with implementing tools successfully were management and organizational in origin, and were often about conflicting goals across the organization. 
 You've embarked on designing, building, or choosing a new tool to help support testing.  
 Think about:
 
