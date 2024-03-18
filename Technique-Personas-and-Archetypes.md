@@ -11,19 +11,12 @@ With a small number of users you may be able to interview them all.
 With a large population you need to use a method that helps you understand groups that represent your users. 
 Two techniques you could use are personas and archetypes. 
 
-[Personas](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)
-
-[Archetypes](https://radinadoneva.medium.com/behavioural-archetypes-instead-of-personas-c7ccc5b8b998) 
-
-[NNGroup have a really useful summary with links to many ways of building personas](https://www.nngroup.com/articles/personas-study-guide/)
-
 You can:
 -	Map personas around roles;
 -	Map personas around preferences and perspectives; 
 -	Map personas around communication and work styles;
     -	NB: Perspectives, preferences and styles may cut across roles rather than align with them;
--	[Personas may be more or less broad in scope](https://www.nngroup.com/articles/persona-scope/);
-- Use sampling, or statistical methods based on usage data if this is an existing tool with analystics collected.
+-	Use sampling, or statistical methods based on usage data if this is an existing tool with analystics collected.
 
 Heuristics [H03 to H12](README.md) help you add details to the characteristics of the personas, and understand their contexts.
 The [Quality Attributes](Qualityattributesv2) information will help you enrich the personas.
@@ -36,13 +29,13 @@ We found that people testing are a much wider and more heterogenous group than m
 
 To add to your personas, use these ideas as a "pick and mix" menu:
 - educational background: most of the people who took part had degree or postgraduate qualifications
-      - but 16% did not has a degree
-      - and although some of those with degrees had a software negineering qualification many did not - degrees included arts, humanities, sciences
-      - **Suggestion** include different educational backgrounds in your personas, and don't assume IT or software knowledge
+    - but 16% did not has a degree
+    - and although some of those with degrees had a software negineering qualification many did not - degrees included arts, humanities, sciences
+    - **Suggestion** include different educational backgrounds in your personas, and don't assume IT or software knowledge
 - work background: many of our participants had previously worked in non IT roles, sometimes in teh domain for the software under test, sometimes not
-      - **Suggestion** include different work expereinces in your personas
+    - **Suggestion** include different work expereinces in your personas
 - Training in testing: some testers had had no training at all, others had a range of training, inclduing self-taught, working with expert mentors, and training course
-      - **Suggestion**  
+    - **Suggestion**  
 
 
 ### When to use this technique
@@ -61,3 +54,5 @@ Takes time to do well.
 [Archetypes](https://radinadoneva.medium.com/behavioural-archetypes-instead-of-personas-c7ccc5b8b998) 
 
 [NNGroup have a really useful summary with links to many ways of building personas](https://www.nngroup.com/articles/personas-study-guide/)
+
+[Personas may be more or less broad in scope](https://www.nngroup.com/articles/persona-scope/)
