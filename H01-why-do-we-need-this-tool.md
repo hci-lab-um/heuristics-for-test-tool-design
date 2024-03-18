@@ -37,9 +37,9 @@ Key questions to ask yourself:
 
 You will need to iterate between H01 *“Why?”* and H02 *“Who?”* as you identify stakeholders and their goals.
 
+We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes.
+
 There are many activities you might find useful to help you understand *Why* you need this tool and here are some links to typical activities, which include:
 -	[SWOT analysis](Technique-SWOT-Analysis.md)
 -	Gap Analysis helps understand what is missing and what's needed to get where we want to be: See [Wikipedia Gap Analysis page]( https://en.wikipedia.org/wiki/Gap_analysis) for an overview, and [Techtarget have a page on Gap Analysis](https://www.techtarget.com/searchcio/definition/gap-analysis)
 -	Contextual Inquiry is the study of people working in context to understand what they do and why. See [Wikipedia Contextual Inquiry page](https://en.wikipedia.org/wiki/Contextual_inquiry) for an overview, and [Think Design have a page on Contextual Inquiry](https://think.design/user-design-research/contextual-inquiry/)
-
-Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the QiU/UX goals for the tool.
