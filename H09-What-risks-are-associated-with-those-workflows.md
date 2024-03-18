@@ -32,16 +32,19 @@ Key questions to ask yourself:
 - If this tool design and build is a side project, think about risks associated with maintaining it over time as a side project.
 
 ## Activities, tools and techniques to help answer the questions
-To understand how to address risk appropriately in your design choices, you will need to understand the stakeholders’ attitudes to risks. Think about the stakeholders you identified in [H02](H02-Who-will-use-or-be-affected-by-this-tool.md) to consider audit, compliance, and marketing stakeholdershaving different viewpoints on risk, for example;
-Related to this is your stakeholders' attitude to adoption of technology. Are they early adopters who may be willing to put up with some rough edges in order to engage with new technology, or are they more mainstream and looking for a a safe, reliable option. See Innovation Diffusion, for example look at Moore's "Crossing the Chasm" to understand where your stakeholders sit in the technology adoption cycle (see [Crossing The Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm) 
-Think about the language your personas use, with this [blogpost abut two vocabularies for two audiences from Seth Godin](http://sethgodin.typepad.com/seths_blog/2017/02/the-two-vocabularies-because-there-are-two-audiences.html)
+To understand how to address risk appropriately in your design choices, you will need to understand the stakeholders’ attitudes to risks. Think about the stakeholders you identified in [H02](H02-Who-will-use-or-be-affected-by-this-tool.md) to consider audit, compliance, and marketing stakeholdershaving different viewpoints on risk, for example.
+
+
+We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help wth understanding risk - there are a set of quality in use attributes about Freedom from Risk.**
+
+Related to risk is your stakeholders' attitude to adoption of technology. Are they early adopters who may be willing to put up with some rough edges in order to engage with new technology, or are they more mainstream and looking for a a safe, reliable option. 
 This could be linked to organizational styles you'll look at in [H10](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md) and views on agility, maturity, and other process concepts.
 
-Activities:
+Activities and links to external articles that may be useful:
 -	Risk identification and assessment with Stakeholders;
 -	Domain identification - will the proposed tool be used in any regulated or safety critical domains, and are there requirements from those domain's standards?;
 -	Use the innovation diffusion model to think about personas with different perceptions of the risk of change - this could be as simple as drawing Moore's curve and plotting your personas onto it;
 -	Identify what testing of the test tool is appropriate;
 -	Use [humanity-centered design processes](https://www.interaction-design.org/literature/topics/humanity-centered-design) which includes environmental risk mitigation and the health and safety mitigation.
-
-Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the testers’ QiU/UX requirements within their context for the tool.
+-   See Innovation Diffusion, for example look at Moore's "Crossing the Chasm" to understand where your stakeholders sit in the technology adoption cycle (see [Crossing The Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm) 
+-   Think about the language your personas use, with this [blogpost abut two vocabularies for two audiences from Seth Godin](http://sethgodin.typepad.com/seths_blog/2017/02/the-two-vocabularies-because-there-are-two-audiences.html)
