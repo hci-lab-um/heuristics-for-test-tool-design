@@ -28,11 +28,12 @@ Key questions to ask yourself:
 
 
 ## Activities, tools and techniques to help answer the questions
-To understand where the tool will be used, you need to understand both its technical environment and the physical location of the people who will use it. Understanding and designing to understand “Where” [is not a trivial challenge](https://www.nngroup.com/news/item/translastion-and-localization-world-tour-stockholm/). 
+To understand where the tool will be used, you need to understand both its technical environment and the physical location of the people who will use it. 
 
-Activities:
-- Revisit the "who" heuristic questions to see if your personas/archetypes need to be strengthened.
-- Design a way for people to find the tool and its supporting training materials.
+We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help wth context development. You may need to revisit your personas to strengthen them with localization points. Design a way for people to find the tool and its supporting training materials.**
+
+To help you here are some links to external articles that discuss some of the areas you might to consider adn some activities about the geographic, technical and physical location for the tool and its users that you may need to consider:
+- Understanding and designing to understand “Where” [is not a trivial challenge](https://www.nngroup.com/news/item/translastion-and-localization-world-tour-stockholm/). 
 - **Where: geography**
     - [Localization design](https://spotify.design/article/designing-for-the-world-an-introduction-to-localization)
     - Translation design
@@ -45,4 +46,3 @@ Activities:
 - **Where: physical environment**
     - Map the physical locations where the tool may be used (inside, outside, challenging locations, etc) to focus on how rugged the tool needs to be
 
-Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the testers’ QiU/UX requirements within their context for the tool.
