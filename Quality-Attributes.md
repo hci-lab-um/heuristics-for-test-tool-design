@@ -11,11 +11,11 @@ The purpose of this page is to help you prioritize which quality attributes are 
 |5. [What learning perspectives and goals do those people bring?](H05-What-learning-perspectives-and-goals-do-those-people-bring.md)|Learnability, User error protection |
 |6. [What learning preferences do those people have?](H06-What-learning-preferences-do-those-people-have.md)|Learnability, User error protection |
 |7. [Where will the tool be used?](H07-Where-will-the-tool-be-used.md)|Context coverage, Operability |
-|8. [What workflows will the tool be part of?](H08-What-workflows-will-the-tool-be-part-of.md)|Effectiveness,  Operability, User goals, Context coverage, Appropriateness |
-|9. [What risks are associated with those workflows?](H09-What-risks-are-associated-with-those-workflows.md)|Freedom from Risk, Operability, Context coverage, Appropriateness|
-|10. [What work styles are acceptable in those workflows and teams?](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md)| Operability, Context coverage, Satisfaction, Accessibility|
-|11. [When will the tool be used?](H11-When-will-the-tool-be-used.md)|Efficiency, Operability, Context coverage, Accessiblity, Appropriateness|
-|12. [How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)| Context coverage|
+|8. [What workflows will the tool be part of?](H08-What-workflows-will-the-tool-be-part-of.md)|Effectiveness,  Operability, User goals, Context coverage, Appropriateness, maintainability, functionality, security, compatibiity |
+|9. [What risks are associated with those workflows?](H09-What-risks-are-associated-with-those-workflows.md)|Freedom from Risk, Operability, Context coverage, Appropriateness, performance, maintainability, reliability|
+|10. [What work styles are acceptable in those workflows and teams?](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md)| Operability, Context coverage, Satisfaction, Accessibility, maintainability, security|
+|11. [When will the tool be used?](H11-When-will-the-tool-be-used.md)|Efficiency, Operability, Context coverage, Accessiblity, Appropriateness, performance, maintainability, compatibility, reliability|
+|12. [How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)| Context coverage, portability|
 
 ## What are quality attributes?
 Quality attributes are properties of a product which affect how well the product performs. Generally, a software system but it could be some other product or service.  
@@ -29,7 +29,7 @@ What makes a tool successful is definitely not just its functionality and techni
 to configure where this field would appear on the test case form for the project. Then somewhere else again in the admin UI, I had to define the set of possible values for the dropdown fields I’d added. [. . . ] infuriating (and requires a re-learn [of] this ridiculousness every few months when I get such admin requests).”*
 - 90% of the participants mentioned management and organizational issues as a concern, issue, and support being necessary: *“frustrated (by) lack of internal support [. . . ] even after discussions with the
 `sponsor”’*
-- 91% of the participants mentioned other attributes including functionality.
+- 91% of the participants mentioned other attributes including functionality *“every time I have to deal with a new tool, it’s the matter of installation that is the most difficult.''*
 
 **Table 1: Themes: Organisational, Technical, Usability**
 |Theme                        |	Participants   | Frequency | Affects Heuristics |
@@ -74,11 +74,11 @@ The technical attributes were mentioned often in the context of a problem that a
 **Table 4: Technical Attributes Mentioned**
 | Attribute       |  Notes | Heuristics affected |
 |:----------------|:-------|:-------|
-|portability      |	Portability was the most frequently mentioned quality attribute apart from usability; just over a quarter of points made were about the installability, adaptability and  of tools. Installation, set-up problems, unistallng, and being able to change to a new tool were most mentioned by testers participating the surveys and workshops. “Getting the hang of it [. . . ]  processes [. . . ] found it was no longer supported . . . Aargh!” “every time I have to deal with a new tool, it’s the matter of installation that is the most difficult. For some reason, everybody who develops tools prepare YouTube video[s] about how to use the tool but not how to install it.”| H12 |
+|portability      |	Portability was the most frequently mentioned quality attribute apart from usability; just over a quarter of points made were about the installability, adaptability and  of tools. Installation, set-up problems, unistallng, and being able to change to a new tool were most mentioned by testers participating the surveys and workshops. *“Getting the hang of it [. . . ]  processes [. . . ] found it was no longer supported . . . Aargh!”* *``For some reason, everybody who develops tools prepare YouTube video[s] about how to use the tool but not how to install it.”*| H12 |
 |performance      |	Just under 10% of comments were about performance of the tool. Performance includes time behaviour, resource utilization and capacity. Resource utilization will be of interest for any stakeholders looking at economic or environment risk.|H09, H11 |
 |maintainability  | Maintainability includes modularity, reusability, analysability, modifiability.  For test tools the design needs to take in account supporting the maintainability of the tests and test artefacts, as well as consideration of the maintainability of the tool itself. *“running the tests is quite easy . . . The difficult part is maintaining the tests when it grows massively.”*| H11, H10, H08, H09|
 |functionality    | Functionality - including the completeness, correctness, and appropriateness of the tool for its use - was lower on the list of people’s concerns than other attributes. Just under half of the participants mentioned it, but it wasn't what they talked about most.| H08|
-| security	      | Nearly a quarter of the participants had comments about security, access rights and the ability to get to the tool to use it. Security breaches were not mentioned so much; this is all about the aspect of security that provide tool and data access appropriate to the testers' types and levels of authorization, rather than blocking them.| H08, H08, H10|
+| security	      | Nearly a quarter of the participants had comments about security, access rights and the ability to get to the tool to use it. Security breaches were not mentioned so much; this is all about the aspect of security that provide tool and data access appropriate to the testers' types and levels of authorization, rather than blocking them.| H08, H10|
 |compatibility	  | Around a quarter of participants reported concerns and requirements around co-existence and interoperability of the tool with other tools, and in multiple shared environments | H08, H11|
 |reliability	  | About 10% of participants had requirements and concerns around reliability of the tools. Reliability includes the tool's availability, fault tolerance, and recoverability, while the maturity of the tool's software contributes to its reliability.|H09, H11|
   
@@ -114,7 +114,7 @@ For example, if this tool is to be used in an organization that values a fast ti
 NB: even as I write this, new standards are being developed, published, and discussed meaning there are several ways of dividing up the quality in use and product quality attributes. 
 On this page, I have provided a simplified summary of some of the main quality attributes, plus notes from the research data. 
 You can of course go to buy the new standard, [ISO 25019](https://www.iso.org/standard/78177.html) which has different definitions.
-Or use this summary from TMAP of the previous version ISO 25010 with their additional definitions have added for AI and sustainability [Summary of ISO 20510 from TMAP with links to additional attributes](https://www.tmap.net/wiki/quality-characteristics). 
+Or use this summary from TMAP of the previous version ISO 25010 with their additional definitions for AI and sustainability [Summary of ISO 20510 from TMAP with links to additional attributes](https://www.tmap.net/wiki/quality-characteristics). 
 
 ## Our Academic Papers
 
