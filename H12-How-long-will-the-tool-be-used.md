@@ -32,9 +32,10 @@ Key questions to ask yourself:
 To understand the ROI required from the tool you need to understand *how long* the tool will be used and supported, so you can design in appropropriate levels of maintainability.
 By understanding *how long* the tool needs to run, you will be able to design in appropriate levels of reliability.
 
-Activities:
+We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help wth understanding maintainability in two way - the maintainability of the tool itself, how long it will be supported, and the maintainability of tests, and how fast they will be changing.**
+
+Activities, with links to useful external information:
 - Make a business case for the tool, including a ROI calculation, for one example see the Test Automation Patterns wiki on [Test Automation Business Case](https://testautomationpatterns.org/wiki/index.php/TEST_AUTOMATION_BUSINESS_CASE).
 - Make a tool maintenance plan and build in maintainability.
 - Assess the reliability required from the tool.
 
-Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the testers’ QiU/UX requirements within their context for the tool.
