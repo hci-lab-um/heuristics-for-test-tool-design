@@ -32,8 +32,8 @@ To understand *Who learns how* you need to understand their different learning p
 
 Some people prefer solo and group/pair learning.  People will need theory, practice, exploring, and guided learning. People may have preferences or needs for different media.
 
-Activities: 
-- Use what you have discovered about [communication styles in H04](H04-What-comunication-needs or preferences-do-those-people-have.md) to inform both the media and the formats in which you supply learning materials.
-- Enrich your persona definition with [learning preferences](https://cultivatedmanagement.com/two-learning-styles/).
+We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help wth persona development.**
 
-Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the testers’ QiU/UX requirements for the tool.
+Other Activities: 
+- Use what you have discovered about [communication styles in H04](H04-What-comunication-needs or preferences-do-those-people-have.md) to inform both the media and the formats in which you supply learning materials.
+- If you have not worked with learning preferences, here is an article which may help you enrich your persona definition with [learning preferences](https://cultivatedmanagement.com/two-learning-styles/).
