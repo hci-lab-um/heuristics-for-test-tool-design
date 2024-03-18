@@ -31,8 +31,10 @@ Key questions to ask yourself:
 ## Activities, tools and techniques to help answer the questions
 To understand *When* the tool might be used, and other *time-related* factors, you can add time related information to the workflows you have already built in H08.
 
+We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These include time related attributes such as efficiency of the person doing the work, and time related performance of the software. Note that one of our participants - who is a screen reader user - also asked that for consideration of the additional time factors needed (a) if the tool does not behave well with a screen reader, and (b) when time boxes and constraints are put on staff to complete a task by the organization.**
+
+
 Other Activities:
 - Revisit the Journey Maps and other activities from [H08](H08-What-workflows-will-the-tool-be-part-of.md) to add time factors.
 - [PERT charting](https://www.smartdraw.com/pert-chart/examples/pert-chart-template/) can help us to understand workflow dependencies, whether activities can be done in parallel or must follow each other in series, where there is slack for  task to move, and where tasks are fixed on a critical path. NB: although this is a project management tool, used for planning, it is useful here as tool to understand how tasks are related to each other, and where they might be overlaps or waits between tasks. 
 
-Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the testers’ QiU/UX requirements within their context for the tool.
