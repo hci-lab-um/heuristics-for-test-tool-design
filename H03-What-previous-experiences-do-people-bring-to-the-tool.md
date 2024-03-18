@@ -6,7 +6,7 @@ Theme: WHO?
 Heuristic Question: What previous experiences do people bring to the tool?
 
 ## Explanation and subquestions
-As you identify *Who* you will need to drill down into their characteristics; thinking about previous experiences will help you focus on understanding expectations and skill levels.
+As you identify *Who* you will need to drill down into their characteristics; thinking about previous experiences will help you focus on understanding expectations and skill levels. We found that testers do not conform to IT worker stereotype in their experiences: we found boat builders, historians, philophers, artists, musicians, urban planners and many other backgrounds.
 
 Think about: 
 - Other people will have a different background or experiences to you, that may lead them to have a different understanding of how to carry out the work, the choices they want to make, and the support they require. 
@@ -14,7 +14,7 @@ Think about:
 - These experiences will affect their preconceptions of how to engage with the tool: what it does, and how they want to engage with it.
 
 Research Point: we found that people testing software came from a wide range of backgrounds, with widely differing experiences of domains, IT, testing and tools.
-It is difficult to design tools for a wide range of people, but it is possible to make a tool useable by as many groups of people as possible. Think about who else needs to use the tool.
+It is difficult to design tools for a wide range of people, but it is possible to make a tool useable by as many groups of people as possible. Think about *who else* needs to use the tool.
 
 Key questions to ask yourself:
 - How will you enable people to work effectively and efficiently who bring different backgrounds, skills and experiences to the tool? 
@@ -29,7 +29,9 @@ To understand Who you need to know not just the roles but also people’s charac
 
 You need to understand the pre-existing knowledge people bring to the tool so you provide an appropriate experience to them, for example by including both introductory steps for beginners and short cuts for more experienced people.
 
-Activities:
+Activities to help you do that include adding to the personas or archtypes you have already developed, such as different types of persona including learner personas.
+
+In case you are not familiar with those concepts, here are some useful links:
 -	Add to your Persona design, including [different types of persona](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them);
 -	Do a skills gap analysis thinking about your personas as [learner personas](https://corporate.britishcouncil.org/insights/evolving-role-learner-personas).
 
