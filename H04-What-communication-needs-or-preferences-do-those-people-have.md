@@ -52,9 +52,9 @@ You will need to either understand the specific communication preferences of you
 
 You also must consider accessibility needs and how those affect the choice of media, input and output options, etc.  You can use the accessibility analysis as a way to improve the communication through the tool for everyone. Accessibility needs may be permanent, situational or temporary. Accessibility needs may be based on sensory, physical, cognitive and emotional states.
 
+We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help wth persona development.**
+
 To help you with these activities here are links to some expternal sites with "how to" information: 
 - Look at the [DISC profile communication preferences](https://tonyrobbins.com/disc/) either to inform personas, or to carry out DISC profiling - not to run a profile on everyone, but to think about the different communication needs and preferences shown in that model;
 - Use the [Microsoft Inclusive Design Methodology](https://inclusive.microsoft.design/) to guide your design process by following their [Inclusive 101 guidebook](https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf);
 - A fun workshop developed by the [Accessible Reality](http://accessible-reality.org/) team supported by the University of Dundee is the “Pirates” workshop which helps you think about the different types of access needs that a person may have.
-
-Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the testers’ QiU/UX requirements for the tool.
