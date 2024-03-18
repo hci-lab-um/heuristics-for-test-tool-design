@@ -2,7 +2,7 @@
 
 The purpose of this page is to help you prioritize which quality attributes are important for your tool, depending on your answers to the different heuristics. This is based on evidence in the from the research data. You can use the quotes and the data to help you build your requirements - in particular to personalize your context description and personas.
 
-| Heuristic | [Quality in Use](#table1) | Product Quality Attributes |
+| Heuristic | [Quality in Use](#table1) | [Product Quality Attributes](#table2) |
 |-------------|-----------------------|----------------------------------------------------|
 |1. [Why do we need this tool?](H01-why-do-we-need-this-tool.md)| Freedom from Risk | User goals, Appropriateness|
 |2. [Who will use or be affected by the tool?](H02-Who-will-use-or-be-affected-by-this-tool.md)|Satisfaction|User goals, Appropriateness|
@@ -43,12 +43,12 @@ Usability is a key contributor to QiU, and is multi-faceted. Breaking down the c
 Other attributes appeared less often. That doesn't make them less important - it just means that for our particupants they are not currently their biggest concern.
 The other attributes were mentioned often in the context of a problem that adversely affecting the overall user experience. 
 
-In the table 3, the attributes are listed in order of frequency measured by how many people mentioned them, and how often.
+In the table 2, the attributes are listed in order of frequency measured by how many people mentioned them, and how often.
 
 Notice how low in the list functionality comes; people don't want more functionality; they want the overall experience to be better for the functionality supplied. 
 Similarly, user interface aesthetics were mainly mentioned as an irritation sometimes disguising what became a poor overall experience.
 
-**Table 3: Product Attributes that build to Quality in Use**
+<a name="table2"></a>**Table 2: Product Attributes that build to Quality in Use**
 | Attribute       |  Notes | Which heuristics are affected? |
 |:----------------|:------|--------------|
 |Usability: Operability     | Operability is about how well the tool supports people to move through their workflows in use, once then have learned how to use the tool. Around half of all usability comments were about operability, in particular about tools being superficially easy to learn, or having an attractive interface, but then not supporting long term use through the activities over time. That could be improved by thinking in particular about how maintainability of the tests and test artefacts is needed. Additionally, some participants reported that security blockers meant that the tool looked like it would be useful, but they had no access to it - security blocked operability: <br> *“Trying to identify who had access, and what access they had [. . . ] I know how to do it (have learned earlier) but I am still not sure which of the local groups give access to what...''* <br> Operability is important for the effectiveness and efficiency of how people work, and is strongly supported by the other quality attributes. Workflow design is key to supporting operability.|H07, H08, H09, H10, H11 |
