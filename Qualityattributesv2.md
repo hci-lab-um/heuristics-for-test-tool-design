@@ -2,7 +2,7 @@
 
 The purpose of this page is to help you prioritize which quality attributes are important for your tool, depending on your answers to the different heuristics. This is based on evidence in the from the research data. You can use the quotes and the data to help you build your requirements - in particular to personalize your context description and personas.
 
-| Heuristic | Quality in Use | Product Quality Attributes |
+| Heuristic | [Quality in Use](#table1) | Product Quality Attributes |
 |-------------|-----------------------|----------------------------------------------------|
 |1. [Why do we need this tool?](H01-why-do-we-need-this-tool.md)| Freedom from Risk | User goals, Appropriateness|
 |2. [Who will use or be affected by the tool?](H02-Who-will-use-or-be-affected-by-this-tool.md)|Satisfaction|User goals, Appropriateness|
@@ -30,7 +30,7 @@ What makes a tool successful is definitely not just its functionality. Here’s 
 
 Table 1 lists the QiU attributes with a comment for each on sub attributes and some questions to ask yourself when designing the tool.
 
-**Table 1: Quality in Use Attributes**
+<a name="table1"></a>**Table 1: Quality in Use Attributes**
 |Attribute         | Comment | Which heuristics are affected? |
 |:-----------------|:--------|-------------------------------------------|
 |Effectiveness     |When someone is carrying out a task, using the testing tool, how well does it support them to carry out the task confidently, so they know they have not made mistakes, and know they are achieving what they want to achieve, accurately and completely?| H03, H04, H05, H06, H08 |
