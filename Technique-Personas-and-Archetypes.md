@@ -21,8 +21,6 @@ You can:
 Heuristics [H03 to H12](README.md) help you add details to the characteristics of the personas, and understand their contexts.
 The [Quality Attributes](Qualityattributesv2) information will help you enrich the personas.
 
-Having got your personas or archtypes, you can build usage stories per persona, which can be [simple stories](https://www.interaction-design.org/literature/topics/user-stories) or [scenarios](https://www.interaction-design.org/literature/topics/user-scenarios) and you can build [empathy maps](https://xd.adobe.com/ideas/process/user-research/10-tips-develop-better-empathy-maps/).
-
 ## Rationale
 ### Research evidence
 We found that people testing are a much wider and more heterogenous group than meets stereotypes for IT workers. We found that tools often were designed for a more narrow and stereotypical group.
@@ -34,7 +32,7 @@ To add to your personas, use these ideas as a "pick and mix" menu:
     - **Suggestion** include different educational backgrounds in your personas, and don't assume IT or software knowledge
 - work background: many of our participants had previously worked in non IT roles, sometimes in teh domain for the software under test, sometimes not
     - **Suggestion** include different work expereinces in your personas
-- Training in testing: some testers had had no training at all, others had a range of training, inclduing self-taught, working with expert mentors, and training course
+- Training in testing: some testers had had no training at all, others had a range of training, including self-taught, working with expert mentors, and training course
     - **Suggestion**  
 
 
@@ -56,3 +54,5 @@ Takes time to do well.
 [NNGroup have a really useful summary with links to many ways of building personas](https://www.nngroup.com/articles/personas-study-guide/)
 
 [Personas may be more or less broad in scope](https://www.nngroup.com/articles/persona-scope/)
+
+Having got your personas or archtypes, you can build usage stories per persona, which can be [simple stories](https://www.interaction-design.org/literature/topics/user-stories) or [scenarios](https://www.interaction-design.org/literature/topics/user-scenarios) and you can build [empathy maps](https://xd.adobe.com/ideas/process/user-research/10-tips-develop-better-empathy-maps/).
