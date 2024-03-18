@@ -26,11 +26,13 @@ To understand and describe a workflow, you need to know the activities to be don
 The test workflow and the development workflow will interact, but so might other organizational workflows. As part of those interactions, tools will need to interact.
 
 
-Activities: Working with stakeholders and typical users for the tool
+We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help wth context development. You may need to revisit your personas to think about which workflows they are involved in.**
+
+
+The activities to understand this heuristic mean working with stakeholders and typical users for the tool. Workflow mappingand journey mapping are typical activities. In case you are not familiar with them, there are some external articles linked to below:
 - Make a workflow diagram as a flowchart or a [wireflow diagram](https://www.nngroup.com/articles/wireflows/)
 - As testing activities are complex and iterative, consider [designing for a complex workflow with interruptions](https://www.nngroup.com/articles/designing-for-waits-and-interruptions/)
 - [Journey Mapping](https://www.nngroup.com/articles/journey-mapping-101/) including [experience maps, customer journey maps and empathy maps](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
 - [Service blueprint](https://www.nngroup.com/articles/service-blueprints-definition/) to get the interaction between the customer journey, the workflow and the technical flow
 - Ask ["How might we? questions"](https://www.nngroup.com/articles/how-might-we-questions/) to look for options.
 
-Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the testers’ QiU/UX requirements within their context for the tool.
