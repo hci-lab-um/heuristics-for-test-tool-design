@@ -29,14 +29,12 @@ Key questions to ask yourself:
    
 Relate this back to [H09](H09-What-risks-are-associated-with-those-workflows.md); the domain risks may dictate the workflow, approaches, tools, and the level of autonomy people have to choose and change their workflows. In work situations with a high level of autonomy to change approaches and tools, flexibility in the tool workflows will be important. In other work places, a low level of flexibility is appropriate.
 
+We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. 
 
 ## Activities, tools and techniques to help answer the questions
 
 To understand what styles of working the tool must support, you will need to how the cultural context of the organization affects how people are enabled or blocked from taking different approaches.
 
-Activities:
+There are various ways of mapping leadership, management and followship styles, for example:
 - A [map of team autonomy versus organizational authority](https://leadership.org.au/) gives two dimensions to understand work styles that may be needed. For example, if teams are working collaboratively, then a tool would need to support multiple people beign assigned to a task.
 - Adding a third dimension to the map from [H09 - domain and workflow risk](H09-What-risks-are-associated-with-those-workflows.md) - could provide a rationale for how rigidly enforced or tailorable the workflows are.
-- 
-
-Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the testers’ QiU/UX requirements within their context for the tool.
