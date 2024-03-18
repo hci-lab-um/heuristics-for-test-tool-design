@@ -25,7 +25,8 @@ You can:
 -	[Personas may be more or less broad in scope](https://www.nngroup.com/articles/persona-scope/);
 - Use sampling, or statistical methods based on usage data if this is an existing tool with analystics collected.
 
-Heuristics H03 to H12 help you add details to the characteristics of the personas, and understand their contexts.
+Heuristics [H03 to H12](README.md) help you add details to the characteristics of the personas, and understand their contexts.
+The [Quality Attributes](Qualityattributesv2) information will help you enrich the personas.
 
 Having got your personas or archtypes, you can build usage stories per persona, which can be [simple stories](https://www.interaction-design.org/literature/topics/user-stories) or [scenarios](https://www.interaction-design.org/literature/topics/user-scenarios) and you can build [empathy maps](https://xd.adobe.com/ideas/process/user-research/10-tips-develop-better-empathy-maps/).
 
@@ -33,11 +34,22 @@ Having got your personas or archtypes, you can build usage stories per persona, 
 ### Research evidence
 We found that people testing are a much wider and more heterogenous group than meets stereotypes for IT workers. We found that tools often were designed for a more narrow and stereotypical group.
 
+To add to your personas, use these ideas as a "pick and mix" menu:
+- educational background: most of the people who took part had degree or postgraduate qualifications
+      - but 16% did not has a degree
+      - and although some of those with degrees had a software negineering qualification many did not - degrees included arts, humanities, sciences
+      - **Suggestion** include different educational backgrounds in your personas, and don't assume IT or software knowledge
+- work background: many of our participants had previously worked in non IT roles, sometimes in teh domain for the software under test, sometimes not
+      - **Suggestion** include different work expereinces in your personas
+- Training in testing: some testers had had no training at all, others had a range of training, inclduing self-taught, working with expert mentors, and training course
+      - **Suggestion**  
+
+
 ### When to use this technique
 Unless you have a small number of specific people using the tool, it will **always** be useful to make groupings by persona or archetype to help you identify the range of preferences, perspectives, styles and characteristics that people using the tool may have.
 
 ### Advantages
-Gain a better understanding of people who will use the toool, while managing that in a small number of representative groups, rather than a myriad of individuals.
+Gain a better understanding of people who will use the tool, while managing that in a small number of representative groups, rather than a myriad of individuals.
 
 ### Disadvantages
 Takes time to do well.
