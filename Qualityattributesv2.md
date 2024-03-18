@@ -2,31 +2,30 @@
 
 The purpose of this page is to help you prioritize which quality attributes are important for your tool, depending on your answers to the different heuristics. This is based on evidence in the from the research data.
 
-| Heuristic | Quality Attributes Related to the Heuristics (from research data) |
-|-------------|-----------------------|
-|1. [Why do we need this tool?](H01-why-do-we-need-this-tool.md)| User goals, Appropriateness|
-|2. [Who will use or be affected by the tool?](H02-Who-will-use-or-be-affected-by-this-tool.md)|User goals, Satisfaction, Appropriateness|
-|3. [What previous experiences do people bring to the tool?](H03-What-previous-experiences-do-people-bring-to-the-tool.md)| Learnability, Satisfaction, Appropriateness, User error protecction|
-|4. [What communication needs or preferences do those people have?](H04-What-communication-needs-or-preferences-do-those-people-have.md)|Satisfaction, Learnability, Accessibility |
-|5. [What learning perspectives and goals do those people bring?](H05-What-learning-perspectives-and-goals-do-those-people-bring.md)|Learnability, User error protection |
-|6. [What learning preferences do those people have?](H06-What-learning-preferences-do-those-people-have.md)|Learnability, User error protection |
-|7. [Where will the tool be used?](H07-Where-will-the-tool-be-used.md)|Context coverage, Operability |
-|8. [What workflows will the tool be part of?](H08-What-workflows-will-the-tool-be-part-of.md)|Effectiveness,  Operability, User goals, Context coverage, Appropriateness, maintainability, functionality, security, compatibiity |
-|9. [What risks are associated with those workflows?](H09-What-risks-are-associated-with-those-workflows.md)|Freedom from Risk, Operability, Context coverage, Appropriateness, performance, maintainability, reliability|
-|10. [What work styles are acceptable in those workflows and teams?](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md)| Operability, Context coverage, Satisfaction, Accessibility, maintainability, security|
-|11. [When will the tool be used?](H11-When-will-the-tool-be-used.md)|Efficiency, Operability, Context coverage, Accessiblity, Appropriateness, performance, maintainability, compatibility, reliability|
-|12. [How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)| Context coverage, portability|
+| Heuristic | Quality in Use | Product Quality Attributes |
+|-------------|-----------------------|----------------------------------------------------|
+|1. [Why do we need this tool?](H01-why-do-we-need-this-tool.md)| Freedom from Risk|User goals, Appropriateness|
+|2. [Who will use or be affected by the tool?](H02-Who-will-use-or-be-affected-by-this-tool.md)|Satisfaction|User goals, Appropriateness|
+|3. [What previous experiences do people bring to the tool?](H03-What-previous-experiences-do-people-bring-to-the-tool.md)|Effectiveness, Satisfaction| Learnability, Appropriateness, User error protection|
+|4. [What communication needs or preferences do those people have?](H04-What-communication-needs-or-preferences-do-those-people-have.md)|Effectiveness, Satisfaction, Flexibility|Learnability, Accessibility |
+|5. [What learning perspectives and goals do those people bring?](H05-What-learning-perspectives-and-goals-do-those-people-bring.md)|Effectiveness, Flexibility|Learnability, User error protection |
+|6. [What learning preferences do those people have?](H06-What-learning-preferences-do-those-people-have.md)|Effectiveness, Flexibility|Learnability, User error protection |
+|7. [Where will the tool be used?](H07-Where-will-the-tool-be-used.md)|Context coverage| Operability |
+|8. [What workflows will the tool be part of?](H08-What-workflows-will-the-tool-be-part-of.md)|Effectiveness, Context coverage|  Operability, User goals, , Appropriateness, Maintainability, Functionality, Security, Compatibiity |
+|9. [What risks are associated with those workflows?](H09-What-risks-are-associated-with-those-workflows.md)|Freedom from Risk,  Context coverage| Operability, Appropriateness, Performance, Maintainability, Reliability|
+|10. [What work styles are acceptable in those workflows and teams?](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md)|Context coverage, Satisfaction, Flexibility |Operability,  Accessibility, Maintainability, Security|
+|11. [When will the tool be used?](H11-When-will-the-tool-be-used.md)|Efficiency, Context coverage | Operability, Accessiblity, Appropriateness, Performance, Maintainability, Compatibility, Reliability|
+|12. [How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)| Context coverage | Portability|
 
 ## What are quality attributes?
 Quality attributes are properties of a product which affect how well the product performs. Generally, a software system but it could be some other product or service.  
-Some of these are Quality in Use Attributes: they refer to attributes that are a measure of how good the experience is of using the product. They include the effectiveness with which someone can carry out their task, their safety, the flexibility with which they can work. 
+Some of these are Quality in Use Attributes: they refer to attributes that are a measure of how good the experience is of using the product. They include the effectiveness and efficiency with which someone can carry out their task, their safety, and the flexibility with which they can work. 
 Others are technical or product attributes which are built into the product and which the building blocks contributing to how the quality in use is achieved. They include functionality, usability, performance, security, and many others.  
 
 ## Quality Attributes in the research data
-What makes a tool successful is definitely not just its functionality and technical attributes. Here’s some data from the research, also summarised in Table 1:
+What makes a tool successful is definitely not just its functionality. Here’s some data from the research, also summarised in Table 1:
 
-- 98% of the participants mentioned usability and quality in use of the tools as a concern, issue, or necessity. Over 40% of the comments were about usability. *``I first had to define the fields (name, data type, etc.) Then somewhere else in the admin UI, I had
-to configure where this field would appear on the test case form for the project. Then somewhere else again in the admin UI, I had to define the set of possible values for the dropdown fields I’d added. [. . . ] infuriating (and requires a re-learn [of] this ridiculousness every few months when I get such admin requests).”*
+- 98% of the participants mentioned usability and quality in use of the tools as a concern, issue, or necessity. Over 40% of the comments were about usability. *``I first had to define the fields (name, data type, etc.) Then somewhere else in the admin UI, I had to configure where this field would appear on the test case form for the project. Then somewhere else again in the admin UI, I had to define the set of possible values for the dropdown fields I’d added. [. . . ] infuriating (and requires a re-learn [of] this ridiculousness every few months when I get such admin requests).”*
 - 91% of the participants mentioned other attributes including functionality, making up 34% of the comments. *“every time I have to deal with a new tool, it’s the matter of installation that is the most difficult.''*
 
 Table 1 lists the QiU attributes with a comment for reach on sub attributes and some questions to ask yourself when designing the tool.
