@@ -7,7 +7,7 @@ Heuristic Question: Who will use or be affected by the tool?
 
 ## Explanation and subquestions
 
-This heuristic is important because we found a broad and non-stereotypical group of people are testing, and therefore may be using the tool. You will also have stakeholders who may not use the tool, but may influence the goals for the tool. 
+This heuristic is useful because we found a broad and non-stereotypical group of people are testing, and therefore may be using the tool. You will also have stakeholders who may not use the tool, but may influence the goals for the tool. 
 As you identify *Why* the tool is needed, you might find that different stakeholders have different perceptions of why the tool is required and what it should do: you need to understand *Who* needs the tool.
 
 Think about:
@@ -35,10 +35,11 @@ To understand who will use or be affected by the tool you need to understand who
 
 You will need to iterate between “Why?” and “Who?” as you identify stakeholders and their goals.
 
+We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help wth persona development.**
+
 Activities you might find useful to help you understand *Who* include:
 -	[Stakeholder Mapping](Technique-Stakeholder-Mapping.md) which includes simple mapping onto a matrix, the onion model, value chain modelling and Wardley Mapping.
 
 When you have a small number of people to understand, you may be able to interview them. With a large population, you can use sampling, or statistical methods. You can model this with activities to help you understand and model the *characteristics* of those groups of people include mapping:
 - [personas and archetypes](Technique-Personas-and-Archetypes.md).
 
-Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the QiU/UX goals for the tool.
