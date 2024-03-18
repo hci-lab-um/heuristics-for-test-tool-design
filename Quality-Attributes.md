@@ -17,23 +17,17 @@ The purpose of this page is to help you prioritize which quality attributes are 
 |11. [When will the tool be used?](H11-When-will-the-tool-be-used.md)| |
 |12. [How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)| |
 
-
-
 ## What are quality attributes?
 Quality attributes are properties of a product which affect how well the product performs. Generally, a software system but it could be some other product or service.  
 Some of these are Quality in Use Attributes: they refer to attributes that are a measure of how good the experience is of using the product. They include the effectiveness with which someone can carry out their task, their safety, the flexibility with which they can work. 
 Others are technical or product attributes which are built into the product and which the building blocks contributing to how the quality in use is achieved. They include functionality, usability, performance, security, and many others.  
 
-NB: even as I write this, new standards are being developed, published, and discussed meaning there are several ways of dividing up the quality in use and product quality attributes. 
-On this page, I am going to provide a simplified summary of some of the main quality attributes, plus notes from the research data. 
-You can of course go to buy the new standard, [ISO 25019](https://www.iso.org/standard/78177.html) which has different definitions.
-Or use this summary from TMAP of the previous version ISO 25010 with their additional definitions have added for AI and sustainability [Summary of ISO 20510 from TMAP with links to additional attributes](https://www.tmap.net/wiki/quality-characteristics). 
-
 ## Quality Attributes in the research data
 What makes a tool successful is definitely not just its functionality and technical attributes. Here’s some data from the research, also summarised in Table 1:
 
 - 98% of the participants mentioned usability and quality in use of the tools as a concern, issue, or necessity.
-- 90% of the participants mentioned management and organizational issues as a concern, issue, and support being necessary.
+- 90% of the participants mentioned management and organizational issues as a concern, issue, and support being necessary: *“frustrated (by) lack of internal support [. . . ] even after discussions with the
+`sponsor”’*
 - 91% of the participants mentioned other attributes including functionality.
 
 **Table 1: Themes: Organisational, Technical, Usability**
@@ -43,30 +37,16 @@ What makes a tool successful is definitely not just its functionality and techni
 | Technical Attributes        |102 (91.8%)     |466 (34.4%)|All heuristics need to be considered to understand the overall experience of using the tool  |
 | Quality in Use / Usability  |109 (98.2%)     |563 (41.6% |All heuristics need to be considered to understand the overall experience of using the tool |
 
-## Usability, Quality in Use, and the User Experience
-
-Quality in Use (QiU) and Usability had the most frequent mentions in our data. 
-Understanding how the different attributes are building blocks to the overall user experience (UX) helps us to design in a better UX, shown in the flowchart below. 
-A good User Interface (UI) is supported by interaction design, and contributes to usability, which also includes designing for the users' efficiency, effectiveness, support to meet their goals in their context. 
-Usability is one contributor to quality in use, which also includes flexibility in use and freedom from risk. 
-QiU is also supported by all the technical attributes, such as maintainability, performance, security. 
-QiU contributes to UX, and design should address trust, credibility, flow through tasks and the usefulness of the product. 
-All of this, influenced by past experiences, mantal models and personal circumstances leads to the lived experience, and gives rise to emotions. 
-
-![Flowchart showing the relationship between UI design, usability, quality in use, UX and the lived experience. ][ui-lxflow](UItoLX.jpg)
-
-[ui-lxflow]: UItoLX.jpg
-
 Table 2 lists the QiU attributes with a comment for reach on sub attributes and some questions to ask yourself when designing the tool.
 
 **Table 2: Quality in Use Attributes**
 |Attribute         | Comment | Which heuristics are affected? |
 |:-----------------|:--------|-------------------------------------------|
-|Effectiveness     |When someone is carrying out a task, using the testing tool, how well does it support them to carry out the task confidently, so they know they have not made mistakes, and know they are achieving what they want to achieve, accurately and completely?| |
-|Efficiency        |When someone is carrying out a task, using the testing tool, how much effort does it take them to carry out the task?                  | |
-|Satisfaction      |Satisfaction is measured as a mix of a person's perception of the usefulness of the product, how much they trust it, the pleasure they get from using it, and the level of comfort they have. When you are designing the test tool, questions you might ask yourself include: <br> *When the person is using the software, how satisfied are they that the software contributes usefully to the task?* <br> *Do people trust the software to be producing accurate results?* <br>   *Does using the software give the person any pleasure?* <br>  *Is the person comfortable using the software?*   <br> Think about how you can provide testers with feedback within the tool that gives positive answers to these questions.  | |
-|Freedom from risk | The testers and other stakeholders for the tool will face risks - domain, project, product, from the choice of using or not using the tool. This includes economic, health and safety, and environmental risks. Ask yourself, <br> *Will any stakeholder be more protected or less protected from economic damage?* <br>  *Will any stakeholder be more protected or less protected from damage to their health, safety, life?* <br>  *Will the environment (society, natural world, resource usage, sustainability be more protected or less protected by the use of this tool?* <br> Think about how the tool design will help to mitigate risk.| |
-|Context coverage  |The tool will be used in a range of contexts - It may not be possible to understand all the contexts completely, your stakeholders may not remember to tell you about all the contexts, but we should make some attempt to understand the possibilities. We also need to understand what level of flexibility is needed in those contexts and for the people using the tool. Ask yourself: <br> *Given everything above, have we thought not just what was explicitly told us, but also asked "where else?" "when else?"* <br> *How much can someone adapt the software to be suitable for themselves?* <br> Think about accessibility needs, people adapting the tool to new contexts, people learning and gaining confidence to use the tool in different ways. Conversely you may want to reduce flexibility if the context has domain risks and restrictions. | |
+|Effectiveness     |When someone is carrying out a task, using the testing tool, how well does it support them to carry out the task confidently, so they know they have not made mistakes, and know they are achieving what they want to achieve, accurately and completely?| H08 |
+|Efficiency        |When someone is carrying out a task, using the testing tool, how much effort does it take them to carry out the task?                  | H11 |
+|Satisfaction      |Satisfaction is measured as a mix of a person's perception of the usefulness of the product, how much they trust it, the pleasure they get from using it, and the level of comfort they have. When you are designing the test tool, questions you might ask yourself include: <br> *When the person is using the software, how satisfied are they that the software contributes usefully to the task?* <br> *Do people trust the software to be producing accurate results?* <br>   *Does using the software give the person any pleasure?* <br>  *Is the person comfortable using the software?*   <br> Think about how you can provide testers with feedback within the tool that gives positive answers to these questions.  | H04 |
+|Freedom from risk | The testers and other stakeholders for the tool will face risks - domain, project, product, from the choice of using or not using the tool. This includes economic, health and safety, and environmental risks. Ask yourself, <br> *Will any stakeholder be more protected or less protected from economic damage?* <br>  *Will any stakeholder be more protected or less protected from damage to their health, safety, life?* <br>  *Will the environment (society, natural world, resource usage, sustainability be more protected or less protected by the use of this tool?* <br> Think about how the tool design will help to mitigate risk.|H09 |
+|Context coverage  |The tool will be used in a range of contexts - It may not be possible to understand all the contexts completely, your stakeholders may not remember to tell you about all the contexts, but we should make some attempt to understand the possibilities. We also need to understand what level of flexibility is needed in those contexts and for the people using the tool. Ask yourself: <br> *Given everything above, have we thought not just what was explicitly told us, but also asked "where else?" "when else?"* <br> *How much can someone adapt the software to be suitable for themselves?* <br> Think about accessibility needs, people adapting the tool to new contexts, people learning and gaining confidence to use the tool in different ways. Conversely you may want to reduce flexibility if the context has domain risks and restrictions. |H07 |
 
 Usability is a key contributor to QiU, and is multi-faceted. Breaking down the comments and concerns on usability we found that Operability is important to our participants, followed by learnability, being supported to meet their goals. Other attributes appeared less often. In the table below, you can see the usability sub attributes in order of their importance to our participants, together with a comment on design points:
 
@@ -74,16 +54,16 @@ Usability is a key contributor to QiU, and is multi-faceted. Breaking down the c
 | Attribute       |  Notes | Which heuristics are affected? |
 |:----------------|:------|--------------|
 |  Usability      | Over a third of all comments mention usability in a generic way. Usability contributes to the QiU attributes of effectiveness, efficiency, and satisfaction. To really understand it we need to break it down into its sub attributes, in the rest of the table below. | |
-| Operability     | Operability is about how well the tool supports people to move through their workflows in use, once then have learned how to use the tool. Around half of all usability comments were about operability, in particular about tools being superficially easy to learn, or having an attractive interface, but then not supporting long term use through the activities over time. That could be improved by thinking in particular about how maintainability of the tests and test artefacts is needed. Additionally, some participants reported that security blockers meant that the tool looked like it would be useful, but they had no access to it - security blocked operability. Operability is important for the effectiveness and efficiency of how people work, and is strongly supported by the other quality attributes. Workflow design is key to supporting operability.| |
-| Learnability    | Learnability is about how easy it to learn to use the tool, it is a pre-requisite for the tool being operable; if you cannot learn it, you cannot use it. About a quarter of usability comments were about the learnability of tools. Some workshop participants discussed a trade-off with some tools being harder to learn, but then more useful, and other tools being easy to learn, but then less powerful. Some management level participants talked about there being no time for training courses, and needing to acquire tools that needed minimal learning. We also found people had strong - and widely differing views - about the media, methods, and purposes of learning - these are reflected in the heuristics. | |
-| User Goals      | The tool needs to support people to meet their goals. Just under a third of participants talked about how well - or otherwise - their tools supported them to meet their goals. | |
+| Operability     | Operability is about how well the tool supports people to move through their workflows in use, once then have learned how to use the tool. Around half of all usability comments were about operability, in particular about tools being superficially easy to learn, or having an attractive interface, but then not supporting long term use through the activities over time. That could be improved by thinking in particular about how maintainability of the tests and test artefacts is needed. Additionally, some participants reported that security blockers meant that the tool looked like it would be useful, but they had no access to it - security blocked operability: : “Trying to identify who had access, and what access they had [. . . ] I know how to do it (have learned earlier) but I am still not sure which of the local groups give access to what...'' Operability is important for the effectiveness and efficiency of how people work, and is strongly supported by the other quality attributes. Workflow design is key to supporting operability.|H07, H08, H09, H10, H11 |
+| Learnability    | Learnability is about how easy it to learn to use the tool, it is a pre-requisite for the tool being operable; if you cannot learn it, you cannot use it. About a quarter of usability comments were about the learnability of tools. Some workshop participants discussed a trade-off with some tools being harder to learn, but then more useful, and other tools being easy to learn, but then less powerful. Some management level participants talked about there being no time for training courses, and needing to acquire tools that needed minimal learning. We also found people had strong - and widely differing views - about the media, methods, and purposes of learning - these are reflected in the heuristics. | H03, H05, H06, H04|
+| User Goals      | The tool needs to support people to meet their goals. Just under a third of participants talked about how well - or otherwise - their tools supported them to meet their goals. : “(the best solution I have found) is a combo of (Tool 1) and (Tool 2), but neither does exactly what I want. Very frustrating. [. . . ] I don’t want to load each page manually and record the results in a spreadsheet so I can show change over time.” |H01, H02, H08 |
 | User interface aesthetics | The aesthetics of the user interface less mentioned, and then mainly as a source of irritation if a tool ``looked good but didn't meet expectations. The aesthetics is important to support the operability and accessibility of the tool.|                         | 
-| Context         |  under 20% of participants TBD ||
-| Satisfaction    |  just over 10% of participants TBD | |
-| Accessibility   | Accessibility was mentioned by a small number of participants in terms of performing accessibility testing with specialist tools. However, a question not raised was the accessibility of test tools themselves. This was strongly discussed by expert accessibility reviewer. There are legal and moral implications about workplaces - including test teams - being open to a diverse group of people. | |
-| Appropriateness | A very small number of participants talked about tools not always being appropriate - for their planned purpose but in new context, for example. |                                        |
-| Recognizability | A very small number of participants talked about tools not always being recognizable for what their purpose was - the naming of a tool or sometimes where it was obtainable from sometimes masked the availability of a useful tool. For example, useful tools in private repositories.                                       | |
-| User error protection |Some participants talked about their fears when using the tools - of looking foolish, of losing data, of making mistakes. Protecting users against making mistakes increases their Effectiveness.| |
+| Context         |  under 20% of participants TBD | H08, H09, H10, H11, H12|
+| Satisfaction    |  just over 10% of participants TBD | H02, H03, H04, H10|
+| Accessibility   | Accessibility was mentioned by a small number of participants in terms of performing accessibility testing with specialist tools. However, a question not raised was the accessibility of test tools themselves. This was strongly discussed by expert accessibility reviewer. There are legal and moral implications about workplaces - including test teams - being open to a diverse group of people. One person referred to being `stuck in limbo' because they were unable to get access to the tool they were required to use, and in discussing these results with practitioners that problems has been recognized by others.| H04, H10, H11 |
+| Appropriateness | A very small number of participants talked about tools not always being appropriate - for their planned purpose but in new context, for example. Two correspondents used the word `magical' to describe management expectations of automation. |     H01, H02, H03, H08, H09                                   |
+| Recognizability | A very small number of participants talked about tools not always being recognizable for what their purpose was - the naming of a tool or sometimes where it was obtainable from sometimes masked the availability of a useful tool. For example, useful tools in private repositories.                                       | H03, H04, H06, H08, H11|
+| User error protection |Some participants talked about their fears when using the tools - of looking foolish, of losing data, of making mistakes. Protecting users against making mistakes increases their Effectiveness. “it is scary and I always get stuck. I am delaying the inevitable (frowny face).” | H03, H05, H06 |
 
 
 
@@ -93,7 +73,7 @@ The technical attributes were mentioned often in the context of a problem that a
 **Table 4: Technical Attributes Mentioned**
 | Attribute       |  Notes | Heuristics affected |
 |:----------------|:-------|:-------|
-|portability      |	Portability was the most frequently mentioned quality attribute apart from usability; just over a quarter of points made were about the installability, adaptability and  of tools. Installation and set-up problems, and being able to change to a new tool - for example uninstalling without knock-on problems was most mentioned by testers participating the surveys and workshops. | |
+|portability      |	Portability was the most frequently mentioned quality attribute apart from usability; just over a quarter of points made were about the installability, adaptability and  of tools. Installation, set-up problems, unistallng, and being able to change to a new tool were most mentioned by testers participating the surveys and workshops. “Getting the hang of it [. . . ]  processes [. . . ] found it was no longer supported . . . Aargh!”| H12 How long...? |
 |performance      |	Just under 10% of comments were about performance of the tool. Performance includes time behaviour, resource utilization and capacity. Resource utilization will be of interest for any stakeholders looking at economic or environment risk.| |
 |maintainability  | Maintainability includes modularity, reusability, analysability, modifiability.  For test tools the design needs to take in account supporting the maintainability of the tests and test artefacts, as well as consideration of the maintainability of the tool itself.| |
 |functionality    | Functionality - including the completeness, correctness, and appropriateness of the tool for its use - was lower on the list of people’s concerns than other attributes. Just under half of the participants mentioned it, but it wasn't what they talked about most.| |
@@ -130,6 +110,11 @@ For example, if this tool is to be used in an organization that values a fast ti
 
 [ISO 25019 portal](https://www.iso.org/standard/78177.html)
 
+NB: even as I write this, new standards are being developed, published, and discussed meaning there are several ways of dividing up the quality in use and product quality attributes. 
+On this page, I have provided a simplified summary of some of the main quality attributes, plus notes from the research data. 
+You can of course go to buy the new standard, [ISO 25019](https://www.iso.org/standard/78177.html) which has different definitions.
+Or use this summary from TMAP of the previous version ISO 25010 with their additional definitions have added for AI and sustainability [Summary of ISO 20510 from TMAP with links to additional attributes](https://www.tmap.net/wiki/quality-characteristics). 
+
 ## Our Academic Papers
 
 Evans, Isabel, Chris Porter, Mark Micallef, and Julian Harty. "Stuck in limbo with magical solutions: The testers’ lived experiences of tools and automation." In Proceedings of the 15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, vol. 2, pp. 195-202. SCITEPRESS-Science and Technology Publications, 2020.
@@ -144,6 +129,20 @@ Data was collected in interviews, workshops, and surveys with test practitioners
 The data was analysed using a variety of qualitative and quantitative methods, and re-analysed by a second pair of researchers to check the results matched.
 The analysis results were synthesised into a number of outputs, including this repository of heuristics. 
 The heuristics have been evaluated in reviews with test, UX and accessibility experts.
+
+## Usability, Quality in Use, and the User Experience: how they relate together
+
+Quality in Use (QiU) and Usability had the most frequent mentions in our data. 
+Understanding how the different attributes are building blocks to the overall user experience (UX) helps us to design in a better UX, shown in the flowchart below. 
+A good User Interface (UI) is supported by interaction design, and contributes to usability, which also includes designing for the users' efficiency, effectiveness, support to meet their goals in their context. 
+Usability is one contributor to quality in use, which also includes flexibility in use and freedom from risk. 
+QiU is also supported by all the technical attributes, such as maintainability, performance, security. 
+QiU contributes to UX, and design should address trust, credibility, flow through tasks and the usefulness of the product. 
+All of this, influenced by past experiences, mantal models and personal circumstances leads to the lived experience, and gives rise to emotions. 
+
+![Flowchart showing the relationship between UI design, usability, quality in use, UX and the lived experience. ][ui-lxflow](UItoLX.jpg)
+
+[ui-lxflow]: UItoLX.jpg
 
 
 ![Flowchart showing the research activities to reach the figures in the tables. ][researchflow](r-flow.jpg)
