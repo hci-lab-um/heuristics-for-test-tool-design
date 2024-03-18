@@ -31,8 +31,8 @@ To understand *Who learns how* you need to understand their different constraint
 
 Differentiate between people’s goals for mastery of a subject, which might include mastering the theory, with their need to solve a problem right now, which is likely to be task-based.
 
-Activities: 
-- Understanding your stakeholders’ expectations for the training budget (cost and time spent) will help you understand constraints. you could [revisit stakeholders’ goals in H01](H01-why-do-we-need-this-toll.md) to understand more.
-- Set [learning outcomes](https://www.ctl.ox.ac.uk/effective-learning-outcomes) for your training material that are clear and appropriate for different personas and add them to your personas.
+We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help wth persona development.**
 
-Tip: Look at the Quality in Use attributes before you prioritize the product attributes, to make sure you focus designing for the optimal product attributes to meet the testers’ QiU/UX requirements for the tool.
+Activities: 
+- Understanding your stakeholders’ expectations for the training budget (cost and time spent) will help you understand constraints. You could [revisit stakeholders’ goals in H01](H01-why-do-we-need-this-toll.md) to understand more.
+- If you are not familiar with setting learning outcomes try this set of [learning outcomes](https://www.ctl.ox.ac.uk/effective-learning-outcomes); for your training material be clear and appropriate for different personas.
