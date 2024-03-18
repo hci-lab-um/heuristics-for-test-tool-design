@@ -3,16 +3,16 @@
 The purpose of this page is to help you prioritize which quality attributes are important for your tool, depending on your answers to the different heuristics. This is based on evidence in the from the research data. You can use the quotes and the data to help you build your requirements - in particular to personalize your context description and personas.
 
 Parts of this page:
-[List of Heuristics with Quality in Use and Product Attributes Associated](#List1)
-[What are Quality Attributes?]
-Quality Attributes in the Research Data
-Table 1: Quality in Use Attributes
-Table 2: Product QUality Attributes
-Building Quality Attribute Pyramids to get to the Desired UX
-Standards and Reference Texts
-Our Academic Papers
-Usability, Quality in Use, and the User Experience: how they relate together
-How did the research reveal these figures?
+- [List of Heuristics with Quality in Use and Product Attributes Associated](#List1)
+- [What are Quality Attributes?](#WhatareQA1)   
+- [Quality Attributes in the Research Data](#QARD1)  
+- [Table 1: Quality in Use Attributes](#table1)   
+- [Table 2: Product QUality Attributes](#table2)   
+- [Building Quality Attribute Pyramids to get to the Desired UX](#pyramid1)  
+- [Standards and Reference Texts](#Std1)   
+- [Our Academic Papers](#paper1)   
+- [Usability, Quality in Use, and the User Experience: how they relate together](#UI-LX1)   
+- [How did the research reveal these figures?](#QARD2)  
 
 <a name="List1"></a>
 ## List of Heuristics and Related Attributes
@@ -31,11 +31,13 @@ How did the research reveal these figures?
 |11. [When will the tool be used?](H11-When-will-the-tool-be-used.md)|Efficiency, Context coverage | Operability, Accessibility, Appropriateness, Performance, Maintainability, Compatibility, Reliability, Recognizability|
 |12. [How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)| Context coverage | Portability|
 
+<a name="WhatareQA1"></a>
 ## What are Quality Attributes?
 Quality attributes are properties of a product which affect how well the product performs. Generally, a software system but it could be some other product or service.  
 Some of these are **Quality in Use** attributes: they refer to attributes that are a measure of how good the experience is when using the product. They include the effectiveness and efficiency with which someone can carry out their task, their safety, and the flexibility with which they can work. 
 Others are technical or **Product attributes** which are built into the product and which the building blocks contributing to how the quality in use is achieved. They include functionality, usability, performance, security, and many others.  
 
+ <a name="QARD1"></a>
 ## Quality Attributes in the Research Data
 What makes a tool successful is definitely not just its functionality. Here’s some data and quotes from the research:
 
@@ -81,7 +83,7 @@ Similarly, user interface aesthetics were mainly mentioned as an irritation some
 |Recognizability | A very small number of participants talked about tools not always being recognizable for what their purpose was - the naming of a tool or sometimes where it was obtainable from sometimes masked the availability of a useful tool. For example, useful tools in private repositories:  <br> *"[the tool] was in a private GitHub repository"*                                     | H03, H04, H06, H08, H11|
 |User error protection |Some participants talked about their fears when using the tools - of looking foolish, of losing data, of making mistakes. Protecting users against making mistakes increases their Effectiveness. <br> *“it is scary and I always get stuck. I am delaying the inevitable (frowny face).”* | H03, H05, H06 |
 
-
+ <a name="pyramid1"></a>
 ## Building Quality Attribute Pyramids to get to the Desired UX
 
 Once you have a good understanding of *Who* is going to use the tool and *Why*, and their *Context*, you can start to prioritize the quality attributes and identify which technical attributes contribute to the QiU attributes.
@@ -102,7 +104,7 @@ For example, if this tool is to be used in an organization that values a fast ti
 
 
 
-
+<a name="Std1"></a>
 ## Standards and Reference Texts
 
 [Summary of ISO 20510 from TMAP with links to additional attributes](https://www.tmap.net/wiki/quality-characteristics)
@@ -116,6 +118,7 @@ On this page, I have provided a simplified summary of some of the main quality a
 You can of course go to buy the new standard, [ISO 25019](https://www.iso.org/standard/78177.html) which has different definitions.
 Or use this summary from TMAP of the previous version ISO 25010 with their additional definitions for AI and sustainability [Summary of ISO 20510 from TMAP with links to additional attributes](https://www.tmap.net/wiki/quality-characteristics). 
 
+<a name="paper1"></a>
 ## Our Academic Papers
 
 Evans, Isabel, Chris Porter, Mark Micallef, and Julian Harty. "Stuck in limbo with magical solutions: The testers’ lived experiences of tools and automation." In Proceedings of the 15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, vol. 2, pp. 195-202. SCITEPRESS-Science and Technology Publications, 2020.
@@ -125,7 +128,7 @@ Evans, Isabel, Chris Porter, and Mark Micallef. "Scared, frustrated and quietly 
 Evans, Isabel, Chris Porter, Mark Micallef, and Julian Harty. "Test Tools: an illusion of usability?" In 2020 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), pp. 392-397. IEEE, 2020.
 
 
-
+<a name="UI-LX1"></a>
 ## Usability, Quality in Use, and the User Experience: how they relate together
 
 Quality in Use (QiU) and Usability had the most frequent mentions in our data. 
@@ -140,6 +143,7 @@ All of this, influenced by past experiences, mantal models and personal circumst
 
 [ui-lxflow]: UItoLX.jpg
 
+<a name="QARD2"></a>
 ## How did the research reveal these figures?
 The research to find these figures included several rounds of data collection and analysis, shown in the flowchart below.
 Data was collected in interviews, workshops, and surveys with test practitioners. 
