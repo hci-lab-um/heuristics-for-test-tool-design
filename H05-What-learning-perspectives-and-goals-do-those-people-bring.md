@@ -16,7 +16,19 @@ Think about:
 - how to (re)find information to help at the point of completing a task;
 - what types of training material are required and how you cover different personas and perspectives.
 
-Research Point: we found that managers we interviewed had the goal of people learning just enough and coming “up to speed” and complete specific tasks. We found that test practitioners ranged in goals from task-based fast learning to wishing to study to get mastery of a tool. Participant: “We live in a world where people have very little time to learn how to do things”
+Research Point: we found that managers we interviewed had the goal of people learning just enough and coming “up to speed” and complete specific tasks. We found that test practitioners ranged in goals from task-based fast learning to wishing to study to get mastery of a tool.
+
+*``We live in a world where people have very little time to learn how to do things''*
+
+*``they are expected to figure it out quick and do it''*
+
+*``pressure to keep going, learn what you need to know right now – prevents you from learning full capability, which could have helped you [strategically to improve long term]''*
+
+*``Does competition inhibit or encourage learning in this environment/context?  [commenting on competition as enabler and about taking the poison out of competition]''*
+
+*`` How do they judge when they can stop learning?''*
+
+*``Will there be any training time?''*
 
 Key questions to ask yourself:
 - are people more focused on the task in hand or moving to the big picture?
