@@ -19,7 +19,20 @@ Think about:
 Research Point: we found that people using test tools have a wide variety of communication styles and preferences. For example, 
 - people with more experience and expertise used visualisation, with visual representations of information and concepts than less experienced people (this fits with work done by other researchers on other IT roles).
 - people varied in whether they wanted details or summaries/overviews of data, and this did not fit to experience level.
-- people vaired in how much they wanted to work alone and how much with others. 
+- people varied in how much they wanted to work alone and how much with others.
+Look at the different communication styles coming out in answer to a question about what activities they do in their role:
+
+*``I am the listening ear for some people in the team. No role, not official. People need to talk to someone that is listening and if they want come with advice.  I make time for people.''*
+
+*``I pair and ensemble a lot. ... I build networks of communication, facilitate peer to peer learning by introducing people and hold spaces where people share their work. I do a lot of exploratory testing and automate while exploring. I manage expectations of management, and optimize schedules.''*
+
+*``Always communication. It is everywhere and above all. I am trying to organize everything, to keep track of everything (and getting pissed off silently (mostly) when important things are left somewhere in the air. Writing down ideas, good practices, even phrases.''*
+
+*``Actual testing and I really avoid all the commercial stuff, working on bids, trying to win contracts with big clients, that sort of rubbish. I attempt to focus on the professionals that we employ, the people.''*
+
+*``Manual testing, test automation, maintaining and improving CI, keeping pipelines green, creating of a testing framework, test case management.''*
+
+
 
 Key questions to ask yourself:
 - have you considered what type of communication people may require depending on their role, their place in the workflow, accessibility needs, persona preferences, level of detail needed, types of decision they are making?
