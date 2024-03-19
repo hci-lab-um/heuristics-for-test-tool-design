@@ -2,7 +2,7 @@
 # Quality Attributes
 [◄ Go back to Heuristics List in README file](README.md)
 
-The purpose of this page is to help you prioritize which quality attributes are important for your tool, depending on your answers to the different heuristics. This is based on evidence in the from the research data. You can use the quotes and the data to help you build your requirements - in particular to personalize your context description and personas.
+The purpose of this page is to help you prioritize which quality attributes are important for your tool, depending on your answers to the different heuristics. This is based on evidence in the research data. You can use the quotes and the data to help you build your requirements - in particular to strengthen your context description and personas.
 
 Parts of this page:
 - [List of Heuristics with Quality in Use and Product Attributes Associated](#List1)
