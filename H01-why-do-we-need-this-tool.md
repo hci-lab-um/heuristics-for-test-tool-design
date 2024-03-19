@@ -7,7 +7,7 @@ Heuristic Question: Why do we need this tool?
 
 ## Explanation and subquestions
 
-**Why** is this heuristic useful? We found nearly a third of comments made about challenges with implementing tools successfully were management and organizational in origin, and were often about conflicting goals across the organization. 
+**Why** is this heuristic useful? We found nearly a third of comments made about challenges with implementing tools successfully were management and organizational in origin, and were often about conflicting goals across the organization. A mutual understanding across stakeholders of why the tool is needed, what goals it supports, and importantly what goals it doesn't - or cannot - support is vital. 
 You've embarked on designing, building, or choosing a new tool to help support testing.  
 Think about:
 
@@ -16,7 +16,15 @@ Think about:
 -	enablers and blockers to meeting those goals. 
 -	both the testers and the organization have motivations to adopt or to resist a new tool, and these may be the same or may conflict. 
 
-Research Point: In the research leading to the design of these heuristics, we found there are often conflicting goals and expectations for the tools, and different perceptions of what problems needed resolving to enable improvement in working practices. 
+Research Point: In the research leading to the design of these heuristics, we found there are often conflicting goals and expectations for the tools, and different perceptions of what problems needed resolving to enable improvement in working practices. Conflicting or unclear goals mean tool acquisition may be done in a short term mindset. Tools may not even be the solution to the problem you are trying to address.
+
+*``There may be several organizations - even within one organization - with conflicting goals for the same tool [example given of password control tool] Audit versus Dev may have different views about how that might be used''*
+
+*``muddling through - don't have a goal ... just want to do things ... get things done''*
+
+*``change always comes with some resistance, Discussing and setting a clear, shared goal we got a better understanding and purpose to find energy and time and money to finish the transition''*
+
+*`` I would suggest we stop seeing tools as our main goal that will save us, or do the job for us''*
 
 Key questions to ask yourself:
 -	Is there a problem to solve?
