@@ -21,6 +21,16 @@ Research Point:  We found that:
 - Tools are often acquired and not used (shelfware) – no ROI.
 - Tools may need to run continuously for long time periods without restarting.
 
+*``Switching to new versions and dependency management takes up time that could be better spent on the actual software we develop.''*
+
+*``Return on investment - is the time and money I'm going to invest in automation a task worth it?''*
+
+*``I'm an "fresh in testing" xxx and really want to become more technical. I started with [tool] but 2 other girls said that programming is too difficult so I showed them the option to record the "checking" process, and it was easier, but the platform have so many changes so the maintenance is too much effort. Now we're waiting for new [tool] version hopefully things will change that rapidly because a lot of mess front-end have will be pushed to back end''*
+
+*``Last year, we had problems with every upgrade, e.g. changing the database from MySQL to PostgreSQL; or dropping the SSL which forced us to put a reverse proxy to stay "https". As you can see, BIG things to find out at the time of the upgrade session. But I love that they make regular releases with substantial content and that they are shaping the products of the suite based on customers' feedback. In 3 years, it has improved a lot in small increments that let us see how they react to the actual needs of a tester.''*
+
+*``Question: have you ever avoided using a tool? Answer: [named tool] due to upgrade/support issues''*
+
 Key questions to ask yourself:
 - How long will we support this tool? What is its expected lifetime?
 - How quickly will we get ROI? Is this a short or long term endeavor?
