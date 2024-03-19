@@ -32,7 +32,7 @@ Look at the different communication styles coming out in answer to a question ab
 
 *``Manual testing, test automation, maintaining and improving CI, keeping pipelines green, creating of a testing framework, test case management.''*
 
-
+*``It’s been… there’s no source of truth – if you want to know how projects are doing you have to look in 4 or 5 places''*
 
 Key questions to ask yourself:
 - have you considered what type of communication people may require depending on their role, their place in the workflow, accessibility needs, persona preferences, level of detail needed, types of decision they are making?
