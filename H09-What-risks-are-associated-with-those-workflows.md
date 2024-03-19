@@ -18,7 +18,11 @@ Think about:
 -	Risks associated with the systems/products under test that the tool will be used with - does the tool itself need to meet requirements because of the domain it will be used in?
 -	Risks to society, the environment. 
 
-Research Point: We found that attitude to risk can be affected both by role and by communication styles.
+Research Point: We found that attitude to risk can be affected both by role and by communication styles. When we asked about activites, nearly 20 of participants were actively involved in risk management activities, and saw assessing and reporting on risk as part of their role. Better intergration of risk management was a request:
+
+*``should be extendable/better community support/risk reporting/should support and have BDD integration''*
+
+*``Testing is very very different in different companies. One difference I see is where the bias lies in terms of risks.  You could ask does your testing have a bias - towards verfication of known risks, towards discovery and experiments, a balance view.''*
 
 Key questions to ask yourself:
 - Have you considered how the tool mitigates or creates different types of risk:
