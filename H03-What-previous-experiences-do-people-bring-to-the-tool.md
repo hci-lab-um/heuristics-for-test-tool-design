@@ -16,6 +16,18 @@ Think about:
 Research Point: we found that people testing software came from a wide range of backgrounds, with widely differing experiences of domains, IT, testing and tools.
 It is difficult to design tools for a wide range of people, but it is possible to make a tool useable by as many groups of people as possible. Think about *who else* needs to use the tool.
 
+*``non-testers ask interesting questions [about the software under test about things that] sounds obvious to us. We need both perspectives. We need new thinkers [not people] spoiled with old experiences that probably block their creativity''*
+
+*`` [can see different groups for test tools] among people I work with: someone with an IT education who is a specialist tester, someone with a biology degree who became a tester, someone who is a saxophonist - an improviser ... and there are users who become testers [giving different perspectives]''*
+
+*``now a solutions engineer/dev management role. This past 1-2 years. In IT 15years - dev, test, CM, governance''*
+
+*``Started life as a carpenter out of technical college, after apprenticeship was finished worked in scenery for theatre, films and TV decided to start a maintenance/landscape business and had an accident, long story short no more physical labour. ... like a lot of people do fell into testing through gaming and ... worked my way up to a test lead.''*
+
+*``I have a degree in Urban Planning ... I work in IT for over 30 years, having different type of roles, since I am a M-shaped person.''*
+
+*``I'm an automation tester with 16 years of testing experience ... my educational background is MD in Chemistry and Physics ... my role in a current project is Lead Quality Engineer ''*
+
 Key questions to ask yourself:
 - How will you enable people to work effectively and efficiently who bring different backgrounds, skills and experiences to the tool? 
 - Will something that feels obvious and intuitive to you be as obvious and intuitive to others? What would be obvious and intuitive to other people?
