@@ -18,11 +18,17 @@ Think about:
 -	Risks associated with the systems/products under test that the tool will be used with - does the tool itself need to meet requirements because of the domain it will be used in?
 -	Risks to society, the environment. 
 
-Research Point: We found that attitude to risk can be affected both by role and by communication styles. When we asked about activites, nearly 20 of participants were actively involved in risk management activities, and saw assessing and reporting on risk as part of their role. Better intergration of risk management was a request:
+Research Point: We found that attitude to risk can be affected both by role and by communication styles. When we asked about activites, nearly 20 of participants were actively involved in risk management activities, and saw assessing and reporting on risk as part of their role. Better integration of risk management was a request:
 
 *``should be extendable/better community support/risk reporting/should support and have BDD integration''*
 
 *``Testing is very very different in different companies. One difference I see is where the bias lies in terms of risks.  You could ask does your testing have a bias - towards verfication of known risks, towards discovery and experiments, a balance view.''*
+
+When investigating choices for a new tool, Moore's innvation curve can be a useful comparitor. In one small study we asked participants to rank how innovative versus how established and well known they wante dit to be. We can draw there reponses on a graph overalid on Moore's Innovation curve and find that *for this group* they are slightly more towards the early adopter side of the graph. This will be different depending on the group of personas for your tool. You could add attitude to innivation to your personas, based around the Moore's curve.
+
+![The graph shows that Moore's innovation curve moves from a small number of innovators, a larger number of early adopters, then the large mainstream group, and a small number of laggards. The bar chart overlaid on the Mooore's Curve shows that for the specific group in a specific team, the curve is skewed more towards early adoption.](innovationcurve.jpg)
+
+[innovationcurve]: innovationcurve.jpg
 
 Key questions to ask yourself:
 - Have you considered how the tool mitigates or creates different types of risk:
