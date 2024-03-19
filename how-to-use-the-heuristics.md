@@ -108,3 +108,28 @@ If you are only evaluating the tool for yourself, use the questions to help you 
 If you are evaluating for a team, take time to think about the *Who?* and *Context?* heuristic questions.
 
 You will probably cover the questions in the generic order. You might not do the activities yourself, but you may want to find out if your tool supplier has those UX activities in place. 
+
+Here is an example of a small group of testers using the heuristics as a frame for choosing a new tool to use for organizing an event. 
+There are three diagrams, produced during the study, showing the build up of information from planning, through collecting data, to analysing that adn deciding on important characteristics fo the tool.
+**Diagram 1** There were about 12 people in the group, and they work together occasionally to organize and run a meet up to discuss testing. 
+First we focused on planning: we wanted to understand learning and problem solving styles (H05, H06), attitudes to change (H09), and level of busy-ness (H04) to help us understand how new/untested and how easy to learn the tool needed to be.
+Then we thought about our context: Our values and how we wanted to communicate, our context for our activities, our technology preferences, and our goals and activities (H07, H08, H10, H11 and H12). 
+We decided on a mixture of individual questiosn with Lickert Scales, card sorts, and flip chart discussions to get the information on these topics.
+
+![alt text in document body.][cs1-a](CS1-a.jpg)
+
+[cs1-a]: CS1-a.jpg
+
+**Diagram 2** Once we had collected data on the people, organization, goals and activites we could start linking those together. We realised we were a group of experienced leaders, who prefer working solo, were time poor, and had a broad technical and working context across the group. We linked those to our goals and activities. We realsied during this that we needed to look at how we behaved (our organizational norms) not just get a new tool: the key was communication and just getting a new tool would not solve that by itself.
+
+![alt text in document body.][cs1-b](CS1-b.jpg)
+
+[cs1-b]: CS1-b.jpg
+
+**Diagram 3** Having linked the data together, we then mapped the results on to quality attributes, realising we needed to favour a tool that supported quality in use atributes of high effectiveness, high efficiency, high flexibility, high learnability. Further it needed to be compatible with a wide range of devices, support asynchronous communication and be future proofed. This diagram shows the main quality attrbute requirements for the tool.
+
+![alt text in document body.][cs1-c](CS1-c.jpg)
+
+[cs1-c]: CS1-c.jpg
+
+In this small study, we used an early version of the heuristics, and they were refined as a result, so the mapping is indicaditve rather than exact. The whole process took about 4 hours over 2 days to collect and discuss the data and another 4 hours afterwards to make the analysis and come up with the diagrams and a list of requirements for the tool.
