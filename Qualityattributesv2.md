@@ -20,18 +20,18 @@ Parts of this page:
 ## List of Heuristics and Related Attributes 
 | Heuristic | [Quality in Use](#table1) | [Product Quality Attributes](#table2) |
 |-------------|-----------------------|----------------------------------------------------|
-|1. [Why do we need this tool?](H01-why-do-we-need-this-tool.md)| Freedom from Risk | User goals, Appropriateness|
-|2. [Who will use or be affected by the tool?](H02-Who-will-use-or-be-affected-by-this-tool.md)|Satisfaction|User goals, Appropriateness|
-|3. [What previous experiences do people bring to the tool?](H03-What-previous-experiences-do-people-bring-to-the-tool.md)|Effectiveness, Satisfaction| Learnability, Appropriateness, User error protection, Recognizability|
-|4. [What communication needs or preferences do those people have?](H04-What-communication-needs-or-preferences-do-those-people-have.md)|Effectiveness, Satisfaction, Flexibility | Learnability, Accessibility, Recognizability |
-|5. [What learning perspectives and goals do those people bring?](H05-What-learning-perspectives-and-goals-do-those-people-bring.md)|Effectiveness, Flexibility | Learnability, User error protection |
-|6. [What learning preferences do those people have?](H06-What-learning-preferences-do-those-people-have.md)|Effectiveness, Flexibility | Learnability, User error protection, Recognizability |
-|7. [Where will the tool be used?](H07-Where-will-the-tool-be-used.md)|Context coverage| Operability |
-|8. [What workflows will the tool be part of?](H08-What-workflows-will-the-tool-be-part-of.md)|Effectiveness, Context coverage|  Operability, User goals, , Appropriateness, Maintainability, Functionality, Security, Compatibility, Recognizability |
-|9. [What risks are associated with those workflows?](H09-What-risks-are-associated-with-those-workflows.md)|Freedom from Risk,  Context coverage| Operability, Appropriateness, Performance, Maintainability, Reliability|
-|10. [What work styles are acceptable in those workflows and teams?](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md)|Context coverage and Flexibility, Satisfaction |Operability,  Accessibility, Maintainability, Security|
-|11. [When will the tool be used?](H11-When-will-the-tool-be-used.md)|Efficiency, Context coverage | Operability, Accessibility, Appropriateness, Performance, Maintainability, Compatibility, Reliability, Recognizability|
-|12. [How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)| Context coverage | Portability|
+|H01. [Why do we need this tool?](H01-why-do-we-need-this-tool.md)| Freedom from Risk | User goals, Appropriateness|
+|H02. [Who will use or be affected by the tool?](H02-Who-will-use-or-be-affected-by-this-tool.md)|Satisfaction|User goals, Appropriateness|
+|H03. [What previous experiences do people bring to the tool?](H03-What-previous-experiences-do-people-bring-to-the-tool.md)|Effectiveness, Satisfaction| Learnability, Appropriateness, User error protection, Recognizability|
+|H04. [What communication needs or preferences do those people have?](H04-What-communication-needs-or-preferences-do-those-people-have.md)|Effectiveness, Satisfaction, Flexibility | Learnability, Accessibility, Recognizability |
+|H05. [What learning perspectives and goals do those people bring?](H05-What-learning-perspectives-and-goals-do-those-people-bring.md)|Effectiveness, Flexibility | Learnability, User error protection |
+|H06. [What learning preferences do those people have?](H06-What-learning-preferences-do-those-people-have.md)|Effectiveness, Flexibility | Learnability, User error protection, Recognizability |
+|H07. [Where will the tool be used?](H07-Where-will-the-tool-be-used.md)|Context coverage| Operability |
+|H08. [What workflows will the tool be part of?](H08-What-workflows-will-the-tool-be-part-of.md)|Effectiveness, Context coverage|  Operability, User goals, , Appropriateness, Maintainability, Functionality, Security, Compatibility, Recognizability |
+|H09. [What risks are associated with those workflows?](H09-What-risks-are-associated-with-those-workflows.md)|Freedom from Risk,  Context coverage| Operability, Appropriateness, Performance, Maintainability, Reliability|
+|H10. [What work styles are acceptable in those workflows and teams?](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md)|Context coverage and Flexibility, Satisfaction |Operability,  Accessibility, Maintainability, Security|
+|H11. [When will the tool be used?](H11-When-will-the-tool-be-used.md)|Efficiency, Context coverage | Operability, Accessibility, Appropriateness, Performance, Maintainability, Compatibility, Reliability, Recognizability|
+|H12. [How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)| Context coverage | Portability|
 
 <a name="WhatareQA1"></a>    [Back to Top](#TopofPage)
 ## What are Quality Attributes?
