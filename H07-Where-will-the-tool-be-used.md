@@ -11,7 +11,17 @@ The location may affect the ability of the person to use the tool. Location may 
 
 Think about: Individuals and teams may be working in different offices, at home, on customer sites, in different countries, in different time zones, behind firewalls, indoors or outdoors, in quiet or noisy environments.
 
-Research Point: We found that people were mandated to use tools that were not available to them because of their location. For example, tool behind a firewall, on different infrastructure, or even access given by job title rather than by need to access the tool. We also found that tools might be available, but not be findable by those who could benefit from them.
+Research Point: We found that people were mandated to use tools that were not available to them because of their location. For example, tool behind a firewall, on different infrastructure, or even access given by job title rather than by need to access the tool. We also found that tools might be available, but not be findable by those who could benefit from them. 
+
+For example, of simple questions to gain insights, in one small study we asked 12 people working together on a project to rate their mobile and internet connctivity, and to list what devices and operating system platforms they would prefer to use.
+
+![Piechart shows about one third of the team had poor connectivity and two thirds good connectivity][connectivitypie](connectivitypie.jpg)
+
+[connectivitypie]: connectivitypie.jpg
+
+![Bar chart shows just under 60% used Windoes, just over 40% Mac, and a small number Linux. Nearly 70% used a laptop or PC, just under 60% worked on their phone, just over 40% used an apple Mac, and around 15% used a tablet.][devicegraph](devicegraph.jpg)
+
+[devicegraph]: devicegraph.jpg
 
 Key questions to ask yourself:
 - Geography:
