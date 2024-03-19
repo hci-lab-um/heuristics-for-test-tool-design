@@ -7,7 +7,7 @@ Heuristic Question: When will the tool be used?
 
 ## Explanation and subquestions
 Time factors for the product under test, for the person using the tool, and within the tool and workflow migh affect the tool design.
-This heuristic implies "how long?" and "how quickly" and otehr time-related questions, as part of "when?"
+This heuristic implies "how long?" and "how quickly?" and other time-related questions, as part of "when?"
 
 Think about: 
   
@@ -18,6 +18,8 @@ Think about:
 - Within the **tool and workflow:** The workflow may take an extended time, or be done in stages with time gaps.
 
 Research Point: we found that participants were frustrated by tools slowing down their work. We found participants with accessibility requirements could be slowed or blocked by the test tool not playing well with the assistive technology. We found participants had different views on all these points, depending on the domains and work styles they had encountered.
+
+
 
 Key questions to ask yourself:
 - When during the product lifetime (PL) and during the software development lifecycle (SDLC) is the tool used?
