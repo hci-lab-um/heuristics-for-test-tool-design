@@ -17,6 +17,10 @@ Think about:
 - Provide “short burst” and extended learning opportunities.
 
 Research Point: we found that people expressed a range of preferences for how to learn – for example whether solo or in pairs, prefer media, whether guided or exploratory AND that these did not necessarily match with their general problem-solving preferences. We also found that people had very little time allowed for learning and development.
+In one trial of the heuristics, we asked a group of people who were choosing a tool to enable their team to work together about learning and problem solving preferences. We found a wide range of preferences across solo and group learning, and that these were not the same as problem solving preferences. The graph shows that some of the people in the group preferred to learn solo, even if they preferred team problem solving. Similarly there was a range of responses to whether learning was best done practical/exploratory or guided/reading/theory.
+
+
+
 
 Key questions to ask yourself:
 - have you considered solo and group learning routes?
