@@ -16,7 +16,27 @@ Think about:
 - How teams are organized;
 - Level of confidence that teams have in their process. This might include maturity, assurance, experience level, support to grow that experiences/skills.
 
-Research Point: we found that some testers had autonomy to choose their approaches and tools to fit within the wider business workflows, while for other testers the workflow involvement, approaches and tools were mandated by the organization. We found that some testers were frustrated by tools that prevented pair or team working. We found that use of pattern-matching and visualization increased with expertise.
+Research Point: we found that some testers had autonomy to choose their approaches and tools to fit within the wider business workflows, while for other testers the workflow involvement, approaches and tools were mandated by the organization. We found that some testers were frustrated by tools that prevented pair or team working. We found that use of pattern-matching and visualization increased with expertise. Nearly 20% of respndents asked about work style mentioned collaborative approaches between teams, and talked about pair or emsemble working.
+
+*``We usually have a fair amount of autonomy in selecting the tools and techniques we use, but there is also some "top down" process and guidance that influences our choices. We can usually push back on things that don't make sense in our context, though.''*
+
+*``The team’s main drivers are freedom, challenge, focus on results and continuous improvement.''*
+
+*``We believe that every tester knows the best which tools and techniques they need to do the certain job so we have freedom to chose what we need for a certain context. Even we align on some shared tools when it makes sense but this is never a top down decision.''*
+
+*``Have more flexibility in choosing tools vs having the organisation have a few available. But firewalls and whitelisting block a lot of opensource options.''*
+
+*``A good tool extends the capability of the tester. To do this, it needs to be flexible enough to work with whatever process the tester is currently using in their context (i.e. the tester shouldn't need to alter their way of working to fit the tool, but the tool should be configurable to fit the needs of the tester). The tool also needs to "get out of the way" and not impede the tester's ability to do their work or impose unrealistic additional work on them to make use of the tool.''*
+
+*``I think it is important to know what kind of organization I work, and others work, to understand what position we are in. Because we can have all the tools we want, if the culture of the company prevents us to have more influence on what we do and what is asked from us, testers, that is more a struggle than having nice automation tools.''*
+
+*``I'm pretty choosy about the tools we use, so if a tool prevents us from doing great work we probably will find another one or write our own.''*
+
+*``The company decided this before my hiring. [The tool] is the single worst software to plague efficient and effective development. It is difficult to use, incredibly buggy, inflexible and bloated.'*
+
+*``Tools and techniques are selected at an organizational level [a limitation is that I need] some admin access to allow me to do my implementations properly''*
+
+*``Any tool can present challenges for a really complicated product. As long as the team is free to adapt and adopt new tools if needed, we can work around the limitations.''*
 
 Key questions to ask yourself:
 - Are people working solo, paired and/or in groups?
