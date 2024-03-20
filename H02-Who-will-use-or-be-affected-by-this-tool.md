@@ -1,3 +1,4 @@
+<a name="TopofPage"></a>
 # H2 Who will use or be affected by the tool?
 [◄ Go back](README.md)
 
@@ -5,7 +6,7 @@ Theme: WHO?
 
 Heuristic Question: Who will use or be affected by the tool?
 
-## Explanation and subquestions
+## Explanation and sub-questions
 
 This heuristic is useful because we found a broad and non-stereotypical group of people are testing, and therefore may be using the tool. You will also have stakeholders who may not use the tool, but may influence the goals for the tool. 
 As you identify *Why* the tool is needed, you might find that different stakeholders have different perceptions of why the tool is required and what it should do: you need to understand *Who* needs the tool.
@@ -38,6 +39,8 @@ Key questions to ask yourself:
 
 ## Activities, tools and techniques to help answer the questions
 
+[Back to Top](#TopofPage)
+
 To understand who will use or be affected by the tool you need to understand who is a stakeholder. Don’t forget yourself.
 
 You will need to iterate between “Why?” and “Who?” as you identify stakeholders and their goals.
@@ -50,3 +53,4 @@ Activities you might find useful to help you understand *Who* include:
 When you have a small number of people to understand, you may be able to interview them. With a large population, you can use sampling, or statistical methods. You can model this with activities to help you understand and model the *characteristics* of those groups of people include mapping:
 - [personas and archetypes](Technique-Personas-and-Archetypes.md).
 
+[Back to Top](#TopofPage)
