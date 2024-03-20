@@ -7,14 +7,10 @@ The purpose of this page is to help you prioritize which quality attributes are 
 Parts of this page:
 - [List of Heuristics with Quality in Use and Product Attributes Associated](#List1)
 - [What are Quality Attributes?](#WhatareQA1)   
-- [Quality Attributes in the Research Data](#QARD1)  
 - [Table 1: Quality in Use Attributes](#table1)   
 - [Table 2: Product Quality Attributes](#table2)   
 - [Building Quality Attribute Pyramids to get to the Desired UX](#pyramid1)  
-- [Standards and Reference Texts](#Std1)   
-- [Usability, Quality in Use, and the User Experience: how they relate together](#UI-LX1)   
-- [How did the research reveal these figures?](#QARD2)
-- [Our Academic Papers](#paper1)   
+- [More Information](#More) 
 
 <a name="List1"></a>    [Back to Top](#TopofPage)
 
@@ -43,7 +39,7 @@ Others are technical or **Product attributes** which are built into the product 
 
  <a name="QARD1"></a>    [Back to Top](#TopofPage)
 
-## Quality Attributes in the Research Data
+### Quality Attributes in the Research Data
 What makes a tool successful is definitely not just its functionality. Here’s some data and quotes from the research:
 
 - 98% of the participants mentioned usability and quality in use of the tools as a concern, issue, or necessity. Over 40% of the comments were about usability. <br> *``I first had to define the fields (name, data type, etc.) Then somewhere else in the admin UI, I had to configure where this field would appear on the test case form for the project. Then somewhere else again in the admin UI, I had to define the set of possible values for the dropdown fields I’d added. [. . . ] infuriating (and requires a re-learn [of] this ridiculousness every few months when I get such admin requests).”*
@@ -114,8 +110,15 @@ For example, if this tool is to be used in an organization that values a fast ti
 - supported by performance to aid speed;
 - supported by maintainability to support change.
 
+<a name="More"></a>     [Back to Top](#TopofPage)
 
+## More Details
 
+- [Standards and Reference Texts](#Std1)   
+- [Usability, Quality in Use, and the User Experience: how they relate together](#UI-LX1)   
+- [How did the research reveal these figures?](#QARD2)
+- [Our Academic Papers](#paper1)
+  
 <a name="Std1"></a>     [Back to Top](#TopofPage)
 
 ## Standards and Reference Texts
