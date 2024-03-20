@@ -1,3 +1,4 @@
+<a name="TopofPage"></a>
 # Stakeholder Mapping
 [◄ Go back to H02](H02-Who-will-use-or-be-affected-by-this-tool.md)
 
@@ -30,6 +31,7 @@ Value Chain Mapping is a way of understanding the value *to* stakeholders *of* a
 -	[Innoq on Quality Value Chain Mapping](https://www.innoq.com/en/blog/2021/10/quality-value-chain-evolution/)
 -	[Wardley Mapping]( https://en.wikipedia.org/wiki/Wardley_map) is a specific method for value chain analysis; see also [Learn Wardley Mapping](https://learnwardleymapping.com/)
 
+[Back to Top](#TopofPage)
 
 ## Rationale
 ### Research evidence
@@ -45,9 +47,13 @@ Makes sure you have considered different groups of stakeholders, and the level o
 ### Disadvantages
 Some of the methods are more difficult to apply, and may be more than is needed if your situation is not complicated.
 
+[Back to Top](#TopofPage)
+
 ## Where do I find more information?
 [Wikipedia Stakeholder Analysis]( https://en.wikipedia.org/wiki/Stakeholder_analysis) 
 
 [Stakeholder Analysis for Influence on Your Work](https://www.nngroup.com/articles/stakeholder-analysis/)
 
 [Interaction Design Foundation on Stakeholder Mapping](https://www.interaction-design.org/literature/article/map-the-stakeholders)
+
+[Back to Top](#TopofPage)
