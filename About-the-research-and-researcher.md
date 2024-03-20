@@ -1,9 +1,10 @@
-# About the Research and the Researcher
+<a name="TopofPage"></a>
+# About the Research and the Researchers
 [◄ Go back](README.md)
 
-I've provided some text below about the research and about myself, Isabel Evans, and also links to videos, academic papers and other resources.
+This page is about the research behind the heurististics, information about the researchers, and also has links to videos, academic papers and other resources.
 
-## Videos and articles about the Research and the Researcher
+## Videos and articles about the Research
 
 If you want a brief summary, here is [an article "Just a tester?"](https://www.womenwhotest.com/2023/04/14/just-a-tester-a-report-part-way-through-data/) from 2023 which summarises the research to that point and highlights of the findings.
 
@@ -14,7 +15,7 @@ Here are links to some earlier videos about the research. They are each about 30
 3. [Webinar from 2022 "Who is testing?"](https://www.bigmarker.com/techwell-corporation/Who-Is-Testing-A-Reflection-Part-Way-Through-Data-Analysis) from Techwell.
 4. [Interview with Agiletest](https://www.youtube.com/watch?v=0fZlOqjmZqQ) from Agiletest Invites.
 
-## The Research - a brief history
+## The Research - a brief history [Back to Top](#TopofPage)
 ###	Background
 After nearly four decades working in the IT industry, mainly in software testing, latterly as a consultant and trainer, Isabel had observed that teams and organizations didn’t have the successes they anticipated with adoption of tools to support testing. Wanting to understand the blockers to test tool adoption and what might overcome these, with an initial idea that improving the usability of tools would help people adopt them and use them successfully, she started a post-graduate study at University of Malta to give a structure for researching the ideas. Isabel is working with Dr Chris Porter and Dr Mark Micallef who are her academic supervisors.
 
@@ -36,17 +37,19 @@ After nearly four decades working in the IT industry, mainly in software testing
 
 **Encapsulating findings in a usable summary:** Based on the data analysed so far, we are working on building a set of heuristics for tool designers to use when designing test tools. Iterating through a series of reviews of versions of the heuristics both with UX experts and practitioners, and with test experts and practitioners. The draft heuristics are [listed on this repository](README.md), with their explanations and suggested activities.
 
-**Shaping the Heuristics:** First, we needed to understand how heuristics should be developed and what they look like. Should they be like Nielsen's Ten Heuristics? Like Bach and Bolton's FEW HICCUPS? Something different? We looked at many examples to see how heuristics are displayed and discovered that they have different levels of directedness and also that they are displayed in different formats. Working with UX practitioners and experts I trialed and refined various styles for the heuristics and choose a format - the short questoin with explanation - used in this repository. (Paper is in draft)
+**Shaping the Heuristics:** First, we needed to understand how heuristics should be developed and what they look like. Should they be like Nielsen's Ten Heuristics? Like Bach and Bolton's FEW HICCUPS? Something different? We looked at many examples to see how heuristics are displayed and discovered that they have different levels of directedness and also that they are displayed in different formats. Working with UX practitioners and experts, we trialed and refined various styles for the heuristics and choose a format - the short questoin with explanation - used in this repository. (Paper is in draft)
 Based on that format, we then set out to design a set of heuristic questions, grounded in the research data collected earlier.
 
 **Evaluating the Heuristics - expert reviews:** We have taken versions of the heuristics to test experts and practitioners to understand if the content of the heuristics indicate anything useful about the people who will use the test tools. That includes asking someone who had built a tool whether the heuristics would have changed their thinking when designing/building the tool, and a review with an accessibility expert.
-We updated the heuristics based on the review comments, and thesse are what is presented here.
+We updated the heuristics based on the review comments, in an iterative process.
 
 **Evaluating the Heuristics - case studies:** We are in the middle of the iterative build-review-refining of the heuristic set content through industry case studies to evaluate the heuristics in use.
 Once the case studies have completed, we will refine the heuristics based on comments and observations of them in use, and publish.
 This GitHub repository is here to support the case studies and capture the heuristics and supporting information.
 
-## The Main Researcher - Isabel - my brief history
+## About Us [Back to Top](#TopofPage)
+
+### Isabel Evans - Researcher - my brief history
 
 After more than 30 years in IT, on software industry projects, quality and testing practitioner I am now a part-time post-graduate student at the University of Malta. My research focuses on human factors in test automation. My interest in this topic arose from real-life experiences as a test manager, quality manager, and test consultant. I am an author, including a book, "Achieving Software Quality Through Teamwork", and chapters in "Agile Testing: How to Succeed in an eXtreme Testing Environment", "The Testing Practitioner", and "Foundations of Software Testing". I've spoken and told stories at software conferences worldwide, as well as chairing EuroSTAR (2019) and HUSTEF (2018). I am a Fellow of the British Computer Society and received the 2017 EuroSTAR Testing Excellence Award.
 
@@ -57,6 +60,6 @@ After more than 30 years in IT, on software industry projects, quality and testi
 
 I do not use other social media. 
 
-Linked in profiles:
-Dr Chris Porter
-Dr Mark Micallef
+### Supervisors' Linked-in profiles:
+[Dr Chris Porter](https://www.linkedin.com/in/chrisporter/)
+[Dr Mark Micallef](https://www.linkedin.com/in/micallefmark/)
