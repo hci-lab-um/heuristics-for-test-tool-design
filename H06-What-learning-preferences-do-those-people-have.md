@@ -1,3 +1,4 @@
+<a name="TopofPage"></a>
 # H6 What learning preferences do those people have?
 [◄ Go back](README.md)
 
@@ -5,7 +6,7 @@ Theme: WHO?
 
 Heuristic Question: What learning preferences do those people have?
 
-## Explanation and subquestions
+## Explanation and sub-questions
 
 Depending on the person and their preferences a mix of media and teaching methods may be needed in the learning materials.
 
@@ -27,7 +28,7 @@ Research Point: we found that people expressed a range of preferences for how to
 In one trial of the heuristics, we asked a group of people who were choosing a tool to enable their team to work together about learning and problem solving preferences. We found a wide range of preferences across solo and group learning, and that these were not the same as problem solving preferences. The graph shows that some of the people in the group preferred to learn solo, even if they preferred team problem solving. Similarly there was a range of responses to whether learning was best done practical/exploratory or guided/reading/theory. Note that this is true for this specific group; it may not be generally true.  
 
 
-![graph shows preference for learning solo or team drop from 40% preferring solo learning down to none preferring all team learning. Preference of 50% of participants to have mix of learning by doing and through theory. Problem solving preferences are more team bbased and about the same for exploratory versus guided/theory.][learningpref](learning-pref-graph.jpg)
+![graph shows preference for learning solo or team drop from 40% preferring solo learning down to none preferring all team learning. Preference of 50% of participants to have mix of learning by doing and through theory. Problem solving preferences are more team based and about the same for exploratory versus guided/theory.][learningpref](learning-pref-graph.jpg)
 
 [learningpref]: learning-pref-graph.jpg
 
@@ -41,6 +42,9 @@ Key questions to ask yourself:
 - have you considered how to train the trainers, coaches and mentors?
 
 ## Activities, tools and techniques to help answer the questions
+
+[Back to Top](#TopofPage)
+
 To understand *Who learns how* you need to understand their different learning preferences.  
 
 Some people prefer solo and group/pair learning.  People will need theory, practice, exploring, and guided learning. People may have preferences or needs for different media.
@@ -58,3 +62,5 @@ We have tabulated the [Quality in Use and Product Quality Attributes](Qualityatt
 Other Activities: 
 - Use what you have discovered about [communication styles in H04](H04-What-comunication-needs or preferences-do-those-people-have.md) to inform both the media and the formats in which you supply learning materials.
 - If you have not worked with learning preferences, here is an article which may help you enrich your persona definition with [learning preferences](https://cultivatedmanagement.com/two-learning-styles/).
+
+[Back to Top](#TopofPage)
