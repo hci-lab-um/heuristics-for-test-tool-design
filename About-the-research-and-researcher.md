@@ -15,7 +15,9 @@ Here are links to some earlier videos about the research. They are each about 30
 3. [Webinar from 2022 "Who is testing?"](https://www.bigmarker.com/techwell-corporation/Who-Is-Testing-A-Reflection-Part-Way-Through-Data-Analysis) from Techwell.
 4. [Interview with Agiletest](https://www.youtube.com/watch?v=0fZlOqjmZqQ) from Agiletest Invites.
 
-## The Research - a brief history [Back to Top](#TopofPage)
+[Back to Top](#TopofPage)
+
+## The Research - a brief history 
 ###	Background
 After nearly four decades working in the IT industry, mainly in software testing, latterly as a consultant and trainer, Isabel had observed that teams and organizations didn’t have the successes they anticipated with adoption of tools to support testing. Wanting to understand the blockers to test tool adoption and what might overcome these, with an initial idea that improving the usability of tools would help people adopt them and use them successfully, she started a post-graduate study at University of Malta to give a structure for researching the ideas. Isabel is working with Dr Chris Porter and Dr Mark Micallef who are her academic supervisors.
 
