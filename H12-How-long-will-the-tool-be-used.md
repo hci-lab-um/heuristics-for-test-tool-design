@@ -1,3 +1,4 @@
+<a name="TopofPage"></a>
 # H12 How long will the tool be used?
 [◄ Go back](README.md)
 
@@ -5,7 +6,7 @@ Theme: CONTEXT?
 
 Heuristic Question: How long will the tool be used?
 
-## Explanation and subquestions
+## Explanation and sub-questions
 This is a different time related question and is about the test tool itself, rather than the product under test.
 
 Think about: 
@@ -39,7 +40,10 @@ Key questions to ask yourself:
 - Is this a free tool or a paid-for tool? What investment is required in time/effort to get it implemented and in use, on top of any financial cost: ROI can be about more than cash.
 
 ## Activities, tools and techniques to help answer the questions
-To understand the ROI required from the tool you need to understand *how long* the tool will be used and supported, so you can design in appropropriate levels of maintainability.
+
+[Back to Top](#TopofPage)
+
+To understand the ROI required from the tool you need to understand *how long* the tool will be used and supported, so you can design in appropriate levels of maintainability.
 By understanding *how long* the tool needs to run, you will be able to design in appropriate levels of reliability.
 
 We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help wth understanding maintainability in two way - the maintainability of the tool itself, how long it will be supported, and the maintainability of tests, and how fast they will be changing.**
@@ -49,3 +53,4 @@ Activities, with links to useful external information:
 - Make a tool maintenance plan and build in maintainability.
 - Assess the reliability required from the tool.
 
+[Back to Top](#TopofPage)
