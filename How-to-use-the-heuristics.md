@@ -6,8 +6,8 @@ This section tells you about different ways to use the heuristics in different s
 
 The [Generic Use](#Generic-use) section shows the flow between heuristics, and what you will find in each heuristic's description. Suggest you read that first. Sections are:
 - [Flowchart through the heuristics](#Flowchart-through-the-heuristics);
-- [Flowchart focused on the "Who?" Heuristics](#Flowchart-focused-on-the-"Who?"-Heuristics);
-- [Flowchart focused on the "Context?" Heuristics](#Flowchart-focused-on-the-"Context?"-Heuristics);
+- [Flowchart focused on the "Who?" Heuristics](#Flowchart-focused-on-the-Who-Heuristics);
+- [Flowchart focused on the "Context?" Heuristics](#Flowchart-focused-on-the-Context-Heuristics);
 - [Navigating the Heuristic Explanations](#Navigating-the-Heuristic-Explanations);
 - [You can tailor this to suit you](#You-can-tailor-this-to-suit-you).
 
