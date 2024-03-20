@@ -10,12 +10,12 @@ This is followed by sections that suggest how to use the heuristics in several c
 - if you are a [tool vendor designing or building a test tool](#Tool-vendor-designing-or-building-a-test-tool);
 - if you are designing or building an [open-source test tool](#Open-source-test-tool-design-and-build);
 - if you are designing or building a test tool to be used by you or your team [in-house](#In-house-test-tools);
-- if you are using the heuristics to help you [choose or evaluate a test tool](#Evaluating-or-choosing-a-test-tool)
+- if you are using the heuristics to help you [choose or evaluate a test tool](#Evaluating-or-choosing-a-test-tool).
 
 ## Generic use
 
 ### Flowchart through the Heuristics
-The heuristics group into three themes: Why? Why? and Context?
+The heuristics group into three themes: Why? Who? and Context?
 
 NB: you might want to time box how long you spend on each theme, explore them, and then decide whether to allow more time to work more deeply on discovery activities. One person who [used a cut-down version of the heuristics as a simple checklist for part of a workshop](https://huddle.eurostarsoftwaretesting.com/ladybug-open-source-project-kick-off/) said *"They just help you talk about things."* You can keep it as simple as that!
 
@@ -82,6 +82,8 @@ You might find it useful to start with the *who?* questions and once you have id
 You need to think carefully about how long the tool will be maintained and supported, and the ROI on this process and for the tool.
 
 ROI may not be cash-related - think about how much time the community around the tool will want to spend working on it.
+
+*''The 12 heuristics of tool development helped me in preparing the workshop for the [tool] by checking what I did and did not think about this tool when I came up with the idea. During the workshop the 12 heuristics were available to the attendees and they could use it as inspiration when brainstorming about problems we would have to tackle when developing the tool.''* 
 
 ### In-house test tools
 
