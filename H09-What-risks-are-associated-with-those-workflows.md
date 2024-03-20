@@ -1,3 +1,4 @@
+<a name="TopofPage"></a>
 # H9 What risks are associated with those workflows?
 [◄ Go back](README.md)
 
@@ -5,9 +6,9 @@ Theme: CONTEXT?
 
 Heuristic Question: What risks are associated with those workflows?
 
-## Explanation and subquestions
+## Explanation and sub-questions
 
-There are several types of risk to consider, and varying attitudes to risk. The domain and technology, as well as the organizational culture will affect the level of risk that people face, affecting both their approaches, and the support they need from tools. Some organizations and some stakeholders will be risk averse (for example in a safety critical domain) and other organizations and stakeholders will be risk takers (for example in an entrepreneurial situation where beign first to market is key). 
+There are several types of risk to consider, and varying attitudes to risk. The domain and technology, as well as the organizational culture will affect the level of risk that people face, affecting both their approaches, and the support they need from tools. Some organizations and some stakeholders will be risk averse (for example in a safety critical domain) and other organizations and stakeholders will be risk takers (for example in an entrepreneurial situation where being first to market is key). 
 
 Think about:
 -	Risks inherent to the domain within which the tool is to be used – for example safety critical, regulatory which may dictate tool design and implementation choices;
@@ -18,15 +19,15 @@ Think about:
 -	Risks associated with the systems/products under test that the tool will be used with - does the tool itself need to meet requirements because of the domain it will be used in?
 -	Risks to society, the environment. 
 
-Research Point: We found that attitude to risk can be affected both by role and by communication styles. When we asked about activites, nearly 20 of participants were actively involved in risk management activities, and saw assessing and reporting on risk as part of their role. Better integration of risk management was a request:
+Research Point: We found that attitude to risk can be affected both by role and by communication styles. When we asked about activities, nearly 20% of participants were actively involved in risk management activities, and saw assessing and reporting on risk as part of their role. Better integration of risk management was a request:
 
 *``should be extendable/better community support/risk reporting/should support and have BDD integration''*
 
-*``Testing is very very different in different companies. One difference I see is where the bias lies in terms of risks.  You could ask does your testing have a bias - towards verfication of known risks, towards discovery and experiments, a balance view.''*
+*``Testing is very very different in different companies. One difference I see is where the bias lies in terms of risks.  You could ask does your testing have a bias - towards verification of known risks, towards discovery and experiments, a balance view.''*
 
-When investigating choices for a new tool, Moore's innvation curve can be a useful comparitor. In one small study we asked participants to rank how innovative versus how established and well known they wante dit to be. We can draw there reponses on a graph overalid on Moore's Innovation curve and find that *for this group* they are slightly more towards the early adopter side of the graph. This will be different depending on the group of personas for your tool. You could add attitude to innivation to your personas, based around the Moore's curve.
+When investigating choices for a new tool, Moore's innovation curve can be a useful comparator. In one small study we asked participants to rank how innovative versus how established and well known they wanted their new tool to be. We can draw their responses on a graph overlaid on Moore's Innovation curve and find that *for this group* they are slightly more towards the early adopter side of the graph. This will be different depending on the group of personas for your tool. You could add attitude to innovation to your personas, based around the Moore's curve.
 
-![The graph shows that Moore's innovation curve moves from a small number of innovators, a larger number of early adopters, then the large mainstream group, and a small number of laggards. The bar chart overlaid on the Mooore's Curve shows that for the specific group in a specific team, the curve is skewed more towards early adoption.](innovationcurve.jpg)
+![The graph shows that Moore's innovation curve moves from a small number of innovators, a larger number of early adopters, then the large mainstream group, and a small number of laggards. The bar chart overlaid on the Moore's Curve shows that for the specific group in a specific team, the curve is skewed more towards early adoption.](innovationcurve.jpg)
 
 [innovationcurve]: innovationcurve.jpg
 
@@ -37,15 +38,18 @@ Key questions to ask yourself:
     -	Risks related to the tool and the use of the tool - risks that arise from the tool.
 - Have you considered blockers in the workflows and how the tool will remove them?
 - Have you considered how to prevent the tool adding blockers to the workflow?
-- Have you considered risks associated with where in the technology stack the tool will be used, and risks associated with transferring information across the technolgy stack?
+- Have you considered risks associated with where in the technology stack the tool will be used, and risks associated with transferring information across the technology stack?
 - Have you considered risks associated with robustness of workflows, approaches and methods supported by the tool (depending on context risks may arise from either underdone or overdone levels of control - different risks that need to be balanced)?
 - If this tool design and build is a side project, think about risks associated with maintaining it over time as a side project.
 
 ## Activities, tools and techniques to help answer the questions
-To understand how to address risk appropriately in your design choices, you will need to understand the stakeholders’ attitudes to risks. Think about the stakeholders you identified in [H02](H02-Who-will-use-or-be-affected-by-this-tool.md) to consider audit, compliance, and marketing stakeholdershaving different viewpoints on risk, for example.
+
+[Back to Top](#TopofPage)
+
+To understand how to address risk appropriately in your design choices, you will need to understand the stakeholders’ attitudes to risks. Think about the stakeholders you identified in [H02](H02-Who-will-use-or-be-affected-by-this-tool.md) to consider audit, compliance, and marketing stakeholders having different viewpoints on risk, for example.
 
 
-We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help wth understanding risk - there are a set of quality in use attributes about Freedom from Risk.**
+We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with understanding risk - there are a set of quality in use attributes about Freedom from Risk.**
 
 Related to risk is your stakeholders' attitude to adoption of technology. Are they early adopters who may be willing to put up with some rough edges in order to engage with new technology, or are they more mainstream and looking for a a safe, reliable option. 
 This could be linked to organizational styles you'll look at in [H10](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md) and views on agility, maturity, and other process concepts.
@@ -58,3 +62,5 @@ Activities and links to external articles that may be useful:
 -	Use [humanity-centered design processes](https://www.interaction-design.org/literature/topics/humanity-centered-design) which includes environmental risk mitigation and the health and safety mitigation.
 -   See Innovation Diffusion, for example look at Moore's "Crossing the Chasm" to understand where your stakeholders sit in the technology adoption cycle (see [Crossing The Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm)) 
 -   Think about the language your personas use, with this [blogpost about two vocabularies for two audiences from Seth Godin](http://sethgodin.typepad.com/seths_blog/2017/02/the-two-vocabularies-because-there-are-two-audiences.html)
+
+[Back to Top](#TopofPage)
