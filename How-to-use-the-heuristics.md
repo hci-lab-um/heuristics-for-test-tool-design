@@ -1,9 +1,15 @@
+<a name="TopofPage"></a>
 # How to use the heuristics
 [◄ Go back](README.md)
 
 This section tells you about different ways to use the heuristics in different situations.
 
-The [Generic Use](#Generic-use) section shows the flow between heuristics, and what you will find in each heuristic's description. Suggest you read that first.
+The [Generic Use](#Generic-use) section shows the flow between heuristics, and what you will find in each heuristic's description. Suggest you read that first. Sections are:
+- [Flowchart through the heuristics](#Flowchart-through-the-heuristics);
+- [Flowchart focused on the "Who?" Heuristics](#Flowchart-focused-on-the-"Who?"-Heuristics);
+- [Flowchart focused on the "Context?" Heuristics](#Flowchart-focused-on-the-"Context?"-Heuristics);
+- [Navigating the Heuristic Explanations](#Navigating-the-Heuristic-Explanations);
+- [You can tailor this to suit you](#You-can-tailor-this-to-suit-you).
 
 This is followed by sections that suggest how to use the heuristics in several common situations - these will be added to after each case study during the evaluations of the heuristics:
 
@@ -59,6 +65,7 @@ The sections below show some ways to use the heuristics:
 - if you are using the heuristics to help you [choose or evaluate a test tool](#Evaluating-or-choosing-a-test-tool).
 
 
+[Back to Top](#TopofPage)
 
 ### Tool vendor designing or building a test tool
 
@@ -70,6 +77,8 @@ You might find it useful to start with the *Who?* questions and once you have id
 You need to think carefully about how long the tool will be maintained and supported, and the ROI on this process and for the tool.
 
 Your order to answer the heuristic questions could be: H02, then H01, then H12, followed by H03 to H11.
+
+[Back to Top](#TopofPage)
 
 ### Open source test tool design and build
 
@@ -85,6 +94,8 @@ ROI may not be cash-related - think about how much time the community around the
 
 *''The 12 heuristics of tool development helped me in preparing the workshop for the [tool] by checking what I did and did not think about this tool when I came up with the idea. During the workshop the 12 heuristics were available to the attendees and they could use it as inspiration when brainstorming about problems we would have to tackle when developing the tool.''* 
 
+[Back to Top](#TopofPage)
+
 ### In-house test tools
 
 You probably know *why* you want to build this tool, possibly with yourself in mind as the primary person using the tool, but have you thought carefully about *who else* might want to use it and why they might want to use it?
@@ -97,6 +108,7 @@ If you are building a tool for your team to use, discuss the 12 heuristic questi
 
 If you are building a tool for multiple teams, to use across the organization, then you need to spend time on the design, do some of the suggested activities to understand the personas in your organization, and their various contexts. Follow the generic order for the questions, including the loopbacks between questions that you will find in the detailed explanations.
 
+[Back to Top](#TopofPage)
 
 ### Evaluating or choosing a test tool
 You could be evaluating the tool for your own use, for your team, or for the whole organization
@@ -112,7 +124,7 @@ If you are evaluating for a team, take time to think about the *Who?* and *Conte
 You will probably cover the questions in the generic order. You might not do the activities yourself, but you may want to find out if your tool supplier has those UX activities in place. 
 
 Here is an example of a small group of testers using the heuristics as a frame for choosing a new tool to use for organizing an event. 
-There are three diagrams, produced during the study, showing the build-up of information from planning, through collecting data, to analysing that adn deciding on important characteristics fo the tool.
+There are three diagrams, produced during the study, showing the build-up of information from planning, through collecting data, to analysing that and deciding on important characteristics for the tool.
 **Diagram 1** There were about 12 people in the group, and they work together occasionally to organize and run a meet up to discuss testing. 
 First, we focused on planning: we wanted to understand learning and problem solving styles (H05, H06), attitudes to change (H09), and level of busy-ness (H04) to help us understand how new/untested and how easy to learn the tool needed to be.
 Then we thought about our context: Our values and how we wanted to communicate, our context for our activities, our technology preferences, and our goals and activities (H07, H08, H10, H11 and H12). 
@@ -135,3 +147,5 @@ We decided on a mixture of individual questions with Lickert Scales, card sorts,
 [cs1-c]: cs1-c.jpg
 
 In this small study, we used an early version of the heuristics, and they were refined as a result, so the mapping is indicative rather than exact. The whole process took about 4 hours over 2 days for the group to collect and discuss the data and another 4 hours afterwards for one person to make the analysis and come up with the diagrams and a list of requirements for the tool.
+
+[Back to Top](#TopofPage)
