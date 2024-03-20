@@ -116,20 +116,20 @@ First, we focused on planning: we wanted to understand learning and problem solv
 Then we thought about our context: Our values and how we wanted to communicate, our context for our activities, our technology preferences, and our goals and activities (H07, H08, H10, H11 and H12). 
 We decided on a mixture of individual questions with Lickert Scales, card sorts, and flip chart discussions to get the information on these topics.
 
-![alt text in document body.][cs1-a](CS1-a.jpg)
+![alt text in document body.][cs1-a](cs1-a.jpg)
 
-[cs1-a]: CS1-a.jpg
+[cs1-a]: cs1-a.jpg
 
 **Diagram 2** Once we had collected data on the people, organization, goals and activities we could start linking those together. We realised we were a group of experienced leaders, who prefer working solo, were time poor, and had a broad technical and working context across the group. We linked those to our goals and activities. We realised during this that we needed to look at how we behaved (our organizational norms) not just get a new tool: the key was communication and just getting a new tool would not solve that by itself.
 
-![alt text in document body.][cs1-b](CS1-b.jpg)
+![alt text in document body.][cs1-b](cs1-b.jpg)
 
-[cs1-b]: CS1-b.jpg
+[cs1-b]: cs1-b.jpg
 
 **Diagram 3** Having linked the data together, we then mapped the results on to quality attributes, realising we needed to favour a tool that supported quality in use attributes of high effectiveness, high efficiency, high flexibility, high learnability. Further it needed to be compatible with a wide range of devices, support asynchronous communication and be future proofed. This diagram shows the main quality attribute requirements for the tool.
 
-![alt text in document body.][cs1-c](CS1-c.jpg)
+![alt text in document body.][cs1-c](cs1-c.jpg)
 
-[cs1-c]: CS1-c.jpg
+[cs1-c]: cs1-c.jpg
 
 In this small study, we used an early version of the heuristics, and they were refined as a result, so the mapping is indicative rather than exact. The whole process took about 4 hours over 2 days for the group to collect and discuss the data and another 4 hours afterwards for one person to make the analysis and come up with the diagrams and a list of requirements for the tool.
