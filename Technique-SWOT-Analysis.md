@@ -1,3 +1,4 @@
+<a name="TopofPage"></a>
 # SWOT analysis
 [◄ Go back to H01](H01-why-do-we-need-this-tool.md)
 
@@ -20,10 +21,12 @@ A SWOT analysis is a way to structure a discussion around the goals for a tool:
 - Set up the SWOT matrix on a whiteboard, flipchart or similar
 - Set some rules for how the workshop will run (e.g. turn-taking for contributions, time box for turn, interruptions protocol, time boxes for workshop sections); 
 - Ask people to add ideas in each sector; 
-- Ask people to group and rank the ideas everone has contributed;
+- Ask people to group and rank the ideas everyone has contributed;
 - NB: depending on the group you may want to manage this in different ways. Silent post-it filling and ranking? Calling ideas out loud? The dynamics of the group will change what is appropriate.
 
 It can be done as a discussion workshop where different stakeholders can share these different viewpoints and listen to each other.  
+
+[Back to Top](#TopofPage)
 
 ## Rationale
 
@@ -45,3 +48,4 @@ Sometimes teams find it hard to turn the SWOT workshop output into actions that 
 
 The [CIPD SWOT fact sheet]( https://www.cipd.org/uk/knowledge/factsheets/swot-analysis-factsheet) has a good overview and a list of further references. 
 
+[Back to Top](#TopofPage)
