@@ -1,3 +1,4 @@
+<a name="TopofPage"></a>
 # H10 What work styles are acceptable in those workflows and teams?
 [◄ Go back](README.md)
 
@@ -5,7 +6,7 @@ Theme: CONTEXT?
 
 Heuristic Question: What work styles are acceptable in those workflows and teams?
 
-## Explanation and subquestions
+## Explanation and sub-questions
 
 The organizational culture and team expectations will affect the choices that people have about how they work, how they interact with others, and what support they need from methods and tools to support their work styles.
 
@@ -14,9 +15,9 @@ Think about:
 - Level of authority managers and leaders have;
 - Support to solo, pair and group working;
 - How teams are organized;
-- Level of confidence that teams have in their process. This might include maturity, assurance, experience level, support to grow that experiences/skills.
+- Level of confidence that teams have in their process. This might include maturity, assurance, experience level, support to grow experiences/skills.
 
-Research Point: we found that some testers had autonomy to choose their approaches and tools to fit within the wider business workflows, while for other testers the workflow involvement, approaches and tools were mandated by the organization. We found that some testers were frustrated by tools that prevented pair or team working. We found that use of pattern-matching and visualization increased with expertise. Nearly 20% of respndents asked about work style mentioned collaborative approaches between teams, and talked about pair or emsemble working.
+Research Point: we found that some testers had autonomy to choose their approaches and tools to fit within the wider business workflows, while for other testers the workflow involvement, approaches and tools were mandated by the organization. We found that some testers were frustrated by tools that prevented pair or team working. We found that use of pattern-matching and visualization increased with expertise. Nearly 20% of respondents, who were asked about work style, mentioned collaborative approaches between teams, and talked about pair or ensemble working.
 
 *``We usually have a fair amount of autonomy in selecting the tools and techniques we use, but there is also some "top down" process and guidance that influences our choices. We can usually push back on things that don't make sense in our context, though.''*
 
@@ -53,8 +54,12 @@ We have tabulated the [Quality in Use and Product Quality Attributes](Qualityatt
 
 ## Activities, tools and techniques to help answer the questions
 
+[Back to Top](#TopofPage)
+
 To understand what styles of working the tool must support, you will need to how the cultural context of the organization affects how people are enabled or blocked from taking different approaches.
 
 There are various ways of mapping leadership, management and followship styles, for example:
-- A [map of team autonomy versus organizational authority](https://leadership.org.au/) gives two dimensions to understand work styles that may be needed. For example, if teams are working collaboratively, then a tool would need to support multiple people beign assigned to a task.
+- A [map of team autonomy versus organizational authority](https://leadership.org.au/) gives two dimensions to understand work styles that may be needed. For example, if teams are working collaboratively, then a tool would need to support multiple people being assigned to a task.
 - Adding a third dimension to the map from [H09 - domain and workflow risk](H09-What-risks-are-associated-with-those-workflows.md) - could provide a rationale for how rigidly enforced or tailorable the workflows are.
+
+[Back to Top](#TopofPage)
