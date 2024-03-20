@@ -112,7 +112,7 @@ For example, if this tool is to be used in an organization that values a fast ti
 
 <a name="More"></a>     [Back to Top](#TopofPage)
 
-## More Details
+## More Information
 
 - [Standards and Reference Texts](#Std1)   
 - [Usability, Quality in Use, and the User Experience: how they relate together](#UI-LX1)   
