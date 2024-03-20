@@ -1,3 +1,4 @@
+<a name="TopofPage"></a>
 # H7 Where will the tool be used?
 [◄ Go back](README.md)
 
@@ -5,7 +6,7 @@ Theme: CONTEXT?
 
 Heuristic Question: Where will the tool be used?
 
-## Explanation and subquestions
+## Explanation and sub-questions
 
 The location may affect the ability of the person to use the tool. Location may be of the person, of the tool, of co-workers.
 
@@ -13,13 +14,13 @@ Think about: Individuals and teams may be working in different offices, at home,
 
 Research Point: We found that people were mandated to use tools that were not available to them because of their location. For example, tool behind a firewall, on different infrastructure, or even access given by job title rather than by need to access the tool. We also found that tools might be available, but not be findable by those who could benefit from them. 
 
-For example, of simple questions to gain insights, in one small study we asked 12 people working together on a project to rate their mobile and internet connctivity, and to list what devices and operating system platforms they would prefer to use.
+For example, of simple questions to gain insights, in one small study we asked 12 people working together on a project to rate their mobile and internet connectivity, and to list what devices and operating system platforms they would prefer to use.
 
 ![Piechart shows about one third of the team had poor connectivity and two thirds good connectivity][connectivitypie](connectivitypie.jpg)
 
 [connectivitypie]: connectivitypie.jpg
 
-![Bar chart shows just under 60% used Windoes, just over 40% Mac, and a small number Linux. Nearly 70% used a laptop or PC, just under 60% worked on their phone, just over 40% used an apple Mac, and around 15% used a tablet.][devicegraph](devicegraph.jpg)
+![Bar chart shows just under 60% used Windows, just over 40% Mac, and a small number Linux. Nearly 70% used a laptop or PC, just under 60% worked on their phone, just over 40% used an apple Mac, and around 15% used a tablet.][devicegraph](devicegraph.jpg)
 
 [devicegraph]: devicegraph.jpg
 
@@ -38,11 +39,14 @@ Key questions to ask yourself:
 
 
 ## Activities, tools and techniques to help answer the questions
+
+[Back to Top](#TopofPage)
+
 To understand where the tool will be used, you need to understand both its technical environment and the physical location of the people who will use it. 
 
-We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help wth context development. You may need to revisit your personas to strengthen them with localization points. Design a way for people to find the tool and its supporting training materials.**
+We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with context development. You may need to revisit your personas to strengthen them with localization points. Design a way for people to find the tool and its supporting training materials.**
 
-To help you here are some links to external articles that discuss some of the areas you might to consider adn some activities about the geographic, technical and physical location for the tool and its users that you may need to consider:
+To help you here are some links to external articles that discuss some of the areas you might to consider and some activities about the geographic, technical and physical location for the tool and its users that you may need to consider:
 - Understanding and designing to understand “Where” [is not a trivial challenge](https://www.nngroup.com/news/item/translastion-and-localization-world-tour-stockholm/). 
 - **Where: geography**
     - [Localization design](https://spotify.design/article/designing-for-the-world-an-introduction-to-localization)
@@ -56,3 +60,4 @@ To help you here are some links to external articles that discuss some of the ar
 - **Where: physical environment**
     - Map the physical locations where the tool may be used (inside, outside, challenging locations, etc) to focus on how rugged the tool needs to be
 
+[Back to Top](#TopofPage)
