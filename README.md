@@ -7,16 +7,27 @@ During evaluation of the heuristics, the repository will be frozen at the start 
 
 ## Heuristic questions
 H01. [Why do we need this tool?](H01-why-do-we-need-this-tool.md)
+
 H02. [Who will use or be affected by the tool?](H02-Who-will-use-or-be-affected-by-this-tool.md)
+
 H03. [What previous experiences do people bring to the tool](H03-What-previous-experiences-do-people-bring-to-the-tool.md)
+
 H04. [What communication needs or preferences do those people have?](H04-What-communication-needs-or-preferences-do-those-people-have.md)
+
 H05. [What learning perspectives and goals do those people bring?](H05-What-learning-perspectives-and-goals-do-those-people-bring.md)
+
 H06. [What learning preferences do those people have?](H06-What-learning-preferences-do-those-people-have.md)
+
 H07. [Where will the tool be used?](H07-Where-will-the-tool-be-used.md)
+
 H08. [What workflows will the tool be part of?](H08-What-workflows-will-the-tool-be-part-of.md)
+
 H09. [What risks are associated with those workflows?](H09-What-risks-are-associated-with-those-workflows.md)
+
 H10. [What work styles are acceptable in those workflows and teams?](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md)
+
 H11. [When will the tool be used?](H11-When-will-the-tool-be-used.md)
+
 H12. [How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)
 
 
