@@ -137,7 +137,7 @@ If you are evaluating for a team, take time to think about the *Who?* and *Conte
 
 You will probably cover the questions in the generic order. You might not do the activities yourself, but you may want to find out if your tool supplier has those UX activities in place. 
 
-When thinking about the goal for the tool, it is worth considering financial goals. In one case study during development of the heuristics, the participants discussed whether the licence costs for the tool were in conflict with their financial goal of cost saving. They ran an initial meeting for 30 minutes using the heuristics to consider ``shall we evaluate this tool at all?''  The heuristics can be used in this way to arrive at a shortlist of tools. 
+When thinking about the goal for the tool, it is worth considering financial goals. In one case study during development of the heuristics, the participants discussed whether the licence costs for the tool were in conflict with their financial goal of cost saving. They ran an initial meeting for 30 minutes using the heuristics to consider ``shall we evaluate this tool at all?''  Heuristics H01 and H02 can be used in this way to arrive at a shortlist of tools. 
 
 Here is an example of a small group of testers using the heuristics as a frame for choosing a new tool to use for organizing an event. 
 There are three diagrams, produced during the study, showing the build-up of information from planning, through collecting data, to analysing that and deciding on important characteristics for the tool.
