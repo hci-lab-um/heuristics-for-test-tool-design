@@ -10,7 +10,7 @@ H01. [Why do we need this tool?](H01-why-do-we-need-this-tool.md)
 
 H02. [Who will use or be affected by the tool?](H02-Who-will-use-or-be-affected-by-this-tool.md)
 
-H03. [What previous experiences do people bring to the tool](H03-What-previous-experiences-do-people-bring-to-the-tool.md)
+H03. [What previous experiences do people bring to the tool?](H03-What-previous-experiences-do-people-bring-to-the-tool.md)
 
 H04. [What communication needs or preferences do those people have?](H04-What-communication-needs-or-preferences-do-those-people-have.md)
 
