@@ -15,7 +15,9 @@ Think about:
 -	what problem the tool is intended to solve, and whether a tool is the best option for solving that problem. 
 -	the people who are testing and the organization, and how their (different) goals need supporting. 
 -	enablers and blockers to meeting those goals. 
--	both the testers and the organization have motivations to adopt or to resist a new tool, and these may be the same or may conflict. 
+-	both the testers and the organization have motivations to adopt or to resist a new tool, and these may be the same or may conflict.
+
+If you are tool designer or vendor, especially if you will not use the tool yourselves, you also want to ask this question as: **``Why do they need this tool?''** - where they are the people using the tool to support their testing, development or other work.
 
 Research Point: In the research leading to the design of these heuristics, we found there are often conflicting goals and expectations for the tools, and different perceptions of what problems needed resolving to enable improvement in working practices. Conflicting or unclear goals mean tool acquisition may be done in a short-term mindset. Tools may not even be the solution to the problem you are trying to address.
 
