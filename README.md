@@ -6,7 +6,7 @@ These 12 heuristic questions are intended to provoke thought and ideas when desi
 During evaluation of the heuristics, the repository will be frozen at the start of each case study/evaluation, and then changes made based on data from the evaluations, and from previous research to enrich the contents. Starting from a simple basis, the repository will grow over time.
 
 ## Heuristic questions
-H01. [Why do we need this tool?](H01-why-do-we-need-this-tool.md)
+H01. [Why do we need this tool?](H01-Why-do-we-need-this-tool.md)
 
 H02. [Who will use or be affected by the tool?](H02-Who-will-use-or-be-affected-by-this-tool.md)
 
