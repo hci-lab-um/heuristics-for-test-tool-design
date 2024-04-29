@@ -1,6 +1,6 @@
 <a name="TopofPage"></a>
 # SWOT analysis
-[◄ Go back to H01](H01-why-do-we-need-this-tool.md)
+[◄ Go back to H01](H01-Why-do-we-need-this-tool.md)
 
 [◄ Go back to README](README.md)
 
