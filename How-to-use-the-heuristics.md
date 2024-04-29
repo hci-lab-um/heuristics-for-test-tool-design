@@ -86,7 +86,7 @@ The sections below show some ways to use the heuristics:
 You are designing and building this tool for someone else to use. How well do you understand the people who will be affected?
 We found during the research that people *buying* tools often forget to ask *Why* they needed the tool, and people *building* tools often forgot to ask *Who for?*
 
-You might find it useful to start with the *Who?* questions and once you have identified your people, then ask *Why?* for each group of people.
+You might find it useful to start with the *Who?* questions and once you have identified your people, then ask *Why?* for each group of people. You will want to focus the *``Why?''* heuristic H01 on the people who will use the tool, but you also need to think about the goals for your commercial stakeholders.
 
 You need to think carefully about how long the tool will be maintained and supported, and the ROI on this process and for the tool.
 
@@ -100,7 +100,7 @@ You are designing and building this tool for someone else to use. How well do yo
 We found during the research that people *buying* tools often forget to ask *Why* they needed the tool, and people *building* tools often forgot to ask *Who for?*
 In this case you may also have other people taking part in building and maintaining the tool - designing for maintainability will be important.
 
-You might find it useful to start with the *who?* questions and once you have identified your people, then ask *Why?* for each group of people.
+You might find it useful to start with the *who?* questions and once you have identified your people, then ask *Why?* for each group of people. You need to focus the *``Why?''* heuristic H01 on the people how will use the tool, which may be yourself, and people with other requirements and preferences.
 
 You need to think carefully about how long the tool will be maintained and supported, and the ROI on this process and for the tool.
 
@@ -112,7 +112,7 @@ ROI may not be cash-related - think about how much time the community around the
 
 ### In-house test tools
 
-You probably know *why* you want to build this tool, possibly with yourself in mind as the primary person using the tool, but have you thought carefully about *who else* might want to use it and why they might want to use it?
+You probably know *why* you want to build this tool, possibly with yourself in mind as the primary person using the tool, but have you thought carefully about *who else* might want to use it and why they might want to use it? Those other people may have different answers to the *``Why?''* heuristic so think about it both as ``Why do we...?'' and ``Why do they...?''
 
 It could be *anyone in the organization* which might be too hard to think about, so instead we use personas or archetypes to help us think about groups of people, and the different contexts in which they will use the tool.
 
@@ -133,7 +133,7 @@ Start with the *Why?* question H01.
 
 If you are only evaluating the tool for yourself, use the questions to help you think about whether there are topics where you need to dig deeper. You may want the evaluation process to be quite quick - just good enough.
 
-If you are evaluating for a team, take time to think about the *Who?* and *Context?* heuristic questions.
+If you are evaluating for a team, take time to think about the *Who?* and *Context?* heuristic questions, and consider that they may have different answers to H01 *``Why?''*.
 
 You will probably cover the questions in the generic order. You might not do the activities yourself, but you may want to find out if your tool supplier has those UX activities in place. 
 
