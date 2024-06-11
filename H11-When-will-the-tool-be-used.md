@@ -40,6 +40,7 @@ Key questions to ask yourself:
 - Do some people need longer to complete tasks perhaps because of accessibility requirements and use of assistive technology to engage with the tool?
 - Are tasks supported by the tool contiguous or broken with time gaps in the workflow?
 - Do tasks need to be done repeatedly, perhaps updating an artefact without losing its history? How will you design in maintainability of the tests and related artefacts?
+- Are there any situational impacts for different users e.g. a business tester might not be in an office - may be in a reactive or distracting environment, therefore doing this testing between other business tasks - the answer to `When?' may be `intermittantly in gaps between other tasks'.
 
 ## Activities, tools and techniques to help answer the questions
 
