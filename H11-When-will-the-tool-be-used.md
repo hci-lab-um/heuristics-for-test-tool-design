@@ -41,6 +41,7 @@ Key questions to ask yourself:
 - Are tasks supported by the tool contiguous or broken with time gaps in the workflow?
 - Do tasks need to be done repeatedly, perhaps updating an artefact without losing its history? How will you design in maintainability of the tests and related artefacts?
 - Are there any situational impacts for different users e.g. a business tester might not be in an office - may be in a reactive or distracting environment, therefore doing this testing between other business tasks - the answer to `When?' may be `intermittantly in gaps between other tasks'.
+- Will any of the tool users need to split tasks down either to complete them in intermittant bursts of work, or because an activity - for example running a test - may be started by one person and handed over to another person to complete it?
 
 ## Activities, tools and techniques to help answer the questions
 
