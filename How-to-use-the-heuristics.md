@@ -16,6 +16,7 @@ This is followed by sections that suggest how to use the heuristics in several c
 - if you are a [tool vendor designing or building a test tool](#Tool-vendor-designing-or-building-a-test-tool);
 - if you are designing or building an [open-source test tool](#Open-source-test-tool-design-and-build);
 - if you are designing or building a test tool to be used by you or your team [in-house](#In-house-test-tools);
+- if you [maintaining or making changes to a tool](#Using the Heuristics to Support Changes and Maintenance Decisions) you may find you need a subset, but that is very context dependent!
 - if you are using the heuristics to help you [choose or evaluate a test tool](#Evaluating-or-choosing-a-test-tool).
 
 ## Generic use
@@ -121,6 +122,12 @@ If you are building the tool just for yourself, read the 12 heuristic questions,
 If you are building a tool for your team to use, discuss the 12 heuristic questions together and use them to guide the design.  Suggest you set a time box for the discussion and from that decide on the ROI for this process - how much time do you need to spend on the tool design? Drop into the detailed explanations for each heuristic to pick up on activities that look particularly pertinent.
 
 If you are building a tool for multiple teams, to use across the organization, then you need to spend time on the design, do some of the suggested activities to understand the personas in your organization, and their various contexts. Follow the generic order for the questions, including the loopbacks between questions that you will find in the detailed explanations.
+
+[Back to Top](#TopofPage)
+
+###Using the Heuristics to Support Changes and Maintenance Decisions
+We found when evaluating the heuristics in the industry case studies that teams maintaining tools or mature automation suites found they already had discussed some of the heuristics topics. However, which ones they needed to disucss in detail was *very* context dependent even within one organization. It was useful for these groups to have an initial meeting where they discussed all the heuristics fairly quickly to select which ones to then discuss in detail. One case study participant noted that their team had been: ``working together for years'' so they had a through understanding of each other and of the people using the automation, including their communication and learning preferences; they noted ``if a new person joined, it would be different.'' 
+
 
 [Back to Top](#TopofPage)
 
