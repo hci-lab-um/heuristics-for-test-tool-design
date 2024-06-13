@@ -3,6 +3,8 @@ _Developed by: [Isabel Evans](mailto:isabel.evans.17@um.edu.mt) - University of 
 
 These 12 heuristic questions are intended to provoke thought and ideas when designing or choosing a test tool. Elsewhere in this repository are explanations and action lists for each heuristic, plus background to the research. 
 
+A [quick checklist of the heuristics](Heuristics-list-for-quick-meeting.pdf) is available, and can be used to start a conversation before deep diving into this repository.
+
 During evaluation of the heuristics, the repository will be frozen at the start of each case study/evaluation, and then changes made based on data from the evaluations, and from previous research to enrich the contents. Starting from a simple basis, the repository will grow over time.
 
 ## Heuristic questions
