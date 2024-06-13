@@ -17,7 +17,8 @@ This is followed by sections that suggest how to use the heuristics in several c
 - if you are designing or building an [open-source test tool](#Open-source-test-tool-design-and-build);
 - if you are designing or building a test tool to be used by you or your team [in-house](#In-house-test-tools);
 - if you [maintaining or making changes to a tool](#Using the Heuristics to Support Changes and Maintenance Decisions) you may find you need a subset, but that is very context dependent!
-- if you are using the heuristics to help you [choose or evaluate a test tool](#Evaluating-or-choosing-a-test-tool).
+- if you are using the heuristics to help you [choose or evaluate a test tool](#Evaluating-or-choosing-a-test-tool);
+- if you are working in an organization that has [high level of understanding and maturity in its UX practices](#UX Maturity and the Heuristics).
 
 ## Generic use
 
@@ -172,5 +173,11 @@ We decided on a mixture of individual questions with Lickert Scales, card sorts,
 [cs1-c]: cs1-c.jpg
 
 In this small study, we used an early version of the heuristics, and they were refined as a result, so the mapping is indicative rather than exact. The whole process took about 4 hours over 2 days for the group to collect and discuss the data and another 4 hours afterwards for one person to make the analysis and come up with the diagrams and a list of requirements for the tool.
+
+[Back to Top](#TopofPage)
+
+###UX Maturity and the Heuristics
+
+We found in the Case Studies that if an organization is mature in its appraoch to UX that some of the heuristics are embedded in how people think about the design of tools. In this case you might find it useful to concentrate on the ``else'' variants of the subquestions to challenge preconceptions: Why else? Who else? Where else? and so on. Additionally you will find you can quickly assess which of the heuristics will add most value to your discussion, and  
 
 [Back to Top](#TopofPage)
