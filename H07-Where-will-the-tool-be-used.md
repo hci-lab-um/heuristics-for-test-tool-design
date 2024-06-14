@@ -32,14 +32,17 @@ Key questions to ask yourself:
     - Are teams working across different physical locations?
     - Have you considered country/cultural differences e.g. character sets, currencies, use of color and symbols, translations?
     - Have you considered writing/reading direction (left to right, right to left, top to bottom)?
+    - Where else might the teams be who use the tool?
 - Technical environment:
     - Will the tool work with intermittent or no connectivity (e.g. if used on transport)?
     - What infrastructure / technical environment are different people working on?
     - Is the tool findable?
     - Is it findable in the place people want to use it?
+    - Where else might the tool need to be accessed from?
 - Physical environment:
     - Is it usable in different physical environments (light and noise levels may affect usability)?
     - Are there interruptions inherent in the environment where the tool will be used - perhaps because people are in their workplace rather than a test lab?
+    - Where else might the tool be used?
 
 
 ## Activities, tools and techniques to help answer the questions
