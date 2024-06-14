@@ -18,28 +18,38 @@ This is followed by sections that suggest how to use the heuristics in several c
 - if you are designing or building a test tool to be used by you or your team [in-house](#In-house-test-tools);
 - if you [maintaining or making changes to a tool](#Using the Heuristics to Support Changes and Maintenance Decisions) you may find you need a subset, but that is very context dependent!
 - if you are using the heuristics to help you [choose or evaluate a test tool](#Evaluating-or-choosing-a-test-tool);
-- if you are working in an organization that has [high level of understanding and maturity in its UX practices](#UX Maturity and the Heuristics).
+- if you are working in an organization that has [high level of understanding and maturity in its UX practices](#UX-Maturity-and-the-Heuristics);
+- some differences in usage depending on [organization size and location of team members](#Organization-Size-Team-Location-and-the-Heuristics);
+- some [unexpected uses for the heuristics](#Other-uses-for-the-heuristics) that our case study particpants mentioned!
 
-## Generic use
+You might want to time box how long you spend on each theme, explore them, and then decide whether to allow more time to work imore deeply on discovery activities. One person who [used a cut-down version of the heuristics as a simple checklist for part of a workshop](https://huddle.eurostarsoftwaretesting.com/ladybug-open-source-project-kick-off/) said *"They just help you talk about things."* You can keep it as simple as that!
+
+You might want to adopt them as an agenda for a planning meeting, or as a checklist to aid fast insights, to help you decide which heuristics you want to use for a deep dive. Timebox that activity. 
 
 [Back to Top](#TopofPage)
 
-### Flowchart through the Heuristics
+## Generic Use - Flowcharts through the Heuristics
 
 The heuristics group into three themes: Why? Who? and Context?
 
-NB: you might want to time box how long you spend on each theme, explore them, and then decide whether to allow more time to work more deeply on discovery activities. One person who [used a cut-down version of the heuristics as a simple checklist for part of a workshop](https://huddle.eurostarsoftwaretesting.com/ladybug-open-source-project-kick-off/) said *"They just help you talk about things."* You can keep it as simple as that!
+### Flowchart focused on the "Why?" Heuristic
 
-**When you start to use the heuristics you might want to adopt them as an agenda for a planning meeting, or as a checklist to aid fast insights, to help you decide which heuristics you want to use for a deep dive. Timebox that activity. **
+<details close>
+<summary>Why? flowchart</summary>
 
 Generally, you would start with answering the question "Why do we need this tool?" then move on to consider the group of "Who?" questions, and finally look at the Context questions. However, information you find out from the "Who?" and "Context?" questions mean you may need to revisit "Why?", because different stakeholders you identify may have different goals in different contexts. You need to iterate between "Why?" and "Who?". The flowchart summarises this.
 ![Flowchart showing the "Why?" question is followed by the "Who?" questions and then the "Context?" questions, with loopbacks to the "Why?" question.][flow2](h-flow2.jpg)
 
 [flow2]: h-flow2.jpg
 
+</details>
+
 [Back to Top](#TopofPage)
 
 ### Flowchart focused on the "Who?" Heuristics
+
+<details close>
+<summary>Who? flowchart</summary>
 
 Heuristics H02 to H06 are people-focused questions we found were often not considered and which appeared from our research data to be important factors in understanding testers' characteristics. Add this information to the data you already have about people for whom you are designing the tool. The flowchart summarizes the generic order for addressing this group of heuristics and how they fit with the other heuristic themes with iteration between the themes.
 
@@ -47,15 +57,23 @@ Heuristics H02 to H06 are people-focused questions we found were often not consi
 
 [flow3]: h-flow3.jpg
 
+</details>
+
 [Back to Top](#TopofPage)
 
 ### Flowchart focused on the "Context?" Heuristics
+
+<details close>
+<summary>Context? flowchart</summary>
 
 Heuristics H07 to H12 cover questions about the contexts within which your stakeholders work. They are aspects to the context that we found affect how people are enabled or blocked in their engagement with and use of tools. Add this information to the data you already have about the contexts within which people work and consider how this affects your design of the tool. The flowchart summarizes the generic order for addressing this group of heuristics and how they fit with the other heuristic themes with iteration between the themes.
 
 ![Flowchart showing that the Context questions start with a general "Where?" question, followed by 5 questions to understand more about the context: the workflows, risks, work styles, when the tool will be used, and how long for.  There are iterative loops between the "Context?" questions and back to the "Why?" question.][flow4](h-flow4.jpg)
 
 [flow4]: h-flow4.jpg
+
+</details>
+
 
 [Back to Top](#TopofPage)
 
@@ -128,7 +146,7 @@ If you are building a tool for multiple teams, to use across the organization, t
 
 [Back to Top](#TopofPage)
 
-###Using the Heuristics to Support Changes and Maintenance Decisions
+### Using the Heuristics to Support Changes and Maintenance Decisions
 We found when evaluating the heuristics in the industry case studies that teams maintaining tools or mature automation suites found they already had discussed some of the heuristics topics. However, which ones they needed to disucss in detail was *very* context dependent even within one organization. It was useful for these groups to have an initial meeting where they discussed all the heuristics fairly quickly to select which ones to then discuss in detail. One case study participant noted that their team had been: ``working together for years'' so they had a through understanding of each other and of the people using the automation, including their communication and learning preferences; they noted ``if a new person joined, it would be different.'' 
 
 
@@ -148,6 +166,9 @@ If you are evaluating for a team, take time to think about the *Who?* and *Conte
 You will probably cover the questions in the generic order. You might not do the activities yourself, but you may want to find out if your tool supplier has those UX activities in place. 
 
 When thinking about the goal for the tool, it is worth considering financial goals. In one case study during development of the heuristics, the participants discussed whether the licence costs for the tool were in conflict with their financial goal of cost saving. They ran an initial meeting for 30 minutes using the heuristics to consider ``shall we evaluate this tool at all?''  Heuristics H01 and H02 can be used in this way to arrive at a shortlist of tools. 
+
+<details close>
+<summary>Mini usage case</summary>
 
 Here is an example of a small group of testers using the heuristics as a frame for choosing a new tool to use for organizing an event. 
 There are three diagrams, produced during the study, showing the build-up of information from planning, through collecting data, to analysing that and deciding on important characteristics for the tool.
@@ -174,10 +195,33 @@ We decided on a mixture of individual questions with Lickert Scales, card sorts,
 
 In this small study, we used an early version of the heuristics, and they were refined as a result, so the mapping is indicative rather than exact. The whole process took about 4 hours over 2 days for the group to collect and discuss the data and another 4 hours afterwards for one person to make the analysis and come up with the diagrams and a list of requirements for the tool.
 
+
+</details>
+
+
+
 [Back to Top](#TopofPage)
 
-###UX Maturity and the Heuristics
+### UX Maturity and the Heuristics
 
-We found in the Case Studies that if an organization is mature in its appraoch to UX that some of the heuristics are embedded in how people think about the design of tools. In this case you might find it useful to concentrate on the ``else'' variants of the subquestions to challenge preconceptions: Why else? Who else? Where else? and so on. Additionally you will find you can quickly assess which of the heuristics will add most value to your discussion, and  
+We found in the Case Studies that if an organization is mature in its appraoch to UX that some of the heuristics are embedded in how people think about the design of tools. In this case you might find it useful to concentrate on the ``else'' variants of the subquestions to challenge preconceptions: Why else? Who else? Where else? and so on. Additionally you will find you can quickly assess which of the heuristics will add most value to your discussion, and then deep dive into those. 
+
+[Back to Top](#TopofPage)
+
+### Organization Size, Team Location, and the Heuristics
+
+We found in the Case Studies that if an organization is small and co-located so that person to person communication is easy that the heuristics can be used very informally, perhaps with a checklist on the wall.
+In larger organizations, or where multiple organizations are involved, or with geographical separation of team members, communications may need to be controlled more formally. Using the heuristics as an agenda for a meeting may be a useful starting point.
+
+[Back to Top](#TopofPage)
+
+### Other uses for the heuristics
+
+Some of our case study participants discussed using the heuristics to manage discussions about tools in use or changes to tools and automation suites. The examples are:
+
+- using the heurisitics during on-boarding team members to help them understand design decisions made for automation suites and tools
+- using the heuristics dring discussions with stakeholders such as customers to enure that the requirements for the tool were clear both for the customers and for the end users of the tool
+
+  One participant said ``it is a way to guide the discussion and open up the discussion''
 
 [Back to Top](#TopofPage)
