@@ -19,6 +19,9 @@ Think about:
 
 Research Point: we found that managers we interviewed had the goal of people learning just enough and coming “up to speed” and complete specific tasks. We found that test practitioners ranged in goals from task-based fast learning to wishing to study to get mastery of a tool.
 
+<details close>
+<summary>Research quotes from testers</summary>
+
 *``We live in a world where people have very little time to learn how to do things''*
 
 *``they are expected to figure it out quick and do it''*
@@ -30,6 +33,8 @@ Research Point: we found that managers we interviewed had the goal of people lea
 *`` How do they judge when they can stop learning?''*
 
 *``Will there be any training time?''*
+
+</details>
 
 Key questions to ask yourself:
 - are people more focused on the task in hand or moving to the big picture?
