@@ -17,6 +17,10 @@ Think about:
 
 Research Point: We found that testers reported tools not supporting their workflow and feeling that unsuitable workflows had been imposed on their work. Workflows in tools did not always support preferred working practices, and sometimes were barriers to progress rather than enablers. Not having a choice can be a blocker, but sometimes it is essential.  
 
+<details close>
+<summary>Research quotes from testers</summary>
+
+
 *"Some workflows are imposed as we don’t want the users to use their initiative and ‘improve’ the workflow but miss an important step (to someone else) they were unaware was important.  Other workflows do not follow preferred working practices due to technical/cost constraints. Workflow modelling is REALLY important in tool design and the workflows need to be modelled so that the tool designers are clear on what is optional and what is not, so that they can make compromises when implementing the workflow (e.g. based on tool costs, workflow time constraints, etc.)."* 
 
 *``supports your workflow vs forcing you to change. People > process/tools''*
@@ -28,6 +32,11 @@ Research Point: We found that testers reported tools not supporting their workfl
 *``Too many of the testing tools, particularly "test management" or "test case management" tools that I've seen try to dictate the whole workflow for using them. For example, you might have to create your test cases in advance, assign them, group them, etc., which makes it very difficult if you want a more dynamic approach.''*
 
 *``we don't have a "this is how we always do it" mentality, we take each feature and decide how it makes the most sense to test it based on our context (complexity of the feature, experience and availability of team members, tools available, schedule, risk, etc.) We also don't tend to bucket our testing into things like "API testing", "UI testing", etc. because we've found that we get more value out of mixing approaches that have traditionally been over-segregated.''*
+
+
+</details>
+
+
 
 Key questions to ask yourself:
 - What choices about their work practices and workflow contributions should individuals and teams have?
