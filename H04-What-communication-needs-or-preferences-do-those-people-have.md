@@ -23,6 +23,9 @@ Research Point: we found that people using test tools have a wide variety of com
 - people varied in how much they wanted to work alone and how much with others.
 Look at the different communication styles coming out in answer to a question about what activities they do in their role:
 
+<details close>
+<summary>Research Quotes from Testers</summary>
+
 *``I am the listening ear for some people in the team. No role, not official. People need to talk to someone that is listening and if they want come with advice.  I make time for people.''*
 
 *``I pair and ensemble a lot. ... I build networks of communication, facilitate peer to peer learning by introducing people and hold spaces where people share their work. I do a lot of exploratory testing and automate while exploring. I manage expectations of management, and optimize schedules.''*
@@ -35,6 +38,10 @@ Look at the different communication styles coming out in answer to a question ab
 
 *``It’s been… there’s no source of truth – if you want to know how projects are doing you have to look in 4 or 5 places''*
 
+</details>
+
+
+
 Key questions to ask yourself:
 - have you considered what type of communication people may require depending on their role, their place in the workflow, accessibility needs, persona preferences, level of detail needed, types of decision they are making?
 - what level of detail are the people comfortable with and does that change with event, or role? 
@@ -42,6 +49,20 @@ Key questions to ask yourself:
 - how do people prefer to receive and to provide information (e.g. pace of information delivery, e.g. preferred media, e.g. focus on outcome versus focused on people)?
 - what different media are required to maximise accessibility?
 - what situational differences may the people using the tool experience - for example testing may not be their full time role. They may be testing between jobs in an office, in a warehouse, in a hospital - these are all real example we came across when developing the heuristics. The testers may need to start and stop testing as they are interrupted by higher priority tasks (their "real work") and may need share a set of tests between them as they move between tasks as a team.
+
+
+
+<details >close
+<summary>mini usage case</summary>
+
+When will the tool be used? For one organization we spoke with, this was particularly interesting - testing took place not just in the office, but in noisy and stressful work environments, and tests could be started by one person and completed by another becuase of work interruptions, sickness, and other factors.  We found examples of testers whose main job was as medical staff in ahospital or operatives in a warehouse: as business testers they still needed to use the test tool, but were not in the test lab.
+
+</details>
+
+
+
+
+
 
 ### Accessibility
 
