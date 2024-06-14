@@ -17,9 +17,16 @@ Think about:
 -	enablers and blockers to meeting those goals. 
 -	both the testers and the organization have motivations to adopt or to resist a new tool, and these may be the same or may conflict.
 
-If you are tool designer or vendor, especially if you will not use the tool yourselves, you also want to ask this question as: **``Why do they need this tool?''** - where they are the people using the tool to support their testing, development or other work. The vendor, user and customer may alll have different answers to the question ``Why?''
+If you are tool designer or vendor, especially if you will not use the tool yourselves, you also ask this question as:
+``Why do *they* need this tool?'' 
+They might be different users, different customers, and other stakeholders.
+
+Also ask ``Why else?''
 
 Research Point: In the research leading to the design of these heuristics, we found there are often conflicting goals and expectations for the tools, and different perceptions of what problems needed resolving to enable improvement in working practices. Conflicting or unclear goals mean tool acquisition may be done in a short-term mindset. Tools may not even be the solution to the problem you are trying to address.
+
+<details close>
+<summary>Research quotes from testers</summary>
 
 *``There may be several organizations - even within one organization - with conflicting goals for the same tool [example given of password control tool] Audit versus Dev may have different views about how that might be used''*
 
@@ -28,6 +35,8 @@ Research Point: In the research leading to the design of these heuristics, we fo
 *``change always comes with some resistance, Discussing and setting a clear, shared goal we got a better understanding and purpose to find energy and time and money to finish the transition''*
 
 *`` I would suggest we stop seeing tools as our main goal that will save us, or do the job for us''*
+
+</details>
 
 Key questions to ask yourself:
 -	Is there a problem to solve?
