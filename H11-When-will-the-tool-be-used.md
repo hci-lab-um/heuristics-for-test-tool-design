@@ -22,6 +22,8 @@ Think about:
 
 Research Point: we found that participants were frustrated by tools slowing down their work. We found participants with accessibility requirements could be slowed or blocked by the test tool not playing well with the assistive technology. We found participants had different views on all these points, depending on the domains and work styles they had encountered.
 
+<details close> <summary>Research quotes from testers</summary>
+  
 *``initially easy to use but impossible to maintain''*
 
 *``We decided it would be too much effort to implement and maintain alongside our ... gui tests''*
@@ -31,6 +33,8 @@ Research Point: we found that participants were frustrated by tools slowing down
 *``...running the tests is quite easy. The difficult part is maintaining the tests when it grows massively''*
 
 *``a decision reversed''* about implementing a requested tool and then a new one immediately being chosen by management...
+
+</details>
 
 Key questions to ask yourself:
 - When during the product lifetime (PL) and during the software development lifecycle (SDLC) is the tool used?
@@ -42,6 +46,14 @@ Key questions to ask yourself:
 - Do tasks need to be done repeatedly, perhaps updating an artefact without losing its history? How will you design in maintainability of the tests and related artefacts?
 - Are there any situational impacts for different users e.g. a business tester might not be in an office - may be in a reactive or distracting environment, therefore doing this testing between other business tasks - the answer to `When?' may be `intermittantly in gaps between other tasks'.
 - Will any of the tool users need to split tasks down either to complete them in intermittant bursts of work, or because an activity - for example running a test - may be started by one person and handed over to another person to complete it?
+
+<details close> <summary>Mini usage case</summary>
+In one case study, the organization was working with SAAS software. They commented that although asking when during the SDLC the tool is used is a useful question, for their context a more useful question could be 
+ <i>``Do some tasks need longer to complete (causing the tasks to be split up over a longer time period)?’’ </i>
+ They said ``Tool is sometimes used for a specific project, after which usage drops or ends. ... mainly used for testing projects, as well as testing managed applications. As a SaaS tool, we keep developing in order for the application to stay relevant and prolong the tool’s life span indefinitely.''
+ The way the tool is delivered changes the design decisions and which heuristics/questions are relevant. This affected how H11 and H12 were used in this orgaization.
+  
+</details>
 
 ## Activities, tools and techniques to help answer the questions
 
