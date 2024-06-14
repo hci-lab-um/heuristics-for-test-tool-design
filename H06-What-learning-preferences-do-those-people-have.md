@@ -19,11 +19,21 @@ Think about:
 
 Research Point: we found that people expressed a range of preferences for how to learn – for example whether solo or in pairs, prefer media, whether guided or exploratory AND that these did not necessarily match with their general problem-solving preferences. We also found that people had very little time allowed for learning and development.
 
+<details cose>
+<summary>Research quotes from testers</summary>
+
+
 *``videos and training courses waste my time ... videos are too slow ... skimming text is quicker''*
 
 *``video over text - small bites''*
 
 *``learning materials not always appropriate [lots of self study in the organization, very narrow in how it manages learning preferences] to read or video [is] too limited / too narrow [they] try to choose one size fits all''*
+
+
+</details>
+
+<details close>
+<summary>Mini usage case</summary>
 
 In one trial of the heuristics, we asked a group of people who were choosing a tool to enable their team to work together about learning and problem solving preferences. We found a wide range of preferences across solo and group learning, and that these were not the same as problem solving preferences. The graph shows that some of the people in the group preferred to learn solo, even if they preferred team problem solving. Similarly there was a range of responses to whether learning was best done practical/exploratory or guided/reading/theory. Note that this is true for this specific group; it may not be generally true.  
 
@@ -31,6 +41,12 @@ In one trial of the heuristics, we asked a group of people who were choosing a t
 ![graph shows preference for learning solo or team drop from 40% preferring solo learning down to none preferring all team learning. Preference of 50% of participants to have mix of learning by doing and through theory. Problem solving preferences are more team based and about the same for exploratory versus guided/theory.][learningpref](learning-pref-graph.jpg)
 
 [learningpref]: learning-pref-graph.jpg
+
+</details>
+
+
+
+
 
 Key questions to ask yourself:
 - have you considered solo and group learning routes?
