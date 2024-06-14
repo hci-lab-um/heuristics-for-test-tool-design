@@ -19,6 +19,10 @@ Think about:
 
 Research Point: we found that some testers had autonomy to choose their approaches and tools to fit within the wider business workflows, while for other testers the workflow involvement, approaches and tools were mandated by the organization. We found that some testers were frustrated by tools that prevented pair or team working. We found that use of pattern-matching and visualization increased with expertise. Nearly 20% of respondents, who were asked about work style, mentioned collaborative approaches between teams, and talked about pair or ensemble working.
 
+<details close>
+<summary>Research quotes from testers</summary>
+
+
 *``We usually have a fair amount of autonomy in selecting the tools and techniques we use, but there is also some "top down" process and guidance that influences our choices. We can usually push back on things that don't make sense in our context, though.''*
 
 *``The team’s main drivers are freedom, challenge, focus on results and continuous improvement.''*
@@ -38,6 +42,9 @@ Research Point: we found that some testers had autonomy to choose their approach
 *``Tools and techniques are selected at an organizational level [a limitation is that I need] some admin access to allow me to do my implementations properly''*
 
 *``Any tool can present challenges for a really complicated product. As long as the team is free to adapt and adopt new tools if needed, we can work around the limitations.''*
+
+</details>
+
 
 Key questions to ask yourself:
 - Are people working solo, paired and/or in groups?
