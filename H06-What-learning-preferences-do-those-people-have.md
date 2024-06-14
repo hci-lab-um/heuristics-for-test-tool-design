@@ -29,8 +29,26 @@ Research Point: we found that people expressed a range of preferences for how to
 
 *``learning materials not always appropriate [lots of self study in the organization, very narrow in how it manages learning preferences] to read or video [is] too limited / too narrow [they] try to choose one size fits all''*
 
-
 </details>
+
+Key questions to ask yourself:
+- have you considered solo and group learning routes?
+- have you considered what mix of theory, practice, guided and exploratory learning is appropriate?
+- have you considered learning and help materials in different media?
+- have you considered both face to face and remote learning?
+- have you considered how mentoring, coaching, listening and doing might be included?
+- have you considered how self-help learning might be used?
+- have you considered how to train the trainers, coaches and mentors?
+- what might affect people's learning preferences because of situational, temporary or permanent access needs or disability?
+- what else might inhibit or enhance their learning? 
+
+## Activities, tools and techniques to help answer the questions
+
+[Back to Top](#TopofPage)
+
+To understand *Who learns how* you need to understand their different learning preferences.  
+Some people prefer solo and group/pair learning.  People will need theory, practice, exploring, and guided learning. People may have preferences or needs for different media.
+For your personas you could ask a representative group if they prefer team or solo learning, and what mix of exploratory versus guided/theory learning they prefer, or you could provide a range of answers across your personas. 
 
 <details close>
 <summary>Mini usage case</summary>
@@ -42,28 +60,6 @@ In one trial of the heuristics, we asked a group of people who were choosing a t
 
 [learningpref]: learning-pref-graph.jpg
 
-</details>
-
-
-
-
-
-Key questions to ask yourself:
-- have you considered solo and group learning routes?
-- have you considered what mix of theory, practice, guided and exploratory learning is appropriate?
-- have you considered learning and help materials in different media?
-- have you considered both face to face and remote learning?
-- have you considered how mentoring, coaching, listening and doing might be included?
-- have you considered how self-help learning might be used?
-- have you considered how to train the trainers, coaches and mentors?
-
-## Activities, tools and techniques to help answer the questions
-
-[Back to Top](#TopofPage)
-
-To understand *Who learns how* you need to understand their different learning preferences.  
-
-Some people prefer solo and group/pair learning.  People will need theory, practice, exploring, and guided learning. People may have preferences or needs for different media.
 To get the results in the graph above, we asked four questions on a Lickert Scale:
 
 - 	when learning something new	do you prefer learning more solo	or more in a team?
@@ -71,7 +67,8 @@ To get the results in the graph above, we asked four questions on a Lickert Scal
 - 	when learning something new	learning do you prefer more doing/ practice	or more reading/theory?
 - 	when solving problems	do you prefer problem solving more by exploring/doing	or more by following theory/rules?
 
-For your personas you could ask a representative group if they prefer team or solo learning, and what mix of exploratory versus guided/theory learning they prefer, or you could provide a range of answers across your personas. 
+</details>
+
 
 We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help wth persona development.**
 
