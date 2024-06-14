@@ -18,12 +18,16 @@ Think about:
 
 Research Point: we found that people using the tools were not always the people who had acquired the tools, and that tooling solutions could be seen as imposed and inappropriate.
 
+<details close>
+<summary>Research quotes from testers</summary>
+
 *``In my experience end users almost never use these tools [instead they use a spreadsheet giving the tester the task of prepping the spreadsheet for users] prefer simpler interface for users - upload or import is something that that is  but I would even more like a simplifies interface for users to use … instead of having to log into this tool and being in the domain of the IT supplier''*
 
 *``[as well as test specialists] PO's, users, developers, service people [will all use a defect management tool] and management want access but I'm not sure what they want''*
 
 *``I wanted to solve this one problem for myself ... As I shared it with people who had different skill levels, different preferences they had exactly the opposite ideas about what it should support, how it should it be used ...    Completely different audience''*
 
+</details>
 
 Key questions to ask yourself:
 -	Who (else) will use the tool?
@@ -35,6 +39,7 @@ Key questions to ask yourself:
 - 	Who will design, build and maintain the tool?
 - 	Who will choose the tool?
 -	Is it for you or someone else to use?
+-	Who else will want to use it or be affected by it?
 
 
 ## Activities, tools and techniques to help answer the questions
