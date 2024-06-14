@@ -43,6 +43,7 @@ Key questions to ask yourself:
 - Will the usage of the tool change over time?
 - How long will the tool be maintained for and who will do that maintenance?
 - Is this a free tool or a paid-for tool? What investment is required in time/effort to get it implemented and in use, on top of any financial cost: ROI can be about more than cash.
+- What else is affected by the tool's planned life expectancy?
 
 <details close> <summary>Mini usage case</summary>
 In one case study, the organization was working with SAAS software. They commented that although asking when during the SDLC the tool is used is a useful question, for their context a more useful question could be 
