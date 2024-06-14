@@ -12,9 +12,10 @@ The location may affect the ability of the person to use the tool. Location may 
 
 Think about: Individuals and teams may be working in different offices, at home, on customer sites, in different countries, in different time zones, behind firewalls, indoors or outdoors, in quiet or noisy environments.
 
-Research Point: We found that people were mandated to use tools that were not available to them because of their location. For example, tool behind a firewall, on different infrastructure, or even access given by job title rather than by need to access the tool. We also found that tools might be available, but not be findable by those who could benefit from them. 
-
-For example, of simple questions to gain insights, in one small study we asked 12 people working together on a project to rate their mobile and internet connectivity, and to list what devices and operating system platforms they would prefer to use.
+Research Point: We found that people were mandated to use tools that were not available to them because of their location. For example, tool behind a firewall, on different infrastructure, or even access given by job title rather than by need to access the tool. We also found that tools might be available, but not be findable by those who could benefit from them. Sipple questions help you gain insights.
+<details close>
+<summary>mini usage case</summary>
+An example of simple questions to gain insights, in one small study we asked 12 people working together on a project to rate their mobile and internet connectivity, and to list what devices and operating system platforms they would prefer to use.
 
 ![Piechart shows about one third of the team had poor connectivity and two thirds good connectivity][connectivitypie](connectivitypie.jpg)
 
@@ -23,6 +24,8 @@ For example, of simple questions to gain insights, in one small study we asked 1
 ![Bar chart shows just under 60% used Windows, just over 40% Mac, and a small number Linux. Nearly 70% used a laptop or PC, just under 60% worked on their phone, just over 40% used an apple Mac, and around 15% used a tablet.][devicegraph](devicegraph.jpg)
 
 [devicegraph]: devicegraph.jpg
+
+</details>
 
 Key questions to ask yourself:
 - Geography:
@@ -36,6 +39,7 @@ Key questions to ask yourself:
     - Is it findable in the place people want to use it?
 - Physical environment:
     - Is it usable in different physical environments (light and noise levels may affect usability)?
+    - Are there interruptions inherent in the environment where the tool will be used - perhaps because people are in their workplace rather than a test lab?
 
 
 ## Activities, tools and techniques to help answer the questions
