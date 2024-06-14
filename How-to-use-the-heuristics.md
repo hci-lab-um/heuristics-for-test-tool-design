@@ -26,6 +26,8 @@ You might want to time box how long you spend on each theme, explore them, and t
 
 You might want to adopt them as an agenda for a planning meeting, or as a checklist to aid fast insights, to help you decide which heuristics you want to use for a deep dive. Timebox that activity. 
 
+You can also make your organization a tailored heuristics checklist based on these heuristics and the sub-questions under each heuristic - we've found that dpending on context sometimes people have extra subquestions and want to split one main heuristics into two, or that they feel they have a good understanding in a particular area and want to con=mbine heuristics. If you do this, we recommend you come back to the orginal list and review your choices periodically, to make sure you are still on track.
+
 [Back to Top](#TopofPage)
 
 ## Generic Use - Flowcharts through the Heuristics
