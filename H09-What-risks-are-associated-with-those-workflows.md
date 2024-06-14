@@ -53,6 +53,8 @@ Key questions to ask yourself:
 - Have you considered risks associated with where in the technology stack the tool will be used, and risks associated with transferring information across the technology stack?
 - Have you considered risks associated with robustness of workflows, approaches and methods supported by the tool (depending on context risks may arise from either underdone or overdone levels of control - different risks that need to be balanced)?
 - If this tool design and build is a side project, think about risks associated with maintaining it over time as a side project.
+- Who else and what else is affected risks arising from this tool or these workflows?
+- Who else and what else is affected by risks mitigated by this tool or these workflows? 
 
 ## Activities, tools and techniques to help answer the questions
 
