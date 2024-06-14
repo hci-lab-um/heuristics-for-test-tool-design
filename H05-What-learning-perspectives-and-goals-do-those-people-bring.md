@@ -42,6 +42,7 @@ Key questions to ask yourself:
 - do people want to complete current tasks or more interested in becoming experts/mastering work?
 - have you considered the contexts for learning e.g. time available, inhibitors and enablers for learning, task specific or mastering tool/workflow? For example, whether there is a [learning culture that allows experimentation and a growth mindset](https://osf.io/preprints/psyarxiv/qz43x) - without that learning culture in the organization, people will not perceive they have time to learn a new tool. 
 - have you considered accessibility and availability of the learning materials?
+- what else may affect their goals for learning the tool as an inhibitor or enhancer of learning?
 
 ## Activities, tools and techniques to help answer the questions
 
