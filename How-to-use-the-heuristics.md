@@ -28,6 +28,12 @@ You might want to adopt them as an agenda for a planning meeting, or as a checkl
 
 You can also make your organization a tailored heuristics checklist based on these heuristics and the sub-questions under each heuristic - we've found that dpending on context sometimes people have extra subquestions and want to split one main heuristics into two, or that they feel they have a good understanding in a particular area and want to con=mbine heuristics. If you do this, we recommend you come back to the orginal list and review your choices periodically, to make sure you are still on track.
 
+We recommend you re-use the heuristics at intervals, perhaps have a quick discussion at regular intervals to decide if you need a deep dive into any of them.  
+<details close>
+<summary>Mini usage case</summary>
+One organization in a case study used the heuristics in a 1 hour discussion of a mature automation suite to ask ``do we all still agree we are going in the right direction'' and confirmed this, and one another automation suite in a similar meeting identified some key communication and process challenges that were blocking progress and required a deep dive discussion.
+</details>
+
 [Back to Top](#TopofPage)
 
 ## Generic Use - Flowcharts through the Heuristics
