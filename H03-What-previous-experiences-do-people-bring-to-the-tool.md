@@ -29,8 +29,15 @@ It is difficult to design tools for a wide range of people, but it is possible t
 
 *``I'm an automation tester with 16 years of testing experience ... my educational background is MD in Chemistry and Physics ... my role in a current project is Lead Quality Engineer ''*
 
+
+
 Key questions to ask yourself:
-- How will you enable people to work effectively and efficiently who bring different backgrounds, skills and experiences to the tool? 
+- How will you enable people to work effectively and efficiently who bring different backgrounds, skills and experiences to the tool?
+  <details></summary><h2>mini usage case</h2></summary> 
+    In one case study, the participants discussed the business and IT testers who would use their tool. They commented: 
+    <i>``always review this - the insights from [the first sub question below] are important to gain a deeper understanding ...  when we talked about this, when we started to talk a lot about the business tester versus the professional tester [we saw] different backgrounds, different education, different education levels.''</i>
+    In particular for this group of end user testers, the business tester may not have tertiary education, the professional tester is likely to have tertiary education but it may not be in software engineering, and the developer tester is likely to have a software engineering degree. This not a reflection on the intelligence or capability of the people; one of their big customers is a hospital and there are many people from many roles taking part in the testing. A consultant, senior nurse, or porter may not know software engineering, may not know about testing, but is capable of being led through and opened to testing in a structured way. However, they may not have time for much additional learning.
+  </details>
 - Will something that feels obvious and intuitive to you be as obvious and intuitive to others? What would be obvious and intuitive to other people?
 - How can your design include others – how will you [design in accessibility, inclusion](https://inclusive.microsoft.design/)?
 - What is your expectation of experience and skill levels and does that match the actual skills and experience people have? (May be lower or higher than yours… Are you over-estimating or under-estimating people’s knowledge and skill?)
