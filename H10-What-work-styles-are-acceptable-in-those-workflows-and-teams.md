@@ -54,6 +54,7 @@ Key questions to ask yourself:
 - How easy are they in their usage, what evidence is there of that?
 - How they feel about it, how confident for example?
 - What support you can give via the tool to increase confidence?
+- What else does this tool provide that affects team autonomy or management authority or workstyle?
    
 Relate this back to [H09](H09-What-risks-are-associated-with-those-workflows.md); the domain risks may dictate the workflow, approaches, tools, and the level of autonomy people have to choose and change their workflows. In work situations with a high level of autonomy to change approaches and tools, flexibility in the tool workflows will be important. In other work places, a low level of flexibility is appropriate.
 
