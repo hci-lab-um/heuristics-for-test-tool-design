@@ -15,6 +15,10 @@ Parts of this page:
 <a name="List1"></a>    [Back to Top](#TopofPage)
 
 ## List of Heuristics and Related Attributes 
+
+<details close>
+<summary>List of Heuristics and Related Attributes</summary>
+
 | Heuristic | [Quality in Use](#table1) | [Product Quality Attributes](#table2) |
 |-------------|-----------------------|----------------------------------------------------|
 |H01. [Why do we need this tool?](H01-why-do-we-need-this-tool.md)| Freedom from Risk | User goals, Appropriateness|
@@ -30,22 +34,32 @@ Parts of this page:
 |H11. [When will the tool be used?](H11-When-will-the-tool-be-used.md)|Efficiency, Context coverage | Operability, Accessibility, Appropriateness, Performance, Maintainability, Compatibility, Reliability, Recognizability|
 |H12. [How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)| Context coverage | Portability|
 
+</details>
+
 <a name="WhatareQA1"></a>    [Back to Top](#TopofPage)
 
 ## What are Quality Attributes?
+
 Quality attributes are properties of a product which affect how well the product performs. Generally, a software system but it could be some other product or service.  
 Some of these are **Quality in Use** attributes: they refer to attributes that are a measure of how good the experience is when using the product. They include the effectiveness and efficiency with which someone can carry out their task, their safety, and the flexibility with which they can work. 
 Others are technical or **Product attributes** which are built into the product and which the building blocks contributing to how the quality in use is achieved. They include functionality, usability, performance, security, and many others.  
 
- <a name="QARD1"></a>    [Back to Top](#TopofPage)
+ <a name="QARD1"></a>   
+ 
+[Back to Top](#TopofPage)
+
 
 ### Quality Attributes in the Research Data
+
 What makes a tool successful is definitely not just its functionality. Here’s some data and quotes from the research:
 
 - 98% of the participants mentioned usability and quality in use of the tools as a concern, issue, or necessity. Over 40% of the comments were about usability. <br> *``I first had to define the fields (name, data type, etc.) Then somewhere else in the admin UI, I had to configure where this field would appear on the test case form for the project. Then somewhere else again in the admin UI, I had to define the set of possible values for the dropdown fields I’d added. [. . . ] infuriating (and requires a re-learn [of] this ridiculousness every few months when I get such admin requests).”*
 - 91% of the participants mentioned other attributes including functionality, making up 34% of the comments. <br> *“every time I have to deal with a new tool, it’s the matter of installation that is the most difficult.''*
 
 Table 1 lists the QiU attributes with a comment for each on sub attributes and some questions to ask yourself when designing the tool.
+
+<details close>
+<summary>Table 1: Quality in Use Attributes</summary>
 
 <a name="table1"></a>    [Back to Top](#TopofPage) 
 
@@ -59,6 +73,8 @@ Table 1 lists the QiU attributes with a comment for each on sub attributes and s
 |Freedom from risk | The testers and other stakeholders for the tool will face risks - domain, project, product, from the choice of using or not using the tool. This includes economic, health and safety, and environmental risks. Ask yourself, <br> *Will any stakeholder be more protected or less protected from economic damage?* <br>  *Will any stakeholder be more protected or less protected from damage to their health, safety, life?* <br>  *Will the environment (society, natural world, resource usage, sustainability be more protected or less protected by the use of this tool?* <br> Think about how the tool design will help to mitigate risk.|H01, H09 |
 |Context coverage <br> and Flexibility |The tool will be used in a range of contexts - It may not be possible to understand all the contexts completely, your stakeholders may not remember to tell you about all the contexts, but we should make some attempt to understand the possibilities. We also need to understand what level of flexibility is needed in those contexts and for the people using the tool. Ask yourself: <br> *Given everything above, have we thought not just what was explicitly told us, but also asked "where else?" "when else?"* <br> *How much can someone adapt the software to be suitable for themselves?* <br> Think about accessibility needs, people adapting the tool to new contexts, people learning and gaining confidence to use the tool in different ways. Conversely you may want to reduce flexibility if the context has domain risks and restrictions. |H04, H05, H06, H07, H08, H09, H10, H11, H12|
 
+</details>
+
 Usability is a key contributor to QiU, and is multi-faceted. Breaking down the comments and concerns on usability we found that operability is the most important usability factor for our participants, followed by learnability, and being supported to meet their goals. 
 Other attributes appeared less often. That doesn't make them less important - it just means that for our participants they are not currently their biggest concern.
 The other attributes were mentioned often in the context of a problem that adversely affecting the overall user experience. 
@@ -68,7 +84,11 @@ In the table 2, the attributes are listed in order of frequency measured by how 
 Notice how low in the list functionality comes; people don't want more functionality; they want the overall experience to be better for the functionality supplied. 
 Similarly, user interface aesthetics were mainly mentioned as an irritation sometimes disguising what became a poor overall experience.
 
+
+<details close>
+<summary>Table 2: Product Attributes that build to Quallity in Use</summary>
 <a name="table2"></a>     [Back to Top](#TopofPage) 
+
 
 **Table 2: Product Attributes that build to Quality in Use**
 
@@ -90,9 +110,14 @@ Similarly, user interface aesthetics were mainly mentioned as an irritation some
 |Recognizability | A very small number of participants talked about tools not always being recognizable for what their purpose was - the naming of a tool or sometimes where it was obtainable from sometimes masked the availability of a useful tool. For example, useful tools in private repositories:  <br> *"[the tool] was in a private GitHub repository"*                                     | H03, H04, H06, H08, H11|
 |User error protection |Some participants talked about their fears when using the tools - of looking foolish, of losing data, of making mistakes. Protecting users against making mistakes increases their Effectiveness. <br> *“it is scary and I always get stuck. I am delaying the inevitable (frowny face).”* | H03, H05, H06 |
 
+</details>
+
  <a name="pyramid1"></a>    [Back to Top](#TopofPage)
 
 ## Building Quality Attribute Pyramids to get to the Desired UX
+
+<details close>
+<summary>Quality Attribute Pyramids</summary>
 
 Once you have a good understanding of *Who* is going to use the tool and *Why*, and their *Context*, you can start to prioritize the quality attributes and identify which technical attributes contribute to the QiU attributes.
 
@@ -110,6 +135,11 @@ For example, if this tool is to be used in an organization that values a fast ti
 - supported by performance to aid speed;
 - supported by maintainability to support change.
 
+</details>
+
+
+
+
 <a name="More"></a>     [Back to Top](#TopofPage)
 
 ## More Information
@@ -123,6 +153,9 @@ For example, if this tool is to be used in an organization that values a fast ti
 
 ## Standards and Reference Texts
 
+<details close>
+<summary>Standards and References</summary>
+
 [Summary of ISO 20510 from TMAP with links to additional attributes](https://www.tmap.net/wiki/quality-characteristics)
 
 [Summary of the ISO/IEC 25000 series of standards](https://iso25000.com/index.php/en/iso-25000-standards)
@@ -134,10 +167,15 @@ On this page, I have provided a simplified summary of some of the main quality a
 You can of course go to buy the new standard, [ISO 25019](https://www.iso.org/standard/78177.html) which has different definitions.
 Or use this summary from TMAP of the previous version ISO 25010 with their additional definitions for AI and sustainability [Summary of ISO 20510 from TMAP with links to additional attributes](https://www.tmap.net/wiki/quality-characteristics). 
 
+</details>
+
 
 <a name="UI-LX1"></a>    [Back to Top](#TopofPage)
 
 ## Usability, Quality in Use, and the User Experience: how they relate together
+
+<details close>
+<summary>Usability, Quality in Use, and the User Experience: how they relate together</summary>
 
 Quality in Use (QiU) and Usability had the most frequent mentions in our data. 
 Understanding how the different attributes are building blocks to the overall user experience (UX) helps us to design in a better UX, shown in the flowchart below. 
@@ -151,9 +189,18 @@ All of this, influenced by past experiences, mantal models and personal circumst
 
 [ui-lxflow]: UItoLX.jpg
 
+</details>
+
+
+
+
 <a name="QARD2"></a>    [Back to Top](#TopofPage)
 
 ## How did the research reveal these figures?
+
+<details close>
+<summary>How the research reveal the figures?</summary>
+
 The research to find these figures included several rounds of data collection and analysis, shown in the flowchart below.
 Data was collected in interviews, workshops, and surveys with test practitioners. 
 The data was analysed using a variety of qualitative and quantitative methods, and re-analysed by a second pair of researchers to check the results matched.
@@ -164,12 +211,23 @@ The heuristics have been evaluated in reviews with test, UX and accessibility ex
 
 [researchflow]: r-flow.jpg
 
+</details>
+
+
+
 <a name="paper1"></a>    [Back to Top](#TopofPage)
 
 ## Our Academic Papers
+<details close>
+<summary>Academic Papers</summary>
 
 Evans, Isabel, Chris Porter, Mark Micallef, and Julian Harty. "Stuck in limbo with magical solutions: The testers’ lived experiences of tools and automation." In Proceedings of the 15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, vol. 2, pp. 195-202. SCITEPRESS-Science and Technology Publications, 2020.
 
 Evans, Isabel, Chris Porter, and Mark Micallef. "Scared, frustrated and quietly proud: Testers’ lived experience of tools and automation." In Proceedings of the 32nd European Conference on Cognitive Ergonomics, pp. 1-7. 2021.
 
 Evans, Isabel, Chris Porter, Mark Micallef, and Julian Harty. "Test Tools: an illusion of usability?" In 2020 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), pp. 392-397. IEEE, 2020.
+
+</details>
+
+
+
