@@ -5,6 +5,8 @@
 This page is about the research behind the heurististics, information about the researchers, and also has links to videos, academic papers and other resources.
 
 ## Videos and articles about the Research
+<details openclose>
+<summary>videos and articles</summary>
 
 If you want a brief summary, here is [an article "Just a tester?"](https://www.womenwhotest.com/2023/04/14/just-a-tester-a-report-part-way-through-data/) from 2023 which summarises the research to that point and highlights of the findings.
 
@@ -15,11 +17,24 @@ Here are links to some earlier videos about the research. They are each about 30
 3. [Webinar from 2022 "Who is testing?"](https://www.bigmarker.com/techwell-corporation/Who-Is-Testing-A-Reflection-Part-Way-Through-Data-Analysis) from Techwell.
 4. [Interview with Agiletest](https://www.youtube.com/watch?v=0fZlOqjmZqQ) from Agiletest Invites.
 
+</details>
+
+
+
 [Back to Top](#TopofPage)
 
 ## The Research - a brief history 
+
+<details close>
+<summary>Background</summary>
+
 ###	Background
 After nearly four decades working in the IT industry, mainly in software testing, latterly as a consultant and trainer, Isabel had observed that teams and organizations didn’t have the successes they anticipated with adoption of tools to support testing. Wanting to understand the blockers to test tool adoption and what might overcome these, with an initial idea that improving the usability of tools would help people adopt them and use them successfully, she started a post-graduate study at University of Malta to give a structure for researching the ideas. Isabel is working with Dr Chris Porter and Dr Mark Micallef who are her academic supervisors.
+
+</details>
+
+<details close>
+<summary>Story So Far</summary>
 
 ###	Story So Far
 
@@ -49,7 +64,15 @@ We updated the heuristics based on the review comments, in an iterative process.
 Once the case studies have completed, we will refine the heuristics based on comments and observations of them in use, and publish.
 This GitHub repository is here to support the case studies and capture the heuristics and supporting information.
 
-## About Us [Back to Top](#TopofPage)
+
+</details>
+
+[Back to Top](#TopofPage)
+## About Us 
+
+<details close>
+<summary>About Isabel</summary>
+
 
 ### Isabel Evans - Researcher - my brief history
 
@@ -62,6 +85,15 @@ After more than 30 years in IT, on software industry projects, quality and testi
 
 I do not use other social media. 
 
-### Supervisors' Linked-in profiles:
+
+</details>
+
+
+### Our Linked-in profiles:
+
+[Isabel Evans](https://www.linkedin.com/in/isabelevans/)
+
 [Dr Chris Porter](https://www.linkedin.com/in/chrisporter/)
+
 [Dr Mark Micallef](https://www.linkedin.com/in/micallefmark/)
+
