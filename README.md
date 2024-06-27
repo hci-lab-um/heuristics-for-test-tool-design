@@ -8,6 +8,10 @@ A [quick checklist of the heuristics](Heuristics-list-for-quick-meeting.pdf) is 
 During evaluation of the heuristics, the repository will be frozen at the start of each case study/evaluation, and then changes made based on data from the evaluations, and from previous research to enrich the contents. Starting from a simple basis, the repository will grow over time.
 
 ## Heuristic questions
+
+<details close>
+<summary>The Heuristics and links to explanations</summary>
+
 H01. [Why do we need this tool?](H01-Why-do-we-need-this-tool.md)
 
 H02. [Who will use or be affected by the tool?](H02-Who-will-use-or-be-affected-by-this-tool.md)
@@ -33,6 +37,8 @@ H11. [When will the tool be used?](H11-When-will-the-tool-be-used.md)
 H12. [How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)
 
 
+</details>
+
 These questions deliberately have multiple interpretations and a myriad of answers. They are intended to help you to think widely and come up with ideas to consider, who to involve, questions to ask. There are no right answers – by asking the questions and following the corresponding activities, you will find interpretations and answers for your context.
 
 **You can start to use the heuristics as an agenda for a planning meeting, or as a checklist to aid fast insights, in a tight timebox, to help you decide which heuristics you want to use for a deep dive.  **
@@ -41,11 +47,16 @@ Each question is linked to an explanation, with things to think about, research 
 The information we provide tells you *why* each heuristic is important to consider. To help you think about *how* to answer the questions, we have suggested activities, with links to external sources in case you need more information. 
 [More information on how to use the heuristics](How-to-use-the-heuristics.md).
 
-This flowchart shows how to find your way around this repository: 
+#### This flowchart shows how to find your way around this repository: 
+
+<details close>
+<summary>Flowchart</summary>
 
 ![Flowchart showing that the "Who?" questions start with an overall question to identify the stakeholders, then four questions to help understand more about their characteristics: level of experiences, communication needs, learning perspectives, and learning preferences. There are iterative loops between the "Who?" and the "Why?" questions, and an onward path to the "Context?" questions.][flow1](h-flow1.jpg)
 
 [flow1]: h-flow1.jpg
+
+</details>
 
 The heuristic questions and explanations are grounded in research data collected from surveys, workshops, interviews, and industry and academic literature in the period 2018-2023. They have been developed iteratively through a series of reviews with UX, accessibility, and testing industry experts and practitioners. This process is ongoing. [Find out more about the research and the researcher](About-the-research-and-researcher.md).
 
