@@ -8,7 +8,7 @@ This page is about the research behind the heurististics, information about the 
 <details openclose>
 <summary>videos and articles</summary>
 
-If you want a brief summary, here is [an article "Just a tester?"](https://www.womenwhotest.com/2023/04/14/just-a-tester-a-report-part-way-through-data/) from 2023 which summarises the research to that point and highlights of the findings.
+If you want a brief summary, here is [an article "Just a tester?"](https://www.womenwhotest.com/2023/04/14/just-a-tester-a-report-part-way-through-data/) from 2023 which summarises the research to that point and highlights of the findings. There are also [summaries on Isabel's blog](https://isabelevansconsultancy.wordpress.com/) reporting on research progress.
 
 Here are links to some earlier videos about the research. They are each about 30-50 minutes long.
 
@@ -50,7 +50,7 @@ After nearly four decades working in the IT industry, mainly in software testing
     -	Usability was often treated superficially by making the interface attractive but not improving workflows;
     -	Understanding of personas in testing was sometimes superficial – there was not an understanding of the range and type of people doing testing.
 
-**Finding out who is testing software:** To better understand the potential in tester persona development, we asked "Who is testing?" in a further detailed survey which provided evidence of the heterogenous nature of the testing community, and the wide range of people’s characteristics, contexts, approaches, and requirements. The data indicated that the people designing tools may benefit from a framework to help them better understand testers and the contexts for testing. A paper "Breaking Tester Stereotypes: who is testing and why it matters" was presented in July 2024 at the BCS HCI 2024 conference and will be published by them. If you want to read a pre-publication draft, please contact us.
+**Finding out who is testing software:** To better understand the potential in tester persona development, we asked "Who is testing?" in a further detailed survey which provided evidence of the heterogenous nature of the testing community, and the wide range of people’s characteristics, contexts, approaches, and requirements. The data indicated that the people designing tools may benefit from a framework to help them better understand testers and the contexts for testing. A paper "Breaking Tester Stereotypes: who is testing and why it matters" was presented in July 2024 at the BCS HCI 2024 conference and will be published by them. There is a [summary on a blog](https://isabelevansconsultancy.wordpress.com/2024/07/26/research-report-breaking-tester-stereotypes-who-is-testing-and-why-it-matters/) and if you want to read a pre-publication draft, please contact us.
 
 **Encapsulating findings in a usable summary:** Based on the data analysed so far, we are working on building a set of heuristics for tool designers to use when designing test tools. Iterating through a series of reviews of versions of the heuristics both with UX experts and practitioners, and with test experts and practitioners. The draft heuristics are [listed on this repository](README.md), with their explanations and suggested activities.
 
