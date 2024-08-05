@@ -34,6 +34,31 @@ It is difficult to design tools for a wide range of people, but it is possible t
 </details>
 
 
+Data collected in our surveys, workshops and interviews indicated that (1) managers did not want staff to spend time on training around tools and automation and (2) people perceived that they would not be allowed time to learn new skills around tools and automation. We also found that people's learning needs and preferences were not fullly understood by managers choosing and commisioning tools; when you think about this heuristic, also consider heuristics [H05](H05-What-learning-perspectives-and-goals-do-those-people-have.md) and [H06](H06-What-Learning-preferences-do-those-people-have.md) about learning perspectives and preferences.
+
+<details close><summary> Research Data on Training Experiences </summary>
+We found that:
+  
+- 5.6% of survey participants mainly relied on community resources such as conferences and online communities to learn new skills
+  
+- 5.6% preferred courses from names experts such as Fiona Charles, James Bach and others
+  
+- 7.0% mainly relied on their employer to supply training
+  
+- 8.5% had no training at all
+  
+- 15.5% were self taught or learnt on the job
+  
+- 57.7% relied on named syllabi courses such as ISTQB, RST, TMAP - half of these had dome more than one syllabus e.g. ISTQB and TMAP, or RST and ISTQB
+  
+- 18.3% used more than one training course
+  
+- 18% had had technical training for example about automation, tool support for example in selenium, named tool, ISTQB automation engineer
+  
+- However, 59.2% have technical aspects to their role	such as test automation, environment support.
+</details>
+
+
 Key questions to ask yourself:
 - How will you enable people to work effectively and efficiently who bring different backgrounds, skills and experiences to the tool?
 - Will something that feels obvious and intuitive to you be as obvious and intuitive to others? What would be obvious and intuitive to other people?
@@ -41,8 +66,8 @@ Key questions to ask yourself:
 - What is your expectation of experience and skill levels and does that match the actual skills and experience people have? (May be lower or higher than yours… Are you over-estimating or under-estimating people’s knowledge and skill?)
 - Have previous experiences with new tools or new methods been supportive to the person? This might include [whether a learning culture is encouraged](https://osf.io/preprints/psyarxiv/qz43x) and [understanding the developer experience](https://dl.acm.org/doi/10.1145/3639443): both those links are to work about developers, but the same questions arise for testers.
 - Will the tool users be familiar with testing / IT terminology? If they are business testers they may not be.
-- what else do they need to know to be able to use the tool successfully and how do you supply that to them?
-- what else have they experienced that might affect ow they perceive or use the tool?
+- What else do they need to know to be able to use the tool successfully and how do you supply that to them?
+- What else have they experienced that might affect ow they perceive or use the tool?
 
 <details close> <summary>Mini usage case</summary>
 * In one case study, the participants discussed the business and IT testers who would use their tool. They commented:
