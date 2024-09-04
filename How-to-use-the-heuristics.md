@@ -16,7 +16,7 @@ This is followed by sections that suggest how to use the heuristics in several c
 - if you are a [tool vendor designing or building a test tool](#Tool-vendor-designing-or-building-a-test-tool);
 - if you are designing or building an [open-source test tool](#Open-source-test-tool-design-and-build);
 - if you are designing or building a test tool to be used by you or your team [in-house](#In-house-test-tools);
-- if you [maintaining or making changes to a tool](#Using the Heuristics to Support Changes and Maintenance Decisions) you may find you need a subset, but that is very context dependent!
+- if you are [maintaining or making changes to a tool](#Using-the-Heuristics-to-Support-Changes-and-Maintenance-Decisions) you may find you need a subset, but that is very context dependent!
 - if you are using the heuristics to help you [choose or evaluate a test tool](#Evaluating-or-choosing-a-test-tool);
 - if you are working in an organization that has [high level of understanding and maturity in its UX practices](#UX-Maturity-and-the-Heuristics);
 - some differences in usage depending on [organization size and location of team members](#Organization-Size-Team-Location-and-the-Heuristics);
