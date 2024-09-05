@@ -1,5 +1,5 @@
 <a name="TopofPage"></a>
-# H10 What work styles are acceptable in those workflows and teams?
+# H10 What autonomy of work styles is allowed in those workflows and teams?
 [◄ Go back](README.md)
 
 Theme: CONTEXT?
