@@ -30,7 +30,7 @@ Parts of this page:
 |H07. [Where will the tool be used?](H07-Where-will-the-tool-be-used.md)|Context coverage| Operability |
 |H08. [What workflows will the tool be part of?](H08-What-workflows-will-the-tool-be-part-of.md)|Effectiveness, Context coverage|  Operability, User goals, , Appropriateness, Maintainability, Functionality, Security, Compatibility, Recognizability |
 |H09. [What risks are associated with those workflows?](H09-What-risks-are-associated-with-those-workflows.md)|Freedom from Risk,  Context coverage| Operability, Appropriateness, Performance, Maintainability, Reliability|
-|H10. [What work styles are acceptable in those workflows and teams?](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md)|Context coverage and Flexibility, Satisfaction |Operability,  Accessibility, Maintainability, Security|
+|H10. [What autonomy of work styles is allowed in those workflows and teams?](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md)|Context coverage and Flexibility, Satisfaction |Operability,  Accessibility, Maintainability, Security|
 |H11. [When will the tool be used?](H11-When-will-the-tool-be-used.md)|Efficiency, Context coverage | Operability, Accessibility, Appropriateness, Performance, Maintainability, Compatibility, Reliability, Recognizability|
 |H12. [How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)| Context coverage | Portability|
 
