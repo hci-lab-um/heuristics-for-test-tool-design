@@ -73,7 +73,7 @@ To get the results in the graph above, we asked four questions on a Lickert Scal
 We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help wth persona development.**
 
 Other Activities: 
-- Use what you have discovered about [communication styles in H04](H04-What-comunication-needs or preferences-do-those-people-have.md) to inform both the media and the formats in which you supply learning materials.
+- Use what you have discovered about [communication styles in H04](H04-What-comunication-needs-or-preferences-do-those-people-have.md) to inform both the media and the formats in which you supply learning materials.
 - If you have not worked with learning preferences, here is an article which may help you enrich your persona definition with [learning preferences](https://cultivatedmanagement.com/two-learning-styles/).
 
 [Back to Top](#TopofPage)
