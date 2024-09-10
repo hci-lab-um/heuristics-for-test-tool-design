@@ -1,16 +1,15 @@
 # Heuristics for Test Tool Design
 _Developed by: [Isabel Evans](mailto:isabel.evans.17@um.edu.mt) - University of Malta_
 
-These 12 heuristic questions are intended to provoke thought and ideas when designing or choosing a test tool. Elsewhere in this repository are explanations and action lists for each heuristic, plus background to the research. 
+These 12 heuristic questions are intended to provoke thought and ideas when designing or choosing a test tool. 
+Elsewhere in this repository are explanations and action lists for each heuristic, plus background to the research. 
 
-A [quick checklist of the heuristics](Heuristics-list-for-quick-meeting.pdf) is available, and can be used to start a conversation before deep diving into this repository.
-
-During evaluation of the heuristics, the repository will be frozen at the start of each case study/evaluation, and then changes made based on data from the evaluations, and from previous research to enrich the contents. Starting from a simple basis, the repository will grow over time.
+A download [quick checklist of the heuristics](Heuristics-list-for-quick-meeting.pdf) is available, and can be used to start a conversation before deep diving into this repository.
 
 ## Heuristic questions
 
-<details close>
-<summary>The Heuristics and links to explanations</summary>
+<details open>
+<summary>The Heuristics and links to explanations, mini usage cases and activities to help you answer the questions:</summary>
 
 H01. [Why do we need this tool?](H01-Why-do-we-need-this-tool.md)
 
@@ -39,6 +38,9 @@ H12. [How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)
 
 </details>
 
+<details close>
+<summary>Click for more information about how to use the heuristics</summary>
+
 These questions deliberately have multiple interpretations and a myriad of answers. They are intended to help you to think widely and come up with ideas to consider, who to involve, questions to ask. There are no right answers – by asking the questions and following the corresponding activities, you will find interpretations and answers for your context.
 
 **You can start to use the heuristics as an agenda for a planning meeting, or as a checklist to aid fast insights, in a tight timebox, to help you decide which heuristics you want to use for a deep dive.  **
@@ -47,20 +49,23 @@ Each question is linked to an explanation, with things to think about, research 
 The information we provide tells you *why* each heuristic is important to consider. To help you think about *how* to answer the questions, we have suggested activities, with links to external sources in case you need more information. 
 [More information on how to use the heuristics](How-to-use-the-heuristics.md).
 
-#### This flowchart shows how to find your way around this repository: 
+</details>
 
 <details close>
-<summary>Flowchart</summary>
+<summary>Click for Flowchart showing how to find your way around this repository</summary>
 
 ![Flowchart showing that the "Who?" questions start with an overall question to identify the stakeholders, then four questions to help understand more about their characteristics: level of experiences, communication needs, learning perspectives, and learning preferences. There are iterative loops between the "Who?" and the "Why?" questions, and an onward path to the "Context?" questions.][flow1](h-flow1.jpg)
 
 [flow1]: h-flow1.jpg
 
 </details>
-
+<details close>
+  <summary>Click for information about the Research</summary>
 The heuristic questions and explanations are grounded in research data collected from surveys, workshops, interviews, and industry and academic literature in the period 2018-2023. They have been developed iteratively through a series of reviews with UX, accessibility, and testing industry experts and practitioners. This process is ongoing. [Find out more about the research and the researcher](About-the-research-and-researcher.md).
 
 NOTE: both the heuristics and the underlying explanations and activities are still draft. They are being developed in an iterative process which is looking at the content and the format of the materials. Example activities and links to further information are indicative, and to be replaced later. Format and medium will change. American spellings have been adopted.
+During evaluation of the heuristics, the repository will be frozen at the start of each case study/evaluation, and then changes made based on data from the evaluations, and from previous research to enrich the contents. Starting from a simple basis, the repository will grow over time.
+</details>
 
 ## Citation
 If you use these heuristics please cite our work: 
