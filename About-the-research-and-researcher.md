@@ -6,7 +6,7 @@ This page is about the research behind the heurististics, information about the 
 
 ## Videos and articles about the Research
 <details openclose>
-<summary>videos and articles</summary>
+<summary>Click for Videos and Articles</summary>
 
 If you want a brief summary, here is [an article "Just a tester?"](https://www.womenwhotest.com/2023/04/14/just-a-tester-a-report-part-way-through-data/) from 2023 which summarises the research to that point and highlights of the findings. There are also [summaries on Isabel's blog](https://isabelevansconsultancy.wordpress.com/) reporting on research progress.
 
@@ -26,7 +26,7 @@ Here are links to some earlier videos about the research. They are each about 30
 ## The Research - a brief history 
 
 <details close>
-<summary>Background</summary>
+<summary>Click for Background</summary>
 
 ###	Background
 After nearly four decades working in the IT industry, mainly in software testing, latterly as a consultant and trainer, Isabel had observed that teams and organizations didn’t have the successes they anticipated with adoption of tools to support testing. Wanting to understand the blockers to test tool adoption and what might overcome these, with an initial idea that improving the usability of tools would help people adopt them and use them successfully, she started a post-graduate study at University of Malta to give a structure for researching the ideas. Isabel is working with Dr Chris Porter and Dr Mark Micallef who are her academic supervisors.
@@ -34,7 +34,7 @@ After nearly four decades working in the IT industry, mainly in software testing
 </details>
 
 <details close>
-<summary>Story So Far</summary>
+<summary>Click for Story So Far</summary>
 
 ###	Story So Far
 
