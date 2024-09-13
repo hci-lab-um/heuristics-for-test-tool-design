@@ -1,5 +1,10 @@
 # Links to Preprints of Papers Covering This Research
 
+[◄ Go to Landing Page for the heuristics](README.md)
+
+[◄ Go to page about the research](About-the-research-and-researcher.md)
+
+The preprints of the papers:
 
 [Stuck in Limbo with Magical Solutions: the testers' experiences of tools and automation](paper-Stuck-in-Limbo-Evans-et-al-SILMS-HUCAPP_2020.pdf)
 
@@ -12,4 +17,8 @@
 How can Heuristics be Communicated? in draft, accepted for conference - preprint will be placed here when available.
 
 If you wish to cite any of these papers, please find the published versions on-line to get the correct citation information from the publisher. You can do this via Google Scholar https://scholar.google.com/
+
+[◄ Go to Landing Page for the heuristics](README.md)
+
+[◄ Go to page about the research](About-the-research-and-researcher.md)
 
