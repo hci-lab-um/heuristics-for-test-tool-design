@@ -33,6 +33,9 @@ After nearly four decades working in the IT industry, mainly in software testing
 
 </details>
 
+
+[Preprints of published papers are listed here](preprints.md) and a summary of the research journey story so far is below. 
+
 <details close>
 <summary>Click for Story So Far</summary>
 
