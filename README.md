@@ -61,7 +61,11 @@ The information we provide tells you *why* each heuristic is important to consid
 </details>
 <details close>
   <summary>Click for information about the Research</summary>
-The heuristic questions and explanations are grounded in research data collected from surveys, workshops, interviews, and industry and academic literature in the period 2018-2023. They have been developed iteratively through a series of reviews with UX, accessibility, and testing industry experts and practitioners. This process is ongoing. [Find out more about the research and the researcher](About-the-research-and-researcher.md).
+The heuristic questions and explanations are grounded in research data collected from surveys, workshops, interviews, and industry and academic literature in the period 2018-2023. They have been developed iteratively through a series of reviews with UX, accessibility, and testing industry experts and practitioners. This process is ongoing. 
+  
+[Find out more about the research and the researcher](About-the-research-and-researcher.md).
+
+[See a list of links to preprints of research papers leading to the heuristics](preprints.md)
 
 NOTE: both the heuristics and the underlying explanations and activities are still draft. They are being developed in an iterative process which is looking at the content and the format of the materials. Example activities and links to further information are indicative, and to be replaced later. Format and medium will change. American spellings have been adopted.
 During evaluation of the heuristics, the repository will be frozen at the start of each case study/evaluation, and then changes made based on data from the evaluations, and from previous research to enrich the contents. Starting from a simple basis, the repository will grow over time.
