@@ -9,7 +9,8 @@ Parts of this page:
 - [What are Quality Attributes?](#WhatareQA1)   
 - [Table 1: Quality in Use Attributes](#table1)   
 - [Table 2: Product Quality Attributes](#table2)   
-- [Building Quality Attribute Pyramids to get to the Desired UX](#pyramid1)  
+- [Building Quality Attribute Pyramids to get to the Desired UX](#pyramid1)
+- [Using Radar Diagrams to Compare Persona Quality Requirements](#radar1)
 - [More Information](#More) 
 
 <a name="List1"></a>    [Back to Top](#TopofPage)
@@ -135,9 +136,37 @@ For example, if this tool is to be used in an organization that values a fast ti
 - supported by performance to aid speed;
 - supported by maintainability to support change.
 
+In the simple example below, credibility is built on safety and usability. Safety and Usability and built on reliability, security and operability.  Those quality in use and UX attributes and supported by, and support reputation and perosnal relationships.
+
+![Pyramid Diagram Showing that Different Personas Have Different Needs][simplepyramidexample](simplepyramidexample.jpg)
+
+[simplepyramidexample]: simplepyramidexample.jpg
+
 </details>
 
+ <a name="radar1"></a>    [Back to Top](#TopofPage)
+ 
+## Using Radar Diagrams to Compare Persona Quality Requirements
 
+<details close>
+<summary>Radar Diagram Examples</summary>
+
+Different personas will have different needs, and different values. The radar diagram shows an example in one project, where the test manager, the automation specialist and a senior stakeholder all had different needs and scored values dofferently when thinking about a particualr tooling requirement. The Test Manager marked trust as a higher concern than the automation specialst, perhaps because the automation specialist understood the tool technically and therefore could trusts its output more. The senior stakeholder was most interested in value for money, while the automation specialist was concerned about flow in their work.
+
+![Radar Diagram Showing that Different Personas Have Different Needs][rotterdamSlide27cropped](rotterdamSlide27cropped.jpg)
+
+[rotterdamSlide27cropped]: rotterdamSlide27cropped.jpg
+
+The different values mean that these personas will also rate the quality in use attributes differently for this tool. The automation specialist scored efficiency and extendability most highly; they want to get into a flow in their work. The senior stakeholder may be interested in compliance, legal, and commercial attributes, so scores those more highly. The Test Manager wants certainy in teh reporting and therefore scored effectiveness higher than efficiency. The right balance of these quality in use atributes needs to be found between the personas' requirements.
+
+
+![Radar Diagram Showing that Different Personas Have Different Quality in Use Scores][rotterdamSlide28cropped](rotterdamSlide28cropped.jpg)
+
+[rotterdamSlide28cropped]: rotterdamSlide28cropped.jpg
+
+</details>
+
+[Back to Top](#TopofPage)
 
 
 <a name="More"></a>     [Back to Top](#TopofPage)
