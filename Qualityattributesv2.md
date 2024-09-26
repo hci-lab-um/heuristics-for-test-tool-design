@@ -31,7 +31,7 @@ Parts of this page:
 |H07. [Where will the tool be used?](H07-Where-will-the-tool-be-used.md)|Context coverage| Operability |
 |H08. [What workflows will the tool be part of?](H08-What-workflows-will-the-tool-be-part-of.md)|Effectiveness, Context coverage|  Operability, User goals, , Appropriateness, Maintainability, Functionality, Security, Compatibility, Recognizability |
 |H09. [What risks are associated with those workflows?](H09-What-risks-are-associated-with-those-workflows.md)|Freedom from Risk,  Context coverage| Operability, Appropriateness, Performance, Maintainability, Reliability|
-|H10. [What autonomy of work styles is allowed in those workflows and teams?](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md)|Context coverage and Flexibility, Satisfaction |Operability,  Accessibility, Maintainability, Security|
+|H10. [What autonomy of work styles is allowed in those workflows and teams?](H10-What-autonomy-of-work-styles.md)|Context coverage and Flexibility, Satisfaction |Operability,  Accessibility, Maintainability, Security|
 |H11. [When will the tool be used?](H11-When-will-the-tool-be-used.md)|Efficiency, Context coverage | Operability, Accessibility, Appropriateness, Performance, Maintainability, Compatibility, Reliability, Recognizability|
 |H12. [How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)| Context coverage | Portability|
 
@@ -255,6 +255,10 @@ Evans, Isabel, Chris Porter, Mark Micallef, and Julian Harty. "Stuck in limbo wi
 Evans, Isabel, Chris Porter, and Mark Micallef. "Scared, frustrated and quietly proud: Testers’ lived experience of tools and automation." In Proceedings of the 32nd European Conference on Cognitive Ergonomics, pp. 1-7. 2021.
 
 Evans, Isabel, Chris Porter, Mark Micallef, and Julian Harty. "Test Tools: an illusion of usability?" In 2020 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), pp. 392-397. IEEE, 2020.
+
+Evans, Isabel, Chris Porter, and Mark Micallef. "Breaking Tesster Stereotypes: who is testing and why it matters" In BCS HCI 2024 (in press)
+
+Evans, Isabel, Chris Porter, and Mark Micallef. "How do we communicate Heurisitcs?" In CHIRA 2024 (accepted)
 
 </details>
 
