@@ -66,7 +66,7 @@ To understand how to address risk appropriately in your design choices, you will
 We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with understanding risk - there are a set of quality in use attributes about Freedom from Risk.**
 
 Related to risk is your stakeholders' attitude to adoption of technology. Are they early adopters who may be willing to put up with some rough edges in order to engage with new technology, or are they more mainstream and looking for a a safe, reliable option. 
-This could be linked to organizational styles you'll look at in [H10](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md) and views on agility, maturity, and other process concepts.
+This could be linked to organizational styles you'll look at in [H10](H10-What-autonomy-of-work-styles.md) and views on agility, maturity, and other process concepts.
 
 Activities and links to external articles that may be useful:
 -	Risk identification and assessment with Stakeholders;
