@@ -29,7 +29,7 @@ H08. [What workflows will the tool be part of?](H08-What-workflows-will-the-tool
 
 H09. [What risks are associated with those workflows?](H09-What-risks-are-associated-with-those-workflows.md)
 
-H10. [What autonomy of work styles is allowed in those workflows and teams?](H10-What-work-styles-are-acceptable-in-those-workflows-and-teams.md)
+H10. [What autonomy of work styles is allowed in those workflows and teams?](H10-What-autonomy-of-work-styles.md)
 
 H11. [When will the tool be used?](H11-When-will-the-tool-be-used.md)
 
