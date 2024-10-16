@@ -6,6 +6,8 @@ Elsewhere in this repository are explanations and action lists for each heuristi
 
 A download [quick checklist of the heuristics](Heuristics-list-for-quick-meeting.pdf) is available, and can be used to start a conversation before deep diving into this repository.
 
+The heuristics have been developed iteratively based on research data collected 2018 to 2024, and are being evaluated in industry case studies and expert reviews. They may/will ccontinue to change based on those case studies and reviews.
+
 ## Heuristic questions
 
 <details open>
