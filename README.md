@@ -56,7 +56,7 @@ The information we provide tells you *why* each heuristic is important to consid
 <details close>
 <summary>Click for Flowchart showing how to find your way around this repository</summary>
 
-![Flowchart showing that the "Who?" questions start with an overall question to identify the stakeholders, then four questions to help understand more about their characteristics: level of experiences, communication needs, learning perspectives, and learning preferences. There are iterative loops between the "Who?" and the "Why?" questions, and an onward path to the "Context?" questions.][flow1](h-flow1.jpg)
+![route from README to the desriptions of each heuristics, which include explanations, techniques, research data and quality in use attributes. ALso link from README to notes on how to use the heuristics, the licence, and information about the researchers][flow1](h-flow1.jpg)
 
 [flow1]: h-flow1.jpg
 
