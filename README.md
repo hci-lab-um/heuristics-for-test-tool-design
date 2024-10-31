@@ -51,16 +51,27 @@ Each question is linked to an explanation, with things to think about, research 
 The information we provide tells you *why* each heuristic is important to consider. To help you think about *how* to answer the questions, we have suggested activities, with links to external sources in case you need more information. 
 [More information on how to use the heuristics](How-to-use-the-heuristics.md).
 
+You are unlikely to use the heuristics in a linear 1-12 way; you are more likely to iterate between the heuristics, finding out more about "Why?" as you explore "Who?" and "Context?":
+
+![flowchart iterating between the H01 Why?, H02-H06 Who? and H07-H12 Context? questions with feedback loops between each group][iterativeflow](interconnecting-heuristics.jpg)
+
+[iterativeflow]:interconnecting-heuristics.jpg
+
+Each question is linked to an explanation, with things to think about, research points and evidence from industry contributors, key questions to ask yourself, plus pointers to quality attributes to consider in your specific context. 
+The information we provide tells you *why* each heuristic is important to consider. To help you think about *how* to answer the questions, we have suggested activities, with links to external sources in case you need more information. 
+[More information on how to use the heuristics](How-to-use-the-heuristics.md).
+
 </details>
 
 <details close>
 <summary>Click for Flowchart showing how to find your way around this repository</summary>
 
-![route from README to the desriptions of each heuristics, which include explanations, techniques, research data and quality in use attributes. ALso link from README to notes on how to use the heuristics, the licence, and information about the researchers][flow1](h-flow1.jpg)
+![flowchart shows that from README you can jump to each heuristic's desciption with explanations and activities, and to information about the researchers, the licence, and research daa on quality attributes, then from those return to the README][flow1](h-flow1.jpg)
 
 [flow1]: h-flow1.jpg
 
 </details>
+
 <details close>
   <summary>Click for information about the Research</summary>
 The heuristic questions and explanations are grounded in research data collected from surveys, workshops, interviews, and industry and academic literature in the period 2018-2023. They have been developed iteratively through a series of reviews with UX, accessibility, and testing industry experts and practitioners. This process is ongoing. 
