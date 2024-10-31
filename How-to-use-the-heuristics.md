@@ -211,13 +211,22 @@ In this small study, we used an early version of the heuristics, and they were r
 
 ### Setting a Tooling Strategy
 
-(TBD - add notes from case studies 4 and 5)
+A tooling strategy may include tool and also automation, and may include in-house, open source and vendor tools.
 
-- tooling strategy including automation
-- may need to be radical in order - e.g. asking H12 How Long? early - even first - to understand whether you are working with short term tactics or a long term strategy - how much effort to put into the strategy and the tool choice
-- H01 Why? and H02 Who? will be vital
-- how to think about roles, growth, etc...
-- inhouse and consultancy usage may be different
+During the Case Studies to evaluate the heuristics, we watched two different situations where they were used to help with the strategy for tooling and automation. The two case studies were:
+
+- a consultant planning a tooling strategy for customers chooing tools to acquire - intending to look at vendor or open source;
+- a consultant working with an in-house team to agree the tooling strategy for building tools and automation for an enterprise organization.
+
+We noticed that the heuristic ordering may be quite radically different in these contexts; it could even be worth asking "H12 How long will the tool(s) be used?" before any other question in order to understand whether a long term strategy or short term tactics are required. How much effort is it worth putting into a tooling strategy partly depends on how future-facing it needs to be.
+
+H01 Why? and H02 Who? will still be vital questions, and with H03-H06 enable the strategy to consider roles, team and individual growth, and communication. The context questions may be focused on one specific context - a particulat organization or enterprise - and within that context, questions H07 to H11 will be more or less applicable depending on the complexity of the context.
+
+The order of the heuristics could be for example: 
+- H12 -> H01 -> H02 -> H07
+- then revisit H02 -> H03 -> H04 -> H06
+- then revisit H01 -> H05
+- then revisit H07 -> H08 -> H09 -> H10 -> H11 -> H12
 
 [Back to Top](#TopofPage)
 
