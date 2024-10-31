@@ -18,6 +18,7 @@ This is followed by sections that suggest how to use the heuristics in several c
 - if you are designing or building a test tool to be used by you or your team [in-house](#In-house-test-tools);
 - if you are [maintaining or making changes to a tool](#Using-the-Heuristics-to-Support-Changes-and-Maintenance-Decisions) you may find you need a subset, but that is very context dependent!
 - if you are using the heuristics to help you [choose or evaluate a test tool](#Evaluating-or-choosing-a-test-tool);
+- to help you [set a strategy for tooling](#Setting-a-Tooling-Strategy) - including test automation and test tool implementation;
 - if you are working in an organization that has [high level of understanding and maturity in its UX practices](#UX-Maturity-and-the-Heuristics);
 - some differences in usage depending on [organization size and location of team members](#Organization-Size-Team-Location-and-the-Heuristics);
 - some [unexpected uses for the heuristics](#Other-uses-for-the-heuristics) that our case study particpants mentioned!
@@ -206,7 +207,17 @@ In this small study, we used an early version of the heuristics, and they were r
 
 </details>
 
+[Back to Top](#TopofPage)
 
+### Setting a Tooling Strategy
+
+(TBD - add notes from case studies 4 and 5)
+
+- tooling strategy including automation
+- may need to be radical in order - e.g. asking H12 How Long? early - even first - to understand whether you are working with short term tactics or a long term strategy - how much effort to put into the strategy and the tool choice
+- H01 Why? and H02 Who? will be vital
+- how to think about roles, growth, etc...
+- inhouse and consultancy usage may be different
 
 [Back to Top](#TopofPage)
 
@@ -225,10 +236,11 @@ In larger organizations, or where multiple organizations are involved, or with g
 
 ### Other uses for the heuristics
 
-Some of our case study participants discussed using the heuristics to manage discussions about tools in use or changes to tools and automation suites. The examples are:
+Some of our case study participants discussed using the heuristics to manage discussions about tools in use or changes to tools and automation suites. The examples include:
 
-- using the heurisitics during on-boarding team members to help them understand design decisions made for automation suites and tools
-- using the heuristics dring discussions with stakeholders such as customers to enure that the requirements for the tool were clear both for the customers and for the end users of the tool
+- using the heurisitics during on-boarding team members to help them understand design decisions made for automation suites and tools;
+- using the heuristics during discussions with stakeholders such as customers to ensure that the requirements for the tool were clear both for the customers and for the end users of the tool;
+- using the heuristics to plan a pre-sales meeting about tooling requirements.
 
   One participant said ``it is a way to guide the discussion and open up the discussion''
 
