@@ -34,7 +34,7 @@ It is difficult to design tools for a wide range of people, but it is possible t
 </details>
 
 
-Data collected in our surveys, workshops and interviews indicated that (1) managers did not want staff to spend time on training around tools and automation and (2) people perceived that they would not be allowed time to learn new skills around tools and automation. We also found that people's learning needs and preferences were not fullly understood by managers choosing and commisioning tools; when you think about this heuristic, also consider heuristics [H05](H05-What-learning-perspectives-and-goals-do-those-people-bring.md) and [H06](H06-What-learning-preferences-do-those-people-have.md) about learning perspectives and preferences.
+Data collected in our surveys, workshops and interviews indicated that (1) managers did not want staff to spend time on training around tools and automation and (2) people perceived that they would not be allowed time to learn new skills around tools and automation. We also found that people's learning needs and preferences were not fullly understood by managers choosing and commisioning tools; when you think about this heuristic, also consider heuristics [H05](H05-personal-learning-goal-mastery-or-task-based.md) and [H06](H06-What-learning-preferences-do-those-people-have.md) about learning perspectives and preferences.
 
 <details close><summary> Research Data on Training Experiences </summary>
 We found that:
