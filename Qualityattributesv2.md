@@ -26,7 +26,7 @@ Parts of this page:
 |H02. [Who will use or be affected by the tool?](H02-Who-will-use-or-be-affected-by-this-tool.md)|Satisfaction|User goals, Appropriateness|
 |H03. [What previous experiences do people bring to the tool?](H03-What-previous-experiences-do-people-bring-to-the-tool.md)|Effectiveness, Satisfaction| Learnability, Appropriateness, User error protection, Recognizability|
 |H04. [What communication needs or preferences do those people have?](H04-What-communication-needs-or-preferences-do-those-people-have.md)|Effectiveness, Satisfaction, Flexibility | Learnability, Accessibility, Recognizability |
-|H05. [What learning perspectives and goals do those people bring?](H05-What-learning-perspectives-and-goals-do-those-people-bring.md)|Effectiveness, Flexibility | Learnability, User error protection |
+|H05. [Is this person's learning goal "tool mastery" or "task completion"?](H05-personal-learning-goal-mastery-or-task-based.md)|Effectiveness, Flexibility | Learnability, User error protection |
 |H06. [What learning preferences do those people have?](H06-What-learning-preferences-do-those-people-have.md)|Effectiveness, Flexibility | Learnability, User error protection, Recognizability |
 |H07. [Where will the tool be used?](H07-Where-will-the-tool-be-used.md)|Context coverage| Operability |
 |H08. [What workflows will the tool be part of?](H08-What-workflows-will-the-tool-be-part-of.md)|Effectiveness, Context coverage|  Operability, User goals, , Appropriateness, Maintainability, Functionality, Security, Compatibility, Recognizability |
