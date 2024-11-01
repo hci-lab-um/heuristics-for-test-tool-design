@@ -21,7 +21,7 @@ H03. [What previous experiences do people bring to the tool?](H03-What-previous-
 
 H04. [What communication needs or preferences do those people have?](H04-What-communication-needs-or-preferences-do-those-people-have.md)
 
-H05. [What learning perspectives and goals do those people bring?](H05-What-learning-perspectives-and-goals-do-those-people-bring.md)
+H05. [Is this person's learning goal "tool mastery" or "task completion"?](H05-personal-learning-goal-mastery-or-task-based.md)
 
 H06. [What learning preferences do those people have?](H06-What-learning-preferences-do-those-people-have.md)
 
