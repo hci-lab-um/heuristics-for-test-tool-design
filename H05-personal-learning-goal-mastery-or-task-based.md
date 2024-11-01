@@ -1,10 +1,12 @@
 <a name="TopofPage"></a>
-# H5 What learning perspectives and goals do those people bring?
+# H5 Is this person's learning goal "tool mastery" or "task completion"? (What learning perspectives and goals do those people bring?)
 [◄ Go back](README.md)
 
 Theme: WHO?
 
-Heuristic Question: What learning perspectives or goals do those people bring?
+Heuristic Question: Is this person's learning goal "tool mastery" or "task completion"? (What learning perspectives and goals do those people bring?)
+
+Note 1 November 2024: a suggestion that this heuristic is really about learning to gain mastery versus learning to achieve the next task. This has impact on long and short term goals, on investment versus cost viewpoints and relates to different people having different goals.  
 
 ## Explanation and subquestions
 Depending on the person and the organizational goals people may want to only learn enough to enable them to complete a specific task, or they may want to learn enough to enable expertise/mastery of a role/activity. This may be affected both by personal choice and by organizational pressure.
