@@ -2,7 +2,7 @@
 # About the Research and the Researchers
 [◄ Go back](README.md)
 
-This page is about the research behind the heurististics, information about the researchers, and also has links to videos, academic papers and other resources.
+This page is about the research behind the heuristics, information about the researchers, and also has links to videos, academic papers and other resources.
 
 ## Videos and articles about the Research
 <details openclose>
