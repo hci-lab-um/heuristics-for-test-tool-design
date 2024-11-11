@@ -14,7 +14,7 @@ The preprints of the papers:
 
 [Breaking tester stereotypes: Who is testing and why it matters](paper-Breaking-Tester-Sterotypes-Evans-et-al-Pre-print-July-2024.pdf) (not yet published - listed on https://bcshci.org/conference-program
 
-How can Heuristics be Communicated? in draft, accepted for conference - preprint will be placed here when available.
+[How can Heuristics be Communicated?]() in draft, accepted for conference - preprint will be placed here when available.
 
 If you wish to cite any of these papers, please find the published versions on-line to get the correct citation information from the publisher. You can do this via Google Scholar https://scholar.google.com/
 
