@@ -9,7 +9,7 @@ This page is about the research behind the heuristics, information about the res
 <summary>Click for Presentations, Videos and Articles</summary>
 
 Presentations at industry conferences:
-- [Breaking testing stereotypes: who is testing and why it matters](presentation-BreakingTesterStereotype.pdf)
+- [Breaking testing stereotypes: who is testing and why it matters](presentation-BreakingTesterStereotypes.pdf)
 - [Heuristics to help you design, build and choose test tools](presentation-Heuristicsfortools.pdf)
 - [So you think you need a new tool?](presentation-thinkanewtoolwillhelp.pdf)
 
