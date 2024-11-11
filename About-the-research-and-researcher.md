@@ -4,9 +4,14 @@
 
 This page is about the research behind the heuristics, information about the researchers, and also has links to videos, academic papers and other resources.
 
-## Videos and articles about the Research
+## Presentation slides, videos and articles about the Research
 <details openclose>
-<summary>Click for Videos and Articles</summary>
+<summary>Click for Presentations, Videos and Articles</summary>
+
+Presentations at industry conferences:
+- [Breaking testing stereotypes: who is testing and why it matters](presentation-BreakingTesterStereotype.pdf)
+- [Heuristics to help you design, build and choose test tools](presentation-Heuristicsfortools.pdf)
+- [So you think you need a new tool?](presentation-thinkanewtoolwillhelp.pdf)
 
 If you want a brief summary, here is [an article "Just a tester?"](https://www.womenwhotest.com/2023/04/14/just-a-tester-a-report-part-way-through-data/) from 2023 which summarises the research to that point and highlights of the findings. There are also [summaries on Isabel's blog](https://isabelevansconsultancy.wordpress.com/) reporting on research progress.
 
