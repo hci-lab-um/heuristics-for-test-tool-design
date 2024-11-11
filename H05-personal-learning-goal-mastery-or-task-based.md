@@ -1,12 +1,10 @@
 <a name="TopofPage"></a>
-# H5 Is this person's learning goal "tool mastery" or "task completion"? (What learning perspectives and goals do those people bring?)
+# H5 Do these people want "tool mastery" or "task completion"? (What learning perspectives and goals do those people bring?)
 [◄ Go back](README.md)
 
 Theme: WHO?
 
-Heuristic Question: Is this person's learning goal "tool mastery" or "task completion"? (What learning perspectives and goals do those people bring?)
-
-Note 1 November 2024: a suggestion that this heuristic is really about learning to gain mastery versus learning to achieve the next task. This has impact on long and short term goals, on investment versus cost viewpoints and relates to different people having different goals.  
+Heuristic Question: Do these people want "tool mastery" or "task completion"? The learning goal will be different for different people. Some people want to learn about the tool to gain mastery, while others want to learn to achieve the next task. This has impact on long and short term goals, on investment versus cost viewpoints. If just achieving the next task is the goal, then short bursts of 2 minute videos might be a good way to deliver information about the tool, or provision of wizards to step through tasks. Learning for mastery might require longer blocks of dedicated time, information about underlying principles, and practice sessions. This also relates to different people having different goals.  
 
 ## Explanation and subquestions
 Depending on the person and the organizational goals people may want to only learn enough to enable them to complete a specific task, or they may want to learn enough to enable expertise/mastery of a role/activity. This may be affected both by personal choice and by organizational pressure.
