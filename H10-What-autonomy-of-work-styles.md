@@ -4,7 +4,7 @@
 
 Theme: CONTEXT?
 
-Heuristic Question: What work styles are acceptable in those workflows and teams?
+Heuristic Question: What autonomy of work styles ais allowed in those workflows and teams? 
 
 ## Explanation and sub-questions
 
