@@ -13,7 +13,8 @@ Think about:
 - The lifespan of the tool. 
     - Will the tool be used enough to gain a return on investment (ROI) in implementing it?  
     - How long will the tool be maintained?
-    - How many people will use the tool in that time? 
+    - How many people will use the tool in that time?
+    - What consideration of decommisioning the tool and migrating artefacts to a new tool?
 - The length of time a tool will run continuously without restarting, and therefore the level of reliability required.
 
 
@@ -21,6 +22,7 @@ Research Point:  We found that:
 - A tool with the original purpose of serving a single person or team sometimes starts to be used by other people/teams and requires maintenance long after the original designers/builders stop needing to use it.
 - Tools are often acquired and not used (shelfware) – no ROI.
 - Tools may need to run continuously for long time periods without restarting.
+- Accepted tool sets change over time, therefore on acquiring a tool think about how you will decommission it and migrate artefacts to a new tool.
 
 <details close> <summary>Research quotes from testers</summary>
   
@@ -44,6 +46,8 @@ Key questions to ask yourself:
 - How long will the tool be maintained for and who will do that maintenance?
 - Is this a free tool or a paid-for tool? What investment is required in time/effort to get it implemented and in use, on top of any financial cost: ROI can be about more than cash.
 - What else is affected by the tool's planned life expectancy?
+- how long will it be maintained?
+- how will decommissioning and transfer of artefacts be done? 
 
 <details close> <summary>Mini usage case</summary>
 In one case study, the organization was working with SAAS software. They commented that although asking when during the SDLC the tool is used is a useful question, for their context a more useful question could be 
