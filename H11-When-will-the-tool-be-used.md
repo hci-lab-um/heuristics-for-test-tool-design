@@ -8,7 +8,7 @@ Heuristic Question: When will the tool be used?
 
 ## Explanation and sub-questions
 Time factors for the product under test, for the person using the tool, and within the tool and workflow might affect the tool design.
-This heuristic implies "how long?" and "how quickly?" and other time-related questions, as part of "when?"
+This heuristic implies "how quickly?" and other time-related questions, as part of "when?"
 
 Think about: 
   
