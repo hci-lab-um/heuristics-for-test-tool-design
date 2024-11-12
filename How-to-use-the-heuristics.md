@@ -99,6 +99,8 @@ Each Heuristic has a page with an overview explanation of the heuristic, the res
 
 ### You can tailor this to suit you
 
+Don't be limited by the 12 heuristic questions - you can add to them, tailor them, combine them to suit your context. If your context changes, go back to the original 12 just to re-check your tailoring.  For example, in one case study, the heuristics H07 and H11 were combined: in that specific context asking **H07 Where?** dictated which environment was to be used, and asking **H11 When?** implied which test stage, which linked to a specific environment. In other case studies, these two questions were clearly different and needed to be answered separately.
+
 Don't be limited by the questions or the activities list - you won't have to do them all, and you may have preferred alternatives.
 
 If you want to tailor the heuristics to suit your context, please do - see the [licence](LICENSE) to see how to do that and remember to reshare your versions and tailoring.
@@ -156,7 +158,7 @@ If you are building a tool for multiple teams, to use across the organization, t
 [Back to Top](#TopofPage)
 
 ### Using the Heuristics to Support Changes and Maintenance Decisions
-We found when evaluating the heuristics in the industry case studies that teams maintaining tools or mature automation suites found they already had discussed some of the heuristics topics. However, which ones they needed to disucss in detail was *very* context dependent even within one organization. It was useful for these groups to have an initial meeting where they discussed all the heuristics fairly quickly to select which ones to then discuss in detail. One case study participant noted that their team had been: ``working together for years'' so they had a through understanding of each other and of the people using the automation, including their communication and learning preferences; they noted ``if a new person joined, it would be different.'' 
+We found when evaluating the heuristics in the industry case studies that teams maintaining tools or mature automation suites found they already had discussed some of the heuristics topics. However, which ones they needed to disucss in detail was *very* context dependent even within one organization. It was useful for these groups to have an initial meeting where they discussed all the heuristics fairly quickly to select which ones to then discuss in detail. One case study participant noted that their team had been: *'working together for years'* so they had a through understanding of each other and of the people using the automation, including their communication and learning preferences; they noted *'if a new person joined, it would be different.'*
 
 
 [Back to Top](#TopofPage)
