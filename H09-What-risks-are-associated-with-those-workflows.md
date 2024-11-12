@@ -10,11 +10,29 @@ Heuristic Question: What risks are associated with those workflows?
 
 How you address this heuristic is very context dependent; you might *'know the sea you are swimiming in'* but still you need to consider what risks will the tool help to mitigate, what risks it won't mitigate... and whether there are risks increased by using the tool - and whether those change for other people. In particular evaluate which of the quality attributes are most important for the customers and users of the tool, and therefore present risk if not delivered.
 
-Research point: Security is risk both when under and over- done. We found that the combination of strict rules for environments and for tool use carries the risk of people not being able to access the tool; they were *'stuck in limbo'* - security is not just about preventing access but also about allowing access. Are the policies around the tool going to support use of the tool?
+Research point: Security is risk both when under- and over-done. We found that the combination of strict rules for environments and for tool use carries the risk of people not being able to access the tool; they were *'stuck in limbo'* - security is not just about preventing access but also about allowing access. Are the policies around the tool going to support use of the tool?
 
 Research point: Tools will be used over time, while the organization, people, market and technology change. Scaleability, portability and maintainability were all important attributes that participants mentioned. *Inability to react to change over time* is a risk for the organization and the team which the tool can mitigate or make worse. 
 
 Research point: Time to market is a risk: *'supposing the tool holds up the release … but the tool also should mitigate against being late in the release [we need] faster testing'* and *'removal of human error through automation of repetitive testing'*
+
+<details><summary>mini usage cases for risks 1 - not needed just now...</summary>
+
+The participants noted they did not find this a useful question for the current context (maintenance changes to tooling) but they could see this discussion being useful *'if implementing security-based features such as two factor authentication would need to look at the risk heuristic more closely, or if building from scratch'*
+
+</details>
+
+<details> <summary> mini usage cases for risks 2  - need a deep dive </summary>
+
+In this case the risk discussion needed to be much more specific - they said they would need to build a tailored and much more specific risk list within their context. Their action after the initial read of the heuristics is to have deep dive into a risk workshop; the ideas in the heuristics explanations don't cover all risks deeply.
+
+</details>
+
+<details><summary>mini usage case for risks 3 - communication is changing... </summary>
+
+In one study, the participants discussed that they are working on integrating tooling with another organization, but part of the challenge is working with that larger organization. We discussed the risks arising from different tools integrating together, and also from different perceptions and communication styles across the collaborating organizations; two risk workshops are needed, one about the technical risks for the tooling, and one for discussion of the larger scale business risk.
+
+</details>
 
 There are several types of risk to consider, and varying attitudes to risk. The domain and technology, as well as the organizational culture will affect the level of risk that people face, affecting both their approaches, and the support they need from tools. Some organizations and some stakeholders will be risk averse (for example in a safety critical domain) and other organizations and stakeholders will be risk takers (for example in an entrepreneurial situation where being first to market is key). 
 
