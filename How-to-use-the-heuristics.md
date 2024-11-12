@@ -15,6 +15,8 @@ You might want to adopt them as an agenda for a planning meeting, or as a checkl
 
 </details>
 
+[Introducing the heuristics into an organisation](introducing-the-heuristics.md) may require a little planning; you need to build trust through experimenting with them.
+
 <details close>
 <summary>Tailoring hints </summary>
 
