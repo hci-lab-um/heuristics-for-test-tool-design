@@ -38,6 +38,15 @@ Research Point: In the research leading to the design of these heuristics, we fo
 
 </details>
 
+<details close>
+<summary>mini usage case: sometimes asking Why? is hard...</summary>
+
+In one usage, the heuristics started to be introduced late and the participant identified that asking **H01 Why?** can be difficult as it might force a change of mind set or a change of direction, by acknowledging different people will have different goals. While that could be exactly what is needed, it is also difficult to do because people are reluctant to change:
+*'In later stages, however, this question may need to be adapted. Once discussions shift toward solutions, it can be challenging to steer back to the broader "why." Different personas appear at different stages with a unique perspective on the purpose of the tool. For instance, the buyer persona’s "why" may differ significantly from that of the tool's end users. To fully understand why the tool is needed, it’s essential to ask about challenges and goals from multiple stakeholders.'*
+In this scenario, the participant decided to go with the Why? and Which tool? decisions as they were in place, and use the heuristics to guide their own work in planning future workshops.
+
+</details>
+
 Key questions to ask yourself:
 -	Is there a problem to solve?
 -	Is it organizational or technical or something else?
