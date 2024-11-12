@@ -59,10 +59,6 @@ Each question is linked to an explanation, with things to think about, research 
 The information we provide tells you *why* each heuristic is important to consider. To help you think about *how* to answer the questions, we have suggested activities, with links to external sources in case you need more information. 
 [More information on how to use the heuristics](How-to-use-the-heuristics.md).
 
-Each question is linked to an explanation, with things to think about, research points and evidence from industry contributors, key questions to ask yourself, plus pointers to quality attributes to consider in your specific context. 
-The information we provide tells you *why* each heuristic is important to consider. To help you think about *how* to answer the questions, we have suggested activities, with links to external sources in case you need more information. 
-[More information on how to use the heuristics](How-to-use-the-heuristics.md).
-
 </details>
 
 <details close>
