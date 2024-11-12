@@ -15,7 +15,7 @@ What questions do you want to ask? What parts of the research evidence in the re
 
 ## Use them as a meeting agenda...
 
-Step 2 might be to suggest the questions as a [meeting agenda](Heuristics-list-for-quick-meeting.md) or a [quick checklist](Heuristics-fast-path.md) to use with one ot two collegues. You can time box to an hours meeting, to identfy which of the questions you need to deep dive into.
+Step 2 might be to suggest the questions as a [meeting agenda](Heuristics-list-for-quick-meeting.pdf) or a [quick checklist](Heuristics-fast-path.md) to use with one or two collegues. You can time box to an hours meeting, to identfy which of the questions you need to deep dive into.
 
 ## How quickly do people adopt new ideas?
 
