@@ -268,6 +268,8 @@ The order of the heuristics could be for example:
 - then revisit H01 -> H05
 - then revisit H07 -> H08 -> H09 -> H10 -> H11 -> H12
 
+Additionally when setting a tooling strategy it is important to understand how the organization will measure return on investment (ROI) and in particular whether the organization is focused on capital expenditure (CapEx) or Operational Expenditure (OpEx) - one participant noted that in their experience *'enterprises favor Capital Expenditure over Operational Expenditure when tracking cost (CapEx versus OpEx) and that the choices made by the Enterprise, and advised by the consultant ... meet goals, and are suitable for context, and supportable.'*  It might be important to understand whether the tooling options proposed fall under CapEx or OpEx. Check back to **H01, Why?** and **H02 Who?** to check stakeholder goals for tracking cost.
+
 </details>
 
 [Back to Top](#TopofPage)
