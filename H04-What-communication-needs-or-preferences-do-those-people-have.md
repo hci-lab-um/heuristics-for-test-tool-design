@@ -61,7 +61,7 @@ Key questions to ask yourself:
 
 
 <details close>
-<summary>mini usage case</summary>
+<summary>mini usage case - communication is affected by context</summary>
 
 When will the tool be used? For one organization we spoke with, this was particularly interesting - testing took place not just in the office, but in noisy and stressful work environments, and tests could be started by one person and completed by another becuase of work interruptions, sickness, and other factors.  We found examples of testers whose main job was as medical staff in a hospital or operatives in a warehouse: as business testers they still needed to use the test tool, but were not in the test lab.
 
