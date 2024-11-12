@@ -51,7 +51,7 @@ Some people prefer solo and group/pair learning.  People will need theory, pract
 For your personas you could ask a representative group if they prefer team or solo learning, and what mix of exploratory versus guided/theory learning they prefer, or you could provide a range of answers across your personas. 
 
 <details close>
-<summary>Mini usage case</summary>
+<summary>Mini usage case 1 solo or pair learning?</summary>
 
 In one trial of the heuristics, we asked a group of people who were choosing a tool to enable their team to work together about learning and problem solving preferences. We found a wide range of preferences across solo and group learning, and that these were not the same as problem solving preferences. The graph shows that some of the people in the group preferred to learn solo, even if they preferred team problem solving. Similarly there was a range of responses to whether learning was best done practical/exploratory or guided/reading/theory. Note that this is true for this specific group; it may not be generally true.  
 
@@ -66,6 +66,13 @@ To get the results in the graph above, we asked four questions on a Lickert Scal
 - 	when solving problems	do you prefer problem solving more solo	or more in a team?
 - 	when learning something new	learning do you prefer more doing/ practice	or more reading/theory?
 - 	when solving problems	do you prefer problem solving more by exploring/doing	or more by following theory/rules?
+
+</details>
+
+<details close>
+<summary>Mini usage case 2 self-service or coaching? </summary>
+
+In one case study, in a large organization, with 5000 engineers and 40 automation engineers, a participant discussing this heuristic said that, in their context, it is very hard to know how to deliver appropriate training and appropriate succession planning: *'With the proportion of automation engineers to testers and to developers  'coach the coach' sessions prove most useful.'* In this context, the question *'where do we target hands-on learning?'* is an important one because of the practicalities of scaling training across multiple offices and locations in a large team. *'While self-service training is logistically easier to organize, it may not be optimal for knowledge transfer and confidence: Self Service training is the preferred approach, but is it the best for learning? Not sure. Some people love self-serve learning as they can control the pace, other prefer hands-on impact.'*
 
 </details>
 
