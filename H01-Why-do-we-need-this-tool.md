@@ -68,6 +68,9 @@ There are many activities you might find useful to help you understand *Why* you
 
 You may also find it useful to consider your budget and a return on investment (ROI) calculation at this point. 
 For example, if you are evaluating whether to use a tool, an early question might be to consider whether the cost of the tool is in line with budget constraints and savings goals. 
-Alternatively if you are a tool supplier (in-house, open-source or vendor) and you are reviewing how to respond to a user change request, you might need to look at the ROI for the effort to make the change, and the benefit to the users. One participant working on updates to a tool said that they have to think about *``do I get payback for the amount of effort to make this change?''*
+Alternatively if you are a tool supplier (in-house, open-source or vendor) and you are reviewing how to respond to a user change request, you might need to look at the ROI for the effort to make the change, and the benefit to the users. 
+
+Research point: One participant working on updates to a tool said that they have to think about *``do I get payback for the amount of effort to make this change?''* when considering change requests.
+
 Research point: in one case study, the participants used the heuristics to decide whether to evaluate a particular tool at all - the licencing cost for the tool was not in line with the department's financial savings goal, but the heuristics allowed them to identify alternative ways of meeting their goals. 
 - Make an initial business case for the tool, including a ROI calculation, for one example see the Test Automation Patterns wiki on [Test Automation Business Case](https://testautomationpatterns.org/wiki/index.php/TEST_AUTOMATION_BUSINESS_CASE).
