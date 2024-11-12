@@ -20,7 +20,7 @@ Research Point: we found that people using the tools were not always the people 
 
 Research Point: we found that case studies uncovered the need to revisit **H02 Who?** because participants either spent more time with customers focusing on costs and timescales or more time with users focusing on usability and UX, when a balance between those two areas of concern is required; both are important.
 
-<details><summary>mini usage case - the people who identify the problem may not be the people who have the problem...</summary></details>
+<details close><summary>mini usage case - the people who identify the problem may not be the people who have the problem...</summary></details>
 "The people/team who have identified/named the problem may not be the person/team who has or needs to solve the problem" was picked out by one case study participant as an area that requires careful exploration with a customer:
 
 *'This heuristic is particularly relevant when engaging with buyer personas. Conducting a stakeholder mapping exercise early on can help us identify key individuals for discovery. Customers may not initially recognize all the roles involved so it can be valuable to provide them with examples of roles that may be relevant based on past experiences.'*
