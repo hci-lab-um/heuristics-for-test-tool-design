@@ -305,7 +305,7 @@ Some of our case study participants discussed using the heuristics to manage dis
 
 - using the heurisitics during on-boarding team members to help them understand design decisions made for automation suites and tools;
 - using the heuristics during discussions with stakeholders such as customers to ensure that the requirements for the tool were clear both for the customers and for the end users of the tool;
-- using the heuristics to plan a pre-sales meeting about tooling requirements.
+- using the heuristics to plan a pre-sales meeting about tooling requirements, using just **H01 Why?**, **H02 Who?**, **H08 Workflows** and **H10 Autonomy**
 
   One participant said ``it is a way to guide the discussion and open up the discussion''
 
