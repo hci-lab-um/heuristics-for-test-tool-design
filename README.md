@@ -4,7 +4,15 @@ _Developed by: [Isabel Evans](mailto:isabel.evans.17@um.edu.mt) - University of 
 These 12 heuristic questions are intended to provoke thought and ideas when designing or choosing a test tool. 
 Elsewhere in this repository are explanations and action lists for each heuristic, plus background to the research. 
 
-A [quick-start page](Heuristics-fast-path.md) and a downloadable [quick checklist of the heuristics](Heuristics-list-for-quick-meeting.pdf) are available, and can be used to start a conversation before deep diving into this repository.
+A [quick-start page](Heuristics-fast-path.md) and a downloadable [quick checklist of the heuristics](Heuristics-list-for-quick-meeting.pdf) are available, and can be used to start a conversation before deep diving into this repository. You are unlikely to use the heuristics in a linear 1-12 way; you are more likely to iterate between the heuristics, finding out more about "Why?" as you explore "Who?" and "Context?":
+
+<details><summary>Click for example iterative flow through the heuristics</summary>
+
+  ![flowchart iterating between the H01 Why?, H02-H06 Who? and H07-H12 Context? questions with feedback loops between each group][iterativeflow](interconnecting-heuristics.jpg)
+
+[iterativeflow]:interconnecting-heuristics.jpg
+
+</details>
 
 The heuristics have been developed iteratively based on research data collected 2018 to 2024, and are being evaluated in industry case studies and expert reviews. They may/will continue to change based on those case studies and reviews.
 
@@ -50,12 +58,6 @@ These questions deliberately have multiple interpretations and a myriad of answe
 Each question is linked to an explanation, with things to think about, research points and evidence from industry contributors, key questions to ask yourself, plus pointers to quality attributes to consider in your specific context. 
 The information we provide tells you *why* each heuristic is important to consider. To help you think about *how* to answer the questions, we have suggested activities, with links to external sources in case you need more information. 
 [More information on how to use the heuristics](How-to-use-the-heuristics.md).
-
-You are unlikely to use the heuristics in a linear 1-12 way; you are more likely to iterate between the heuristics, finding out more about "Why?" as you explore "Who?" and "Context?":
-
-![flowchart iterating between the H01 Why?, H02-H06 Who? and H07-H12 Context? questions with feedback loops between each group][iterativeflow](interconnecting-heuristics.jpg)
-
-[iterativeflow]:interconnecting-heuristics.jpg
 
 Each question is linked to an explanation, with things to think about, research points and evidence from industry contributors, key questions to ask yourself, plus pointers to quality attributes to consider in your specific context. 
 The information we provide tells you *why* each heuristic is important to consider. To help you think about *how* to answer the questions, we have suggested activities, with links to external sources in case you need more information. 
