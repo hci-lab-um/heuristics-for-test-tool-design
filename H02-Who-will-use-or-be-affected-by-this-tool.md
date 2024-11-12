@@ -18,6 +18,8 @@ Think about:
 
 Research Point: we found that people using the tools were not always the people who had acquired the tools, and that tooling solutions could be seen as imposed and inappropriate.
 
+Research Point: we found that case studies uncovered the need to revisit **H02 Who?** because participants either spent more time with customers focusing on costs and timescales or more time with users focusing on usability and UX, when a balance between those two areas of concern is required; both are important.
+
 <details close>
 <summary>Research quotes from testers</summary>
 
@@ -26,6 +28,8 @@ Research Point: we found that people using the tools were not always the people 
 *``[as well as test specialists] PO's, users, developers, service people [will all use a defect management tool] and management want access but I'm not sure what they want''*
 
 *``I wanted to solve this one problem for myself ... As I shared it with people who had different skill levels, different preferences they had exactly the opposite ideas about what it should support, how it should it be used ...    Completely different audience''*
+
+*'thinking about break-even points in the customer workshop'*
 
 </details>
 
