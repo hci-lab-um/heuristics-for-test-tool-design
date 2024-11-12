@@ -8,14 +8,25 @@ Heuristic Question: What risks are associated with those workflows?
 
 ## Explanation and sub-questions
 
+How you address this heuristic is very context dependent; you might *'know the sea you are swimiming in'* but still you need to consider what risks will the tool help to mitigate, what risks it won't mitigate... and whether there are risks increased by using the tool - and whether those change for other people. In particular evaluate which of the quality attributes are most important for the customers and users of the tool, and therefore present risk if not delivered.
+
+Research point: Security is risk both when under and over- done. We found that the combination of strict rules for environments and for tool use carries the risk of people not being able to access the tool; they were *'stuck in limbo'* - security is not just about preventing access but also about allowing access. Are the policies around the tool going to support use of the tool?
+
+Research point: Tools will be used over time, while the organization, people, market and technology change. Scaleability, portability and maintainability were all important attributes that participants mentioned. *Inability to react to change over time* is a risk for the organization and the team which the tool can mitigate or make worse. 
+
+Research point: Time to market is a risk: *'supposing the tool holds up the release … but the tool also should mitigate against being late in the release [we need] faster testing'* and *'removal of human error through automation of repetitive testing'*
+
 There are several types of risk to consider, and varying attitudes to risk. The domain and technology, as well as the organizational culture will affect the level of risk that people face, affecting both their approaches, and the support they need from tools. Some organizations and some stakeholders will be risk averse (for example in a safety critical domain) and other organizations and stakeholders will be risk takers (for example in an entrepreneurial situation where being first to market is key). 
 
 Think about:
 -	Risks inherent to the domain within which the tool is to be used – for example safety critical, regulatory which may dictate tool design and implementation choices;
 -	Risks to be mitigated within the workflows and the tool;
--	Risks that stakeholders want to take, how to support best decision making to take opportunities safely; 
+-	Risks that stakeholders want to take, how to support best decision making to take opportunities safely;
+-	Risks associated with business goals for example time to market, reputation;
 -	Risks to the people whose work will be changed by the tool, including perceived or actual risk of redundancy, and opportunities for them;
 -	Risks increased because of flaws in the tool itself;
+-	Risks associated with different quality characteristics of the tool: security, performance, scalability;
+-	
 -	Risks associated with the systems/products under test that the tool will be used with - does the tool itself need to meet requirements because of the domain it will be used in?
 -	Risks to society, the environment. 
 
