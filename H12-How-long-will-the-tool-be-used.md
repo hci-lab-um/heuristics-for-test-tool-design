@@ -23,6 +23,7 @@ Research Point:  We found that:
 - Tools are often acquired and not used (shelfware) – no ROI.
 - Tools may need to run continuously for long time periods without restarting.
 - Accepted tool sets change over time, therefore on acquiring a tool think about how you will decommission it and migrate artefacts to a new tool.
+- Tool builders need to consider the ROI of designing and building a new tool and of making changes to an existing tool.
 
 <details close> <summary>Research quotes from testers</summary>
   
