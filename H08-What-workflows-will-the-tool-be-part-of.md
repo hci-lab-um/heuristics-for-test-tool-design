@@ -36,7 +36,7 @@ Research Point: We found that testers reported tools not supporting their workfl
 
 </details>
 
-<details close><summary>mini usage case - iterating between H08, H02 and H01</summary>
+<details close><summary>mini usage case - iterating between H08 Workflows, H02 Who? and H01 Why?</summary>
 
 In one use of the heuristis, a participant indicated both that this question is essential, and also noted its link to H01 and H02, and to the context for the investigation.
 *'This heuristic would be in the core when mapping the current state together with the key stakeholders. I would use a current state mapping exercise to explore this heuristic effectively to understand both the big picture and role specific workflows. At this stage, it's crucial to loop back to questions of "why," "who," and the broader context to understand relevant motivations and connections. A current state mapping exercise captures individual activities and identifies bottlenecks within the process.'*
