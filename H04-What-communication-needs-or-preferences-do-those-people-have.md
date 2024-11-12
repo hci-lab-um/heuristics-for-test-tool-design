@@ -14,6 +14,7 @@ Think about:
 - Providing choices in level of detail versus overviews, potentially from corporate to management to team and technical levels; the tool may not be directly used, but the data and information flows will be used across organizational levels.
 - How communication styles may change (summary versus detailed, direct versus indirect).
 - Providing multiple routes, methods and media for information and data sharing.
+- Reducing the need to duplicate data (and hence updating) by automating data transfer across tool sets.
 - Which senses people could use to interact with the tool. This includes both enriching the experience and also improving accessibility.
 - Design choices that widen the tool's capability of being used across communication needs.
 
@@ -37,6 +38,12 @@ Look at the different communication styles coming out in answer to a question ab
 *``Manual testing, test automation, maintaining and improving CI, keeping pipelines green, creating of a testing framework, test case management.''*
 
 *``It’s been… there’s no source of truth – if you want to know how projects are doing you have to look in 4 or 5 places''*
+
+</details>
+
+<details close> <summary>Mini use case: preferred tools leading to duplicated data and effort</summary>
+
+One participant noted that communication preferences means choosing different tools with different interaction and interface styles. This can lead to duplication of effort and data: *'engineers want to know why do we have to go to another tool … they want to everything in the IDE; why should they need to also add info in confluence for example?'* Their example is GitHub and Confluence which required duplication of the same content for two different types of readers: *'Technical readers go to GitHub to read code and markdown, non technical stakeholders go to confluence pages to read detail ... An ideal would be to have a way that entries in GitHub markup could be transferred across to normal language in Confluence: automatically create confluence pages from GitHub markdown ... But to avoid gaps and differences over time, you want GitHub markdown to automatically go into Confluence, keeping the same content aligned.'*
 
 </details>
 
