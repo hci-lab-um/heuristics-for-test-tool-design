@@ -51,6 +51,7 @@ Key questions to ask yourself:
 -	Why does the organization want the tool?
 -	Are there contradicting goals from different parts of the organization?
 - What happens if (part of) the tool is not used?
+- Should we use the tool at all?
 
 ## Activities, tools and techniques to help answer the questions
 [Back to Top](#TopofPage)
