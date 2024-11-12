@@ -15,6 +15,7 @@ Think about:
 - For the timescale of **product under test:** There may be a different urgency as deployment approaches, or when in support as a live product. The workflow may take place through different lifecycle stages of a product under test, and  therefore some activities’ urgency may change, risks may change, perceptions of quality may change. Defects may need to be managed differently in the early stages of a product lifecycle (during prototyping for example) compared with defect management during mainstream of product development. 
 
 - For the **person using the tool:** Some people may require longer than others to complete what looks like the same workflow task: they might be working at a greater level of detail, they might be learning, they might be using assistive technology that changes the way they receive and impart information, they may be waiting on other activities. Organizations had expectations of how long tasks should take.
+- Think about **how much** will the tool be used - by a person or by a team - will it be used enough to justify learning how to use it?
 
 - Within the **tool and workflow:** The workflow may take an extended time, or be done in stages with time gaps.
 
