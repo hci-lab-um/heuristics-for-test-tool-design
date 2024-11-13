@@ -89,7 +89,7 @@ The diagram shows we have named 5 persona groups with suggested preferences. Thi
 - Dee has Blue/C communication preferences, would like a taught class, with some theory, through audio and text, for tool mastery
 - Edi has yellow/I communication preferences, would like ensemble learning that is practical, hands-on, with supporting text and focused on the next task to be completed.
 
-![][personasegmentcommsandlearning](personasegmentcommsandlearning.jpg)
+![classification tree illustrating bulleted list of personas in the text][personasegmentcommsandlearning](personasegmentcommsandlearning.jpg)
 
 [personasegmentcommsandlearning]: personasegmentcommsandlearning.jpg
 
