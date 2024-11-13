@@ -55,6 +55,21 @@ Key questions to ask yourself:
 - How they feel about it, how confident for example?
 - What support you can give via the tool to increase confidence?
 - What else does this tool provide that affects team autonomy or management authority or workstyle?
+
+The Australian Leadeship Foundation suggest a nine-cell matrix of leader's authority versus team autonomy levels. This gives a pattern for what control over workflows teams have. Where leaders have high authority and team low autonomy, workflows are more likely to be mandated. Where teams have more autonomy they may have more scope for tailoring their workflows. 
+- High authority, low autonomy - comtrollling leadership
+- Medium authority, low autonomy - directing leadership
+- Low authority, low autonomy - advising leadership
+- High authority, medium autonomy - co-ordinating leadership
+- Medium authority, medium autonomy - guiding leadership
+- Low authority, medium autonomy - collaborating leadership
+- High authority, high autonomy - delegating leadership
+- Medium authority, high autonomy - empowering leadership
+- Low authority, high autonomy - participating leadership
+
+![Matrix of the nine options for authority and autonomy levels as in list][automonyandauthority](autonomyversusauthority.jpg)
+
+[autonomyandauthority]: autonomyversusauthority.jpg
    
 Relate this back to [H09](H09-What-risks-are-associated-with-those-workflows.md); the domain risks may dictate the workflow, approaches, tools, and the level of autonomy people have to choose and change their workflows. In work situations with a high level of autonomy to change approaches and tools, flexibility in the tool workflows will be important. In other work places, a low level of flexibility is appropriate.
 
@@ -67,7 +82,7 @@ We have tabulated the [Quality in Use and Product Quality Attributes](Qualityatt
 To understand what styles of working the tool must support, you will need to how the cultural context of the organization affects how people are enabled or blocked from taking different approaches.
 
 There are various ways of mapping leadership, management and followship styles, for example:
-- A [map of team autonomy versus organizational authority](https://leadership.org.au/) gives two dimensions to understand work styles that may be needed. For example, if teams are working collaboratively, then a tool would need to support multiple people being assigned to a task.
+- A [map of team autonomy versus organizational authority](https://leadership.org.au/) from the Australian Leadership Foundation gives two dimensions to understand work styles that may be needed. For example, if teams are working collaboratively, then a tool would need to support multiple people being assigned to a task.
 - Adding a third dimension to the map from [H09 - domain and workflow risk](H09-What-risks-are-associated-with-those-workflows.md) - could provide a rationale for how rigidly enforced or tailorable the workflows are.
 
 [Back to Top](#TopofPage)
