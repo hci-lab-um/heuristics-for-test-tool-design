@@ -53,7 +53,7 @@ H12. [How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)
 
 These questions deliberately have multiple interpretations and a myriad of answers. They are intended to help you to think widely and come up with ideas to consider, who to involve, questions to ask. There are no right answers – by asking the questions and following the corresponding activities, you will find interpretations and answers for your context.
 
-**You can start to use the heuristics as an agenda for a planning meeting, or as a checklist to aid fast insights, in a tight timebox, to help you decide which heuristics you want to use for a deep dive.  **
+**You can start to use the heuristics as an agenda for a planning meeting, or as a checklist to aid fast insights, in a tight timebox, to help you decide which heuristics you want to use for a deep dive.**
 
 Each question is linked to an explanation, with things to think about, research points and evidence from industry contributors, key questions to ask yourself, plus pointers to quality attributes to consider in your specific context. 
 The information we provide tells you *why* each heuristic is important to consider. To help you think about *how* to answer the questions, we have suggested activities, with links to external sources in case you need more information. 
