@@ -9,18 +9,18 @@ This page is about the research behind the heuristics, information about the res
 <summary>Click for Presentations, Videos and Articles</summary>
 
 Presentations at industry conferences:
-- [Breaking testing stereotypes: who is testing and why it matters](presentation-BreakingTesterStereotypes.pdf)
-- [Heuristics to help you design, build and choose test tools](presentation-Heuristicsfortools.pdf)
-- [So you think you need a new tool?](presentation-thinkanewtoolwillhelp.pdf)
+- [Breaking testing stereotypes: who is testing and why it matters (pdf)](presentation-BreakingTesterStereotypes.pdf)
+- [Heuristics to help you design, build and choose test tools (pdf)](presentation-Heuristicsfortools.pdf)
+- [So you think you need a new tool? (pdf)](presentation-thinkanewtoolwillhelp.pdf)
 
 If you want a brief summary, here is [an article "Just a tester?"](https://www.womenwhotest.com/2023/04/14/just-a-tester-a-report-part-way-through-data/) from 2023 which summarises the research to that point and highlights of the findings. There are also [summaries on Isabel's blog](https://isabelevansconsultancy.wordpress.com/) reporting on research progress.
 
 Here are links to some earlier videos about the research. They are each about 30-50 minutes long.
 
-1. [Talk about the research from 2020: "Illusions, Magic and Test Automation"](https://www.youtube.com/watch?v=EAEG3CzZzVY) from Code Camp Romania.
-2. [Report on the research from 2022: "Who is Testing? Do tools help and support them?"](https://www.youtube.com/watch?v=JhmZpnZO_ys) from TestMu conference.
+1. [Talk about the research from 2020 YouTube video): "Illusions, Magic and Test Automation"](https://www.youtube.com/watch?v=EAEG3CzZzVY) from Code Camp Romania.
+2. [Report on the research from 2022: "Who is Testing? Do tools help and support them?" (YouTube video)](https://www.youtube.com/watch?v=JhmZpnZO_ys) from TestMu conference.
 3. [Webinar from 2022 "Who is testing?"](https://www.bigmarker.com/techwell-corporation/Who-Is-Testing-A-Reflection-Part-Way-Through-Data-Analysis) from Techwell.
-4. [Interview with Agiletest](https://www.youtube.com/watch?v=0fZlOqjmZqQ) from Agiletest Invites.
+4. [Interview with Agiletest (YouTube video)](https://www.youtube.com/watch?v=0fZlOqjmZqQ) from Agiletest Invites.
 
 </details>
 
