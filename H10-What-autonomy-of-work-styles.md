@@ -69,9 +69,10 @@ The Australian Leadeship Foundation suggest a nine-cell matrix of leader's autho
 
 <details close><summary>click for diagram of authority versus autonomy matrix</summary>
    
-![Matrix of the nine options for authority and autonomy levels as in list][automony](autonomyversusauthority.jpg)
+![Matrix showing authority versus autonomy - content as bullet list in text][autonomy](autonomyversusauthority.jpg)
 
 [autonomy]: autonomyversusauthority.jpg
+
 
 </details>
    
