@@ -67,9 +67,13 @@ The Australian Leadeship Foundation suggest a nine-cell matrix of leader's autho
 - Medium authority, high autonomy - empowering leadership
 - Low authority, high autonomy - participating leadership
 
-![Matrix of the nine options for authority and autonomy levels as in list][automonyandauthority](autonomyversusauthority.jpg)
+<details close><summary>click for diagram of authority versus autonomy matrix</summary>
+   
+![Matrix of the nine options for authority and autonomy levels as in list][automony](autonomyversusauthority.jpg)
 
-[autonomyandauthority]: autonomyversusauthority.jpg
+[autonomy]: autonomyversusauthority.jpg
+
+</details>
    
 Relate this back to [H09](H09-What-risks-are-associated-with-those-workflows.md); the domain risks may dictate the workflow, approaches, tools, and the level of autonomy people have to choose and change their workflows. In work situations with a high level of autonomy to change approaches and tools, flexibility in the tool workflows will be important. In other work places, a low level of flexibility is appropriate.
 
