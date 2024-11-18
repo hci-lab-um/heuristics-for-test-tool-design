@@ -127,7 +127,7 @@ How long to get return on investment (ROI)? Maintainability and reliability over
 - [About H12. How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)
 - Quality in Use Attribute: Context coverage
 - Product Quality Attribute: Portability
-- [Mapping Heuristics to Quality Attributes](heuristics-for-test-tool-design/Qualityattributesv2.md)
+- [Mapping Heuristics to Quality Attributes](Qualityattributesv2.md)
 
 
 
