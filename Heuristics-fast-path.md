@@ -8,11 +8,18 @@ Why the tool is needed, what goals it supports, and what goals it doesn't suppor
 
 [About H01. Why do we need this tool?](H01-Why-do-we-need-this-tool.md)
 
+- Quality in Use Attribute: Freedom from Risk
+- Product Quality Attribute: User Goals, Appropriateness
+  
+
 ## H02: Who? 
 
 Who (else) will use the tool? Who provides information for inputs? Who uses information from outputs?	
 
 [About H02. Who will use or be affected by the tool?](H02-Who-will-use-or-be-affected-by-this-tool.md)
+
+- Quality in Use attribute:
+- Product QUality Attribute:
 
 ## H03: Experience? 
 
@@ -20,11 +27,21 @@ What previous experiences, expectations and skill levels do people bring? Tester
 
 [About H03. What previous experiences do people bring to the tool?](H03-What-previous-experiences-do-people-bring-to-the-tool.md)
 
+- Quality in Use attribute:
+- Product QUality Attribute:
+
+
+
 ## H04: Communication needs?	
 
 People have different communication styles. Media, speed, level of detail, accessibility needs, and so on change how people want to receive and impart information.	
 
 [About H04. What communication needs or preferences do those people have?](H04-What-communication-needs-or-preferences-do-those-people-have.md)
+
+
+- Quality in Use attribute:
+- Product QUality Attribute:
+
 
 ## H05: Mastery or Task learning? 	
 
@@ -32,11 +49,21 @@ People may want to master the tool/become expert or just to learn enough to enab
 
 [About H05. Do these people want "tool mastery" or "task completion"?](H05-personal-learning-goal-mastery-or-task-based.md)
 
+
+- Quality in Use attribute:
+- Product QUality Attribute:
+
+
 ## H06: Learning preferences?	
 
 Solo, pair or group learning? Video, audio, text, diagrams? Online or face to face? Guided or exploratory?	
 
 [About H06. What learning preferences do those people have?](H06-What-learning-preferences-do-those-people-have.md)
+
+
+- Quality in Use attribute:
+- Product QUality Attribute:
+
 
 ## H07: Where?
 
@@ -44,11 +71,21 @@ Location affects availability of the tool. Offices, at home, on customer site, c
 
 [About H07. Where will the tool be used?](H07-Where-will-the-tool-be-used.md)
 
+
+- Quality in Use attribute:
+- Product QUality Attribute:
+
+
 ## H08: Workflows?	
 
 Workflows describe the steps people take to complete a series of tasks. Workflows include tasks supported by the tool, and also tasks upstream and downstream from the tool.	
 
 [About H08. What workflows will the tool be part of?](H08-What-workflows-will-the-tool-be-part-of.md)
+
+
+- Quality in Use attribute:
+- Product QUality Attribute:
+
 
 ## H09 Risks?
 
@@ -56,11 +93,21 @@ The domain and technology, as well as the organizational culture will affect the
 
 [About H09. What risks are associated with those workflows?](H09-What-risks-are-associated-with-those-workflows.md)
 
+
+- Quality in Use attribute:
+- Product QUality Attribute:
+
+
 ## H10 Autonomy?	
 
 Organizational culture, autonomy and authority; supporting solo, pair /group work; team’s confidence in their process (maturity, assurance, experience level, skills).	
 
 [About H10. What autonomy of work styles is allowed in those workflows and teams?](H10-What-autonomy-of-work-styles.md)
+
+
+- Quality in Use attribute:
+- Product QUality Attribute:
+
 
 ## H11 When?
 
@@ -68,11 +115,21 @@ Level of urgency during the SDLC, speed a person can work with the tool (blocker
 
 [About H11. When will the tool be used?](H11-When-will-the-tool-be-used.md)
 
+
+- Quality in Use attribute:
+- Product QUality Attribute:
+
+
 ## H12 How long?
 
 How long to get return on investment (ROI)? Maintainability and reliability over time. Decommissioning.	
 
-[About H12. How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)
+- [About H12. How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)
+- Quality in Use Attribute: Context coverage
+- Product Quality Attribute: Portability
+- [Mapping Heuristics to Quality Attributes](heuristics-for-test-tool-design/Qualityattributesv2.md)
+
+
 
 ## Need more information?
 
