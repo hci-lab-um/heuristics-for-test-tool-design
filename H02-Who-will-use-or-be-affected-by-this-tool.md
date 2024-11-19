@@ -54,7 +54,7 @@ Both **H01 Why?** and **H02 Who?** are important
 </details>
 
 <details close>
-<summary>Research quotes from testers</summary>
+<summary>Research Points and Quotes</summary>
 
 *``In my experience end users almost never use these tools [instead they use a spreadsheet giving the tester the task of prepping the spreadsheet for users] prefer simpler interface for users - upload or import is something that that is  but I would even more like a simplifies interface for users to use … instead of having to log into this tool and being in the domain of the IT supplier''*
 
