@@ -24,7 +24,7 @@ Parts of this page:
 
 | Heuristic | [Quality in Use](#table1) | [Product Quality Attributes](#table2) |
 |-------------|-----------------------|----------------------------------------------------|
-|H01. [Why do we need this tool?](H01-why-do-we-need-this-tool.md)| Freedom from Risk | User goals, Appropriateness|
+|H01. [Why do we need this tool?](H01-why-do-we-need-this-tool.md)| Freedom from Risk (including economic, health, safety, environmental, societal risk)| User goals, Appropriateness|
 |H02. [Who will use or be affected by the tool?](H02-Who-will-use-or-be-affected-by-this-tool.md)|Satisfaction|User goals, Appropriateness|
 |H03. [What previous experiences do people bring to the tool?](H03-What-previous-experiences-do-people-bring-to-the-tool.md)|Effectiveness, Satisfaction| Learnability, Appropriateness, User error protection, Recognizability|
 |H04. [What communication needs or preferences do those people have?](H04-What-communication-needs-or-preferences-do-those-people-have.md)|Effectiveness, Satisfaction, Flexibility | Learnability, Accessibility, Recognizability |
