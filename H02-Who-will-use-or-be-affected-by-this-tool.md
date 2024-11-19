@@ -28,6 +28,19 @@ Research Point: we found that people using the tools were not always the people 
 
 Research Point: we found that case studies uncovered the need to revisit **H02 Who?** because participants either spent more time with customers focusing on costs and timescales or more time with users focusing on usability and UX, when a balance between those two areas of concern is required; both are important.
 
+Key questions to ask yourself:
+-	Who (else) will use the tool?
+-	Whose work will change because of the tool?
+-	Who provides data to the tool
+-	Who uses information from the tool?
+-	How will people be affected negatively (e.g. redundancy) or positively (e.g. tedious work removed)?
+- Who is paying for the tool?
+- 	Who will design, build and maintain the tool?
+- 	Who will choose the tool?
+-	Is it for you or someone else to use?
+-	Who else will want to use it or be affected by it?
+-	Who doesn't / shouldn't use the tool? 
+
 </details>
 
 <details close><summary>mini usage case - the people who identify the problem may not be the people who have the problem...</summary>
@@ -53,18 +66,7 @@ Both **H01 Why?** and **H02 Who?** are important
 
 </details>
 
-Key questions to ask yourself:
--	Who (else) will use the tool?
--	Whose work will change because of the tool?
--	Who provides data to the tool
--	Who uses information from the tool?
--	How will people be affected negatively (e.g. redundancy) or positively (e.g. tedious work removed)?
-- Who is paying for the tool?
-- 	Who will design, build and maintain the tool?
-- 	Who will choose the tool?
--	Is it for you or someone else to use?
--	Who else will want to use it or be affected by it?
--	Who doesn't / shouldn't use the tool? 
+
 
 
 ## Activities, tools and techniques to help answer the questions
