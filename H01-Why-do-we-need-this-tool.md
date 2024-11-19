@@ -50,7 +50,7 @@ Key questions to ask yourself:
 </details>
 
 <details close>
-<summary>Research points and quotes from testers</summary>
+<summary>Research Points and Quotes</summary>
 
 Research Point: In the research leading to the design of these heuristics, we found there are often conflicting goals and expectations for the tools, and different perceptions of what problems needed resolving to enable improvement in working practices. Conflicting or unclear goals mean tool acquisition may be done in a short-term mindset. Tools may not even be the solution to the problem you are trying to address.
 
