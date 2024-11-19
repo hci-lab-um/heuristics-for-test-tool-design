@@ -4,9 +4,17 @@
 
 Theme: CONTEXT?
 
-Heuristic Question: What workflows will the tool be part of?
+## Quick Start
+
+- Heuristic Question: What workflows will the tool be part of?
+- Workflows describe the steps people take to complete a series of tasks. Workflows include tasks supported by the tool, and also tasks upstream and downstream from the tool.	
+- Quality in Use Attributes: Effectiveness, Context coverage
+- Product Quality Attributes: Operability, User goals, Appropriateness, Maintainability, Functionality, Security, Compatibility, Recognizability
+- [Mapping Heuristics to Quality Attributes](Qualityattributesv2.md)
 
 ## Explanation and sub-questions
+
+<details close><summary>Click for further explanation</summary> 
 
 Workflows describe the steps people take to complete a series of tasks. Workflows describe the organizational/business tasks to be completed.
 Think about: 
@@ -15,11 +23,13 @@ Think about:
 - Workflows are described by experts in texts such as standards, syllabi, training courses, text books, blogs, etc. but those descriptions do not always reflect the reality of what people need to do.
 - There will be an obvious set of activities within a workflow for an individual. The workflow will extend across a team, and to other teams within and possibly outside the organization. Workflows include information exchange and communication between people, data exchange between tools and systems, task handovers.
 
-Research Point: We found that testers reported tools not supporting their workflow and feeling that unsuitable workflows had been imposed on their work. Workflows in tools did not always support preferred working practices, and sometimes were barriers to progress rather than enablers. Not having a choice can be a blocker, but sometimes it is essential.  
+</details>
+
 
 <details close>
-<summary>Research quotes from testers</summary>
+<summary>Research Points and Quotes</summary>
 
+Research Point: We found that testers reported tools not supporting their workflow and feeling that unsuitable workflows had been imposed on their work. Workflows in tools did not always support preferred working practices, and sometimes were barriers to progress rather than enablers. Not having a choice can be a blocker, but sometimes it is essential.  
 
 *"Some workflows are imposed as we don’t want the users to use their initiative and ‘improve’ the workflow but miss an important step (to someone else) they were unaware was important.  Other workflows do not follow preferred working practices due to technical/cost constraints. Workflow modelling is REALLY important in tool design and the workflows need to be modelled so that the tool designers are clear on what is optional and what is not, so that they can make compromises when implementing the workflow (e.g. based on tool costs, workflow time constraints, etc.)."* 
 
@@ -54,6 +64,9 @@ Key questions to ask yourself:
 
  [Back to Top](#TopofPage)
 
+ <details close>
+  <summary> Click for activities </summary>
+
 To understand and describe a workflow, you need to know the activities to be done, how they link together, who takes part, how workflows link together.
 The test workflow and the development workflow will interact, but so might other organizational workflows. As part of those interactions, tools will need to interact.
 
@@ -68,5 +81,6 @@ The activities to understand this heuristic mean working with stakeholders and t
 - [Service blueprint](https://www.nngroup.com/articles/service-blueprints-definition/) to get the interaction between the customer journey, the workflow and the technical flow
 - Ask ["How might we? questions"](https://www.nngroup.com/articles/how-might-we-questions/) to look for options.
 
+</details>
 
  [Back to Top](#TopofPage)
