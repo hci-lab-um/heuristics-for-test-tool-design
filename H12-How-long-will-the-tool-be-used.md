@@ -4,19 +4,46 @@
 
 Theme: CONTEXT?
 
-Heuristic Question: How long will the tool be used?
+##Quick Start
 
+- Heuristic Question: How long will the tool be used?
+- How long to get return on investment (ROI)? Maintainability and reliability over time. Decommissioning.	
+- Quality in Use Attribute: Context coverage, Freedom from Risk
+- Product Quality Attribute: Portability, Maintainability
+- [Mapping Heuristics to Quality Attributes](Qualityattributesv2.md)
+
+  
 ## Explanation and sub-questions
+
+<details close><summary>Click for further explanation</summary> 
+
 This is a different time related question and is about the test tool itself, rather than the product under test.
 
 Think about: 
 - The lifespan of the tool. 
-    - Will the tool be used enough to gain a return on investment (ROI) in implementing it?  
+    - Will the tool be used enough to gain a return on investment (ROI) in implementing it?
+    - If the tool becomes shelfware this is an economic risk to the organization (part of Freedom from risk is freedom from economic risk).
     - How long will the tool be maintained?
     - How many people will use the tool in that time?
     - What consideration of decommisioning the tool and migrating artefacts to a new tool?
 - The length of time a tool will run continuously without restarting, and therefore the level of reliability required.
 
+Key questions to ask yourself:
+- How long will we support this tool? What is its expected lifetime?
+- How quickly will we get ROI? Is this a short or long term endeavor?
+- Will the usage of the tool change over time?
+- How long will the tool be maintained for and who will do that maintenance?
+- Is this a free tool or a paid-for tool? What investment is required in time/effort to get it implemented and in use, on top of any financial cost: ROI can be about more than cash.
+- What else is affected by the tool's planned life expectancy?
+- how long will it be maintained?
+- how will decommissioning and transfer of artefacts be done? 
+
+
+</details>
+
+
+
+<details close> <summary>Research Points and Quotes</summary>
 
 Research Point:  We found that:
 - A tool with the original purpose of serving a single person or team sometimes starts to be used by other people/teams and requires maintenance long after the original designers/builders stop needing to use it.
@@ -25,8 +52,6 @@ Research Point:  We found that:
 - Accepted tool sets change over time, therefore on acquiring a tool think about how you will decommission it and migrate artefacts to a new tool.
 - Tool builders need to consider the ROI of designing and building a new tool and of making changes to an existing tool.
 
-<details close> <summary>Research quotes from testers</summary>
-  
 - <i>``Switching to new versions and dependency management takes up time that could be better spent on the actual software we develop.''</i>
 
 - <i>``Return on investment - is the time and money I'm going to invest in automation a task worth it</i>
@@ -40,15 +65,6 @@ Research Point:  We found that:
 </details>
 
 
-Key questions to ask yourself:
-- How long will we support this tool? What is its expected lifetime?
-- How quickly will we get ROI? Is this a short or long term endeavor?
-- Will the usage of the tool change over time?
-- How long will the tool be maintained for and who will do that maintenance?
-- Is this a free tool or a paid-for tool? What investment is required in time/effort to get it implemented and in use, on top of any financial cost: ROI can be about more than cash.
-- What else is affected by the tool's planned life expectancy?
-- how long will it be maintained?
-- how will decommissioning and transfer of artefacts be done? 
 
 <details close> <summary>Mini usage case</summary>
 In one case study, the organization was working with SAAS software. They commented that although asking when during the SDLC the tool is used is a useful question, for their context a more useful question could be 
@@ -62,6 +78,9 @@ In one case study, the organization was working with SAAS software. They comment
 
 [Back to Top](#TopofPage)
 
+<details close>
+  <summary> Click for activities </summary>
+
 To understand the ROI required from the tool you need to understand *how long* the tool will be used and supported, so you can design in appropriate levels of maintainability.
 By understanding *how long* the tool needs to run, you will be able to design in appropriate levels of reliability.
 
@@ -71,5 +90,7 @@ Activities, with links to useful external information:
 - Make a business case for the tool, including a ROI calculation, for one example see the Test Automation Patterns wiki on [Test Automation Business Case](https://testautomationpatterns.org/wiki/index.php/TEST_AUTOMATION_BUSINESS_CASE).
 - Make a tool maintenance plan and build in maintainability.
 - Assess the reliability required from the tool.
+
+</details>
 
 [Back to Top](#TopofPage)
