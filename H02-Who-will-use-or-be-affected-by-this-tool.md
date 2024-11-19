@@ -4,12 +4,20 @@
 
 Theme: WHO?
 
-Heuristic Question: Who will use or be affected by the tool?
+## Quick Start:
+
+- Heuristic Question: Who will use or be affected by the tool?
+- Who (else) will use the tool? Who provides information for inputs? Who uses information from outputs?	
+- Asking "Who?" is useful - we found a [broad and non-stereotypical group of people are testing](https://isabelevansconsultancy.wordpress.com/2024/07/26/research-report-breaking-tester-stereotypes-who-is-testing-and-why-it-matters/), and therefore may be using the tool.
+- You will also have stakeholders who may not use the tool, but may influence the goals for the tool. 
+- As you identify *Why* the tool is needed, you might find that different stakeholders have different perceptions of why the tool is required and what it should do: you need to understand *Who* needs the tool.
+- Quality in Use Attributes: Satisfaction
+- Product Quality Attributes: User goals, Appropriateness
+- [Mapping Heuristics to Quality Attributes](Qualityattributesv2.md)
 
 ## Explanation and sub-questions
 
-This heuristic is useful because we found a [broad and non-stereotypical group of people are testing](https://isabelevansconsultancy.wordpress.com/2024/07/26/research-report-breaking-tester-stereotypes-who-is-testing-and-why-it-matters/), and therefore may be using the tool. You will also have stakeholders who may not use the tool, but may influence the goals for the tool. 
-As you identify *Why* the tool is needed, you might find that different stakeholders have different perceptions of why the tool is required and what it should do: you need to understand *Who* needs the tool.
+<details close><summary>Click for further explanation</summary> 
 
 Think about:
 -	The people/team who have identified/named the problem may not be the person/team who has or needs to solve the problem. 
@@ -19,6 +27,8 @@ Think about:
 Research Point: we found that people using the tools were not always the people who had acquired the tools, and that tooling solutions could be seen as imposed and inappropriate.
 
 Research Point: we found that case studies uncovered the need to revisit **H02 Who?** because participants either spent more time with customers focusing on costs and timescales or more time with users focusing on usability and UX, when a balance between those two areas of concern is required; both are important.
+
+</details>
 
 <details close><summary>mini usage case - the people who identify the problem may not be the people who have the problem...</summary>
 "The people/team who have identified/named the problem may not be the person/team who has or needs to solve the problem" was picked out by one case study participant as an area that requires careful exploration with a customer:
@@ -54,11 +64,16 @@ Key questions to ask yourself:
 - 	Who will choose the tool?
 -	Is it for you or someone else to use?
 -	Who else will want to use it or be affected by it?
+-	Who doesn't / shouldn't use the tool? 
 
 
 ## Activities, tools and techniques to help answer the questions
 
 [Back to Top](#TopofPage)
+
+<details close>
+  <summary> Click for activities </summary>
+
 
 To understand who will use or be affected by the tool you need to understand who is a stakeholder. Don’t forget yourself.
 
@@ -71,5 +86,7 @@ Activities you might find useful to help you understand *Who* include:
 
 When you have a small number of people to understand, you may be able to interview them. With a large population, you can use sampling, or statistical methods. You can model this with activities to help you understand and model the *characteristics* of those groups of people include mapping:
 - [personas and archetypes](Technique-Personas-and-Archetypes.md).
+
+  </details>
 
 [Back to Top](#TopofPage)
