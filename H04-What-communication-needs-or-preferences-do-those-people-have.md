@@ -4,10 +4,19 @@
 
 Theme: WHO?
 
-Heuristic Question: What communication needs or preferences do those people have?
+## Quick Start:
+
+- Heuristic Question: What communication needs or preferences do those people have?
+- People have different communication styles. Media, speed, level of detail, accessibility needs, and so on change how people want to receive and impart information.
+- This heuristic is used to add depth to your findings from H02 and H03. 	
+- Quality in Use Attributes: Effectiveness, Satisfaction, Flexibility
+- Product Quality Attributes: Learnability, Accessibility, Rcognizability
+- [Mapping Heuristics to Quality Attributes](Qualityattributesv2.md)
 
 ## Explanation and sub-questions
-This heuristic is used to add depth to your findings from H02 and H03. 
+
+<details close><summary>Click for further explanation</summary> 
+ 
 Different people have different communication styles. The media, speed, level of detail, and other factors change how people want to receive and impart information. Some people have specific accessibility requirements. This is not a binary choice – generally people will fall somewhere on a spectrum for all of these factors, and also their preferences and needs may change in different situations and over time.
 
 Think about:
@@ -18,14 +27,17 @@ Think about:
 - Which senses people could use to interact with the tool. This includes both enriching the experience and also improving accessibility.
 - Design choices that widen the tool's capability of being used across communication needs.
 
+</details> 
+
+
+<details close>
+<summary>Research Points and Quotes from Testers</summary>
+
 Research Point: we found that people using test tools have a wide variety of communication styles and preferences. For example, 
 - people with more experience and expertise used visualisation, with visual representations of information and concepts than less experienced people (this fits with work done by other researchers on other IT roles).
 - people varied in whether they wanted details or summaries/overviews of data, and this did not fit to experience level.
 - people varied in how much they wanted to work alone and how much with others.
 Look at the different communication styles coming out in answer to a question about what activities they do in their role:
-
-<details close>
-<summary>Research Quotes from Testers</summary>
 
 *``I am the listening ear for some people in the team. No role, not official. People need to talk to someone that is listening and if they want come with advice.  I make time for people.''*
 
@@ -67,18 +79,23 @@ When will the tool be used? For one organization we spoke with, this was particu
 
 </details>
 
-
-
-
-
-
 ### Accessibility
 
 Disabilities can be permanent, temporary or situational. They can be physical, cognitive, learning, neurological, apply to any of the senses.
 International and government bodies have standards, laws, guidelines and guidance materials.
+You will find links to some Guidelines in the Activities below.
 
-### Communication styles
 
+## Activities, tools and techniques to help answer the questions
+
+ [Back to Top](#TopofPage)
+
+<details close>
+  <summary> Click for activities </summary>
+
+To understand *Who communicates how* you need to understand people’s characteristics, particularly their preferred communication styles. Use the answer to this heuristic question to help you further enrich your personas and your understanding of your stakeholders.
+
+You will need to either understand the specific communication preferences of your specific users, or make generalized personas based on a communication model, for example the DISC profiles.  This is affected by people role/work persona – their behavior in work, rather than their personality. 
 The DISC profiling method identifies communication styles in four quadrants: Dominance, Influence, Steadiness and Compliance. Each one indicates a pace of communication and how people oriented or otherwise.
 We are all a mix of these.
 - "D" is fast moving and results driven - dashboard?
@@ -89,14 +106,6 @@ We are all a mix of these.
 People are divided among these profiles. Looking at people's hobbies as a proxy for their communication styles we found a wide mix of people testing: team and solo, practical and analytical, reserved and communicative. 
 You could use the DISC to provide a set of communication characteristics towards your personas.
 
-## Activities, tools and techniques to help answer the questions
-
- [Back to Top](#TopofPage)
-
-To understand *Who communicates how* you need to understand people’s characteristics, particularly their preferred communication styles. Use the answer to this heuristic question to help you further enrich your personas and your understanding of your stakeholders.
-
-You will need to either understand the specific communication preferences of your specific users, or make generalized personas based on a communication model, for example the DISC profiles.  This is affected by people role/work persona – their behavior in work, rather than their personality. 
-
 You also must consider accessibility needs and how those affect the choice of media, input and output options, etc.  You can use the accessibility analysis as a way to improve the communication through the tool for everyone. Accessibility needs may be permanent, situational or temporary. Accessibility needs may be based on sensory, physical, cognitive and emotional states.
 
 We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with persona development.**
@@ -105,5 +114,7 @@ To help you with these activities here are links to some external sites with "ho
 - Look at the [DISC profile communication preferences](https://tonyrobbins.com/disc/) either to inform personas, or to carry out DISC profiling - not to run a profile on everyone, but to think about the different communication needs and preferences shown in that model;
 - Use the [Microsoft Inclusive Design Methodology](https://inclusive.microsoft.design/) to guide your design process by following their [Inclusive 101 guidebook](https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf);
 - A fun workshop developed by the [Accessible Reality](http://accessible-reality.org/) team supported by the University of Dundee is the “Pirates” workshop which helps you think about the different types of access needs that a person may have.
+
+  </details?
   
  [Back to Top](#TopofPage)
