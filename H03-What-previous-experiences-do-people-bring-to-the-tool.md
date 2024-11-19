@@ -4,7 +4,7 @@
 
 Theme: WHO?
 
-##Quick Start:
+## Quick Start:
 
 - Heuristic Question: What previous experiences do people bring to the tool
 - What previous experiences, expectations and skill levels do people bring? Testers do not conform to IT worker stereotype in their experiences.	
@@ -22,13 +22,24 @@ Think about:
 - This includes previous experience with the domain, the software under test, IT, testing, test tools and this specific tool. 
 - These experiences will affect their preconceptions of how to engage with the tool: what it does, and how they want to engage with it.
 
-Research Point: we found that people testing software came from a wide range of backgrounds, with widely differing experiences of domains, IT, testing and tools.
-It is difficult to design tools for a wide range of people, but it is possible to make a tool useable by as many groups of people as possible. Think about *who else* needs to use the tool.
+Key questions to ask yourself:
+- How will you enable people to work effectively and efficiently who bring different backgrounds, skills and experiences to the tool?
+- Will something that feels obvious and intuitive to you be as obvious and intuitive to others? What would be obvious and intuitive to other people?
+- How can your design include others – how will you [design in accessibility, inclusion](https://inclusive.microsoft.design/)?
+- What is your expectation of experience and skill levels and does that match the actual skills and experience people have? (May be lower or higher than yours… Are you over-estimating or under-estimating people’s knowledge and skill?)
+- Have previous experiences with new tools or new methods been supportive to the person? This might include [whether a learning culture is encouraged](https://osf.io/preprints/psyarxiv/qz43x) and [understanding the developer experience](https://dl.acm.org/doi/10.1145/3639443): both those links are to work about developers, but the same questions arise for testers.
+- Will the tool users be familiar with testing / IT terminology? If they are business testers they may not be.
+- What else do they need to know to be able to use the tool successfully and how do you supply that to them?
+- What else have they experienced that might affect ow they perceive or use the tool?
 
 </details>
 
-<details close> <summary>Research quotes from testers</summary>
-  
+<details close> <summary>Research Points and Quotes</summary>
+
+Research Point: we found that people testing software came from a wide range of backgrounds, with widely differing experiences of domains, IT, testing and tools.
+It is difficult to design tools for a wide range of people, but it is possible to make a tool useable by as many groups of people as possible. Think about *who else* needs to use the tool.
+
+ 
 *``non-testers ask interesting questions [about the software under test about things that] sounds obvious to us. We need both perspectives. We need new thinkers [not people] spoiled with old experiences that probably block their creativity''*
 
 *`` [can see different groups for test tools] among people I work with: someone with an IT education who is a specialist tester, someone with a biology degree who became a tester, someone who is a saxophonist - an improviser ... and there are users who become testers [giving different perspectives]''*
@@ -44,9 +55,11 @@ It is difficult to design tools for a wide range of people, but it is possible t
 </details>
 
 
-Data collected in our surveys, workshops and interviews indicated that (1) managers did not want staff to spend time on training around tools and automation and (2) people perceived that they would not be allowed time to learn new skills around tools and automation. We also found that people's learning needs and preferences were not fullly understood by managers choosing and commisioning tools; when you think about this heuristic, also consider heuristics [H05](H05-personal-learning-goal-mastery-or-task-based.md) and [H06](H06-What-learning-preferences-do-those-people-have.md) about learning perspectives and preferences.
 
 <details close><summary> Research Data on Training Experiences </summary>
+
+Data collected in our surveys, workshops and interviews indicated that (1) managers did not want staff to spend time on training around tools and automation and (2) people perceived that they would not be allowed time to learn new skills around tools and automation. We also found that people's learning needs and preferences were not fullly understood by managers choosing and commisioning tools; when you think about this heuristic, also consider heuristics [H05](H05-personal-learning-goal-mastery-or-task-based.md) and [H06](H06-What-learning-preferences-do-those-people-have.md) about learning perspectives and preferences.
+
 We found that:
   
 - 5.6% of survey participants mainly relied on community resources such as conferences and online communities to learn new skills
@@ -69,15 +82,6 @@ We found that:
 </details>
 
 
-Key questions to ask yourself:
-- How will you enable people to work effectively and efficiently who bring different backgrounds, skills and experiences to the tool?
-- Will something that feels obvious and intuitive to you be as obvious and intuitive to others? What would be obvious and intuitive to other people?
-- How can your design include others – how will you [design in accessibility, inclusion](https://inclusive.microsoft.design/)?
-- What is your expectation of experience and skill levels and does that match the actual skills and experience people have? (May be lower or higher than yours… Are you over-estimating or under-estimating people’s knowledge and skill?)
-- Have previous experiences with new tools or new methods been supportive to the person? This might include [whether a learning culture is encouraged](https://osf.io/preprints/psyarxiv/qz43x) and [understanding the developer experience](https://dl.acm.org/doi/10.1145/3639443): both those links are to work about developers, but the same questions arise for testers.
-- Will the tool users be familiar with testing / IT terminology? If they are business testers they may not be.
-- What else do they need to know to be able to use the tool successfully and how do you supply that to them?
-- What else have they experienced that might affect ow they perceive or use the tool?
 
 <details close> <summary>Mini usage case</summary>
 * In one case study, the participants discussed the business and IT testers who would use their tool. They commented:
