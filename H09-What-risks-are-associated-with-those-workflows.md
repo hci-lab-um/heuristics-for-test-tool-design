@@ -12,42 +12,12 @@ Theme: CONTEXT?
 - Product Quality Attributes: Operability, Appropriateness, Performance, Maintainability, Reliability, Scalability
 - [Mapping Heuristics to Quality Attributes](Qualityattributesv2.md)
 
-## Explanation, research points and sub-questions
+## Explanation and sub-questions
 
-<details close><summary>Click for further explanation</summary> 
+<details close>
+    <summary>Click for further explanation</summary> 
     
 How you address this heuristic is very context dependent; you might *'know the sea you are swimiming in'* but still you need to consider what risks will the tool help to mitigate, what risks it won't mitigate... whether there are risks increased by using the tool, and whether those change for other people. In particular evaluate which of the quality attributes are most important for the customers and users of the tool, and therefore there is risk if the attributes are not delivered.
-
-Research points: 
-
-- Security is risk both when under- and over-done. We found that the combination of strict rules for environments and for tool use carries the risk of people not being able to access the tool; they were *'stuck in limbo'* - security is not just about preventing access but also about allowing access. Are the policies around the tool going to support use of the tool?
-- Tools will be used over time, while the organization, people, market and technology change. Scaleability, portability and maintainability were all important attributes that participants mentioned. *Inability to react to change over time* is a risk for the organization and the team which the tool can mitigate or make worse. 
-- Time to market is a risk: *'supposing the tool holds up the release … but the tool also should mitigate against being late in the release [we need] faster testing'* and *'removal of human error through automation of repetitive testing'*
-- We found that attitude to risk can be affected both by role and by communication styles. When we asked about activities, nearly 20% of participants were actively involved in risk management activities, and saw assessing and reporting on risk as part of their role. Better integration of risk management was a request:
-
-*``should be extendable/better community support/risk reporting/should support and have BDD integration''*
-
-*``Testing is very very different in different companies. One difference I see is where the bias lies in terms of risks.  You could ask does your testing have a bias - towards verification of known risks, towards discovery and experiments, a balance view.''*
-
-<details><summary>mini usage cases for risks 1 - risk discussion not needed just now...</summary>
-
-The participants noted they did not find this a useful question for the current context (maintenance changes to tooling) but they could see this discussion being useful *'if implementing security-based features such as two factor authentication would need to look at the risk heuristic more closely, or if building from scratch'*
-
-</details>
-
-<details> <summary> mini usage cases for risks 2  - we need a deep dive! </summary>
-
-In this case the risk discussion needed to be much more specific - they said they would need to build a tailored and much more specific risk list within their context. Their action after the initial read of the heuristics is to have deep dive into a risk workshop; the ideas in the heuristics explanations don't cover all risks deeply.
-
-</details>
-
-<details><summary>mini usage case for risks 3 - communication is changing... </summary>
-
-In one study, the participants discussed that they are working on integrating tooling with another organization, but part of the challenge is working with that larger organization. We discussed the risks arising from different tools integrating together, and also from different perceptions and communication styles across the collaborating organizations; two risk workshops are needed, one about the technical risks for the tooling, and one for discussion of the larger scale business risk.
-
-</details>
-
-</details>
 
 There are several types of risk to consider, and varying attitudes to risk. The domain and technology, as well as the organizational culture will affect the level of risk that people face, affecting both their approaches, and the support they need from tools. Some organizations and some stakeholders will be risk averse (for example in a safety critical domain) and other organizations and stakeholders will be risk takers (for example in an entrepreneurial situation where being first to market is key). 
 
@@ -60,10 +30,8 @@ Think about:
 -	Risks increased because of flaws in the tool itself;
 -	Risks associated with different quality characteristics of the tool: security, performance, scalability;
 -	Risks associated with the systems/products under test that the tool will be used with - does the tool itself need to meet requirements because of the domain it will be used in?
--	Risks to society, the environment. 
+-	Risks to society, the environment.
 
-
-<details close>
 
 Key questions to ask yourself:
 
@@ -78,6 +46,40 @@ Key questions to ask yourself:
 - If this tool design and build is a side project, think about risks associated with maintaining it over time as a side project.
 - Who else and what else is affected risks arising from this tool or these workflows?
 - Who else and what else is affected by risks mitigated by this tool or these workflows? 
+
+</details>
+
+<details close><summary>Research points and Quotes</summary>
+
+- Security is risk both when under- and over-done. We found that the combination of strict rules for environments and for tool use carries the risk of people not being able to access the tool; they were *'stuck in limbo'* - security is not just about preventing access but also about allowing access. Are the policies around the tool going to support use of the tool?
+- Tools will be used over time, while the organization, people, market and technology change. Scaleability, portability and maintainability were all important attributes that participants mentioned. *Inability to react to change over time* is a risk for the organization and the team which the tool can mitigate or make worse. 
+- Time to market is a risk: *'supposing the tool holds up the release … but the tool also should mitigate against being late in the release [we need] faster testing'* and *'removal of human error through automation of repetitive testing'*
+- We found that attitude to risk can be affected both by role and by communication styles. When we asked about activities, nearly 20% of participants were actively involved in risk management activities, and saw assessing and reporting on risk as part of their role. Better integration of risk management was a request:
+
+*``should be extendable/better community support/risk reporting/should support and have BDD integration''*
+
+*``Testing is very very different in different companies. One difference I see is where the bias lies in terms of risks.  You could ask does your testing have a bias - towards verification of known risks, towards discovery and experiments, a balance view.''*
+
+</details>
+
+<details><summary>mini usage case for risks 1 - risk discussion not needed just now...</summary>
+
+The participants noted they did not find this a useful question for the current context (maintenance changes to tooling) but they could see this discussion being useful *'if implementing security-based features such as two factor authentication would need to look at the risk heuristic more closely, or if building from scratch'*
+
+</details>
+
+<details> <summary> mini usage case for risks 2  - we need a deep dive! </summary>
+
+In this case the risk discussion needed to be much more specific - they said they would need to build a tailored and much more specific risk list within their context. Their action after the initial read of the heuristics is to have deep dive into a risk workshop; the ideas in the heuristics explanations don't cover all risks deeply.
+
+</details>
+
+<details><summary>mini usage case for risks 3 - communication is changing... </summary>
+
+In one study, the participants discussed that they are working on integrating tooling with another organization, but part of the challenge is working with that larger organization. We discussed the risks arising from different tools integrating together, and also from different perceptions and communication styles across the collaborating organizations; two risk workshops are needed, one about the technical risks for the tooling, and one for discussion of the larger scale business risk.
+
+</details>
+
 
 ## Activities, tools and techniques to help answer the questions
 
