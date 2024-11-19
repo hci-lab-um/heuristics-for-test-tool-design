@@ -4,7 +4,7 @@
 
 Theme: WHO?
 
-##Quick Start:
+## Quick Start:
 
 - Heuristic Question: What learning preferences do those people have?
 - Solo, pair or group learning? Video, audio, text, diagrams? Online or face to face? Guided or exploratory?	
