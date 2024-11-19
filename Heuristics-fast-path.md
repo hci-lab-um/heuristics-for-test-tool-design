@@ -117,8 +117,8 @@ Level of urgency during the SDLC, speed a person can work with the tool (blocker
 How long to get return on investment (ROI)? Maintainability and reliability over time. Decommissioning.	
 
 - [About H12. How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)
-- Quality in Use Attribute: Context coverage
-- Product Quality Attribute: Portability
+- Quality in Use Attribute: Context coverage, Freedom from Risk
+- Product Quality Attribute: Portability, Maintainability
 - [Mapping Heuristics to Quality Attributes](Qualityattributesv2.md)
 
 
