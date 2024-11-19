@@ -23,6 +23,14 @@ Think about:
 - Workflows are described by experts in texts such as standards, syllabi, training courses, text books, blogs, etc. but those descriptions do not always reflect the reality of what people need to do.
 - There will be an obvious set of activities within a workflow for an individual. The workflow will extend across a team, and to other teams within and possibly outside the organization. Workflows include information exchange and communication between people, data exchange between tools and systems, task handovers.
 
+
+Key questions to ask yourself:
+- What choices about their work practices and workflow contributions should individuals and teams have?
+- Does the proposed tool cover part of a workflow, the whole of a workflow, or across more than one workflow?
+- How complex are the workflows and do they include complexity-multipliers such as [large datasets, waiting times, institutional complexity](https://www.nngroup.com/articles/complex-application-design-framework/)?
+- What other workflows are impacted by the workflow where the tool is used?
+- What else is happening in the workflow apart from testing activities?
+  
 </details>
 
 
@@ -53,12 +61,7 @@ In one use of the heuristis, a participant indicated both that this question is 
 
 </details>
 
-Key questions to ask yourself:
-- What choices about their work practices and workflow contributions should individuals and teams have?
-- Does the proposed tool cover part of a workflow, the whole of a workflow, or across more than one workflow?
-- How complex are the workflows and do they include complexity-multipliers such as [large datasets, waiting times, institutional complexity](https://www.nngroup.com/articles/complex-application-design-framework/)?
-- What other workflows are impacted by the workflow where the tool is used?
-- What else is happening in the workflow apart from testing activities?
+
 
 ## Activities, tools and techniques to help answer the questions
 
