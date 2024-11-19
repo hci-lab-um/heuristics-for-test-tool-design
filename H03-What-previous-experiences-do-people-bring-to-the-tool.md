@@ -4,11 +4,19 @@
 
 Theme: WHO?
 
-Heuristic Question: What previous experiences do people bring to the tool?
+##Quick Start:
+
+- Heuristic Question: What previous experiences do people bring to the tool
+- What previous experiences, expectations and skill levels do people bring? Testers do not conform to IT worker stereotype in their experiences.	
+- As you identify *Who* you will need to drill down into their characteristics; thinking about previous experiences will help you focus on understanding expectations and skill levels. We found that testers do not conform to IT worker stereotype in their experiences: we found boat builders, historians, philosophers, artists, musicians, urban planners and many other backgrounds.
+- Quality in Use Attributes: Effectiveness, Satisfaction
+- Product Quality Attributes: Learnability, Appropriateness, User error protection, Recognizability
+- [Mapping Heuristics to Quality Attributes](Qualityattributesv2.md)
 
 ## Explanation and sub-questions
-As you identify *Who* you will need to drill down into their characteristics; thinking about previous experiences will help you focus on understanding expectations and skill levels. We found that testers do not conform to IT worker stereotype in their experiences: we found boat builders, historians, philosophers, artists, musicians, urban planners and many other backgrounds.
 
+<details close><summary>Click for further explanation</summary> 
+  
 Think about: 
 - Other people will have a different background or experiences to you, that may lead them to have a different understanding of how to carry out the work, the choices they want to make, and the support they require. 
 - This includes previous experience with the domain, the software under test, IT, testing, test tools and this specific tool. 
@@ -16,6 +24,8 @@ Think about:
 
 Research Point: we found that people testing software came from a wide range of backgrounds, with widely differing experiences of domains, IT, testing and tools.
 It is difficult to design tools for a wide range of people, but it is possible to make a tool useable by as many groups of people as possible. Think about *who else* needs to use the tool.
+
+</details>
 
 <details close> <summary>Research quotes from testers</summary>
   
@@ -79,6 +89,9 @@ Key questions to ask yourself:
 
 [Back to Top](#TopofPage)
 
+<details close>
+  <summary> Click for activities </summary>
+  
 To understand *Who* you need to know not just the roles but also people’s characteristics. Use the answers to this heuristic question to help you enrich the persona groups that you started when answering heuristic [H02](H02-Who-will-use-or-be-affected-by-this-tool.md).
 
 You need to understand the pre-existing knowledge people bring to the tool so you provide an appropriate experience to them, for example by including both introductory steps for beginners and short cuts for more experienced people.
@@ -86,9 +99,12 @@ You need to understand the pre-existing knowledge people bring to the tool so yo
 We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with persona development.**
 
 Activities to help you do that include adding to the personas or archetypes you have already developed, such as different types of persona including learner personas.
+There is a [worked example here in this repository](Technique-Personas-and-Archetypes.md).
 
 In case you are not familiar with those concepts, here are some useful links:
 -	Add to your Persona design, including [different types of persona](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them);
 -	Do a skills gap analysis thinking about your personas as [learner personas](https://corporate.britishcouncil.org/insights/evolving-role-learner-personas).
+
+</details>
 
 [Back to Top](#TopofPage)
