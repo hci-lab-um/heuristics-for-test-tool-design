@@ -27,11 +27,23 @@ Think about:
 - Which senses people could use to interact with the tool. This includes both enriching the experience and also improving accessibility.
 - Design choices that widen the tool's capability of being used across communication needs.
 
+
+
+Key questions to ask yourself:
+- have you considered what type of communication people may require depending on their role, their place in the workflow, accessibility needs, persona preferences, level of detail needed, types of decision they are making?
+- what level of detail are the people comfortable with and does that change with event, or role? 
+- do people need to move between detail and overview?
+- how do people prefer to receive and to provide information (e.g. pace of information delivery, e.g. preferred media, e.g. focus on outcome versus focused on people)?
+- what different media are required to maximise accessibility?
+- what situational differences may the people using the tool experience - for example testing may not be their full time role. They may be testing between jobs in an office, in a warehouse, in a hospital - these are all real example we came across when developing the heuristics. The testers may need to start and stop testing as they are interrupted by higher priority tasks (their "real work") and may need share a set of tests between them as they move between tasks as a team.
+- what else may affect people's communication? Think about situational, temporary or permanent inhibitors or enhancers of communication in the situation in which people encounter the tool?
+
+
 </details> 
 
 
 <details close>
-<summary>Research Points and Quotes from Testers</summary>
+<summary>Research Points and Quotes</summary>
 
 Research Point: we found that people using test tools have a wide variety of communication styles and preferences. For example, 
 - people with more experience and expertise used visualisation, with visual representations of information and concepts than less experienced people (this fits with work done by other researchers on other IT roles).
@@ -59,16 +71,6 @@ One participant noted that communication preferences means choosing different to
 
 </details>
 
-
-
-Key questions to ask yourself:
-- have you considered what type of communication people may require depending on their role, their place in the workflow, accessibility needs, persona preferences, level of detail needed, types of decision they are making?
-- what level of detail are the people comfortable with and does that change with event, or role? 
-- do people need to move between detail and overview?
-- how do people prefer to receive and to provide information (e.g. pace of information delivery, e.g. preferred media, e.g. focus on outcome versus focused on people)?
-- what different media are required to maximise accessibility?
-- what situational differences may the people using the tool experience - for example testing may not be their full time role. They may be testing between jobs in an office, in a warehouse, in a hospital - these are all real example we came across when developing the heuristics. The testers may need to start and stop testing as they are interrupted by higher priority tasks (their "real work") and may need share a set of tests between them as they move between tasks as a team.
-- what else may affect people's communication? Think about situational, temporary or permanent inhibitors or enhancers of communication in the situation in which people encounter the tool?
 
 
 
