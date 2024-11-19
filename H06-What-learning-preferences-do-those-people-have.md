@@ -26,11 +26,21 @@ Think about:
 - Online versus face to face learning
 - Provide “short burst” and extended learning opportunities.
 
-
+Key questions to ask yourself:
+- have you considered solo and group learning routes?
+- have you considered what mix of theory, practice, guided and exploratory learning is appropriate?
+- have you considered learning and help materials in different media?
+- have you considered both face to face and remote learning?
+- have you considered how mentoring, coaching, listening and doing might be included?
+- have you considered how self-help learning might be used?
+- have you considered how to train the trainers, coaches and mentors?
+- what might affect people's learning preferences because of situational, temporary or permanent access needs or disability?
+- what else might inhibit or enhance their learning?
+  
 </details>
 
 <details close>
-<summary>Research quotes from testers</summary>
+<summary>Research Points and Quotes</summary>
 
 Research Point: we found that people expressed a range of preferences for how to learn – for example whether solo or in pairs, prefer media, whether guided or exploratory AND that these did not necessarily match with their general problem-solving or communication preferences. We also found that people had very little time allowed for learning and development.
 
@@ -42,16 +52,7 @@ Research Point: we found that people expressed a range of preferences for how to
 
 </details>
 
-Key questions to ask yourself:
-- have you considered solo and group learning routes?
-- have you considered what mix of theory, practice, guided and exploratory learning is appropriate?
-- have you considered learning and help materials in different media?
-- have you considered both face to face and remote learning?
-- have you considered how mentoring, coaching, listening and doing might be included?
-- have you considered how self-help learning might be used?
-- have you considered how to train the trainers, coaches and mentors?
-- what might affect people's learning preferences because of situational, temporary or permanent access needs or disability?
-- what else might inhibit or enhance their learning? 
+
 
 ## Activities, tools and techniques to help answer the questions
 
