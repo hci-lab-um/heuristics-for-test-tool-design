@@ -4,9 +4,24 @@
 
 Theme: WHO?
 
-Heuristic Question: Do these people want "tool mastery" or "task completion"? The learning goal will be different for different people. Some people want to learn about the tool to gain mastery, while others want to learn to achieve the next task. This has impact on long and short term goals, on investment versus cost viewpoints. If just achieving the next task is the goal, then short bursts of 2 minute videos might be a good way to deliver information about the tool, or provision of wizards to step through tasks. Learning for mastery might require longer blocks of dedicated time, information about underlying principles, and practice sessions. This also relates to different people having different goals.  
+## Quick Start: 
+
+- Heuristic Question: Do these people want "tool mastery" or "task completion"? 
+- People may want to master the tool/become expert or just to learn enough to enable them to complete a specific task. Consider both by personal choice and organizational pressure.
+- The learning goal will be different for different people. Some people want to learn about the tool to gain mastery, while others want to learn to achieve the next task.
+- This has impact on long and short term goals, on investment versus cost viewpoints.
+- If just achieving the next task is the goal, then short bursts of 2 minute videos might be a good way to deliver information about the tool, or provision of wizards to step through tasks.
+- Learning for mastery might require longer blocks of dedicated time, information about underlying principles, and practice sessions.
+- This also relates to different people having different goals.  
+- Quality in Use Attributes: Effectiveness, Flexibility
+- Product Quality Attributes: Learnability, User error protection
+- [Mapping Heuristics to Quality Attributes](Qualityattributesv2.md)
+
 
 ## Explanation and subquestions
+
+<details close><summary>Click for further explanation</summary> 
+
 Depending on the person and the organizational goals people may want to only learn enough to enable them to complete a specific task, or they may want to learn enough to enable expertise/mastery of a role/activity. This may be affected both by personal choice and by organizational pressure.
 
 Think about: 
@@ -17,10 +32,12 @@ Think about:
 - how to (re)find information to help at the point of completing a task;
 - what types of training material are required and how you cover different personas and perspectives.
 
-Research Point: we found that managers we interviewed had the goal of people learning just enough and coming “up to speed” and complete specific tasks. We found that test practitioners ranged in goals from task-based fast learning to wishing to study to get mastery of a tool.
+</details>
 
 <details close>
-<summary>Research quotes from testers</summary>
+<summary>Research Points and Quotes</summary>
+
+Research Point: we found that managers we interviewed had the goal of people learning just enough and coming “up to speed” and complete specific tasks. We found that test practitioners ranged in goals from task-based fast learning to wishing to study to get mastery of a tool.
 
 *``We live in a world where people have very little time to learn how to do things''*
 
@@ -48,6 +65,9 @@ Key questions to ask yourself:
 
 [Back to Top](#TopofPage)
 
+<details close>
+  <summary> Click for activities </summary>
+
 To understand *Who learns how* you need to understand their different constraints, and different learning goals. People will have constraints on learning time, what media they can use, on their goals for learning.
 
 Differentiate between people’s goals for mastery of a subject, which might include mastering the theory, with their need to solve a problem right now, which is likely to be task-based.
@@ -57,5 +77,7 @@ We have tabulated the [Quality in Use and Product Quality Attributes](Qualityatt
 Activities: 
 - Understanding your stakeholders’ expectations for the training budget (cost and time spent) will help you understand constraints. You could [revisit stakeholders’ goals in H01](H01-why-do-we-need-this-toll.md) to understand more.
 - If you are not familiar with setting learning outcomes try this set of [learning outcomes](https://www.ctl.ox.ac.uk/effective-learning-outcomes); for your training material be clear and appropriate for different personas.
+
+</details>
 
 [Back to Top](#TopofPage)
