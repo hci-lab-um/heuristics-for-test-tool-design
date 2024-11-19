@@ -4,25 +4,38 @@
 
 Theme: CONTEXT?
 
-Heuristic Question: What risks are associated with those workflows?
+## Quick Start
 
-## Explanation and sub-questions
+- Heuristic Question: What risks are associated with those workflows?
+- The domain and technology, as well as the organizational culture will affect the level of risk that people face, affecting their approaches, and the support they need from tools. 	
+- Quality in Use Attributes: Freedom from Risk, Context coverage
+- Product Quality Attributes: Operability, Appropriateness, Performance, Maintainability, Reliability, Scalability
+- [Mapping Heuristics to Quality Attributes](Qualityattributesv2.md)
 
-How you address this heuristic is very context dependent; you might *'know the sea you are swimiming in'* but still you need to consider what risks will the tool help to mitigate, what risks it won't mitigate... and whether there are risks increased by using the tool - and whether those change for other people. In particular evaluate which of the quality attributes are most important for the customers and users of the tool, and therefore present risk if not delivered.
+## Explanation, research points and sub-questions
 
-Research point: Security is risk both when under- and over-done. We found that the combination of strict rules for environments and for tool use carries the risk of people not being able to access the tool; they were *'stuck in limbo'* - security is not just about preventing access but also about allowing access. Are the policies around the tool going to support use of the tool?
+<details close><summary>Click for further explanation</summary> 
+    
+How you address this heuristic is very context dependent; you might *'know the sea you are swimiming in'* but still you need to consider what risks will the tool help to mitigate, what risks it won't mitigate... whether there are risks increased by using the tool, and whether those change for other people. In particular evaluate which of the quality attributes are most important for the customers and users of the tool, and therefore there is risk if the attributes are not delivered.
 
-Research point: Tools will be used over time, while the organization, people, market and technology change. Scaleability, portability and maintainability were all important attributes that participants mentioned. *Inability to react to change over time* is a risk for the organization and the team which the tool can mitigate or make worse. 
+Research points: 
 
-Research point: Time to market is a risk: *'supposing the tool holds up the release … but the tool also should mitigate against being late in the release [we need] faster testing'* and *'removal of human error through automation of repetitive testing'*
+- Security is risk both when under- and over-done. We found that the combination of strict rules for environments and for tool use carries the risk of people not being able to access the tool; they were *'stuck in limbo'* - security is not just about preventing access but also about allowing access. Are the policies around the tool going to support use of the tool?
+- Tools will be used over time, while the organization, people, market and technology change. Scaleability, portability and maintainability were all important attributes that participants mentioned. *Inability to react to change over time* is a risk for the organization and the team which the tool can mitigate or make worse. 
+- Time to market is a risk: *'supposing the tool holds up the release … but the tool also should mitigate against being late in the release [we need] faster testing'* and *'removal of human error through automation of repetitive testing'*
+- We found that attitude to risk can be affected both by role and by communication styles. When we asked about activities, nearly 20% of participants were actively involved in risk management activities, and saw assessing and reporting on risk as part of their role. Better integration of risk management was a request:
 
-<details><summary>mini usage cases for risks 1 - not needed just now...</summary>
+*``should be extendable/better community support/risk reporting/should support and have BDD integration''*
+
+*``Testing is very very different in different companies. One difference I see is where the bias lies in terms of risks.  You could ask does your testing have a bias - towards verification of known risks, towards discovery and experiments, a balance view.''*
+
+<details><summary>mini usage cases for risks 1 - risk discussion not needed just now...</summary>
 
 The participants noted they did not find this a useful question for the current context (maintenance changes to tooling) but they could see this discussion being useful *'if implementing security-based features such as two factor authentication would need to look at the risk heuristic more closely, or if building from scratch'*
 
 </details>
 
-<details> <summary> mini usage cases for risks 2  - need a deep dive </summary>
+<details> <summary> mini usage cases for risks 2  - we need a deep dive! </summary>
 
 In this case the risk discussion needed to be much more specific - they said they would need to build a tailored and much more specific risk list within their context. Their action after the initial read of the heuristics is to have deep dive into a risk workshop; the ideas in the heuristics explanations don't cover all risks deeply.
 
@@ -31,6 +44,8 @@ In this case the risk discussion needed to be much more specific - they said the
 <details><summary>mini usage case for risks 3 - communication is changing... </summary>
 
 In one study, the participants discussed that they are working on integrating tooling with another organization, but part of the challenge is working with that larger organization. We discussed the risks arising from different tools integrating together, and also from different perceptions and communication styles across the collaborating organizations; two risk workshops are needed, one about the technical risks for the tooling, and one for discussion of the larger scale business risk.
+
+</details>
 
 </details>
 
@@ -44,35 +59,14 @@ Think about:
 -	Risks to the people whose work will be changed by the tool, including perceived or actual risk of redundancy, and opportunities for them;
 -	Risks increased because of flaws in the tool itself;
 -	Risks associated with different quality characteristics of the tool: security, performance, scalability;
--	
 -	Risks associated with the systems/products under test that the tool will be used with - does the tool itself need to meet requirements because of the domain it will be used in?
 -	Risks to society, the environment. 
 
-Research Point: We found that attitude to risk can be affected both by role and by communication styles. When we asked about activities, nearly 20% of participants were actively involved in risk management activities, and saw assessing and reporting on risk as part of their role. Better integration of risk management was a request:
 
 <details close>
-<summary>Research quotes from testers</summary>
-
-*``should be extendable/better community support/risk reporting/should support and have BDD integration''*
-
-*``Testing is very very different in different companies. One difference I see is where the bias lies in terms of risks.  You could ask does your testing have a bias - towards verification of known risks, towards discovery and experiments, a balance view.''*
-
-</details>
-
-
-When investigating choices for a new tool, Moore's innovation curve can be a useful comparator. 
-<details close>
-<summary>Mini usage case with Moore's Curve</summary>
-
-In one small study we asked participants to rank how innovative versus how established and well known they wanted their new tool to be. We can draw their responses on a graph overlaid on Moore's Innovation curve and find that *for this group* they are slightly more towards the early adopter side of the graph. This will be different depending on the group of personas for your tool. You could add attitude to innovation to your personas, based around the Moore's curve.
-
-![The graph shows that Moore's innovation curve moves from a small number of innovators, a larger number of early adopters, then the large mainstream group, and a small number of laggards. The bar chart overlaid on the Moore's Curve shows that for the specific group in a specific team, the curve is skewed more towards early adoption.](innovationcurve.jpg)
-
-[innovationcurve]: innovationcurve.jpg
-
-</details>
 
 Key questions to ask yourself:
+
 - Have you considered how the tool mitigates or creates different types of risk:
     -	Project risks (threatening the result of the project),
     -	Product risks (threatening the quality of the product), and 
@@ -89,6 +83,9 @@ Key questions to ask yourself:
 
 [Back to Top](#TopofPage)
 
+<details close>
+  <summary> Click for activities </summary>
+
 To understand how to address risk appropriately in your design choices, you will need to understand the stakeholders’ attitudes to risks. Think about the stakeholders you identified in [H02](H02-Who-will-use-or-be-affected-by-this-tool.md) to consider audit, compliance, and marketing stakeholders having different viewpoints on risk, for example.
 
 
@@ -96,6 +93,18 @@ We have tabulated the [Quality in Use and Product Quality Attributes](Qualityatt
 
 Related to risk is your stakeholders' attitude to adoption of technology. Are they early adopters who may be willing to put up with some rough edges in order to engage with new technology, or are they more mainstream and looking for a a safe, reliable option. 
 This could be linked to organizational styles you'll look at in [H10](H10-What-autonomy-of-work-styles.md) and views on agility, maturity, and other process concepts.
+
+When investigating choices for a new tool, Moore's innovation curve can be a useful comparator. 
+<details close>
+<summary>Mini usage case with Moore's Curve</summary>
+
+In one small study we asked participants to rank how innovative versus how established and well known they wanted their new tool to be. We can draw their responses on a graph overlaid on Moore's Innovation curve and find that *for this group* they are slightly more towards the early adopter side of the graph. This will be different depending on the group of personas for your tool. You could add attitude to innovation to your personas, based around the Moore's curve.
+
+![The graph shows that Moore's innovation curve moves from a small number of innovators, a larger number of early adopters, then the large mainstream group, and a small number of laggards. The bar chart overlaid on the Moore's Curve shows that for the specific group in a specific team, the curve is skewed more towards early adoption.](innovationcurve.jpg)
+
+[innovationcurve]: innovationcurve.jpg
+
+</details>
 
 Activities and links to external articles that may be useful:
 -	Risk identification and assessment with Stakeholders;
@@ -105,5 +114,7 @@ Activities and links to external articles that may be useful:
 -	Use [humanity-centered design processes](https://www.interaction-design.org/literature/topics/humanity-centered-design) which includes environmental risk mitigation and the health and safety mitigation.
 -   See Innovation Diffusion, for example look at Moore's "Crossing the Chasm" to understand where your stakeholders sit in the technology adoption cycle (see [Crossing The Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm)) 
 -   Think about the language your personas use, with this [blogpost about two vocabularies for two audiences from Seth Godin](http://sethgodin.typepad.com/seths_blog/2017/02/the-two-vocabularies-because-there-are-two-audiences.html)
+
+</details>
 
 [Back to Top](#TopofPage)
