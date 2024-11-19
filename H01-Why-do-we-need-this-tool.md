@@ -4,11 +4,20 @@
 
 Theme: WHY?
 
-Heuristic Question: Why do we need this tool?
+## Quick start:
+
+- Heuristic Question: Why do we need this tool?
+- Why the tool is needed, what goals it supports, and what goals it doesn't support.
+- What problem the tool is intended to solve, and if a tool is the best option for solving the problem.
+- **Why** is this heuristic useful? We found nearly a third of comments made about challenges with implementing tools successfully were management and organizational in origin, and were often about conflicting goals across the organization. A mutual understanding across stakeholders of why the tool is needed, what goals it supports, and importantly what goals it doesn't - or cannot - support is vital.
+- Quality in Use Attributes: Freedom from Risk
+- Product Quality Attributes: User goals, Appropriateness
+- [Mapping Heuristics to Quality Attributes](Qualityattributesv2.md)
 
 ## Explanation and sub-questions
 
-**Why** is this heuristic useful? We found nearly a third of comments made about challenges with implementing tools successfully were management and organizational in origin, and were often about conflicting goals across the organization. A mutual understanding across stakeholders of why the tool is needed, what goals it supports, and importantly what goals it doesn't - or cannot - support is vital. 
+<details close><summary>Click for further explanation</summary> 
+
 You've embarked on designing, building, or choosing a new tool to help support testing.  
 Think about:
 
@@ -23,10 +32,12 @@ They might be different users, different customers, and other stakeholders.
 
 Also ask ``Why else?''
 
-Research Point: In the research leading to the design of these heuristics, we found there are often conflicting goals and expectations for the tools, and different perceptions of what problems needed resolving to enable improvement in working practices. Conflicting or unclear goals mean tool acquisition may be done in a short-term mindset. Tools may not even be the solution to the problem you are trying to address.
+</details>
 
 <details close>
-<summary>Research quotes from testers</summary>
+<summary>Research points and quotes from testers</summary>
+
+Research Point: In the research leading to the design of these heuristics, we found there are often conflicting goals and expectations for the tools, and different perceptions of what problems needed resolving to enable improvement in working practices. Conflicting or unclear goals mean tool acquisition may be done in a short-term mindset. Tools may not even be the solution to the problem you are trying to address.
 
 *``There may be several organizations - even within one organization - with conflicting goals for the same tool [example given of password control tool] Audit versus Dev may have different views about how that might be used''*
 
@@ -65,6 +76,9 @@ Key questions to ask yourself:
 ## Activities, tools and techniques to help answer the questions
 [Back to Top](#TopofPage)
 
+<details close>
+  <summary> Click for activities </summary>
+
 **How** will you go about answering heuristic question H01? To understand why you are building the tool, you need to consider goals for different stakeholders – including yourself.
 
 You will need to iterate between H01 *“Why?”* and H02 *“Who?”* as you identify stakeholders and their goals.
@@ -77,14 +91,10 @@ There are many activities you might find useful to help you understand *Why* you
 -	Contextual Inquiry is the study of people working in context to understand what they do and why. See [Wikipedia Contextual Inquiry page](https://en.wikipedia.org/wiki/Contextual_inquiry) for an overview, and [Think Design have a page on Contextual Inquiry](https://think.design/user-design-research/contextual-inquiry/)
 - Make an initial business case for the tool, including a ROI calculation, for one example see the Test Automation Patterns wiki on [Test Automation Business Case](https://testautomationpatterns.org/wiki/index.php/TEST_AUTOMATION_BUSINESS_CASE).
   
-You may find it useful to consider your budget and a return on investment (ROI) calculation at this point, and include whether the costs will be treated as Capital Expenditure (CapEx) or Operational Expenditure (OpEx) as stakeholders may require specific expenditure types.
-
-For example, if you are evaluating whether to use a tool, an early question might be to consider whether the cost of the tool is in line with budget constraints and savings goals. 
-
-Alternatively if you are a tool supplier (in-house, open-source or vendor) and you are reviewing how to respond to a user change request, you might need to look at the ROI for the effort to make the change, and the benefit to the users. 
-
-Research point: One participant working on updates to a tool said that they have to think about *``do I get payback for the amount of effort to make this change?''* when considering change requests.
-
-Research point: in one case study, the participants used the heuristics to decide whether to evaluate a particular tool at all - the licencing cost for the tool was not in line with the department's financial savings goal, but the heuristics allowed them to identify alternative ways of meeting their goals. 
-
-Research point: one participant commented that their organization favoured tooling expenses that could be Capital Expenditure rather than Operational Expenditure. 
+  - You may find it useful to consider your budget and a return on investment (ROI) calculation at this point, and include whether the costs will be treated as Capital Expenditure (CapEx) or Operational Expenditure (OpEx) as stakeholders may require specific expenditure types.
+  - For example, if you are evaluating whether to use a tool, an early question might be to consider whether the cost of the tool is in line with budget constraints and savings goals. 
+  - Alternatively if you are a tool supplier (in-house, open-source or vendor) and you are reviewing how to respond to a user change request, you might need to look at the ROI for the effort to make the change, and the benefit to the users. 
+  - Research point: One participant working on updates to a tool said that they have to think about *``do I get payback for the amount of effort to make this change?''* when considering change requests.
+  - Research point: in one case study, the participants used the heuristics to decide whether to evaluate a particular tool at all - the licencing cost for the tool was not in line with the department's financial savings goal, but the heuristics allowed them to identify alternative ways of meeting their goals. 
+  - Research point: one participant commented that their organization favoured tooling expenses that could be Capital Expenditure rather than Operational Expenditure. 
+</details>
