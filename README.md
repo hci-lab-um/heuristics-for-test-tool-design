@@ -85,7 +85,7 @@ During evaluation of the heuristics, the repository will be frozen at the start 
 ## Citation
 If you use these heuristics please cite our work: 
 
-*Evans, I., Porter, C., & Micallef, M. (2024). Heuristics-for-test-tool-design (Version 1.0.0) [Computer software]. https://github.com/hci-lab-um/heuristics-for-test-tool-design*
+*Evans, I., Porter, C., & Micallef, M. (2024). Heuristics-for-test-tool-design (Version 1.5.0) [Computer software]. https://github.com/hci-lab-um/heuristics-for-test-tool-design*
 
 Note: use the "Cite this repository" function for more options (e.g. bibtex).
 
