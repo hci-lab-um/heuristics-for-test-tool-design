@@ -103,7 +103,7 @@ I do not use other social media.
 
 [Isabel Evans](https://www.linkedin.com/in/isabelevans/)
 
-[Dr Chris Porter](https://www.linkedin.com/in/chrisporter/)
+[Prof. Chris Porter](https://www.linkedin.com/in/chrisporter/)
 
-[Dr Mark Micallef](https://www.linkedin.com/in/micallefmark/)
+[Prof. Mark Micallef](https://www.linkedin.com/in/micallefmark/)
 
