@@ -90,6 +90,7 @@ In one study, the participants discussed that they are working on integrating to
 
 To understand how to address risk appropriately in your design choices, you will need to understand the stakeholders’ attitudes to risks. Think about the stakeholders you identified in [H02](H02-Who-will-use-or-be-affected-by-this-tool.md) to consider audit, compliance, and marketing stakeholders having different viewpoints on risk, for example.
 
+Hold a Risk Workshop to identify and assess the risks. For example, you could use [Risk Storming](https://riskstorming.com/) as a workshop, or use [risk storming cards](https://www.ministryoftesting.com/testsphere/riskstorming), or [Would Heu-Risk It?](https://pejgan.se/wouldheu-riskit.html) cards.
 
 We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with understanding risk - there are a set of quality in use attributes about Freedom from Risk.**
 
