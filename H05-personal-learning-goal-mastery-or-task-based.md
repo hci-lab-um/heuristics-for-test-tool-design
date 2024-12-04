@@ -74,7 +74,7 @@ To understand *Who learns how* you need to understand their different constraint
 
 Differentiate between people’s goals for mastery of a subject, which might include mastering the theory, with their need to solve a problem right now, which is likely to be task-based.
 
-You can add these characteristics to a persona or archetype, as we show in a [worked persona example](Technique=Personas-and-Archetypes.md).
+You can add these characteristics to a persona or archetype, as we show in a [worked persona example](Technique-Personas-and-Archetypes.md).
 
 We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help wth persona development.**
 
