@@ -100,15 +100,14 @@ To understand *Who* you need to know not just the roles but also people’s char
 
 You need to understand the pre-existing knowledge people bring to the tool so you provide an appropriate experience to them, for example by including both introductory steps for beginners and short cuts for more experienced people.
 
-We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with persona development.**
-
 Activities to help you do that include adding to the personas or archetypes you have already developed, such as different types of persona including learner personas.
-There is a [worked example here in this repository](Technique-Personas-and-Archetypes.md).
+There is a persona [worked example here in this repository](Technique-Personas-and-Archetypes.md).
 
-In case you are not familiar with those concepts, here are some useful links:
+You can also:
 -	Add to your Persona design, including [different types of persona](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them);
 -	Do a skills gap analysis thinking about your personas as [learner personas](https://corporate.britishcouncil.org/insights/evolving-role-learner-personas).
 
+We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with persona development.**
 </details>
 
 [Back to Top](#TopofPage)
