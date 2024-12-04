@@ -76,18 +76,20 @@ Both **H01 Why?** and **H02 Who?** are important
 <details close>
   <summary> Click for activities </summary>
 
-
 To understand who will use or be affected by the tool you need to understand who is a stakeholder. Don’t forget yourself.
 
 You will need to iterate between “Why?” and “Who?” as you identify stakeholders and their goals.
 
-We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help wth persona development.**
+When you have a small number of people to understand, you may be able to interview them. With a large population, you can use sampling, or statistical methods. You can model this with activities to help you understand and model the *characteristics* of those groups of people include mapping to personas or archetypes:
+- [personas and archetypes](Technique-Personas-and-Archetypes.md).
 
-Activities you might find useful to help you understand *Who* include:
+Another activity you might find useful to help you understand *Who* include:
 -	[Stakeholder Mapping](Technique-Stakeholder-Mapping.md) which includes simple mapping onto a matrix, the onion model, value chain modelling and Wardley Mapping.
 
-When you have a small number of people to understand, you may be able to interview them. With a large population, you can use sampling, or statistical methods. You can model this with activities to help you understand and model the *characteristics* of those groups of people include mapping:
-- [personas and archetypes](Technique-Personas-and-Archetypes.md).
+We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with persona development.**
+
+However you map the "Who?" enrich your answer by using the rest of the heuristics to add details. 
+
 
   </details>
 
