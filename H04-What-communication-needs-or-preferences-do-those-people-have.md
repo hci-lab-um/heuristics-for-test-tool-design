@@ -27,8 +27,6 @@ Think about:
 - Which senses people could use to interact with the tool. This includes both enriching the experience and also improving accessibility.
 - Design choices that widen the tool's capability of being used across communication needs.
 
-
-
 Key questions to ask yourself:
 - have you considered what type of communication people may require depending on their role, their place in the workflow, accessibility needs, persona preferences, level of detail needed, types of decision they are making?
 - what level of detail are the people comfortable with and does that change with event, or role? 
@@ -38,7 +36,21 @@ Key questions to ask yourself:
 - what situational differences may the people using the tool experience - for example testing may not be their full time role. They may be testing between jobs in an office, in a warehouse, in a hospital - these are all real example we came across when developing the heuristics. The testers may need to start and stop testing as they are interrupted by higher priority tasks (their "real work") and may need share a set of tests between them as they move between tasks as a team.
 - what else may affect people's communication? Think about situational, temporary or permanent inhibitors or enhancers of communication in the situation in which people encounter the tool?
 
+To understand *Who communicates how* you need to understand people’s characteristics, particularly their preferred communication styles. Use the answer to this heuristic question to help you further enrich your personas and your understanding of your stakeholders.
 
+You will need to either understand the specific communication preferences of your specific users, or make generalized personas based on a communication model, for example the DISC profiles.  This is affected by people role/work persona – their behavior in work, rather than their personality. You can add this to your personas for the tool (see [Activities](#Activities-tools-and-techniques-to-help-answer-the-questions) below).
+
+The DISC profiling method identifies communication styles in four quadrants: Dominance, Influence, Steadiness and Compliance. Each one indicates a pace of communication and how people oriented or otherwise.
+We are all a mix of these.
+- "D" is fast moving and results driven - dashboard?
+- "I" is outgoing, people oriented - DM, interactive, group tool?
+- "S" likes structure, consistency and a steady pace - form based tool?
+- "C" likes facts, data, precision, order - spreadsheet?
+
+People are divided among these profiles. Looking at people's hobbies as a proxy for their communication styles we found a wide mix of people testing: team and solo, practical and analytical, reserved and communicative. 
+You could use the DISC to provide a set of communication characteristics towards your personas.
+
+You also must consider accessibility needs and how those affect the choice of media, input and output options, etc.  You can use the accessibility analysis as a way to improve the communication through the tool for everyone. Accessibility needs may be permanent, situational or temporary. Accessibility needs may be based on sensory, physical, cognitive and emotional states.
 </details> 
 
 
@@ -95,20 +107,8 @@ You will find links to some Guidelines in the Activities below.
 <details close>
   <summary> Click for activities </summary>
 
-To understand *Who communicates how* you need to understand people’s characteristics, particularly their preferred communication styles. Use the answer to this heuristic question to help you further enrich your personas and your understanding of your stakeholders.
 
-You will need to either understand the specific communication preferences of your specific users, or make generalized personas based on a communication model, for example the DISC profiles.  This is affected by people role/work persona – their behavior in work, rather than their personality. 
-The DISC profiling method identifies communication styles in four quadrants: Dominance, Influence, Steadiness and Compliance. Each one indicates a pace of communication and how people oriented or otherwise.
-We are all a mix of these.
-- "D" is fast moving and results driven - dashboard?
-- "I" is outgoing, people oriented - DM, interactive, group tool?
-- "S" likes structure, consistency and a steady pace - form based tool?
-- "C" likes facts, data, precision, order - spreadsheet?
-
-People are divided among these profiles. Looking at people's hobbies as a proxy for their communication styles we found a wide mix of people testing: team and solo, practical and analytical, reserved and communicative. 
-You could use the DISC to provide a set of communication characteristics towards your personas.
-
-You also must consider accessibility needs and how those affect the choice of media, input and output options, etc.  You can use the accessibility analysis as a way to improve the communication through the tool for everyone. Accessibility needs may be permanent, situational or temporary. Accessibility needs may be based on sensory, physical, cognitive and emotional states.
+There is a persona [worked example here in this repository](Technique-Personas-and-Archetypes.md) including communication preferences.
 
 We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with persona development.**
 
@@ -117,6 +117,6 @@ To help you with these activities here are links to some external sites with "ho
 - Use the [Microsoft Inclusive Design Methodology](https://inclusive.microsoft.design/) to guide your design process by following their [Inclusive 101 guidebook](https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf);
 - A fun workshop developed by the [Accessible Reality](http://accessible-reality.org/) team supported by the University of Dundee is the “Pirates” workshop which helps you think about the different types of access needs that a person may have.
 
-  </details?
+  </details>
   
  [Back to Top](#TopofPage)
