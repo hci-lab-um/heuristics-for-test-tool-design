@@ -1,6 +1,6 @@
 # 12 heuristic questions to provoke thought and ideas when designing or choosing a test tool (quick start).  
 
-On each heuristic below, the "about" link on each heuristic question takes you to additional information including explanations, sub-questions, usage scenarios. The quality in use and prodcut quality attributes are attributes that of the tool that you may need to consider, and "Mapping Heuristics to Quality Attributes" link takes you to more information about those attributes.
+On each heuristic below, the "about" link on each heuristic question takes you to additional information including explanations, sub-questions, usage scenarios. The quality in use and product quality attributes are attributes that of the tool that you may need to consider, and "Mapping Heuristics to Quality Attributes" link takes you to more information about those attributes.
 
 ## H01: Why?	
 
