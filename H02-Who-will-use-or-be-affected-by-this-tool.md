@@ -43,7 +43,7 @@ Key questions to ask yourself:
 
 </details>
 
-<details close><summary>mini usage case - the people who identify the problem may not be the people who have the problem...</summary>
+<details close><summary>Mini usage case - the people who identify the problem may not be the people who have the problem...</summary>
 "The people/team who have identified/named the problem may not be the person/team who has or needs to solve the problem" was picked out by one case study participant as an area that requires careful exploration with a customer:
 
 *'This heuristic is particularly relevant when engaging with buyer personas. Conducting a stakeholder mapping exercise early on can help us identify key individuals for discovery. Customers may not initially recognize all the roles involved so it can be valuable to provide them with examples of roles that may be relevant based on past experiences.'*
