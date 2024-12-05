@@ -62,19 +62,19 @@ Key questions to ask yourself:
 
 </details>
 
-<details><summary>mini usage case for risks 1 - risk discussion not needed just now...</summary>
+<details><summary>Mini usage case for risks 1 - risk discussion not needed just now...</summary>
 
 The participants noted they did not find this a useful question for the current context (maintenance changes to tooling) but they could see this discussion being useful *'if implementing security-based features such as two factor authentication would need to look at the risk heuristic more closely, or if building from scratch'*
 
 </details>
 
-<details> <summary> mini usage case for risks 2  - we need a deep dive! </summary>
+<details> <summary>Mini usage case for risks 2  - we need a deep dive! </summary>
 
 In this case the risk discussion needed to be much more specific - they said they would need to build a tailored and much more specific risk list within their context. Their action after the initial read of the heuristics is to have deep dive into a risk workshop; the ideas in the heuristics explanations don't cover all risks deeply.
 
 </details>
 
-<details><summary>mini usage case for risks 3 - communication is changing... </summary>
+<details><summary>Mini usage case for risks 3 - communication is changing... </summary>
 
 In one study, the participants discussed that they are working on integrating tooling with another organization, but part of the challenge is working with that larger organization. We discussed the risks arising from different tools integrating together, and also from different perceptions and communication styles across the collaborating organizations; two risk workshops are needed, one about the technical risks for the tooling, and one for discussion of the larger scale business risk.
 
