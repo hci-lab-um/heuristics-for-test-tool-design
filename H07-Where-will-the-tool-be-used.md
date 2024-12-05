@@ -49,7 +49,7 @@ We found that people were mandated to use tools that were not available to them 
 </details>
 
 <details close>
-<summary>mini usage case</summary>
+<summary>Mini usage case</summary>
 An example of simple questions to gain insights, in one small study we asked 12 people working together on a project to rate their mobile and internet connectivity, and to list what devices and operating system platforms they would prefer to use.
 
 ![Piechart shows about one third of the team had poor connectivity and two thirds good connectivity][connectivitypie](connectivitypie.jpg)
