@@ -42,7 +42,7 @@ People have different communication styles. Media, speed, level of detail, acces
 - [About H04. What communication needs or preferences do those people have?](H04-What-communication-needs-or-preferences-do-those-people-have.md)
 - Key points: Providing choices in level of detail versus overviews, potentially from corporate to management to team and technical levels; the tool may not be directly used, but the data and information flows will be used across organizational levels. Providing multiple routes, methods and media for information and data sharing. Reducing the need to duplicate data (and hence updating). Think about which senses people could use to interact with the tool, enriching the experience and improving accessibility. Make design choices that widen the tool's capability of being used across communication needs.
 - Quality in Use Attributes: Effectiveness, Satisfaction, Flexibility.
-- Product Quality Attributes: Learnability, Accessibility, Rcognizability.
+- Product Quality Attributes: Learnability, Accessibility, Recognizability.
 
 ## H05: Mastery or Task learning? 	
 
