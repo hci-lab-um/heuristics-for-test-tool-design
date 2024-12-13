@@ -6,10 +6,7 @@ Elsewhere in this repository are explanations and action lists for each heuristi
 
 A [quick-start page](Heuristics-fast-path.md) and a downloadable [meeting agenda using the heuristics as prompts](Heuristics-list-for-quick-meeting.pdf) are available, and can be used to start a conversation before deep diving into this repository. Review all the heuristics, and then decide where you need to deep-dive. You are unlikely to use the heuristics in a linear 1-12 way; you are more likely to iterate between the heuristics, finding out more about "Why?" as you explore "Who?" and "Context?"
 
-The [poster below can be downloaded](poster.pdf): 
-
-![Poster][poster](poster.jpg) 
-[poster](poster.jpg)
+A summary [poster can be downloaded](poster-v1.pdf).
 
 <details><summary>Click for example iterative flow through the heuristics</summary>
 
