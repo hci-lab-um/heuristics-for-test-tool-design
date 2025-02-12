@@ -97,4 +97,4 @@ If you use these heuristics please cite our work:
 Note: use the "Cite this repository" function for more options (e.g. bibtex).
 
 ## Licence
-This material is [GPL-3.0 licenced](license). 
+This material is [GPL-3.0 licenced](LICENSE). 
