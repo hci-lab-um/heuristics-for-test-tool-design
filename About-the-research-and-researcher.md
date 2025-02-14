@@ -9,7 +9,7 @@ This page is about the research behind the heuristics, information about the res
 <summary>Click for Presentations, Videos and Articles</summary>
 
 Podcasts:
-- [Chat with Richard Seidl about stereotyping](https://www.linkedin.com/posts/richardseidl_when-i-did-it-with-my-sample-of-testers-activity-7296091269900951553-rIaS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABMIbMBsBngj0ZwMCxx52Vin_Xhh9qPNCQ)
+- [Chat with Richard Seidl about stereotyping](https://www.youtube.com/watch?v=fn3Q3Gex_dE)
 - [Chat with Lisa Crispin and Janet Gregory about job titles](https://www.youtube.com/watch?v=NaH_6iE6rW0) 
 
 Presentations at industry conferences:
