@@ -18,7 +18,7 @@ If you want to cite the paper, please use the OAR@UM link to get the citation de
 
 [Test tools: an illusion of usability?](https://www.um.edu.mt/library/oar/handle/123456789/93428)    Preprint copy: [here](paper-illusion-of-usability-Evans-et-al-TAICPART-2020-preprint.pdf)
 
-[Breaking tester stereotypes: Who is testing and why it matters](https://www.um.edu.mt/library/oar/handle/123456789/132964)    Preprint copy:  [here](paper-Breaking-Tester-Stereotypes-Evans-et-al-Pre-print-July-2024.pdf)
+[Breaking tester stereotypes: Who is testing and why it matters](https://www.um.edu.mt/library/oar/handle/123456789/132964)    Preprint copy:  not needed - published paper accessible from the OAR@UM link
 
 [How can Heuristics be Communicated?](https://www.um.edu.mt/library/oar/handle/123456789/132965)    Preprint copy: [here](paper-Preprint-Commmunicting_Heuristics_CHIRA2024.pdf)
 
