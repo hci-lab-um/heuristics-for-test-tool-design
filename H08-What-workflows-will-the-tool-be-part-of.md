@@ -22,6 +22,12 @@ Think about:
 - Workflows include tasks that could be supported by a tool, and also tasks upstream and downstream from the tool.
 - Workflows are described by experts in texts such as standards, syllabi, training courses, text books, blogs, etc. but those descriptions do not always reflect the reality of what people need to do.
 - There will be an obvious set of activities within a workflow for an individual. The workflow will extend across a team, and to other teams within and possibly outside the organization. Workflows include information exchange and communication between people, data exchange between tools and systems, task handovers.
+- Tool to tool workflows.
+- Tool to person workflows.
+- Person to tool workflows.
+- Person to person worksflows.
+- Consder also integrations between tools / databases / other technology as well as considering workflows.
+- When discussing this include UXers (workflows are about people) and automators (workflows are about technology) - both are needed, and the communication between them.
 
 
 Key questions to ask yourself:
