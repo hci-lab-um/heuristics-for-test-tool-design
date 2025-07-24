@@ -1,5 +1,5 @@
 <a name="TopofPage"></a>
-# H4 What communication needs or preferences do those people have?
+# H4 What communication needs or preferences do people have?
 [◄ Go back](README.md)
 
 Theme: WHO?
@@ -8,6 +8,7 @@ Theme: WHO?
 
 - Heuristic Question: What communication needs or preferences do those people have?
 - People have different communication styles. Media, speed, level of detail, accessibility needs, and so on change how people want to receive and impart information.
+- Different stakeholders will have different requirements from the tool, and about the tool.
 - This heuristic is used to add depth to your findings from H02 and H03. 	
 - Quality in Use Attributes: Effectiveness, Satisfaction, Flexibility
 - Product Quality Attributes: Learnability, Accessibility, Rcognizability
@@ -26,6 +27,8 @@ Think about:
 - Reducing the need to duplicate data (and hence updating) by automating data transfer across tool sets.
 - Which senses people could use to interact with the tool. This includes both enriching the experience and also improving accessibility.
 - Design choices that widen the tool's capability of being used across communication needs.
+- Vendor and supplier communications: do they meet the needs of your stakeholders and you?
+- How information about the tool is best shared to the community who will use it: they may have differing needs and communication styles.
 
 Key questions to ask yourself:
 - have you considered what type of communication people may require depending on their role, their place in the workflow, accessibility needs, persona preferences, level of detail needed, types of decision they are making?
@@ -35,6 +38,8 @@ Key questions to ask yourself:
 - what different media are required to maximise accessibility?
 - what situational differences may the people using the tool experience - for example testing may not be their full time role. They may be testing between jobs in an office, in a warehouse, in a hospital - these are all real example we came across when developing the heuristics. The testers may need to start and stop testing as they are interrupted by higher priority tasks (their "real work") and may need share a set of tests between them as they move between tasks as a team.
 - what else may affect people's communication? Think about situational, temporary or permanent inhibitors or enhancers of communication in the situation in which people encounter the tool?
+- How to communicate information about the tool to people who need to know about it, for example stakeholders: one participant needed to think about ``how to convince them the tool is needed and is the right choice?''
+
 
 To understand *Who communicates how* you need to understand people’s characteristics, particularly their preferred communication styles. Use the answer to this heuristic question to help you further enrich your personas and your understanding of your stakeholders.
 
