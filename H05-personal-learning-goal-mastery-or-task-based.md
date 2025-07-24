@@ -26,11 +26,16 @@ Depending on the person and the organizational goals people may want to only lea
 
 Think about: 
 - what long and short-term goals people have with the tool, for example learning to use the tool, learning about reasons for particular approaches adopted in the tool, learning how to interpret outcomes from the tool;
+- if the goals for the tool are short-term (a one-off usage for a particular project) mastery may not be required.
+- mastery takes time; in an urgent situation mastery may not be an option, but never reaching for mastery means that it is harder to deal with change. Consider whether mastery is of the tool, the task or the context.
+- there may be a conflict between different goals, and whether mastery is needed.
+- when the context or task changes, for example across projects or if goals change, then previous mastery may be less useful and have t be revised.
 - what perspectives people might have about learning, and how learning is prioritized against other work for example whether they value short-term focused, task-based knowledge, or whether they want to broaden understanding and educate over a longer term, to life-long learning; 
 - what constraints on training are there (time, budget, resources) and how to overcome those;
 - there may be a time gap between learning and appying - how long might that gap be, and how to bridge it;
 - how to (re)find information to help at the point of completing a task;
 - what types of training material are required and how you cover different personas and perspectives.
+- Heuristics H04, H05 and H06 are linked, they address separate but related aspects of a person's or organisation's communication and learning patterns. Look at them together.
 
 Key questions to ask yourself:
 - are people more focused on the task in hand or moving to the big picture?
