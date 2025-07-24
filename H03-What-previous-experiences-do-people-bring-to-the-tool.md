@@ -9,6 +9,8 @@ Theme: WHO?
 - Heuristic Question: What previous experiences do people bring to the tool
 - What previous experiences, expectations and skill levels do people bring? Testers do not conform to IT worker stereotype in their experiences.	
 - As you identify *Who* you will need to drill down into their characteristics; thinking about previous experiences will help you focus on understanding expectations and skill levels. We found that testers do not conform to IT worker stereotype in their experiences: we found boat builders, historians, philosophers, artists, musicians, urban planners and many other backgrounds.
+- Previous expereinces might include knowledge ans skills in IT - this may affect the user interface, training material and user guides.
+- Previous experience might include knowledge of tools, consider how much retraining and relearning people will need.
 - Quality in Use Attributes: Effectiveness, Satisfaction
 - Product Quality Attributes: Learnability, Appropriateness, User error protection, Recognizability
 - [Mapping Heuristics to Quality Attributes](Qualityattributesv2.md)
@@ -31,6 +33,7 @@ Key questions to ask yourself:
 - Will the tool users be familiar with testing / IT terminology? If they are business testers they may not be.
 - What else do they need to know to be able to use the tool successfully and how do you supply that to them?
 - What else have they experienced that might affect ow they perceive or use the tool?
+- If a team also ready has expereince of a particular tool, is it more beneficial to get a similar tool (to save learning costs even if the tool is subotimal) or to get the optimal tool (even if that requires a lot of relearning and retraining).
 
 </details>
 
