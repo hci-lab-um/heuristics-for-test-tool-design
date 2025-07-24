@@ -10,7 +10,8 @@ Theme: WHO?
 - Who (else) will use the tool? Who provides information for inputs? Who uses information from outputs?	
 - Asking "Who?" is useful - we found a [broad and non-stereotypical group of people are testing](https://isabelevansconsultancy.wordpress.com/2024/07/26/research-report-breaking-tester-stereotypes-who-is-testing-and-why-it-matters/), and therefore may be using the tool.
 - You will also have stakeholders who may not use the tool, but may influence the goals for the tool. 
-- As you identify *Why* the tool is needed, you might find that different stakeholders have different perceptions of why the tool is required and what it should do: you need to understand *Who* needs the tool.
+- As you identify *Why* the tool is needed, you might find that different stakeholders have different perceptions of why the tool is required and what it should do: you need to understand *Who* needs the tool
+As well as asking Who? and Who else? ask Who not? - Who will not use the tool?
 - Quality in Use Attributes: Satisfaction
 - Product Quality Attributes: User goals, Appropriateness
 - [Mapping Heuristics to Quality Attributes](Qualityattributesv2.md)
