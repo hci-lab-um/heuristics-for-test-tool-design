@@ -9,7 +9,8 @@ Theme: WHO?
 - Heuristic Question: What communication needs or preferences do those people have?
 - People have different communication styles. Media, speed, level of detail, accessibility needs, and so on change how people want to receive and impart information.
 - Different stakeholders will have different requirements from the tool, and about the tool.
-- This heuristic is used to add depth to your findings from H02 and H03. 	
+- This heuristic is used to add depth to your findings from H02 and H03.
+- Remember to also ask What not? what communication styles do people not like or want? and what else? What other communication media and styles are possible?
 - Quality in Use Attributes: Effectiveness, Satisfaction, Flexibility
 - Product Quality Attributes: Learnability, Accessibility, Rcognizability
 - [Mapping Heuristics to Quality Attributes](Qualityattributesv2.md)
