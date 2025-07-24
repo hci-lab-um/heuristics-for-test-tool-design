@@ -21,7 +21,7 @@ How you address this heuristic is very context dependent; you might *'know the s
 
 There are several types of risk to consider, and varying attitudes to risk. The domain and technology, as well as the organizational culture will affect the level of risk that people face, affecting both their approaches, and the support they need from tools. Some organizations and some stakeholders will be risk averse (for example in a safety critical domain) and other organizations and stakeholders will be risk takers (for example in an entrepreneurial situation where being first to market is key). 
 
-Think about:
+Think about risks to the organisation, people, society - mitigated or increased by the tool?:
 -	Risks inherent to the domain within which the tool is to be used – for example safety critical, regulatory which may dictate tool design and implementation choices;
 -	Risks to be mitigated within the workflows and the tool;
 -	Risks that stakeholders want to take, how to support best decision making to take opportunities safely;
@@ -32,7 +32,15 @@ Think about:
 -	Risks associated with the systems/products under test that the tool will be used with - does the tool itself need to meet requirements because of the domain it will be used in?
 -	Risks to society, the environment.
 
+Think about risks to the projects, workflows, progress - mitigated or increased by the tool?:
+-	Risks to quality.
+-	Risks to time scales.
+-	Risks to budget.
 
+Consider revisiting this heuristic again once you are close to a decision; have risks increased or decreased as a result of the decison about the tool?  
+-	Risks mitigated by the tool.
+-	Risks increased by the tool.
+  
 Key questions to ask yourself:
 
 - Have you considered how the tool mitigates or creates different types of risk:
