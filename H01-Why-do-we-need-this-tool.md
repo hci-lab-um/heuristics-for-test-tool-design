@@ -10,6 +10,7 @@ Theme: WHY?
 - Why the tool is needed, what goals it supports, and what goals it doesn't support.
 - What problem the tool is intended to solve, and if a tool is the best option for solving the problem.
 - **Why** is this heuristic useful? We found nearly a third of comments made about challenges with implementing tools successfully were management and organizational in origin, and were often about conflicting goals across the organization. A mutual understanding across stakeholders of why the tool is needed, what goals it supports, and importantly what goals it doesn't - or cannot - support is vital.
+- Also ask: Why else? and Why not? Are there other reasons to use the tool, and are there reasons to not use the tool?
 - Quality in Use Attributes: Freedom from Risk
 - Product Quality Attributes: User goals, Appropriateness
 - [Mapping Heuristics to Quality Attributes](Qualityattributesv2.md)
