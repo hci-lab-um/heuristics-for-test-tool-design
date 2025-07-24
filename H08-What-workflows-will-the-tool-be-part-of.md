@@ -7,7 +7,9 @@ Theme: CONTEXT?
 ## Quick Start
 
 - Heuristic Question: What workflows will the tool be part of?
-- Workflows describe the steps people take to complete a series of tasks. Workflows include tasks supported by the tool, and also tasks upstream and downstream from the tool.	
+- Workflows describe the steps people take to complete a series of tasks. Workflows include tasks supported by the tool, and also tasks upstream and downstream from the tool.
+- Also ask what workflows or problems are we choosing NOT to support and why
+- What changes would we need to make in our ways of working or processes to make the best use of the tool?
 - Quality in Use Attributes: Effectiveness, Context coverage
 - Product Quality Attributes: Operability, User goals, Appropriateness, Maintainability, Functionality, Security, Compatibility, Recognizability
 - [Mapping Heuristics to Quality Attributes](Qualityattributesv2.md)
