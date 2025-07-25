@@ -27,6 +27,8 @@ Think about:
     - How many people will use the tool in that time?
     - What consideration of decommisioning the tool and migrating artefacts to a new tool?
 - The length of time a tool will run continuously without restarting, and therefore the level of reliability required.
+- Getting off the tool and porting data to another tool.
+- Single use or limited use tools versus long term investments have different ROI implications.
 
 Key questions to ask yourself:
 - How long will we support this tool? What is its expected lifetime?
