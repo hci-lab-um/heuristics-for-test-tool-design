@@ -28,6 +28,7 @@ Think about:
 - Tool to person workflows.
 - Person to tool workflows.
 - Person to person worksflows.
+- Consider consequential activities in the pipeline, whether the tool can work within the pipeline, how to get entry into the pipeline and how to get out of the pipeline and to the next activity.
 - Consder also integrations between tools / databases / other technology as well as considering workflows.
 - When discussing this include UXers (workflows are about people) and automators (workflows are about technology) - both are needed, and the communication between them.
 
