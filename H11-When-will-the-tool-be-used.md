@@ -41,9 +41,14 @@ Key questions to ask yourself:
 - Are there any situational impacts for different users e.g. a business tester might not be in an office - may be in a reactive or distracting environment, therefore doing this testing between other business tasks; the answer to 'When?' may be 'intermittantly in gaps between other tasks'.
 - Will any of the tool users need to split tasks down either to complete them in intermittant bursts of work, or because an activity - for example running a test - may be started by one person and handed over to another person to complete it?
 - When else will the tool be used or impact on people's work?
-- Can we use the tool straightway ro will it take time to implement the tool and train people?
+- Can we use the tool straightway or will it take time to implement the tool and train people?
 - How long will it take to deploy?
 - Is it a timely solution?
+- When on-boarding new team members how much time will tool training require?
+- How quickly will the tool supplier (vendor, open source team or in-house team) take to respond to questions? Is there a service level agreement for responding? Is tehre a clear communication path/responsibility that helps with response time and content? Is this both way (supplier to customer and customer to supplier)?
+- Do all the stakeholders have the same perception of `urgent' and the same timescale for `urgent'?
+
+  Participant quote: `` I don't care who controls (X) I just want it sorted out'' This is part of the user experience of the tool.
 
 </details>
 
