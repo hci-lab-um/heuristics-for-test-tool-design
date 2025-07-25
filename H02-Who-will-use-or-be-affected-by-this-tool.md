@@ -10,7 +10,9 @@ Theme: WHO?
 - Who (else) will use the tool? Who provides information for inputs? Who uses information from outputs?	
 - Asking "Who?" is useful - we found a [broad and non-stereotypical group of people are testing](https://isabelevansconsultancy.wordpress.com/2024/07/26/research-report-breaking-tester-stereotypes-who-is-testing-and-why-it-matters/), and therefore may be using the tool.
 - You will also have stakeholders who may not use the tool, but may influence the goals for the tool. 
-- As you identify *Why* the tool is needed, you might find that different stakeholders have different perceptions of why the tool is required and what it should do: you need to understand *Who* needs the tool
+- As you identify *Why* the tool is needed, you might find that different stakeholders have different perceptions of why the tool is required and what it should do: you need to understand *Who* needs the tool.
+- Also consider that not everone will benefit from the tool; for some people there may be perceived or actual disadvantages to the tool, that affect their work or themselves adversely.
+  
 As well as asking Who? and Who else? ask Who not? - Who will not use the tool?
 - Quality in Use Attributes: Satisfaction
 - Product Quality Attributes: User goals, Appropriateness
@@ -86,6 +88,8 @@ When you have a small number of people to understand, you may be able to intervi
 
 Another activity you might find useful to help you understand *Who* include:
 -	[Stakeholder Mapping](Technique-Stakeholder-Mapping.md) which includes simple mapping onto a matrix, the onion model, value chain modelling and Wardley Mapping.
+
+The CATWOE model from Soft Systems Methodology shows different stakeholders for a change, including beneficiaries and victims; adding, changing or removing a tool is a change. **(TBD: add link to CATWOE diagram: issue #4)** 
 
 We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with persona development.**
 
