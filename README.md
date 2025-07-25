@@ -4,7 +4,7 @@ _Developed by: [Isabel Evans](mailto:isabel.evans.17@um.edu.mt) - University of 
 These 12 heuristic questions are intended to provoke thought and ideas when designing or choosing a test tool. 
 Elsewhere in this repository are explanations and action lists for each heuristic, plus background to the research. 
 
-A [quick-start page](Heuristics-fast-path.md) and a downloadable [meeting agenda using the heuristics as prompts](Heuristics-list-for-quick-meeting.pdf) are available, and can be used to start a conversation before deep diving into this repository. Review all the heuristics, and then decide where you need to deep-dive. You are unlikely to use the heuristics in a linear 1-12 way; you are more likely to iterate between the heuristics, finding out more about "Why?" as you explore "Who?" and "Context?"
+A [quick-start / recap page](Heuristics-fast-path.md) and a downloadable [meeting agenda using the heuristics as prompts](Heuristics-list-for-quick-meeting.pdf) are available, and can be used to start a conversation before deep diving into this repository. Review all the heuristics, and then decide where you need to deep-dive. You are unlikely to use the heuristics in a linear 1-12 way; you are more likely to iterate between the heuristics, finding out more about "Why?" as you explore "Who?" and "Context?"
 
 A summary [poster can be downloaded](poster-v2.pdf).
 Here is a thumbnail of the poster and a flowchart of the heuristics, clickable and accessible links are after the two illustrations.
