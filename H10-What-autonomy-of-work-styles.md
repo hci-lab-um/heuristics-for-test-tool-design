@@ -27,6 +27,7 @@ Think about:
 - Support to solo, pair and group working;
 - How teams are organized;
 - Level of confidence that teams have in their process. This might include maturity, assurance, experience level, support to grow experiences/skills.
+- From case studies and reviews of the heuristics, this heuristic seems to be particularly context specific; you might find it useful to start a mindmap to help you think about leadership and autonomy in your context, across your stakeholders' contexts, and how that affects answers to the other heuristics.
 
 
 Key questions to ask yourself:
