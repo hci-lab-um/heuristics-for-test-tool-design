@@ -39,7 +39,7 @@ What previous experiences, expectations and skill levels do people bring? Tester
 
 People have different communication styles. Media, speed, level of detail, accessibility needs, and so on change how people want to receive and impart information.	
 
-- [About H04. What communication needs or preferences do those people have?](H04-What-communication-needs-or-preferences-do-those-people-have.md)
+- [About H04. What communication needs or preferences do people have?](H04-What-communication-needs-or-preferences-do-those-people-have.md)
 - Key points: Providing choices in level of detail versus overviews, potentially from corporate to management to team and technical levels; the tool may not be directly used, but the data and information flows will be used across organizational levels. Providing multiple routes, methods and media for information and data sharing. Reducing the need to duplicate data (and hence updating). Think about which senses people could use to interact with the tool, enriching the experience and improving accessibility. Make design choices that widen the tool's capability of being used across communication needs.
 - Quality in Use Attributes: Effectiveness, Satisfaction, Flexibility.
 - Product Quality Attributes: Learnability, Accessibility, Recognizability.
@@ -48,7 +48,7 @@ People have different communication styles. Media, speed, level of detail, acces
 
 People may want to master the tool/become expert or just to learn enough to enable them to complete a specific task. Consider both by personal choice and organizational pressure.	
 
-- [About H05. Do these people want "tool mastery" or "task completion"?](H05-personal-learning-goal-mastery-or-task-based.md)
+- [About H05. Do people want "tool mastery" or "task completion"?](H05-personal-learning-goal-mastery-or-task-based.md)
 - Key points: The learning goal has impact on long and short term goals, on investment versus cost viewpoints. If just achieving the next task is the goal, then short bursts of 2 minute videos might be a good way to deliver information about the tool, or provision of wizards to step through tasks. Learning for mastery might require longer blocks of dedicated time, information about underlying principles, and practice sessions.
 - Quality in Use Attributes: Effectiveness, Flexibility.
 - Product Quality Attributes: Learnability, User error protection.
@@ -57,7 +57,7 @@ People may want to master the tool/become expert or just to learn enough to enab
 
 Solo, pair or group learning? Video, audio, text, diagrams? Online or face to face? Guided or exploratory?	
 
-- [About H06. What learning preferences do those people have?](H06-What-learning-preferences-do-those-people-have.md)
+- [About H06. What learning preferences do people have?](H06-What-learning-preferences-do-those-people-have.md)
 - Key points: We found that people's general work preferences and communication styles did not necessarily match their learning preferences. For example, someone who enjoyed pair working might prefer solo learning, and the other way around. A person wanting to master a tool may want different media to when they want to accomplis the next task in a different too. H04, H05 and H06 are linked, but not the same.
 - Quality in Use Attributes: Effectiveness, Flexibility.
 - Product Quality Attributes: Learnability, User error protection, Recognizability.
