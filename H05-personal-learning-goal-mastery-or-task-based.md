@@ -1,12 +1,12 @@
 <a name="TopofPage"></a>
-# H5 Do these people want "tool mastery" or "task completion"?
+# H5 Do people want "tool mastery" or "task completion"?
 [◄ Go back](README.md)
 
 Theme: WHO?
 
 ## Quick Start: 
 
-- Heuristic Question: Do these people want "tool mastery" or "task completion"? 
+- Heuristic Question: Do people want "tool mastery" or "task completion"? 
 - People may want to master the tool/become expert or just to learn enough to enable them to complete a specific task. Consider both by personal choice and organizational pressure.
 - The learning goal will be different for different people. Some people want to learn about the tool to gain mastery, while others want to learn to achieve the next task.
 - This has impact on long and short term goals, on investment versus cost viewpoints.
