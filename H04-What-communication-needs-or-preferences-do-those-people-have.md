@@ -6,7 +6,7 @@ Theme: WHO?
 
 ## Quick Start:
 
-- Heuristic Question: What communication needs or preferences do those people have?
+- Heuristic Question: What communication needs or preferences do people have?
 - People have different communication styles. Media, speed, level of detail, accessibility needs, and so on change how people want to receive and impart information.
 - Different stakeholders will have different requirements from the tool, and about the tool.
 - This heuristic is used to add depth to your findings from H02 and H03.
