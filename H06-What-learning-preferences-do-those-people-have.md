@@ -1,12 +1,12 @@
 <a name="TopofPage"></a>
-# H6 What learning preferences do those people have?
+# H6 What learning preferences do people have?
 [◄ Go back](README.md)
 
 Theme: WHO?
 
 ## Quick Start:
 
-- Heuristic Question: What learning preferences do those people have?
+- Heuristic Question: What learning preferences do people have?
 - Solo, pair or group learning? Video, audio, text, diagrams? Online or face to face? Guided or exploratory?	
 - Depending on the person and their preferences a mix of media and teaching methods may be needed in the learning materials.
 - Quality in Use Attributes: Effectiveness, Flexibility
