@@ -27,9 +27,9 @@ Parts of this page:
 |H01. [Why do we need this tool?](H01-why-do-we-need-this-tool.md)| Freedom from Risk (including economic, health, safety, environmental, societal risk)| User goals, Appropriateness|
 |H02. [Who will use or be affected by the tool?](H02-Who-will-use-or-be-affected-by-this-tool.md)|Satisfaction|User goals, Appropriateness|
 |H03. [What previous experiences do people bring to the tool?](H03-What-previous-experiences-do-people-bring-to-the-tool.md)|Effectiveness, Satisfaction| Learnability, Appropriateness, User error protection, Recognizability|
-|H04. [What communication needs or preferences do those people have?](H04-What-communication-needs-or-preferences-do-those-people-have.md)|Effectiveness, Satisfaction, Flexibility | Learnability, Accessibility, Recognizability |
-|H05. [Is this person's learning goal "tool mastery" or "task completion"?](H05-personal-learning-goal-mastery-or-task-based.md)|Effectiveness, Flexibility | Learnability, User error protection |
-|H06. [What learning preferences do those people have?](H06-What-learning-preferences-do-those-people-have.md)|Effectiveness, Flexibility | Learnability, User error protection, Recognizability |
+|H04. [What communication needs or preferences do people have?](H04-What-communication-needs-or-preferences-do-those-people-have.md)|Effectiveness, Satisfaction, Flexibility | Learnability, Accessibility, Recognizability |
+|H05. [Is the learning goal "tool mastery" or "task completion"?](H05-personal-learning-goal-mastery-or-task-based.md)|Effectiveness, Flexibility | Learnability, User error protection |
+|H06. [What learning preferences do people have?](H06-What-learning-preferences-do-those-people-have.md)|Effectiveness, Flexibility | Learnability, User error protection, Recognizability |
 |H07. [Where will the tool be used?](H07-Where-will-the-tool-be-used.md)|Context coverage| Operability |
 |H08. [What workflows will the tool be part of?](H08-What-workflows-will-the-tool-be-part-of.md)|Effectiveness, Context coverage|  Operability, User goals, , Appropriateness, Maintainability, Functionality, Security, Compatibility, Recognizability |
 |H09. [What risks are associated with those workflows?](H09-What-risks-are-associated-with-those-workflows.md)|Freedom from Risk (including economic, health, safety, environmental, societal risk),  Context coverage| Operability, Appropriateness, Performance, Maintainability, Reliability, Scalability|
