@@ -38,7 +38,8 @@ Key questions to ask yourself:
 - Is this a free tool or a paid-for tool? What investment is required in time/effort to get it implemented and in use, on top of any financial cost: ROI can be about more than cash.
 - What else is affected by the tool's planned life expectancy?
 - how long will it be maintained?
-- how will decommissioning and transfer of artefacts be done? 
+- how will decommissioning and transfer of artefacts be done?
+- Will you need to revisit the heuristics in 3 months, six months, a year? For example if the context for tools is changing.
 
 
 </details>
