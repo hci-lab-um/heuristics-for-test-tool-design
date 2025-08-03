@@ -26,9 +26,11 @@ Think about:
     - How long will the tool be maintained?
     - How many people will use the tool in that time?
     - What consideration of decommisioning the tool and migrating artefacts to a new tool?
+    - Sustainability over the lifetime of the tool - what resources will be required?
 - The length of time a tool will run continuously without restarting, and therefore the level of reliability required.
 - Getting off the tool and porting data to another tool.
 - Single use or limited use tools versus long term investments have different ROI implications.
+- "how long" across time zones for remote distributed teams.
 
 Key questions to ask yourself:
 - How long will we support this tool? What is its expected lifetime?
@@ -39,6 +41,9 @@ Key questions to ask yourself:
 - What else is affected by the tool's planned life expectancy?
 - how long will it be maintained?
 - how will decommissioning and transfer of artefacts be done?
+- What resources (renewable and non-renewable) will be required and waste generated to keep the tool running over its usage and decommisioning? Is it the "cheapest option" for sustainability?
+- Is the tool scaleable over time? How much will its use build up and are there resources to sustain that growth?
+- If the tool is being used across multiple time zones by distributed teams does "how long" include tiime zone adjustments?
 - Will you need to revisit the heuristics in 3 months, six months, a year? For example if the context for tools is changing.
 
 
