@@ -1,6 +1,6 @@
 # Heuristic H01 Why?
 
-[◄ Back to README](.../README.md)
+[◄ Back to README](../README.md)
 
 Theme and Keyword Why?
 
