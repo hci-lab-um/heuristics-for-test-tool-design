@@ -41,6 +41,9 @@ words for topic
 
 words for topic
 
+
+[H01 Why is this tool needed?](Heuristics/H01.md)
+
 </details>
 
 ### Activities
