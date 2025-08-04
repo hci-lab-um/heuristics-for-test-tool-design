@@ -1,4 +1,4 @@
-# idea-t: A Framework of Heuristics for Test Tool Design
+# idea-t: A Framework of Heuristics for Test Tool Design v1.7
 _Developed by: [Isabel Evans](mailto:isabel.evans.17@um.edu.mt) - University of Malta_
 
 the idea-t framework contains 12 heuristic questions and supporting information which are intended to provoke thought and ideas when designing or choosing a test tool. 
@@ -87,12 +87,14 @@ The heuristic questions and explanations are grounded in research data collected
 
 NOTE: both the heuristics and the underlying explanations and activities are still draft. They are being developed in an iterative process which is looking at the content and the format of the materials. Example activities and links to further information are indicative, and to be replaced later. Format and medium will change. American spellings have been adopted.
 During evaluation of the heuristics, the repository will be frozen at the start of each case study/evaluation, and then changes made based on data from the evaluations, and from previous research to enrich the contents. Starting from a simple basis, the repository will grow over time.
+
+August 2025: following the final case studies and expert reviews, suggestions and edits have been made to this V1.x repository, bringing it to v1.7. Work will start shortly on v2.0 in a separate branch.
 </details>
 
 ## Citation
 If you use these heuristics please cite our work: 
 
-*Evans, I., Porter, C., & Micallef, M. (2024). Heuristics-for-test-tool-design (Version 1.5.0) [Computer software]. https://github.com/hci-lab-um/heuristics-for-test-tool-design*
+*Evans, I., Porter, C., & Micallef, M. (2024). Heuristics-for-test-tool-design (Version 1.7.0) [Computer software]. https://github.com/hci-lab-um/heuristics-for-test-tool-design*
 
 Note: use the "Cite this repository" function for more options (e.g. bibtex).
 
