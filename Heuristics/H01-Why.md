@@ -83,4 +83,6 @@ Why else?
 
 ## Navigation hint (where in idea-t to go next)
 
+[◄ Back to README](../README.md)
 
+[◄ Go to Heuristic H02 Who?](H02-Who.md)
