@@ -4,9 +4,12 @@
 
 Theme and Keyword Who?
 
-Question: Who xxxx?
+Question: Who will use or be affected by this tool?
 
 ## Navigation hint (where you are in idea-t)
+
+## In brief:
+
 
 ## Expanding this heuristic
 <details close>
@@ -40,6 +43,8 @@ some words of explanation
 Who not? 
 
 - Who does not need this tool?
+- Who won't use it?
+- Who won't be affected by it?
 
 ### Else?
 Who else?
