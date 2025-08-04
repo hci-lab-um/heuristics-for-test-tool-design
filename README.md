@@ -44,6 +44,8 @@ words for topic
 
 [H01 Why is this tool needed?](Heuristics/H01-Why.md)
 
+[H02 Who will use or be affected by this tool?](Heuristics/H02-Who.md)
+
 </details>
 
 ### Activities
