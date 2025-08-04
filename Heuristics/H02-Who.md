@@ -1,6 +1,6 @@
 # Heuristic H02 Who?
 
-[◄ Go back to README](README.md)
+[◄ Go back to README](../README.md)
 
 Theme and Keyword Who?
 
@@ -79,7 +79,7 @@ Who else?
 
 ## Navigation hint (where in idea-t to go next)
 
-[◄ Back to README](README.md)
+[◄ Back to README](../README.md)
 
 [◄ To H01 Why?](H01-Why.md)  because
 
