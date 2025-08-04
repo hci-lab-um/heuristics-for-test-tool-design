@@ -1,6 +1,6 @@
 # Heuristic H01 Why?
 
-[◄ Go back to README](README.md)
+[◄ Back to README](.../README.md)
 
 Theme and Keyword Why?
 
@@ -83,4 +83,4 @@ Why else?
 
 ## Navigation hint (where in idea-t to go next)
 
-[◄ Back to README](.../README.md)
+
