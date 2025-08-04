@@ -8,6 +8,9 @@ Question: Why is this tool needed?
 
 ## Navigation hint (where you are in idea-t)
 
+## In brief:
+
+
 ## Expanding this heuristic
 <details close>
   <summary>Click for quick start summary
