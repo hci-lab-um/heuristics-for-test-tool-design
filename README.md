@@ -1,74 +1,93 @@
 # Read Me for idea-t: a framework including 12 heuristics 
-## for influencing the design-evaluation and acquisition of tools to support testing
+## influencing the design-evaluation and acquisition of tools to support testing
 
-Welcome to idea-t v2, a framework of 12 heuristics and supporting information and activities to help you with evaluating the design of tools to support testing. This is intended to help you whether you build, commision, acquire or use testing tools. 
+Welcome to idea-t v2, a framework of 12 heuristics, with supporting information and activities, to help you with evaluating the design of tools to support testing. It is intended to help you with decisions, whether you build, commission, acquire or use testing tools. 
 
 ## Overview
 
-<details><summary>summary of topic</summary>
+  <details><summary>overview</summary>
 
-words for topic
+  words for topic
 
-</details>
+  </details>
 
-## Getting started (First time using idea-t? Need a reminder?)
+## Start here if this is your first-time using idea-t or if you need a reminder
 
-<details><summary>summary of topic</summary>
+  <details><summary>first time / recap</summary>
 
-words for topic
+  words for topic
 
-</details>
+  </details>
 
-## Fast track
+## Start here if you've used idea-t before and want to fast-track into the heuristics
 
-<details><summary>summary of topic</summary>
+  <details><summary>fast track</summary>
 
-words for topic
+  words for topic
 
-</details>
+  </details>
 
-## Deep dive in
+## Start here for an in-depth guided usage of idea-t
 
-### Themes
-<details><summary>summary of topic</summary>
+  <details><summary>in-depth guidance to idea-t</summary>
 
-words for topic
+  words for topic
 
-</details>
+  </details>
 
-### Heuristics
-<details><summary>summary of topic</summary>
+## Resources
+  <details><summary>idea-t downloads and other media</summary>
 
-words for topic
+  words for topic
+
+  </details>
+
+## Deep dive into the structure and background to idea-t
+
+  <details><summary>learning more about idea-t</summary>
+
+  ### Themes
+    <details><summary>idea-t themes</summary>
+
+    words for topic
+
+    </details>
+
+  ### Heuristics
+    <details><summary>idea-t heuristics</summary>
+
+    words for topic
 
 
-[H01 Why is this tool needed?](Heuristics/H01-Why.md)
+    [H01 Why is this tool needed?](Heuristics/H01-Why.md)
 
-[H02 Who will use or be affected by this tool?](Heuristics/H02-Who.md)
+    [H02 Who will use or be affected by this tool?](Heuristics/H02-Who.md)
 
-</details>
+    </details>
 
-### Activities
-<details><summary>summary of topic</summary>
+  ### Activities
+    <details><summary>idea-t activities</summary>
 
-words for topic
+    words for topic
 
-</details>
+    </details>
 
-### Examples
-<details><summary>summary of topic</summary>
+  ### Examples
+    <details><summary>idea-t examples</summary>
 
-words for topic
+    words for topic
 
-</details>
+    </details>
 
-## About the Research
+  ### About the Research
 
-<details><summary>summary of topic</summary>
+    <details><summary>about the research</summary>
 
-words for topic
+    words for topic
 
-</details>
+    </details>
+
+  </details>
 
 ## Licence to use idea-t
 
