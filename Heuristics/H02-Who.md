@@ -89,3 +89,5 @@ Who else?
 [◄ To H01 Why?](H01-Why.md)  because
 
 [◄ To H03 Experience?](H03-Experience.md)  because 
+
+[◄ To H07 Where?](H07-Where.md)  because 
