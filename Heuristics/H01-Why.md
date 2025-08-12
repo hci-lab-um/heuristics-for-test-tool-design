@@ -86,6 +86,8 @@ Why else?
 
 ## Navigation hint (where in idea-t to go next)
 
-[◄ Back to README](../README.md)
+[◄ Back to README](../README.md)   because 
 
-[◄ Go to Heuristic H02 Who?](H02-Who.md)
+[◄ Go to Heuristic H02 Who?](H02-Who.md)  because 
+
+[◄ Go to Heuristic H07 Where](H07-Where.md)   because   
