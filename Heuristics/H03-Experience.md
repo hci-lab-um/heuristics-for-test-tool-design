@@ -1,9 +1,9 @@
 
-# Heuristic H03 Exoerience?
+# Heuristic H03 Experience?
 
 [◄ Go back to README](../README.md)
 
-Theme and Keyword Who?
+Theme Who? and Keyword Experience?
 
 Question: What previous experiences do people bring to this tool?
 
