@@ -90,6 +90,8 @@ What other experiences might people bring to the tool?
 
 [◄ To H02 Who?](H02-Who.md)  because
 
+[◄ To H03 Experience?](H03-Experience.md)  because 
+
 [◄ To H07 Where?](H07-Where.md)  because
 
-[◄ To H03 Experience?](H03-Experience.md)  because 
+
