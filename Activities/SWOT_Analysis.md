@@ -62,3 +62,6 @@ Sometimes teams find it hard to turn the SWOT workshop output into actions that 
 The [CIPD SWOT fact sheet]( https://www.cipd.org/uk/knowledge/factsheets/swot-analysis-factsheet) has a good overview and a list of further references. 
 
 [Back to Top](#TopofPage)
+
+[◄ Go back to README](../README.md)
+
