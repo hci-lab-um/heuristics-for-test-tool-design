@@ -86,12 +86,11 @@ What other clearning goals might be useful?
 
 [◄ Back to README](../README.md)
 
-[◄ To H01 Why?](H01-Why.md)  because
+[◄ To H01 Why?](../Heuristics/H01-Why.md)  if you have identified stakeholders who might have goals you have not yet considered, or if you have identified conflicts between learning goals for diferent individuals and the organisation.
 
-[◄ To H02 Who?](H02-Who.md)  because
+[◄ To H02 Who?](../Heuristics/H02-Who.md)  because in identifying learning goals you might have identified additional stakeholders.
 
-[◄ To H04 Communication?](H04-Communication.md)  because 
+[◄ To H06 Learning Preferences?](../Heuristics/H05-LearningPreferences.md)  because it is the next heuristic in the "Who?" theme.
 
-[◄ To H06 Learning Preferences?](H05-LearningPreferences.md)  because 
+[◄ To H07 Where?](../Heuristics/H07-Where.md)  if you want to investigate the "Context?" theme now.
 
-[◄ To H07 Where?](H07-Where.md)  because
