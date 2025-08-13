@@ -86,7 +86,7 @@ Who else?
 
 [◄ Back to README](../README.md)
 
-[◄ To H01 Why?](../Heuristics/H01-Why.md)  if you have identified stakeholders who might have goals you ave not yet considered.
+[◄ To H01 Why?](../Heuristics/H01-Why.md)  if you have identified stakeholders who might have goals you have not yet considered.
 
 [◄ To H03 Experience?](../Heuristics/H03-Experience.md)  because it is the next heuristic in the "Who?" theme.
 
