@@ -14,6 +14,8 @@ Question: Why is this tool needed?
 
 This heuristic prompts us to explore why a tool is needed, what goal it will help us achieve, and what problem it will solve. 
 
+H01 Why? and H02 Who? are closely allied: different stakeholders may have different goals. Expect to iterate between Why? and Who? as you use idea-t.
+
 ## Expanding this heuristic
 <details close>
   <summary>Click for quick start summary
@@ -34,7 +36,11 @@ This heuristic prompts us to explore why a tool is needed, what goal it will hel
   <summary>Click for explanation of the heuristic
   </summary> 
 
-You've embarked on designing, building, or choosing a new tool to help support testing.  
+The research showed that sometimes we forget to ask "why/" a tool is needed. 
+
+Examining the goals we want to achieve and the problems we want to ovvercome help understand whether a tool will help, or not.
+
+If you've embarked on designing, building, or choosing a new tool to help support testing... 
 Think about:
 
 -	what problem the tool is intended to solve, and whether a tool is the best option for solving that problem. 
@@ -141,6 +147,14 @@ TBD add a link to case study 1 summary
   
 ### Activities
 
+Activities to help you understand goals include:
+
+- SWOT Analysis tbd need to add this link to file in its own directory
+- Gap Analysis tbd need to add this link to file in its own directory
+- Contextual Inquiry tbd need to add this link to file in its own directory
+- Building a Business Case tbd need to add this link to file in its own directory
+- Estimating Return on Investment (ROI) tbd need to add this link to file in its own directory
+
 ### Quality Attributes
 - Quality in Use Attributes: Freedom from Risk
 - Product Quality Attributes: User goals, Appropriateness
@@ -154,5 +168,7 @@ TBD add a link to case study 1 summary
 [◄ Back to README](../README.md)   to get an overview of idea-t and the heuristics. 
 
 [◄ Go to Heuristic H02 Who?](H02-Who.md)  it is the start of examining the "Who?" theme.
+
+[◄ Go to Heuristic H07 Where?](H07-Where.md)  it is the start of examining the "Context?" theme.
 
 [◄ Go to Heuristic H07 Where?](H07-Where.md)  it is the start of the "Context?" theme.  
