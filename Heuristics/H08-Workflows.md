@@ -92,4 +92,4 @@ What other risks might be affected by the tool?
 
 [◄ To H07 Where?](../Heuristics/H07-Where.md)  because you may now have identified other places the tool will be used.
 
-[◄ To H10 Autonomy?](../Heuristics/H10-Autonomy.md) because H10 is the next heuristic in the list, and is part of the "Context?" theme.
+[◄ To H09 Risks?](../Heuristics/H09-Risks.md) because H09 is the next heuristic in the list, and is part of the "Context?" theme.
