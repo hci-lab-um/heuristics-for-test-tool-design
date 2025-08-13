@@ -87,13 +87,11 @@ What other communication styles or media might be useful?
 
 [◄ Back to README](../README.md)
 
-[◄ To H01 Why?](H01-Why.md)  because
+[◄ To H01 Why?](../Heuristics/H01-Why.md)  if you have identified stakeholders who might have goals you have not yet considered.
 
-[◄ To H02 Who?](H02-Who.md)  because
+[◄ To H02 Who?](../Heuristics/H02-Who.md)  if thinking about communication has let you to identify additional stakeholders. 
 
-[◄ To H03 Experience?](H03-Experience.md)  because 
+[◄ To H05 Learning Goals?](../Heuristics/H05-LearningGoals.md)  because it is the next heuristics in the "Who?" theme.
 
-[◄ To H05 Learning Goals?](H05-LearningGoals.md)  because 
-
-[◄ To H07 Where?](H07-Where.md)  because
+[◄ To H07 Where?](../Heuristics/H07-Where.md) if you want to investigate the "Context?" theme now.
 
