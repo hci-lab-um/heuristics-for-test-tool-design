@@ -149,7 +149,7 @@ TBD add a link to case study 1 summary
 
 Activities to help you understand goals include:
 
-- [SWOT Analysis](/Activities/SWOT Analysis.md) tbd need to check link
+- [SWOT Analysis](heuristics-for-test-tool-design/Activities/SWOT Analysis.md) tbd need to check link
 - Gap Analysis tbd need to add this link to file in its own directory
 - Contextual Inquiry tbd need to add this link to file in its own directory
 - Building a Business Case tbd need to add this link to file in its own directory
