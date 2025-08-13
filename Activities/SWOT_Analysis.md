@@ -6,13 +6,19 @@
 
 # SWOT Analysis
 
+## Navigation
+
+[◄ Go back to H01](../Heuristics/H01-Why.md)
+
+[◄ Go back to README](../README.md)
+
+## What is a SWOT analysis?
+
 This docuement provides information about how to do a SWOT analysis.
 
-Useful in Heuristic H01 Why? to help understand the motivation for designing, building or obtaining a tool.
-
-## Description
-
 **SWOT** stands for **S**trengths **W**eaknesses **O**pportunities **T**hreats.
+
+Useful in Heuristic H01 Why? to help understand the motivation for designing, building or obtaining a tool.
 
 SWOT analysis is used to identify the context within which an organization is setting goals, and to identify whether the context and desired goals match together. It can form part of a larger gap analysis study, or be done as a rapid way to identify targets for change and improvement.
 It is often run as a workshop, with a white board divided into four sectors. A goal that requires discussion is set as the topic for the SWOT. Participants identify and add strengths, weaknesses, opportunities and threats concerned with this goal to the board. The group discuss them.
