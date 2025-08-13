@@ -167,8 +167,8 @@ Activities to help you understand goals include:
 
 [◄ Back to README](../README.md)   to get an overview of idea-t and the heuristics. 
 
-[◄ Go to Heuristic H02 Who?](H02-Who.md)  it is the start of examining the "Who?" theme.
+[◄ Go to Heuristic H02 Who?](../Heuristics/H02-Who.md)  it is the start of examining the "Who?" theme.
 
-[◄ Go to Heuristic H07 Where?](H07-Where.md)  it is the start of examining the "Context?" theme.
+[◄ Go to Heuristic H07 Where?](../Heuristics/H07-Where.md)  it is the start of examining the "Context?" theme.
 
-[◄ Go to Heuristic H07 Where?](H07-Where.md)  it is the start of the "Context?" theme.  
+
