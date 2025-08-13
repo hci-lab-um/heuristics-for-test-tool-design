@@ -5,7 +5,7 @@
 
 Theme Context?  Keyword Workflows?
 
-Question: What risks are associated with the workflows the tool is part of?
+Question: What workflows is the tool is part of?
 
 ## Navigation hint (where you are in idea-t)
 
@@ -41,13 +41,13 @@ some words of explanation
 
 
 ### Not? 
-What is not a risk for workflows the tool is part of?
+What workflows isn't the tool part of?
  
 
 - maybe a list here
 
 ### Else?
-What other risks might be affected by the tool?
+What other workflows might be affected by the tool?
 
 
 
