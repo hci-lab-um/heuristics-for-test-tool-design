@@ -91,7 +91,7 @@ What other communication styles or media might be useful?
 
 [◄ To H02 Who?](../Heuristics/H02-Who.md)  if thinking about communication has let you to identify additional stakeholders. 
 
-[◄ To H05 Learning Goals?](../Heuristics/H05-LearningGoals.md)  because it is the next heuristics in the "Who?" theme.
+[◄ To H05 Learning Goals?](../Heuristics/H05-LearningGoals.md)  because it is the next heuristic in the "Who?" theme.
 
 [◄ To H07 Where?](../Heuristics/H07-Where.md) if you want to investigate the "Context?" theme now.
 
