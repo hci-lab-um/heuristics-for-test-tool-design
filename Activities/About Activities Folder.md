@@ -5,3 +5,8 @@ In the activities folder, you will find documents with descriptions of the activ
 For some of these there are further explanations and examples built within idea-t.
 
 Where examples have not yet been built, there are links to external web pages and other resources that will help you to understand and complete the activities.
+
+
+## Navigation
+
+[◄ Go back to README](../README.md)
