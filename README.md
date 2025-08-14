@@ -37,14 +37,6 @@ Welcome to idea-t v2, a framework of 12 heuristics, with supporting information 
 
   </details>
 
-## Start here for an in-depth guided usage of idea-t
-
-  <details><summary>in-depth guidance to idea-t</summary>
-
-  words for topic
-
-  </details>
-
 ## Resources
   <details><summary>idea-t downloads and other media</summary>
 
@@ -73,14 +65,14 @@ Welcome to idea-t v2, a framework of 12 heuristics, with supporting information 
 
   </details>
 
-  ### Heuristics
-  <details><summary>Click here to see a list of the idea-t heuristics</summary>
+### Heuristics
+<details><summary>Click here to see a list of the idea-t heuristics</summary>
 
-  The three themes cover everything you need to think about when designing or choosing a test tool, but they don't provide enough information to prompt thought.  
-  The idea-t framework has 12 heuristic questions intended to help you think about the tool or automation you are proposing. 
-  They have been distilled down from over 150 heuristics identified during the research, with topics that were frequently forgoten or problematic areas given their own heuristic under the the themes.  
-  Each heuristic has a longer description which includes the subquestions and explanations that cover the areas identified in the research.
-  Each heuristic's description also has links to activities that help you answer the questions, examples from the research, and information about which quality attributes are particularly relevant to the heuristic.
+The three themes cover everything you need to think about when designing or choosing a test tool, but they don't provide enough information to prompt thought.  
+The idea-t framework has 12 heuristic questions intended to help you think about the tool or automation you are proposing. 
+They have been distilled down from over 150 heuristics identified during the research, with topics that were frequently forgoten or problematic areas given their own heuristic under the the themes.  
+Each heuristic has a longer description which includes the subquestions and explanations that cover the areas identified in the research.
+Each heuristic's description also has links to activities that help you answer the questions, examples from the research, and information about which quality attributes are particularly relevant to the heuristic.
 
 
    [◄ To H01 Why is this tool needed?](../Heuristics/H01-Why.md) (Theme Why?)
@@ -116,10 +108,30 @@ Welcome to idea-t v2, a framework of 12 heuristics, with supporting information 
 
   </details>
 
-  ### Examples
+  ### Case Studies and Usage Examples
   <details><summary>idea-t examples</summary>
 
-  words for topic
+  These are some of the case studies and usage scenarios run during the iterations to design, build and evaluate idea-t in industry settings. 
+
+  TBD - add the case studies & usages to the repository and add links to the case studies
+
+  sort out a number system useful for people using the repository rather than one that fits the research write up...
+
+  Case Study 1 Asssessing whether to purchase a vendor tool upgrade
+  
+  Case Study 2 Assessing in-house automation suites and identifying areas for change
+  
+  Case Study 3 Tool builders performing a design review of a new feature for the tool
+  
+  Case Study 4 Tooling consultant planning a customer engagement
+  
+  Case Study 5 Deciding a tooling strategy
+  
+  Case Study 6 Retrospective on tool user issues
+
+  Usage cases - choose which ones and add
+  
+  
 
   </details>
 
