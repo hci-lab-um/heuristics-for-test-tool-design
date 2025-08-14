@@ -90,7 +90,7 @@ What other experiences might people bring to the tool?
 
 [◄ To H02 Who?](../Heuristics/H02-Who.md)  if thinking about experiences has let you to identify additional stakeholders. 
 
-[◄ To H03 Experience?](../Heuristics/H03-Experience.md)  because it is the next heuristics in the "Who?" theme.
+[◄ To H04 Communication?](../Heuristics/H04-Communication.md)  because it is the next heuristics in the "Who?" theme.
 
 [◄ To H07 Where?](../Heuristics/H07-Where.md) if you want to investigate the "Context?" theme now.
 
