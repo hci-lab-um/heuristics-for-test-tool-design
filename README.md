@@ -25,7 +25,7 @@ Welcome to idea-t v2, a framework of 12 heuristics, with supporting information 
 
 ## Start here if you've used idea-t before and want to fast-track into the heuristics
 
-  <details><summaryClick here for links to fast tracks</summary>
+  <details><summary>Click here for links to fast tracks</summary>
 
   [◄ To Quick Start page](../How-To/QuickStart.md) (This is a page with a brief summary of the 12 heuristics and links to their individual pages)
   
