@@ -59,9 +59,9 @@ Welcome to idea-t v2, a framework of 12 heuristics, with supporting information 
     words for topic
 
 
-    [H01 Why is this tool needed?](Heuristics/H01-Why.md)
+    [H01 Why is this tool needed?](../Heuristics/H01-Why.md)
 
-    [H02 Who will use or be affected by this tool?](Heuristics/H02-Who.md)
+    [H02 Who will use or be affected by this tool?](../Heuristics/H02-Who.md)
 
     </details>
 
