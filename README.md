@@ -1,4 +1,4 @@
- # Read Me for idea-t: a framework including 12 heuristics 
+# Read Me for idea-t: a framework including 12 heuristics 
 ## influencing the design-evaluation and acquisition of tools to support testing
 
 Welcome to idea-t v2, a framework of 12 heuristics, with supporting information and activities, to help you with evaluating the design of tools to support testing. It is intended to help you with decisions, whether you build, commission, acquire or use testing tools. 
@@ -13,17 +13,27 @@ Welcome to idea-t v2, a framework of 12 heuristics, with supporting information 
 
 ## Start here if this is your first-time using idea-t or if you need a reminder
 
-  <details><summary>first time / recap</summary>
+  <details><summary>Click here for a summary first time / recap</summary>
 
-  words for topic
+  TBD
+  brief intro to the heuristics 
+  add links to two page summary
+  add link to workshop materials
+  add link to other how to and details
 
   </details>
 
 ## Start here if you've used idea-t before and want to fast-track into the heuristics
 
-  <details><summary>fast track</summary>
+  <details><summaryClick here for links to fast tracks</summary>
 
-  words for topic
+  [◄ To Quick Start page](../How-To/QuickStart.md) (This is a page with a brief summary of the 12 heuristics and links to their individual pages)
+  
+  [◄ To xmind mind map](../Downloads/idea-t-mindmap-skeleton.xmind) (This is an xmind file that holds the start of a mind map)
+  
+  [◄ To printable mind map](../Downloads/TBD) (link and file to be added - This is a downladable poster that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
+  
+ TBD also add agenda doc
 
   </details>
 
