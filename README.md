@@ -3,9 +3,30 @@
 
 Welcome to idea-t v2, a framework of 12 heuristics, with supporting information and activities, to help you with evaluating the design of tools to support testing. It is intended to help you with decisions, whether you build, commission, acquire or use testing tools. 
 
+
+<details> <summary> Click here to see an idea-t schematic </summary>
+
+ 
+![The idea-t framework schematic][Schematic1](/Figures/readmepage-schematic1.jpg) 
+
+[Schematic1]:/Figures/readmepage-schematic1.jpg
+
+</details>
+
 ## Start here 
 
+<details> <summary> Click here to see the flow through idea-t used in this page </summary>
 
+  The flow chart shows the route through idea-t suggested on this page: A start point, a dive into idea-t, and a decision point. You have three options for starting: (1) if this is your first use of idea-t or you want a recap; (2) using a fast paths; or (3) making a plan for how you will use idea-t. Then you can use idea-t, deep diving as much as you need into the themes, keywords, heuristics and activities, and using the case studies, usage examples, and other resources to help you. Then you wrap up by making a decision.  This README provides links to pages with further information, and downloads of resources to use.
+
+  
+![Navigating through idea-t][Navigating1](/Figures/readmepage-navigation-flow.jpg) 
+
+[Navigating1]:/Figures/readmepage-navigation-flow.jpg
+
+
+
+</details>
 
   <details><summary>Click here for a summary first time / recap</summary>
 if this is your first-time using idea-t or if you need a reminder
