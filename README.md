@@ -3,49 +3,42 @@
 
 Welcome to idea-t v2, a framework of 12 heuristics, with supporting information and activities, to help you with evaluating the design of tools to support testing. It is intended to help you with decisions, whether you build, commission, acquire or use testing tools. 
 
-## Overview
+## Start here 
 
-  <details><summary>overview</summary>
 
-  words for topic
-
-  </details>
-
-## Start here if this is your first-time using idea-t or if you need a reminder
 
   <details><summary>Click here for a summary first time / recap</summary>
-
+if this is your first-time using idea-t or if you need a reminder
   TBD
   brief intro to the heuristics 
-  add links to two page summary
   add link to workshop materials
-  add link to other how to and details
-
+ 
   </details>
 
-## Start here if you've used idea-t before and want to fast-track into the heuristics
 
   <details><summary>Click here for links to fast tracks</summary>
+Start here if you've used idea-t before and want to fast-track into the heuristics
+
+  [◄ To List of Heuristics download](../Downloads/idea-t-heursitics-list-v2.docx) (This is a Word document with a list of the 12 heuristics for download and printing) 
 
   [◄ To Quick Start page](../How-To/QuickStart.md) (This is a page with a brief summary of the 12 heuristics and links to their individual pages)
   
   [◄ To xmind mind map](../Downloads/idea-t-mindmap-skeleton.xmind) (This is an xmind file that holds the start of a mind map)
   
-  [◄ To printable mind map](../Downloads/TBD) (link and file to be added - This is a downladable poster that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
+  [◄ To printable mind map](../Downloads/TBD) (link and file to be added - This is a downloadable poster that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
   
  TBD also add agenda doc
 
   </details>
 
-## Resources
-  <details><summary>idea-t downloads and other media</summary>
+<details><summary>Click here to make a plan</summary>
+Start here to plan how you will use idea-t and the heuristics
 
-  words for topic
+</details>
 
-  </details>
-
-## Deep dive into the structure and background to idea-t
-
+## Deep dive into idea-t framework
+<details><summary>Click here to deep dive</summary>
+  
  ### Themes and keywords
  <details><summary>Click here to see idea-t themes and keywords</summary>
 
@@ -130,12 +123,29 @@ Each heuristic's description also has links to activities that help you answer t
   Case Study 6 Retrospective on tool user issues
 
   Usage cases - choose which ones and add
+
+ </details>
   
-  
+  ### How to Use idea-t and the heuristics - Resources
+  <details><summary>idea-t downloads and other media</summary>
+
+  words for topic
 
   </details>
 
-  ### About the Research
+  </details>
+ 
+## Make a decision
+
+<details><summary>Make a decision</summary>
+
+  words for topic
+
+  </details>
+
+  </details>
+
+## About the Research
 
   <details><summary>about the research</summary>
 
