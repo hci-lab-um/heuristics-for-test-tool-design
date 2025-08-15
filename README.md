@@ -6,6 +6,7 @@ Welcome to idea-t v2, a framework of 12 heuristics, with supporting information 
 
 <details> <summary> Click here to see an idea-t schematic </summary>
 
+TBD add alt text explanation
  
 ![The idea-t framework schematic][Schematic1](/Figures/readmepage-schematic1.jpg) 
 
@@ -29,7 +30,10 @@ Welcome to idea-t v2, a framework of 12 heuristics, with supporting information 
 </details>
 
   <details><summary>Click here for a summary first time / recap</summary>
-if this is your first-time using idea-t or if you need a reminder
+
+   The idea-t framework has 12 heuristics in 3 themes, together with expanations, supporting activities, and resources. It is based on research in industry about testers' experiences with their tools, and is intended to help you think about factors that affect the design and attributes of tools to support testing.  The framework have been built and evaluated iteratively with input from industry practitioners and experts.  
+   
+   If this is your first-time using idea-t or if you are working need a reminder
   TBD
   brief intro to the heuristics 
   add link to workshop materials
@@ -40,7 +44,7 @@ if this is your first-time using idea-t or if you need a reminder
   <details><summary>Click here for links to fast tracks</summary>
 Start here if you've used idea-t before and want to fast-track into the heuristics
 
-  [◄ To List of Heuristics download](../Downloads/idea-t-heursitics-list-v2.docx) (This is a Word document with a list of the 12 heuristics for download and printing) 
+  [◄ To List of Heuristics download](../Downloads/idea-t-heuristics-list-v2.docx) (This is a Word document with a list of the 12 heuristics for download and printing) 
 
   [◄ To Quick Start page](../How-To/QuickStart.md) (This is a page with a brief summary of the 12 heuristics and links to their individual pages)
   
@@ -123,7 +127,7 @@ Each heuristic's description also has links to activities that help you answer t
   </details>
 
   ### Case Studies and Usage Examples
-  <details><summary>idea-t examples</summary>
+  <details><summary>Click here for idea-t cases studies and examples</summary>
 
   These are some of the case studies and usage scenarios run during the iterations to design, build and evaluate idea-t in industry settings. 
 
@@ -148,7 +152,7 @@ Each heuristic's description also has links to activities that help you answer t
  </details>
   
   ### How to Use idea-t and the heuristics - Resources
-  <details><summary>idea-t downloads and other media</summary>
+  <details><summary>Click here for idea-t downloads and other media</summary>
 
   words for topic
 
@@ -158,7 +162,7 @@ Each heuristic's description also has links to activities that help you answer t
  
 ## Make a decision
 
-<details><summary>Make a decision</summary>
+<details><summary>CLick here for resources to help you make a decision</summary>
 
   words for topic
 
@@ -168,7 +172,7 @@ Each heuristic's description also has links to activities that help you answer t
 
 ## About the Research
 
-  <details><summary>about the research</summary>
+  <details><summary>Click here to find out about the research</summary>
 
   words for topic
 
