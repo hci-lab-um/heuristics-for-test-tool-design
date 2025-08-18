@@ -1,4 +1,4 @@
-# making a Business Case and ROI
+# Making a Business Case and ROI
 
 Make an initial business case for the tool, including a Return on Investment (ROI) calculation, for one example see the Test Automation Patterns wiki on [Test Automation Business Case](https://testautomationpatterns.org/wiki/index.php/TEST_AUTOMATION_BUSINESS_CASE).
   
