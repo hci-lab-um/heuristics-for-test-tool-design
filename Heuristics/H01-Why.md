@@ -150,10 +150,9 @@ TBD add a link to case study 1 summary
 Activities to help you understand goals include:
 
 - [SWOT Analysis](../Activities/SWOT-Analysis.md) 
-- Gap Analysis tbd need to add this link to file in its own directory
-- Contextual Inquiry tbd need to add this link to file in its own directory
-- Building a Business Case tbd need to add this link to file in its own directory
-- Estimating Return on Investment (ROI) tbd need to add this link to file in its own directory
+- [Gap Analysis](../Activities/Gap-Analysis.md)
+- [Contextual Inquiry](Contextual-Inquiry.md)
+- [Building a Business Case and Calculating Return on Investment](Business-cases.md)
 
 ### Quality Attributes
 - Quality in Use Attributes: Freedom from Risk
