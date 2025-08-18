@@ -1,4 +1,4 @@
-# Prodict Attributes and the Heuristics that Point To Them
+# Product Attributes and the Heuristics that Point To Them
 
 | Attribute       |  Notes | Which heuristics are affected? |
 |:----------------|:------|--------------|
