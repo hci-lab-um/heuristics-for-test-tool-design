@@ -31,18 +31,18 @@ TBD add alt text explanation
 
   <details><summary>Click here for a summary first time / recap</summary>
 
-   The idea-t framework has 12 heuristics in 3 themes, together with expanations, supporting activities, and resources. It is based on research in industry about testers' experiences with their tools, and is intended to help you think about factors that affect the design and attributes of tools to support testing.  The framework have been built and evaluated iteratively with input from industry practitioners and experts.  
-   
-   If this is your first-time using idea-t or if you are working need a reminder
-  TBD
-  brief intro to the heuristics 
-  add link to workshop materials
+The idea-t framework has 12 heuristics in 3 themes, together with expanations, supporting activities, and resources. It is based on research in industry about testers' experiences with their tools, and is intended to help you think about factors that affect the design and attributes of tools to support testing.  The framework have been built and evaluated iteratively with input from industry practitioners and experts.  
+
+The themes are Why?, Who? and Context?  
+Here is a quick introduction to the 12 heuristics:   [◄ To Quick Start page](../How-To/QuickStart.md) It has a brief summary of each of the heuristics, with links to more information.
+
+There is also a workshop using a mind map which can help you work with a group to use the heuristics. The workshop is designed to take 99 minutes, and was first run at TestBash Brighton in October 2025 TBD add link to workshop materials TBD
  
   </details>
 
-
   <details><summary>Click here for links to fast tracks</summary>
-Start here if you've used idea-t before and want to fast-track into the heuristics
+
+   Start here if you've used idea-t before and want to fast-track into the heuristics
 
   [◄ To List of Heuristics download](../Downloads/idea-t-heuristics-list-v2.docx) (This is a Word document with a list of the 12 heuristics for download and printing) 
 
@@ -52,7 +52,7 @@ Start here if you've used idea-t before and want to fast-track into the heuristi
   
   [◄ To printable mind map](../Downloads/TBD) (link and file to be added - This is a downloadable poster that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
   
- TBD also add agenda doc
+   [◄ To Agenda for planning meeting](../Downloads/idea-t-heuristics-meeting-agenda-v2.md) (This is a downloadable Word document with an outline agenda for an idea-t planning meeting)
 
   </details>
 
