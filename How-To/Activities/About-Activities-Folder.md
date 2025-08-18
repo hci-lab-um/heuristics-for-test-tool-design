@@ -7,6 +7,6 @@ For some of these there are further explanations and examples built within idea-
 Where examples have not yet been built, there are links to external web pages and other resources that will help you to understand and complete the activities.
 
 
-## Navigation
+TBD Table of Heuristics and Activities to show where activities may be usd in several places
 
 [◄ Go back to README](../README.md)
