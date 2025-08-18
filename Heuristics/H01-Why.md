@@ -12,7 +12,7 @@ Question: Why is this tool needed?
 
 ## In brief:
 
-This heuristic prompts us to explore why a tool is needed, what goal it will help us achieve, and what problem it will solve. 
+This heuristic prompts us to explore **why** a tool is needed, what **goal** it will help us achieve, and what **problem** it will solve. 
 
 H01 Why? and H02 Who? are closely allied: different stakeholders may have different goals. Expect to iterate between Why? and Who? as you use idea-t.
 
@@ -116,7 +116,7 @@ Why else?
 
 In one usage, the heuristics started to be introduced late and the participant identified that asking **H01 Why?** can be difficult as it might force a change of mind set or a change of direction, by acknowledging different people will have different goals. While that could be exactly what is needed, it is also difficult to do because people are reluctant to change:
 
-'In later stages, however, this question may need to be adapted. Once discussions shift toward solutions, it can be challenging to steer back to the broader "why." Different personas appear at different stages with a unique perspective on the purpose of the tool. For instance, the buyer persona’s "why" may differ significantly from that of the tool's end users. To fully understand why the tool is needed, it’s essential to ask about challenges and goals from multiple stakeholders.'
+*'In later stages, however, this question may need to be adapted. Once discussions shift toward solutions, it can be challenging to steer back to the broader "why." Different personas appear at different stages with a unique perspective on the purpose of the tool. For instance, the buyer persona’s "why" may differ significantly from that of the tool's end users. To fully understand why the tool is needed, it’s essential to ask about challenges and goals from multiple stakeholders.'*
 
 In this scenario, the participant decided to go with the Why? and Which tool? decisions as they were in place, and use the heuristics to guide their own work in planning future workshops.
 
@@ -128,13 +128,13 @@ TBD add a link to case study 1 summary
 
 ### Quotes from research participants
 
-"There may be several organizations - even within one organization - with conflicting goals for the same tool [example given of password control tool] Audit versus Dev may have different views about how that might be used"
+*"There may be several organizations - even within one organization - with conflicting goals for the same tool [example given of password control tool] Audit versus Dev may have different views about how that might be used"*
 
-"muddling through - don't have a goal ... just want to do things ... get things done"
+*"muddling through - don't have a goal ... just want to do things ... get things done"*
 
-"change always comes with some resistance, Discussing and setting a clear, shared goal we got a better understanding and purpose to find energy and time and money to finish the transition"
+*"change always comes with some resistance, Discussing and setting a clear, shared goal we got a better understanding and purpose to find energy and time and money to finish the transition"*
 
-" I would suggest we stop seeing tools as our main goal that will save us, or do the job for us"
+*" I would suggest we stop seeing tools as our main goal that will save us, or do the job for us"*
 
 </details>
 
