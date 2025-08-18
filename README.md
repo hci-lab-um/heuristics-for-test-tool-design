@@ -34,7 +34,7 @@ TBD add alt text explanation
 The idea-t framework has 12 heuristics in 3 themes, together with expanations, supporting activities, and resources. It is based on research in industry about testers' experiences with their tools, and is intended to help you think about factors that affect the design and attributes of tools to support testing.  The framework have been built and evaluated iteratively with input from industry practitioners and experts.  
 
 The themes are Why?, Who? and Context?  
-Here is a quick introduction to the 12 heuristics:   [◄ To Quick Start page](../How-To/QuickStart.md) It has a brief summary of each of the heuristics, with links to more information.
+Here is a quick introduction to the 12 heuristics:   [◄ To Quick Start page](../How-To/Navigate-idea-t/QuickStart.md) It has a brief summary of each of the heuristics, with links to more information.
 
 There is also a workshop using a mind map which can help you work with a group to use the heuristics. The workshop is designed to take 99 minutes, and was first run at TestBash Brighton in October 2025 TBD add link to workshop materials TBD
  
@@ -46,7 +46,7 @@ There is also a workshop using a mind map which can help you work with a group t
 
   [◄ To List of Heuristics download](../Downloads/idea-t-heuristics-list-v2.docx) (This is a Word document with a list of the 12 heuristics for download and printing) 
 
-  [◄ To Quick Start page](../How-To/QuickStart.md) (This is a page with a brief summary of the 12 heuristics and links to their individual pages)
+  [◄ To Quick Start page](../How-To/Navigate-idea-t/QuickStart.md) (This is a page with a brief summary of the 12 heuristics and links to their individual pages)
   
   [◄ To xmind mind map](../Downloads/idea-t-mindmap-skeleton.xmind) (This is an xmind file that holds the start of a mind map)
   
@@ -119,13 +119,7 @@ Each heuristic's description also has links to activities that help you answer t
 
   </details>
 
-  ### Activities
-  <details><summary>idea-t activities</summary>
-
-  words for topic
-
-  </details>
-
+ 
   ### Case Studies and Usage Examples
   <details><summary>Click here for idea-t cases studies and examples</summary>
 
@@ -151,10 +145,30 @@ Each heuristic's description also has links to activities that help you answer t
 
  </details>
   
-  ### How to Use idea-t and the heuristics - Resources
+  ### How to Use idea-t and the heuristics - Resources, Activities, Navigation, Downloads
   <details><summary>Click here for idea-t downloads and other media</summary>
 
   words for topic
+ #### Navigating idea-t
+  <details><summary>idea-t activities</summary>
+
+  words for topic
+
+  </details>
+
+   #### Activities
+  <details><summary>idea-t activities</summary>
+
+  words for topic
+
+  </details>
+
+   #### Downloads
+  <details><summary>idea-t activities</summary>
+
+  words for topic
+
+  </details>
 
   </details>
 
