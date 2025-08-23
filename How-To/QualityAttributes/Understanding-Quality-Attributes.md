@@ -8,7 +8,7 @@
 The purpose of this page is to help you prioritize which quality attributes are important for your tool, depending on your answers to the different heuristics. This is based on evidence in the research data. You can use the quotes and the data to help you build your requirements - in particular to strengthen your context description and personas.
 
 This pages links to tables of heuristics and attributes, and to an activity page:
-- [Table of Heuristics with Quality in Use and Product Attributes Associated](../How-To/QualityAttributes/Table-Heuristics-to-QiU-Attributes.md)
+- [Table of Heuristics with Quality in Use and Product Attributes Associated](Table-Heuristics-to-QiU-Attributes.md)
 - [Table of Quality in Use Attributes with Heuristics Associated](../How-To/QualityAttributes/Table-QiU-Attributes-to-Heuristics.md)   
 - [Table of Product Qualities with Heuristics Associated](../How-To/QualityAttributes/Table-Product-Attributes-and-heuristics.md)   
 - [Activity to Build Quality Attribute Pyramids and Radar Diagrams to get to the Desired UX for Different Personas](../How-To/Activities/Building-Attribute-Pyramids.md)
