@@ -9,8 +9,8 @@ The purpose of this page is to help you prioritize which quality attributes are 
 
 This pages links to tables of heuristics and attributes, and to an activity page:
 - [Table of Heuristics with Quality in Use and Product Attributes Associated](../How-To/QualityAttributes/Table-Heuristics-to-QiU-Attributes.md)
-- [Table of Quality in Use Attributes with Heuristics Associated](../How-To/QualityAttributes/Table-QiU-Attributes-Heuristics.md)   
-- [Table of Product Qualities with Heuristics Associated](../How-To/QualityAttributes/Table-Product-Attributes-and_heuristics.md)   
+- [Table of Quality in Use Attributes with Heuristics Associated](../How-To/QualityAttributes/Table-QiU-Attributes-to-Heuristics.md)   
+- [Table of Product Qualities with Heuristics Associated](../How-To/QualityAttributes/Table-Product-Attributes-and-heuristics.md)   
 - [Activity to Build Quality Attribute Pyramids and Radar Diagrams to get to the Desired UX for Different Personas](../How-To/Activities/Building-Attribute-Pyramids.md)
 
 <a name="WhatareQA1"></a>    [Back to Top](#TopofPage)
@@ -28,8 +28,8 @@ Others are technical or Product attributes which are built into the product and 
 The idea-t heuristics are based on research data, which included data about which quality in use and product attrbiutes are most important to testers when considering their test tools. These tables explain the attrbutes, and link the attrbutes to the heuristics>                                                                                                
  
 - [Table of Heuristics with Quality in Use and Product Attributes Associated](../How-To/QualityAttributes/Table-Heuristics-to-QiU-Attributes.md)
-- [Table of Quality in Use Attributes with Heuristics Associated](../How-To/QualityAttributes/Table-QiU-Attributes-Heuristics.md)   
-- [Table of Product Qualities with Heuristics Associated](../How-To/QualityAttributes/Table-Product-Attributes-and_heuristics.md)   
+- [Table of Quality in Use Attributes with Heuristics Associated](../How-To/QualityAttributes/Table-QiU-Attributes-and-Heuristics.md)   
+- [Table of Product Qualities with Heuristics Associated](../How-To/QualityAttributes/Table-Product-Attributes-and-heuristics.md)   
 
 </details>
 
