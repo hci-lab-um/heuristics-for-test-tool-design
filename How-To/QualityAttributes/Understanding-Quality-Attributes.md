@@ -3,7 +3,7 @@
 
 [◄ Go back to Heuristics List in README file](../../README.md)
 
-[◄ Go back to Quick Start Heuristics page](../How-To/Navigate-idea-t/QuickStart.md) 
+[◄ Go back to Quick Start Heuristics page](../../How-To/Navigate-idea-t/QuickStart.md) 
 
 The purpose of this page is to help you prioritize which quality attributes are important for your tool, depending on your answers to the different heuristics. This is based on evidence in the research data. You can use the quotes and the data to help you build your requirements - in particular to strengthen your context description and personas.
 
