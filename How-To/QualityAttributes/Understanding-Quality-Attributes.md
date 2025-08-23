@@ -7,23 +7,31 @@
 
 The purpose of this page is to help you prioritize which quality attributes are important for your tool, depending on your answers to the different heuristics. This is based on evidence in the research data. You can use the quotes and the data to help you build your requirements - in particular to strengthen your context description and personas.
 
-Parts of this page and tables of data:
-- [What are Quality Attributes?](#WhatareQA1)  
-- [Standards and References](#StandardsandReferences)
-- [Table of Heuristics with Quality in Use and Product Attributes Associated](Table-Heuristicss-to-QiU-Attributes.md)
-- [Table of Quality in Use Attributes with Heuristics Associated](Table-QiU-Attributes-Heuristics.md)   
-- [Table of Product Qualities with Heuristics Associated](Table-Product-Attributes-and_heuristics.md)   
+This pages links to tables of heuristics and attributes, and to an activity page:
+- [Table of Heuristics with Quality in Use and Product Attributes Associated](../How-To/QualityAttributes/Table-Heuristicss-to-QiU-Attributes.md)
+- [Table of Quality in Use Attributes with Heuristics Associated](../How-To/QualityAttributes/Table-QiU-Attributes-Heuristics.md)   
+- [Table of Product Qualities with Heuristics Associated](../How-To/QualityAttributes/Table-Product-Attributes-and_heuristics.md)   
 - [Activity to Build Quality Attribute Pyramids and Radar Diagrams to get to the Desired UX for Different Personas](../How-To/Activities/Building-Attribute-Pyramids.md)
 
 <a name="WhatareQA1"></a>    [Back to Top](#TopofPage)
 
 ## What are Quality Attributes and How to Apply Them?
-<details><summary>Click for an explanation of quality attributes</summary>
+<details open><summary>Click for an explanation of quality attributes</summary>
 Quality attributes are properties of a product which affect how well the product performs. Generally, a software system but it could be some other product or service.  
 Some of these are Quality in Use attributes: they refer to attributes that are a measure of how good the experience is when using the product. They include the effectiveness and efficiency with which someone can carry out their task, their safety, and the flexibility with which they can work. 
 Others are technical or Product attributes which are built into the product and which the building blocks contributing to how the quality in use is achieved. They include functionality, usability, performance, security, and many others.  
 
  <a name="QARD1"></a>   
+### How the idea-t heuristics relate to the attributes
+<details close><summary>Click for an explanation ofhow the heuristics relate to the attributes </summary
+
+The idea-t heuristics are based on research data, which included data about which quality in use and product attrbiutes are most important to testers when considering their test tools. These tables explain the attrbutes, and link the attrbutes to the heuristics>                                                                                                
+ 
+- [Table of Heuristics with Quality in Use and Product Attributes Associated](../How-To/QualityAttributes/Table-Heuristicss-to-QiU-Attributes.md)
+- [Table of Quality in Use Attributes with Heuristics Associated](../How-To/QualityAttributes/Table-QiU-Attributes-Heuristics.md)   
+- [Table of Product Qualities with Heuristics Associated](../How-To/QualityAttributes/Table-Product-Attributes-and_heuristics.md)   
+
+</details>
 
 ### Usability, Quality in Use, and the User Experience: how they relate together
 
