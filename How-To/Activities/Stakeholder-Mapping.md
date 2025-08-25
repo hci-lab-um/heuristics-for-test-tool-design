@@ -1,8 +1,8 @@
 <a name="TopofPage"></a>
 # Stakeholder Mapping
-[◄ Go back to H02](Heuristics/H02-Who.md
+[◄ Go back to H02](../../Heuristics/H02-Who.md
 
-[◄ Go back to README](README.md)
+[◄ Go back to README](../README.md)
 
 ## Description
 Stakeholder mapping: within an organizational or team system, identifying interested parties for an intended change. 
