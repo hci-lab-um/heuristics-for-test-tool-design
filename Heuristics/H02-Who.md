@@ -134,7 +134,7 @@ When you have a small number of people to understand, you may be able to intervi
 - [Building ideas for personas](../How-To/Activities/Persona-Building.md).
 
 Another activity you might find useful to help you understand *Who* include:
--	[Stakeholder Mapping](Technique-Stakeholder-Mapping.md) which includes simple mapping onto a matrix, the onion model, value chain modelling and Wardley Mapping.
+-	[Stakeholder Mapping](.../How-To/Activities/Stakeholder-Mapping.md) which includes simple mapping onto a matrix, the onion model, value chain modelling and Wardley Mapping.
 
 The CATWOE model from Soft Systems Methodology shows different stakeholders for a change, including beneficiaries and victims; adding, changing or removing a tool is a change. **(TBD: add link to CATWOE diagram: issue #4)** 
 
