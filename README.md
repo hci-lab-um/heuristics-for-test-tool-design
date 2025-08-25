@@ -44,15 +44,15 @@ There is also a workshop using a mind map which can help you work with a group t
 
    Start here if you've used idea-t before and want to fast-track into the heuristics
 
-  [◄ To List of Heuristics download](../Downloads/idea-t-heuristics-list-v2.docx) (This is a Word document with a list of the 12 heuristics for download and printing) 
+  [◄ To List of Heuristics download](/Downloads/idea-t-heuristics-list-v2.docx) (This is a Word document with a list of the 12 heuristics for download and printing) 
 
-  [◄ To Quick Start page](../How-To/Navigate-idea-t/QuickStart.md) (This is a page with a brief summary of the 12 heuristics and links to their individual pages)
+  [◄ To Quick Start page](/How-To/Navigate-idea-t/QuickStart.md) (This is a page with a brief summary of the 12 heuristics and links to their individual pages)
   
-  [◄ To xmind mind map](../Downloads/idea-t-mindmap-skeleton.xmind) (This is an xmind file that holds the start of a mind map)
+  [◄ To xmind mind map](/Downloads/idea-t-mindmap-skeleton.xmind) (This is an xmind file that holds the start of a mind map)
   
-  [◄ To printable mind map](../Downloads/TBD) (link and file to be added - This is a downloadable poster that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
+  [◄ To printable mind map](/Downloads/TBD) (link and file to be added - This is a downloadable poster that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
   
-   [◄ To Agenda for planning meeting](../Downloads/idea-t-heuristics-meeting-agenda-v2.md) (This is a downloadable Word document with an outline agenda for an idea-t planning meeting)
+   [◄ To Agenda for planning meeting](/Downloads/idea-t-heuristics-meeting-agenda-v2.md) (This is a downloadable Word document with an outline agenda for an idea-t planning meeting)
 
   </details>
 
@@ -75,11 +75,11 @@ Start here to plan how you will use idea-t and the heuristics
  These three themes are expanded in the 12 heuristics, each of which has a keyword.  
  The heuristics are grouped by theme.
 
-[◄ Go to Heuristic H02 Why?](../Heuristics/H02-Why.md) to start examining the "Why?" theme.  Keywords are Why? Why not? and Why Else?
+[◄ Go to Heuristic H02 Why?](/Heuristics/H02-Why.md) to start examining the "Why?" theme.  Keywords are Why? Why not? and Why Else?
 
-[◄ Go to Heuristic H02 Who?](../Heuristics/H02-Who.md) to start examining the "Who?" theme.  Keywords are Who? Experience? Communication? Learning goals? Learning preferences? Each of those also has a "not" and an "else" version.
+[◄ Go to Heuristic H02 Who?](/Heuristics/H02-Who.md) to start examining the "Who?" theme.  Keywords are Who? Experience? Communication? Learning goals? Learning preferences? Each of those also has a "not" and an "else" version.
 
-[◄ Go to Heuristic H07 Where?](../Heuristics/H07-Where.md)  to start examining the "Conetxt?" theme. Keywords are Where?, Workflows? Risks? Autonomy? When? and How long? Each of those also has a "not" and an "else" version.
+[◄ Go to Heuristic H07 Where?](/Heuristics/H07-Where.md)  to start examining the "Conetxt?" theme. Keywords are Where?, Workflows? Risks? Autonomy? When? and How long? Each of those also has a "not" and an "else" version.
 
   </details>
 
@@ -93,29 +93,29 @@ Each heuristic has a longer description which includes the subquestions and expl
 Each heuristic's description also has links to activities that help you answer the questions, examples from the research, and information about which quality attributes are particularly relevant to the heuristic.
 
 
-   [◄ To H01 Why is this tool needed?](../Heuristics/H01-Why.md) (Theme Why?)
+   [◄ To H01 Why is this tool needed?](/Heuristics/H01-Why.md) (Theme Why?)
 
-   [◄ To H02 Who will use or be affected by this tool?](../Heuristics/H02-Who.md) (Theme Who?)
+   [◄ To H02 Who will use or be affected by this tool?](/Heuristics/H02-Who.md) (Theme Who?)
 
-   [◄ To H03 Experience?](../Heuristics/H03-Experience.md)  (Theme Who?) 
+   [◄ To H03 Experience?](/Heuristics/H03-Experience.md)  (Theme Who?) 
    
-   [◄ To H04 Communication?](../Heuristics/H04-Communication.md)  (Theme Who?)
+   [◄ To H04 Communication?](/Heuristics/H04-Communication.md)  (Theme Who?)
 
-   [◄ To H05 Learning Goals?](../Heuristics/H05-LearningGoals.md)  (Theme Who?) 
+   [◄ To H05 Learning Goals?](/Heuristics/H05-LearningGoals.md)  (Theme Who?) 
 
-   [◄ To H06 Learning Preferences?](../Heuristics/H05-LearningPreferences.md)  (Theme Who?)
+   [◄ To H06 Learning Preferences?](/Heuristics/H05-LearningPreferences.md)  (Theme Who?)
 
-   [◄ To H07 Where?](../Heuristics/H07-Where.md)  (Theme "Context?")
+   [◄ To H07 Where?](/Heuristics/H07-Where.md)  (Theme "Context?")
 
-   [◄ To H08 Workflows?](../Heuristics/H08-Workflows.md)  (Theme "Context?")
+   [◄ To H08 Workflows?](/Heuristics/H08-Workflows.md)  (Theme "Context?")
 
-   [◄ To H09 Risks?](../Heuristics/H09-Risks.md) (Theme "Context?")
+   [◄ To H09 Risks?](/Heuristics/H09-Risks.md) (Theme "Context?")
 
-   [◄ To H10 Autonomy?](../Heuristics/H10-Autonomy.md) (Theme "Context?")
+   [◄ To H10 Autonomy?](/Heuristics/H10-Autonomy.md) (Theme "Context?")
 
-   [◄ To H11 When?](../Heuristics/H11-When.md) (Theme "Context?")
+   [◄ To H11 When?](/Heuristics/H11-When.md) (Theme "Context?")
 
-   [◄ To H12 How Long?](../Heuristics/H12-HowLong.md) (Theme "Context?")
+   [◄ To H12 How Long?](/Heuristics/H12-HowLong.md) (Theme "Context?")
 
   </details>
 
