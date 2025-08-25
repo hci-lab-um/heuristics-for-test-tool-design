@@ -50,12 +50,12 @@ There is also a workshop using a mind map which can help you work with a group t
   
   [◄ To printable mind map](/Downloads/TBD) (link and file to be added - This is a downloadable poster that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
   
-   [◄ To Agenda for planning meeting](/Downloads/idea-t-heuristics-meeting-agenda-v2.docx) - This is a downloadable Word document with an outline agenda for an idea-t planning meeting, [meeting agenda list also available as a pdf](idea-t-heuristics-meeting-agenda-v2pdf)
+   [◄ To Agenda for planning meeting](/Downloads/idea-t-heuristics-meeting-agenda-v2.docx) - This is a downloadable Word document with an outline agenda for an idea-t planning meeting, [meeting agenda list also available as a pdf](idea-t-heuristics-meeting-agenda-v2.pdf)
 
   </details>
 
 <details><summary>Click here to make a plan</summary>
-Start here to plan how you will use idea-t and the heuristics
+TBD: Start here to plan how you will use idea-t and the heuristics
 
 </details>
 
