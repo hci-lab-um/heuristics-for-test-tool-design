@@ -160,7 +160,7 @@ Activities to help you understand goals include:
 - Quality in Use Attributes: Freedom from Risk
 - Product Quality Attributes: User goals, Appropriateness
 
-Mapping Heuristics to Quality Attributes is explained in the[Quality Attributes Folder](About-Quality-Attributes-Folder.md)
+Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes Folder](About-Quality-Attributes-Folder.md)
 
 
 </details>
