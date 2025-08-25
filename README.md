@@ -18,7 +18,7 @@ TBD add alt text explanation
 
 <details> <summary> Click here to see the flow through idea-t used in this page </summary>
 
-  The flow chart shows the route through idea-t suggested on this page: A start point, a dive into idea-t, and a decision point. You have three options for starting: (1) if this is your first use of idea-t or you want a recap; (2) using a fast paths; or (3) making a plan for how you will use idea-t. Then you can use idea-t, deep diving as much as you need into the themes, keywords, heuristics and activities, and using the case studies, usage examples, and other resources to help you. Then you wrap up by making a decision.  This README provides links to pages with further information, and downloads of resources to use.
+The flow chart shows the route through idea-t suggested on this page: A start point, a dive into idea-t, and a decision point. You have three options for starting: (1) if this is your first use of idea-t or you want a recap; (2) using a fast paths; or (3) making a plan for how you will use idea-t. Then you can use idea-t, deep diving as much as you need into the themes, keywords, heuristics and activities, and using the case studies, usage examples, and other resources to help you. Then you wrap up by making a decision.  This README provides links to pages with further information, and downloads of resources to use.
 
   
 ![Navigating through idea-t][Navigating1](/Figures/readmepage-navigation-flow.jpg) 
@@ -34,7 +34,7 @@ TBD add alt text explanation
 The idea-t framework has 12 heuristics in 3 themes, together with expanations, supporting activities, and resources. It is based on research in industry about testers' experiences with their tools, and is intended to help you think about factors that affect the design and attributes of tools to support testing.  The framework have been built and evaluated iteratively with input from industry practitioners and experts.  
 
 The themes are Why?, Who? and Context?  
-Here is a quick introduction to the 12 heuristics:   [◄ To Quick Start page](../How-To/Navigate-idea-t/QuickStart.md) It has a brief summary of each of the heuristics, with links to more information.
+Here is a quick introduction to the 12 heuristics:   [◄ To Quick Start page](/How-To/Navigate-idea-t/QuickStart.md) with a brief summary of each of the heuristics, with links to more information.
 
 There is also a workshop using a mind map which can help you work with a group to use the heuristics. The workshop is designed to take 99 minutes, and was first run at TestBash Brighton in October 2025 TBD add link to workshop materials TBD
  
