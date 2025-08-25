@@ -36,7 +36,7 @@ H01 Why? and H02 Who? are closely allied: different stakeholders may have differ
   <summary>Click for explanation of the heuristic
   </summary> 
 
-The research showed that sometimes we forget to ask "why/" a tool is needed. 
+The research showed that sometimes we forget to ask "why?" a tool is needed. 
 
 Examining the goals we want to achieve and the problems we want to ovvercome help understand whether a tool will help, or not.
 
@@ -154,10 +154,13 @@ Activities to help you understand goals include:
 - [Contextual Inquiry](Contextual-Inquiry.md)
 - [Building a Business Case and Calculating Return on Investment](Business-cases.md)
 
+  Activities are described in the [Activities folder](About-Activities-Folder.md).
+
 ### Quality Attributes
 - Quality in Use Attributes: Freedom from Risk
 - Product Quality Attributes: User goals, Appropriateness
-- [Mapping Heuristics to Quality Attributes](tbd) tbd need to add this file in its own directory
+
+Mapping Heuristics to Quality Attributes is explained in the[Quality Attributes Folder](About-Quality-Attributes-Folder.md)
 
 
 </details>
