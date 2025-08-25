@@ -29,7 +29,7 @@ The flow chart shows the route through idea-t suggested on this page: A start po
 
 </details>
 
-  <details><summary>Click here for a summary first time / recap</summary>
+  <details><summary>Click here for a summary for first use / recap </summary>
 
 The idea-t framework has 12 heuristics in 3 themes, together with expanations, supporting activities, and resources. It is based on research in industry about testers' experiences with their tools, and is intended to help you think about factors that affect the design and attributes of tools to support testing.  The framework have been built and evaluated iteratively with input from industry practitioners and experts.  
 
@@ -40,19 +40,17 @@ There is also a workshop using a mind map which can help you work with a group t
  
   </details>
 
-  <details><summary>Click here for links to fast tracks</summary>
+  <details><summary>Click here for links to downloads of heuristics lists and mindmaps </summary>
 
    Start here if you've used idea-t before and want to fast-track into the heuristics
 
   [◄ To List of Heuristics download](/Downloads/idea-t-heuristics-list-v2.docx) (This is a Word document with a list of the 12 heuristics for download and printing) 
 
-  [◄ To Quick Start page](/How-To/Navigate-idea-t/QuickStart.md) (This is a page with a brief summary of the 12 heuristics and links to their individual pages)
-  
   [◄ To xmind mind map](/Downloads/idea-t-mindmap-skeleton.xmind) (This is an xmind file that holds the start of a mind map)
   
   [◄ To printable mind map](/Downloads/TBD) (link and file to be added - This is a downloadable poster that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
   
-   [◄ To Agenda for planning meeting](/Downloads/idea-t-heuristics-meeting-agenda-v2.md) (This is a downloadable Word document with an outline agenda for an idea-t planning meeting)
+   [◄ To Agenda for planning meeting](/Downloads/idea-t-heuristics-meeting-agenda-v2.docx) - This is a downloadable Word document with an outline agenda for an idea-t planning meeting, [meeting agenda list also available as a pdf](idea-t-heuristics-meeting-agenda-v2pdf)
 
   </details>
 
@@ -176,7 +174,7 @@ Each heuristic's description also has links to activities that help you answer t
  
 ## Make a decision
 
-<details><summary>CLick here for resources to help you make a decision</summary>
+<details><summary>Click here for resources to help you make a decision</summary>
 
   words for topic
 
