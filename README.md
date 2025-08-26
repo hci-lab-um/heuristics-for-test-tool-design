@@ -29,12 +29,14 @@ The flow chart shows the route through idea-t suggested on this page: A start po
 
 </details>
 
-  <details><summary>Click here for a summary for first use / recap </summary>
+  <details><summary>Click here for a summary for first use / recap / planning your use of idea-t </summary>
 
 The idea-t framework has 12 heuristics in 3 themes, together with expanations, supporting activities, and resources. It is based on research in industry about testers' experiences with their tools, and is intended to help you think about factors that affect the design and attributes of tools to support testing.  The framework have been built and evaluated iteratively with input from industry practitioners and experts.  
 
 The themes are Why?, Who? and Context?  
 Here is a quick introduction to the 12 heuristics:   [◄ To Quick Start page](/How-To/Navigate-idea-t/QuickStart.md) with a brief summary of each of the heuristics, with links to more information.
+
+In the case studies during the research, people often started their use of idea-t by a one-hour planning session using a list of the heuristics, where they briefly discussed each heuristic, and decided who to involve in discussing the idea-t heuristics, and how long to take. The downloads include mind map skeletons and agendas that can aid this planning. 
 
 There is also a workshop using a mind map which can help you work with a group to use the heuristics. The workshop is designed to take 99 minutes, and was first run at TestBash Brighton in October 2025 TBD add link to workshop materials TBD
  
@@ -50,14 +52,13 @@ There is also a workshop using a mind map which can help you work with a group t
   
   [◄ To printable mind map](/Downloads/TBD) (link and file to be added - This is a downloadable poster that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
   
-   [◄ To Agenda for planning meeting](/Downloads/idea-t-heuristics-meeting-agenda-v2.docx) - This is a downloadable Word document with an outline agenda for an idea-t planning meeting, [meeting agenda also available as a pdf](idea-t-heuristics-meeting-agenda-v2.pdf)
+  [◄ To Agenda for planning meeting](/Downloads/idea-t-heuristics-meeting-agenda-v2.docx) - This is a downloadable Word document with an outline agenda for an idea-t planning meeting, [meeting agenda also available as a pdf](/Downloads/idea-t-heuristics-meeting-agenda-v2.pdf)
+
+  [◄ To Workshop Materials](/Downloads/TBD)  (link and file to be added - This is a downloadable set of workshop materials that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
 
   </details>
 
-<details><summary>Click here to make a plan</summary>
-TBD: Start here to plan how you will use idea-t and the heuristics
 
-</details>
 
 ## Deep dive into idea-t framework
 <details><summary>Click here to deep dive</summary>
@@ -143,34 +144,43 @@ Each heuristic's description also has links to activities that help you answer t
 
  </details>
   
-  ### How to Use idea-t and the heuristics - Resources, Activities, Navigation, Downloads
-  <details><summary>Click here for idea-t downloads and other media</summary>
+  ### How to Use idea-t and the heuristics - Navigation, Activities, Downloads
 
   words for topic
+
  #### Navigating idea-t
-  <details><summary>idea-t activities</summary>
+  <details><summary>Click here for idea-t navigation</summary>
 
   words for topic
 
   </details>
 
    #### Activities
-  <details><summary>idea-t activities</summary>
+  <details><summary>Click here for idea-t activities</summary>
 
   words for topic
 
   </details>
 
    #### Downloads
-  <details><summary>idea-t activities</summary>
+ 
+  <details><summary>Click here for links to downloads of heuristics lists and mindmaps </summary>
 
-  words for topic
+  Resources to help you use idea-t; these are files downloadable from the repository page, the files do not open within the repository:
+
+  [◄ To List of Heuristics download](/Downloads/idea-t-heuristics-list-v2.docx) (This is a Word document with a list of the 12 heuristics for download and printing) 
+
+  [◄ To xmind mind map](/Downloads/idea-t-mindmap-skeleton.xmind) (This is an xmind file that holds the start of a mind map)
+  
+  [◄ To printable mind map](/Downloads/TBD) (link and file to be added - This is a downloadable poster that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
+  
+  [◄ To Agenda for planning meeting](/Downloads/idea-t-heuristics-meeting-agenda-v2.docx) - This is a downloadable Word document with an outline agenda for an idea-t planning meeting, [meeting agenda also available as a pdf](/Downloads/idea-t-heuristics-meeting-agenda-v2.pdf)
+
+  [◄ To Workshop Materials](/Downloads/TBD)  (link and file to be added - This is a downloadable set of workshop materials that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
 
   </details>
-
-  </details>
-
-  </details>
+ </details>
+   </details>
  
 ## Make a decision
 
@@ -181,6 +191,8 @@ Each heuristic's description also has links to activities that help you answer t
   </details>
 
   </details>
+
+   </details>
 
 ## About the Research
 
