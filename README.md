@@ -50,7 +50,7 @@ There is also a workshop using a mind map which can help you work with a group t
   
   [◄ To printable mind map](/Downloads/TBD) (link and file to be added - This is a downloadable poster that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
   
-   [◄ To Agenda for planning meeting](/Downloads/idea-t-heuristics-meeting-agenda-v2.docx) - This is a downloadable Word document with an outline agenda for an idea-t planning meeting, [meeting agenda list also available as a pdf](idea-t-heuristics-meeting-agenda-v2.pdf)
+   [◄ To Agenda for planning meeting](/Downloads/idea-t-heuristics-meeting-agenda-v2.docx) - This is a downloadable Word document with an outline agenda for an idea-t planning meeting, [meeting agenda also available as a pdf](idea-t-heuristics-meeting-agenda-v2.pdf)
 
   </details>
 
@@ -77,7 +77,7 @@ TBD: Start here to plan how you will use idea-t and the heuristics
 
 [◄ Go to Heuristic H02 Who?](/Heuristics/H02-Who.md) to start examining the "Who?" theme.  Keywords are Who? Experience? Communication? Learning goals? Learning preferences? Each of those also has a "not" and an "else" version.
 
-[◄ Go to Heuristic H07 Where?](/Heuristics/H07-Where.md)  to start examining the "Conetxt?" theme. Keywords are Where?, Workflows? Risks? Autonomy? When? and How long? Each of those also has a "not" and an "else" version.
+[◄ Go to Heuristic H07 Where?](/Heuristics/H07-Where.md)  to start examining the "Context?" theme. Keywords are Where?, Workflows? Risks? Autonomy? When? and How long? Each of those also has a "not" and an "else" version.
 
   </details>
 
@@ -200,6 +200,6 @@ This material is [GPL-3.0 licenced](LICENSE).
 
 If you use these heuristics please cite our work: 
 
-*Evans, I., Nordstrum, K., Porter, C., & Micallef, M. (2025). Heuristics-for-test-tool-design (Version 2.0) [Computer software]. https://github.com/hci-lab-um/heuristics-for-test-tool-design*
+*Evans, I., Porter, C., & Micallef, M. (2025). Heuristics-for-test-tool-design (Version 2.0) [Computer software]. https://github.com/hci-lab-um/heuristics-for-test-tool-design*
 
 Note: use the "Cite this repository" function for more options (e.g. bibtex).
