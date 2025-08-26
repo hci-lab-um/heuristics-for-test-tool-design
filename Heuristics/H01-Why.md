@@ -149,18 +149,18 @@ TBD add a link to case study 1 summary
 
 Activities to help you understand goals include:
 
-- [SWOT Analysis](../Activities/SWOT-Analysis.md) 
-- [Gap Analysis](../Activities/Gap-Analysis.md)
-- [Contextual Inquiry](Contextual-Inquiry.md)
-- [Building a Business Case and Calculating Return on Investment](Business-cases.md)
+- [SWOT Analysis](/How-To/Activities/SWOT-Analysis.md) 
+- [Gap Analysis](/How-To/Activities/Gap-Analysis.md)
+- [Contextual Inquiry](/How-To/Activities/Contextual-Inquiry.md)
+- [Building a Business Case and Calculating Return on Investment](/How-To/Activities/Business-cases.md)
 
-  Activities are described in the [Activities folder](About-Activities-Folder.md).
+  Activities are described in the [Activities folder](/How-To/Activities/About-Activities-Folder.md).
 
 ### Quality Attributes
 - Quality in Use Attributes: Freedom from Risk
 - Product Quality Attributes: User goals, Appropriateness
 
-Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes Folder](About-Quality-Attributes-Folder.md)
+Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes Folder](/How-To/QualityAttributes/About-Quality-Attributes-Folder.md)
 
 
 </details>
@@ -169,8 +169,8 @@ Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes
 
 [◄ Back to README](../README.md)   to get an overview of idea-t and the heuristics. 
 
-[◄ Go to Heuristic H02 Who?](../Heuristics/H02-Who.md)  it is the start of examining the "Who?" theme.
+[◄ Go to Heuristic H02 Who?](/Heuristics/H02-Who.md)  it is the start of examining the "Who?" theme.
 
-[◄ Go to Heuristic H07 Where?](../Heuristics/H07-Where.md)  it is the start of examining the "Context?" theme.
+[◄ Go to Heuristic H07 Where?](/Heuristics/H07-Where.md)  it is the start of examining the "Context?" theme.
 
 
