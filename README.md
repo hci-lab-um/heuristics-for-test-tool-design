@@ -168,15 +168,15 @@ Each heuristic's description also has links to activities that help you answer t
 
   Resources to help you use idea-t; these are files downloadable from the repository page, the files do not open within the repository:
 
-  [◄ To List of Heuristics download](/Downloads/idea-t-heuristics-list-v2.docx) (This is a Word document with a list of the 12 heuristics for download and printing) 
+  [◄ To List of Heuristics download](./Downloads/idea-t-heuristics-list-v2.docx) (This is a Word document with a list of the 12 heuristics for download and printing) 
 
-  [◄ To xmind mind map](/Downloads/idea-t-mindmap-skeleton.xmind) (This is an xmind file that holds the start of a mind map)
+  [◄ To xmind mind map](./Downloads/idea-t-mindmap-skeleton.xmind) (This is an xmind file that holds the start of a mind map)
   
-  [◄ To printable mind map](/Downloads/TBD) (link and file to be added - This is a downloadable poster that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
+  [◄ To printable mind map](./Downloads/TBD) (link and file to be added - This is a downloadable poster that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
   
-  [◄ To Agenda for planning meeting](/Downloads/idea-t-heuristics-meeting-agenda-v2.docx) - This is a downloadable Word document with an outline agenda for an idea-t planning meeting, [meeting agenda also available as a pdf](/Downloads/idea-t-heuristics-meeting-agenda-v2.pdf)
+  [◄ To Agenda for planning meeting](./Downloads/idea-t-heuristics-meeting-agenda-v2.docx) - This is a downloadable Word document with an outline agenda for an idea-t planning meeting, [meeting agenda also available as a pdf](./Downloads/idea-t-heuristics-meeting-agenda-v2.pdf)
 
-  [◄ To Workshop Materials](/Downloads/TBD)  (link and file to be added - This is a downloadable set of workshop materials that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
+  [◄ To Workshop Materials]([./Downloads/TestBash-2025-Materials/AboutTestBashWorkshop.md))  (link and file to be added - This is a downloadable set of workshop materials that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
 
   </details>
  </details>
