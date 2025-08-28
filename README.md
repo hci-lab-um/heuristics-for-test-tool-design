@@ -202,7 +202,12 @@ Each heuristic's description also has links to activities that help you answer t
 
   </details>
 
-  
+## Versions
+
+| Version          | Description                                   | Tag                                                                           | Link                                                                                |
+| ---------------- | --------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| v2 (coming soon) | Major update with new structure and filenames | `v2` (not yet live)                                                           | 
+| v1.7               | Original published heuristics                 | [`v1.7`](https://github.com/hci-lab-um/heuristics-for-test-tool-design/tree/v1.7) | [View Files](https://github.com/hci-lab-um/heuristics-for-test-tool-design/tree/v1.7) |  
 
 ## Licence to use idea-t
 
