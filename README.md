@@ -91,6 +91,13 @@ During evaluation of the heuristics, the repository will be frozen at the start 
 August 2025: following the final case studies and expert reviews, suggestions and edits have been made to this V1.x repository, bringing it to v1.7. Work will start shortly on v2.0 in a separate branch.
 </details>
 
+## Versions
+
+| Version          | Description                                   | Tag                                                                           | Link                                                                                |
+| ---------------- | --------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| v2 (coming soon) | Major update with new structure and filenames | `v2` (not yet live)                                                           | 
+| v1.7               | Original published heuristics                 | [`v1.7`](https://github.com/hci-lab-um/heuristics-for-test-tool-design/tree/v1.7) | [View Files](https://github.com/hci-lab-um/heuristics-for-test-tool-design/tree/v1.7) |
+
 ## Citation
 If you use these heuristics please cite our work: 
 
