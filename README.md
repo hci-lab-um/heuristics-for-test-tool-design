@@ -1,8 +1,9 @@
+<a name="TopofPage"></a>
+
 # Read Me for idea-t: a framework including 12 heuristics 
 ## influencing the design-evaluation and acquisition of tools to support testing
 
 Welcome to idea-t v2, a framework of 12 heuristics, with supporting information and activities, to help you with evaluating the design of tools to support testing. It is intended to help you with decisions, whether you build, commission, acquire or use testing tools. 
-
 
 <details> <summary> Click here to see an idea-t schematic </summary>
 
@@ -14,7 +15,10 @@ TBD add alt text explanation
 
 </details>
 
-## Start here 
+ 
+## Start Here
+
+Make a plan, then deep dive, then make a decision.
 
 <details> <summary> Click here to see the flow through idea-t used in this page </summary>
 
@@ -25,11 +29,9 @@ The flow chart shows the route through idea-t suggested on this page: A start po
 
 [Navigating1]:/Figures/readmepage-navigation-flow.jpg
 
-
-
 </details>
 
-  <details><summary>Click here for a summary for first use / recap / planning your use of idea-t </summary>
+<details><summary>Click here for a summary for first use / recap / planning your use of idea-t </summary>
 
 The idea-t framework has 12 heuristics in 3 themes, together with expanations, supporting activities, and resources. It is based on research in industry about testers' experiences with their tools, and is intended to help you think about factors that affect the design and attributes of tools to support testing.  The framework have been built and evaluated iteratively with input from industry practitioners and experts.  
 
@@ -47,10 +49,10 @@ There is also a workshop using a mind map which can help you work with a group t
  
 
 ## Deep dive into idea-t framework
-<details><summary>Click here to deep dive</summary>
+
+<details><summary><h2>Deep dive into idea-t framework: </h2> Click here to deep dive</summary>
   
- ### Themes and keywords
- <details><summary>Click here to see idea-t themes and keywords</summary>
+ <details><summary><h3>Themes and Keywords: </h3> Click here to see idea-t themes and keywords</summary>
 
  The idea-t framework has three themes: Why?, Who? and Context?
 
@@ -68,8 +70,8 @@ There is also a workshop using a mind map which can help you work with a group t
 
   </details>
 
-### Heuristics
-<details><summary>Click here to see a list of the idea-t heuristics</summary>
+
+<details><summary><h3>Heuristics Listed: </h3> Click here to see a list of the idea-t heuristics</summary>
 
 The three themes cover everything you need to think about when designing or choosing a test tool, but they don't provide enough information to prompt thought.  
 The idea-t framework has 12 heuristic questions intended to help you think about the tool or automation you are proposing. 
@@ -105,8 +107,8 @@ Each heuristic's description also has links to activities that help you answer t
   </details>
 
  
-  ### Case Studies and Usage Examples
-  <details><summary>Click here for idea-t cases studies and examples</summary>
+ 
+  <details><summary><h3>Examples: </h3> Click here for case studies and usage examples </summary>
 
   These are some of the case studies and usage scenarios run during the iterations to design, build and evaluate idea-t in industry settings. 
 
@@ -148,9 +150,10 @@ Each heuristic's description also has links to activities that help you answer t
 
   </details>
 
-   #### Downloads
- 
-  <details><summary> Click here for links to downloads of heuristics lists and mindmaps </summary>
+<!--    #### Downloads  -->
+
+  
+  <details><summary> <h3> Downloads: </h3> Click here for links to downloads of heuristics lists and mindmaps </summary>
 
   Resources to help you use idea-t; these are files downloadable from the repository page, the files do not open within the repository:
 
@@ -182,9 +185,9 @@ Each heuristic's description also has links to activities that help you answer t
 
    </details>
 
-## About the Research
+<!-- ## About the Research  -->
 
-  <details><summary>Click here to find out about the research</summary>
+  <details><summary><h2>About the Research: </h2> Click here to find out about the research</summary>
 
   words for topic
 
@@ -205,6 +208,8 @@ This material is [GPL-3.0 licenced](LICENSE).
 
 If you use these heuristics please cite our work: 
 
-*Evans, I., Porter, C., & Micallef, M. (2025). Heuristics-for-test-tool-design (Version 2.0) [Computer software]. https://github.com/hci-lab-um/heuristics-for-test-tool-design*
+*Evans, I., Nordstrom, K., Porter, C., & Micallef, M. (2025). Heuristics-for-test-tool-design (Version 2.0) [Computer software]. https://github.com/hci-lab-um/heuristics-for-test-tool-design*
 
 Note: use the "Cite this repository" function for more options (e.g. bibtex).
+
+[Back to Top](#TopofPage)
