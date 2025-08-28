@@ -20,7 +20,7 @@ TBD add alt text explanation
 
 Make a plan, then deep dive, then make a decision.
 
-<details> <summary> Click here to see the flow through idea-t used in this page </summary>
+<details> <summary> Click here to see the navigation flow through idea-t used in this page </summary>
 
 The flow chart shows the route through idea-t suggested on this page: A start point, a dive into idea-t, and a decision point. You have three options for starting: (1) if this is your first use of idea-t or you want a recap; (2) using a fast paths; or (3) making a plan for how you will use idea-t. Then you can use idea-t, deep diving as much as you need into the themes, keywords, heuristics and activities, and using the case studies, usage examples, and other resources to help you. Then you wrap up by making a decision.  This README provides links to pages with further information, and downloads of resources to use.
 
@@ -48,9 +48,9 @@ There is also a workshop using a mind map which can help you work with a group t
 
  
 
-## Deep dive into idea-t framework
+<!--  ## Deep dive into idea-t framework --> 
 
-<details><summary><h2>Deep dive into idea-t framework: </h2> Click here to deep dive</summary>
+<details><summary><h2>Deep dive into idea-t framework: </h2> Click here to deep dive into the framework </summary>
   
  <details><summary><h3>Themes and Keywords: </h3> Click here to see idea-t themes and keywords</summary>
 
@@ -132,19 +132,18 @@ Each heuristic's description also has links to activities that help you answer t
 
  </details>
   
-  ### How to Use idea-t and the heuristics - Navigation, Activities, Downloads
+  ## How to Use idea-t and the heuristics - Navigation, Activities, Downloads
 
-  words for topic
+ The "How-To" directory contains information and downloads to help you with how to use idea-t, including navigation aids, activities, and quality attributes.
 
- #### Navigating idea-t
-  <details><summary>Click here for idea-t navigation</summary>
+  <details><summary><h3>Navigating idea-t: </h3> Click here for idea-t navigation</summary>
 
-  words for topic
-
+   words for topic
+   
   </details>
 
    #### Activities
-  <details><summary>Click here for idea-t activities</summary>
+  <details><summary><h3>Activities: </h3> Click here for idea-t activities</summary>
 
   words for topic
 
@@ -153,7 +152,7 @@ Each heuristic's description also has links to activities that help you answer t
 <!--    #### Downloads  -->
 
   
-  <details><summary> <h3> Downloads: </h3> Click here for links to downloads of heuristics lists and mindmaps </summary>
+  <details><summary> <h3> Downloads: </h3> Click here for links to downloads of idea-t heuristics lists and mindmaps </summary>
 
   Resources to help you use idea-t; these are files downloadable from the repository page, the files do not open within the repository:
 
@@ -208,7 +207,7 @@ This material is [GPL-3.0 licenced](LICENSE).
 
 If you use these heuristics please cite our work: 
 
-*Evans, I., Nordstrom, K., Porter, C., & Micallef, M. (2025). Heuristics-for-test-tool-design (Version 2.0) [Computer software]. https://github.com/hci-lab-um/heuristics-for-test-tool-design*
+*Evans, I., Nordström, K., Porter, C., & Micallef, M. (2025). Heuristics-for-test-tool-design (Version 2.0) [Computer software]. https://github.com/hci-lab-um/heuristics-for-test-tool-design*
 
 Note: use the "Cite this repository" function for more options (e.g. bibtex).
 
