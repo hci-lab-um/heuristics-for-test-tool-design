@@ -20,9 +20,10 @@ Here are links to some earlier videos about the research. They are each about 30
 2. [Report on the research from 2022: "Who is Testing? Do tools help and support them?" (YouTube video)](https://www.youtube.com/watch?v=JhmZpnZO_ys) from TestMu conference.
 3. [Webinar from 2022 "Who is testing?"](https://www.bigmarker.com/techwell-corporation/Who-Is-Testing-A-Reflection-Part-Way-Through-Data-Analysis) from Techwell.
 4. [Interview with Agiletest (YouTube video)](https://www.youtube.com/watch?v=0fZlOqjmZqQ) from Agiletest Invites.
+5. TBD add links to 2025 videos  
 
 Presentations at industry conferences:
--TBD add links to industry presentation slide sets in the DOwnloads folder.
+-TBD add links to industry presentation slide sets in the Downloads folder.
   
 </details>
 
@@ -63,7 +64,7 @@ Links to the published versions of the papers are below, and you can also [downl
     -	Usability was often treated superficially by making the interface attractive but not improving workflows;
     -	Understanding of personas in testing was sometimes superficial – there was not an understanding of the range and type of people doing testing.
 
-**Finding out who is testing software:** To better understand the potential in tester persona development, we asked "Who is testing?" in a further detailed survey which provided evidence of the heterogenous nature of the testing community, and the wide range of people’s characteristics, contexts, approaches, and requirements. The data indicated that the people designing tools may benefit from a framework to help them better understand testers and the contexts for testing. A paper "Breaking Tester Stereotypes: who is testing and why it matters" was presented in July 2024 at the BCS HCI 2024 conference and will be published by them. There is a [summary on a blog](https://isabelevansconsultancy.wordpress.com/2024/07/26/research-report-breaking-tester-stereotypes-who-is-testing-and-why-it-matters/) and [a preprint on this repository(preprints.md).
+**Finding out who is testing software:** To better understand the potential in tester persona development, we asked "Who is testing?" in a further detailed survey which provided evidence of the heterogenous nature of the testing community, and the wide range of people’s characteristics, contexts, approaches, and requirements. The data indicated that the people designing tools may benefit from a framework to help them better understand testers and the contexts for testing. A paper "Breaking Tester Stereotypes: who is testing and why it matters" was presented in July 2024 at the BCS HCI 2024 conference and has been published by them, and a journal paper "The Software Testing Community and IT Stereotypes: a study with industry professionals" is in preparation. There is a [summary on a blog](https://isabelevansconsultancy.wordpress.com/2024/07/26/research-report-breaking-tester-stereotypes-who-is-testing-and-why-it-matters/) and [preprints on this repository](preprints.md).
 
 **Encapsulating findings in a usable summary:** Based on the data analysed so far, we are working on building a set of heuristics for tool designers to use when designing test tools. Iterating through a series of reviews of versions of the heuristics both with UX experts and practitioners, and with test experts and practitioners. The draft heuristics are [listed on this repository](README.md), with their explanations and suggested activities.
 
@@ -106,8 +107,7 @@ I do not use other social media.
 
 [Isabel Evans](https://www.linkedin.com/in/isabelevans/)
 
-TBD - add linked in profile links for the rest of the team
-
 [Prof. Chris Porter](https://www.linkedin.com/in/chrisporter/)
 
 [Prof. Mark Micallef](https://www.linkedin.com/in/micallefmark/)
+
