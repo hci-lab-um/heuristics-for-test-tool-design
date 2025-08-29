@@ -18,7 +18,7 @@ TBD - update these links
 
 [Breaking tester stereotypes: Who is testing and why it matters](https://www.um.edu.mt/library/oar/handle/123456789/132964)    Preprint copy:  not needed - published paper accessible from the OAR@UM link
 
-[Journal article in draft - preprint](../Publications/article-The-Software-Testing-Community-and_IT-Stereotypes-a-study-with-industry-professionalsAug2025preprint.pdf)
+[The Software Testing Community and IT Stereotypes - Journal article in draft - preprint](../Publications/article-The-Software-Testing-Community-and_IT-Stereotypes-a-study-with-industry-professionalsAug2025preprint.pdf)
 
 [How can Heuristics be Communicated?](https://www.um.edu.mt/library/oar/handle/123456789/132965)    Preprint copy: [here](paper-Preprint-Commmunicting_Heuristics_CHIRA2024.pdf)
 
