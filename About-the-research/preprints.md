@@ -2,7 +2,7 @@
 
 [◄ Go back to Landing Page for the heuristics](../README.md)
 
-[◄ Go back to page about the research](About-the-research-and-researcher.md)
+[◄ Go back to page about the research](About-the-research.md)
 
 
 Listed below are links to the University of Malta Open Access Research (OAR@UM) with links to the paper abstract, publication details, a link to the published paper but your access may be restricted, depending on your credentials and the specific conference publisher's rules.  
