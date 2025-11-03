@@ -19,7 +19,7 @@ If you want to cite the paper, please use the OAR@UM link to get the citation de
 
 [The Software Testing Community and IT Stereotypes - Journal article](https://www.um.edu.mt/library/oar/handle/123456789/140199) Preprint copy:  not needed - published paper accessible from the OAR@UM link
 
-[How can Heuristics be Communicated?](https://www.um.edu.mt/library/oar/handle/123456789/132965)    Preprint copy: [here](../Publications/paper-Preprint-Commmunicating_Heuristics_CHIRA2024.pdf)
+[How can Heuristics be Communicated?](https://www.um.edu.mt/library/oar/handle/123456789/132965)    Preprint copy: [here](../Publications/paper-Preprint-Communicating_Heuristics_CHIRA2024.pdf)
 
 
 
