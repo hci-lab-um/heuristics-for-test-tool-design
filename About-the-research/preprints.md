@@ -9,7 +9,6 @@ Listed below are links to the University of Malta Open Access Research (OAR@UM) 
 Preprint links are therefore also shared below. 
 If you want to cite the paper, please use the OAR@UM link to get the citation details.
 
-TBD - update these links
 [Stuck in Limbo with Magical Solutions: the testers' experiences of tools and automation](https://www.um.edu.mt/library/oar/handle/123456789/93431)   Preprint copy: [here](../Publications/paper-Stuck-in-Limbo-Evans-et-al-SILMS-HUCAPP_2020.pdf)
 
 [Scared Frustrated and Quietly Proud: the testers' experiences of tools and automation](https://www.um.edu.mt/library/oar/handle/123456789/93430)    Preprint copy: [here](paper-Scared-frustrated-Evans-et-al-ECCE2021preprint.pdf)
@@ -18,7 +17,7 @@ TBD - update these links
 
 [Breaking tester stereotypes: Who is testing and why it matters](https://www.um.edu.mt/library/oar/handle/123456789/132964)    Preprint copy:  not needed - published paper accessible from the OAR@UM link
 
-[The Software Testing Community and IT Stereotypes - Journal article in draft - preprint](../Publications/article-The-Software-Testing-Community-and_IT-Stereotypes-a-study-with-industry-professionalsAug2025preprint.pdf)
+[The Software Testing Community and IT Stereotypes - Journal article](https://www.um.edu.mt/library/oar/handle/123456789/140199) Preprint copy:  not needed - published paper accessible from the OAR@UM link
 
 [How can Heuristics be Communicated?](https://www.um.edu.mt/library/oar/handle/123456789/132965)    Preprint copy: [here](paper-Preprint-Commmunicting_Heuristics_CHIRA2024.pdf)
 
