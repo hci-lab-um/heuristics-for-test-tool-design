@@ -2,18 +2,18 @@
 
 [◄ Go back to README](../README.md)
 
+## Navigation hint (where you are in idea-t)
+
 Theme and Keyword Who?
 
 Question: Who will use or be affected by this tool?
-
-## Navigation hint (where you are in idea-t)
 
 ## In brief:
 
 Asking "Who?" is useful - we found a [broad and non-stereotypical group of people are testing](https://isabelevansconsultancy.wordpress.com/2024/07/26/research-report-breaking-tester-stereotypes-who-is-testing-and-why-it-matters/), and therefore may be using the tool.
 - You will also have stakeholders who may not use the tool, but may influence the goals for the tool. 
 - As you identify *Why* the tool is needed, you might find that different stakeholders have different perceptions of why the tool is required and what it should do: you need to understand *Who* needs the tool.
-- Also consider that not everone will benefit from the tool; for some people there may be perceived or actual disadvantages to the tool, that affect their work or themselves adversely.
+- Also consider that not everyone will benefit from the tool; for some people there may be perceived or actual disadvantages to the tool, that affect their work or themselves adversely.
 - Ask "who else?" and "who is not?" as part of asking "who?"
 
 ## Expanding this heuristic
