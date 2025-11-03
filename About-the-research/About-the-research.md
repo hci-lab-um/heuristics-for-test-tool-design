@@ -19,11 +19,9 @@ Here are links to some earlier videos about the research. They are each about 30
 1. [Talk about the research from 2020 YouTube video): "Illusions, Magic and Test Automation"](https://www.youtube.com/watch?v=EAEG3CzZzVY) from Code Camp Romania.
 2. [Report on the research from 2022: "Who is Testing? Do tools help and support them?" (YouTube video)](https://www.youtube.com/watch?v=JhmZpnZO_ys) from TestMu conference.
 3. [Webinar from 2022 "Who is testing?"](https://www.bigmarker.com/techwell-corporation/Who-Is-Testing-A-Reflection-Part-Way-Through-Data-Analysis) from Techwell.
-4. [Interview with Agiletest (YouTube video)](https://www.youtube.com/watch?v=0fZlOqjmZqQ) from Agiletest Invites.
-5. TBD add links to 2025 videos  
+4. [Interview with Agiletest (YouTube video)](https://www.youtube.com/watch?v=0fZlOqjmZqQ) from Agiletest Invites. 
 
-Presentations at industry conferences:
--TBD add links to industry presentation slide sets in the Downloads folder.
+Other presentation slides from talks at industry conferences are in the [Downloads folder](../Downloads).
   
 </details>
 
@@ -49,11 +47,6 @@ After nearly four decades working in the IT industry, mainly in software testing
 
 ###	Story So Far
 
-![Diagram building up the research from its foundations to the heuristics. From the bottom of the diagram: We asked the question "What are the experiences of testers with their tools?", we used that data to publish three papers: "Stuck in Limbo with Magical Solutions"; "Scared, Frustrated and Quietly Proud" and "The Illusion of Usability". These findings are the foundation for work we did to ask "Who is testing?" (Paper "From artists to urban planners: who is testing and why it matters"). We then asked "How could test tool design be more focused on testers?", started to design heuristics and a framework, which led to the paper "The Shape of Heuristics". We designed the heuristics in this repository. And we are also working on a framework for people-focused, evidence-based test tool design. ][R-pyramid](research-pyramid.jpg)
-
-[R-pyramid]: research-pyramid.jpg
-TBD update diagram to show later stages
-
 Links to the published versions of the papers are below, and you can also [download a preprint draft](preprints.md) if you cannot access the publishers' libraries.
 
 **Stories about experiences with test tools:** In the initial stage of the research we went out to industry with a simple question “tell me a story about your experiences with test tools” via interviews, surveys and workshops, and was startled by the results. These were:
@@ -64,18 +57,18 @@ Links to the published versions of the papers are below, and you can also [downl
     -	Usability was often treated superficially by making the interface attractive but not improving workflows;
     -	Understanding of personas in testing was sometimes superficial – there was not an understanding of the range and type of people doing testing.
 
-**Finding out who is testing software:** To better understand the potential in tester persona development, we asked "Who is testing?" in a further detailed survey which provided evidence of the heterogenous nature of the testing community, and the wide range of people’s characteristics, contexts, approaches, and requirements. The data indicated that the people designing tools may benefit from a framework to help them better understand testers and the contexts for testing. A paper "Breaking Tester Stereotypes: who is testing and why it matters" was presented in July 2024 at the BCS HCI 2024 conference and has been published by them, and a journal paper "The Software Testing Community and IT Stereotypes: a study with industry professionals" is in preparation. There is a [summary on a blog](https://isabelevansconsultancy.wordpress.com/2024/07/26/research-report-breaking-tester-stereotypes-who-is-testing-and-why-it-matters/) and [preprints on this repository](preprints.md).
+**Finding out who is testing software:** To better understand the potential in tester persona development, we asked "Who is testing?" in a further detailed survey which provided evidence of the heterogenous nature of the testing community, and the wide range of people’s characteristics, contexts, approaches, and requirements. The data indicated that the people designing tools may benefit from a framework to help them better understand testers and the contexts for testing. A paper "Breaking Tester Stereotypes: who is testing and why it matters" was presented in July 2024 at the BCS HCI 2024 conference and has been published by them, and a journal paper "The Software Testing Community and IT Stereotypes: a study with industry professionals" is published in IWC journal 2025. There is a [summary on a blog](https://isabelevansconsultancy.wordpress.com/2024/07/26/research-report-breaking-tester-stereotypes-who-is-testing-and-why-it-matters/) and [preprints on this repository](preprints.md).
 
 **Encapsulating findings in a usable summary:** Based on the data analysed so far, we are working on building a set of heuristics for tool designers to use when designing test tools. Iterating through a series of reviews of versions of the heuristics both with UX experts and practitioners, and with test experts and practitioners. The draft heuristics are [listed on this repository](README.md), with their explanations and suggested activities.
 
-**Shaping the Heuristics:** First, we needed to understand how heuristics should be developed and what they look like. Should they be like Nielsen's Ten Heuristics? Like Bach and Bolton's FEW HICCUPS? Something different? We looked at many examples to see how heuristics are displayed and discovered that they have different levels of directedness and also that they are displayed in different formats. Working with UX practitioners and experts, we trialed and refined various styles for the heuristics and choose a format - the short questoin with explanation - used in this repository. (Paper "Communicating Heuristics" is in draft)
+**Shaping the Heuristics:** First, we needed to understand how heuristics should be developed and what they look like. Should they be like Nielsen's Ten Heuristics? Like Bach and Bolton's FEW HICCUPS? Something different? We looked at many examples to see how heuristics are displayed and discovered that they have different levels of directedness and also that they are displayed in different formats. Working with UX practitioners and experts, we trialed and refined various styles for the heuristics and chose a format - the short question with explanation - used in this repository. 
 Based on that format, we then set out to design a set of heuristic questions, grounded in the research data collected earlier.
 
 **Evaluating the Heuristics - expert reviews:** We have taken versions of the heuristics to test experts and practitioners to understand if the content of the heuristics indicate anything useful about the people who will use the test tools. That includes asking someone who had built a tool whether the heuristics would have changed their thinking when designing/building the tool, and a review with an accessibility expert.
 We updated the heuristics based on the review comments, in an iterative process.
 
-**Evaluating the Heuristics - case studies:** We are in the middle of the iterative build-review-refining of the heuristic set content through industry case studies to evaluate the heuristics in use.
-Once the case studies have completed, we will refine the heuristics based on comments and observations of them in use, and publish.
+**Evaluating the Heuristics - case studies:** We undertook an iterative build-review-refining of the heuristic set content through industry case studies to evaluate the heuristics in use.
+The case study results were used to refine the heuristics based on comments and observations of them in use.
 This GitHub repository is here to support the case studies and capture the heuristics and supporting information.
 
 
