@@ -4,11 +4,11 @@
 
 [◄ Back to README](../README.md)
 
+## Navigation hint (where you are in idea-t)
+
 Theme and Keyword Why?
 
 Question: Why is this tool needed?
-
-## Navigation hint (where you are in idea-t)
 
 ## In brief:
 
