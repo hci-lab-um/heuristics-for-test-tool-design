@@ -33,7 +33,7 @@ Think about:
   <summary>Click for explanation of the heuristic
   </summary> 
 
-some words of explanation
+Asking `who is the tool for?' may seem a simple and obvious question, but in the research we found that people did not always ask it, or did not identify all the stakeholders and affected people.
 
 </details>
 
@@ -53,13 +53,7 @@ Key questions to ask yourself:
 - Who is paying for the tool?
 - Who will design, build and maintain the tool?
 - Who will choose the tool?
--	Is it for you or someone else to use?
--	Who else will want to use it or be affected by it?
--	Who doesn't / shouldn't use the tool? 
-
-
-### Role-based alternative questions
-
+- What roles do you need to consider?
 
 
 ### Not? 
@@ -68,11 +62,13 @@ Who not?
 - Who does not need this tool?
 - Who won't use it?
 - Who won't be affected by it?
+- Who doesn't / shouldn't use the tool? 
 
 ### Else?
 Who else?
 
-
+- Is it for you or someone else to use?
+- Who else will want to use it or be affected by it?
 
 </details>
 
@@ -101,7 +97,7 @@ This comment indicated that 'Who for?' is more generally forgotten than 'Why?'.
 Both **H01 Why?** and **H02 Who?** are important
 </details>
 
-### Case studies examples
+### Case studies examples TBD
 
 ### Quotes from research participants
 
