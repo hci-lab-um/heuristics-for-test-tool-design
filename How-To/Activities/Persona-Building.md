@@ -2,10 +2,19 @@
 
 # Activity: Building personas
 
-## navigation
-[◄ Go back to H02](../Heuristics/H02-Who.md)
+## Navigation
 
-[◄ Go back to README](../README.md)
+[◄ Go back to H02](../Heuristics/H02-Who.md)  
+
+[◄ Go back to H03](../Heuristics/H03-Experience.md)  
+
+[◄ Go back to H04](../Heuristics/H04-Communication.md) 
+
+[◄ Go back to H05](../Heuristics/H05-LearningGoals.md)  
+
+[◄ Go back to H06](../Heuristics/H06-LearningPreferences.md)  
+
+[◄ Go back to README](../README.md)  
 
 ## What is a persona?
 
@@ -50,26 +59,25 @@ Heuristic H04 is about communication preferences, and if we don't know that abou
 
 We could therefore start our personas by imagining at least one persona for each DISC preference, and start a classification tree. 
 
-![start of a classification tree with 4 branches, D I S C](../Figures/personasegmentH04.jpg "classification tree for H04")
+![start of a classification tree with 4 branches, D I S C](../../Figures/personasegmentH04.jpg "classification tree for H04")
 
 
 
 ### Step 2: Heuristic H05 Learning for Mastery or Learning for Task Completion
 
-Heuristic H05 asks us to think about what type of learning people want to do when engaging with the tool. Are they wanting to master the tool and invest in the time to do that? Or, do they have limited time and simply want to carry out the next task. Both are reasonable approaches, and the same person may want to take different approaches at different times, or with different tools. They might have constraints because of budget pressures or management expectations. They may want to try out the tool quickly and then commit to mastering it.
+Heuristic H05 asks us to think about what type of learning people want to do when engaging with the tool. Do they want to master the tool and invest in the time to do that? Or, do they have limited time and simply want to carry out the next task? Both are reasonable approaches, and the same person may want to take different approaches at different times, or with different tools. They might have constraints because of budget pressures or management expectations. They may want to try out the tool quickly and then commit to mastering it.
 
-Therefore we might need quick-start routes, wizards, short task-based videos, and also training/apprenticeship routes for mastery.
+Therefore, we might need quick-start routes, wizards, short task-based videos, and also training/apprenticeship routes for mastery.
 
 We can draw another mini-classification tree to show this split in approaches.
 
-![classification tree segment showing mastery and task-based as two learning goals][personasegmentH05](personasegmentH05.jpg)
+![classification tree segment showing mastery and task-based as two learning goals](../../Figures/personasegmentH05.jpg)
 
-[personasegmentH05]: personasegmentH05.jpg
 
 ### Step 3: Heuristic H06 Learning preferences
 
-Different people prefer to learn in different ways, and this may match to their communication preferences or be different. people may move from group to solo preferences and back again depending on context.
-There are three areas we could start to consider: solo or group learning, theory or practical learning and the preferred media. Remember this also includes preferences, accessibility and also relates to H05 - for mastery we might want some theoretical basis, for task based we may prefer to be practical.
+Different people prefer to learn in different ways, and this may match to their communication preferences or be different. People may move from group to solo preferences and back again depending on context.
+There are three areas we could start to consider: solo or group learning, theory or practical learning, and their preferred media. Remember this also includes preferences, accessibility, and also relates to H05 - for mastery, we might want some theoretical basis, for task-based we may prefer to be practical.
 
 We can draw this in another classification tree segment,  breaking down as:
 
@@ -91,29 +99,29 @@ We can draw this in another classification tree segment,  breaking down as:
 
 This is shown in the figure below:
 
-![classification tree segment matching list in text][personasegmentH06](personasegmentH06.jpg)
+![classification tree segment matching list in text][personasegmentH06](../../Figures/personasegmentH06.jpg)
 
-[personasegmentH06]: personasegmentH06.jpg
+
 
 ### Step 4: Putting H04, H05 and H06 together and selecting persona traits
 
-Once we have those segments, we can assemble the whole classification tree, adn we find that we need 5 personas to cover all the options, because the learning preferences for solo and group break down into 5 branches.
+Once we have those segments, we can assemble the whole classification tree, and we find that we need 5 personas to cover all the options, because the learning preferences for solo and group break down into 5 branches.
 
-The diagram shows we have named 5 persona groups with suggested preferences. This can make the basis of a fuller persona definition, tailored to our spefici context.
+The diagram shows we have named 5 persona groups with suggested preferences. This can make the basis of a fuller persona definition, tailored to our specific context.
 
 - Andy has Blue/C communication preferences, prefers solo learning, with theory in audio and text, to reach tool mastery
-- Bill has Green/S communication preferences, preferes pair learning, practicall based, through video and hands-on, focused on completing the next task
+- Bill has Green/S communication preferences, prefers pair learning, practical training, through video and hands-on, focused on completing the next task
 - Carol has Red/D communication preferences, would like master/apprentice training that is practical, includes videos and hands-on learning, and is for tool mastery 
 - Dee has Blue/C communication preferences, would like a taught class, with some theory, through audio and text, for tool mastery
-- Edi has yellow/I communication preferences, would like ensemble learning that is practical, hands-on, with supporting text and focused on the next task to be completed.
+- Edi has yellow/I communication preferences, would like ensemble learning that is practical, hands-on, with supporting text, and focused on the next task to be completed.
 
-![classification tree illustrating bulleted list of personas in the text][personasegmentcommsandlearning](personasegmentcommsandlearning.jpg)
+![classification tree illustrating bulleted list of personas in the text][personasegmentcommsandlearning](../../Figures/personasegmentcommsandlearning.jpg)
 
-[personasegmentcommsandlearning]: personasegmentcommsandlearning.jpg
+
 
 ### Step 5 Adding role-based characteristics
 
-We can also add role-based characteristics - in the next figure, a set of assumptions have been made about the archetypal roles who might use the tool, their levels of authority and team autonomy (H10), the workflows they might be involved in (H08) and the risks associated with those workflows (H09).
+We can also add role-based characteristics - in the next figure, a set of assumptions have been made about the archetypal roles who might use the tool, their levels of authority and team autonomy (H10), the workflows they might be involved in (H08), and the risks associated with those workflows (H09).
 This adds to the personas developed above with archetype assumptions.
 In the diagram as it is drawn:
 
@@ -123,48 +131,16 @@ In the diagram as it is drawn:
 - Dee is a quality coach, across the workflows, they work across the risk levels, they have medium authority and medium autonomy;
 - Edi is a developer, on workflow 1, high risk level, medium authority and high autonomy.
 
-**This version of the diagrams is a starting point for a discussion - it will be different in every context, but the idea is that the choices can be changed in discussion of the assumptions.
+**This version of the diagrams is a starting point for a discussion - it will be different in every context, but the idea is that the choices can be changed in discussions of the assumptions.
 The two diagrams together make the starting point for archetypes or personas to be more fully developed.**
 
-![classification tree illustrating bulleted list of personas in the text][personasegment-archetyperoles](personaclasstree-roles.jpg)
+![classification tree illustrating bulleted list of personas in the text][personasegment-archetyperoles](../../Figures/personaclasstree-roles.jpg)
 
-[personasegment-archetyperoles]: personaclasstree-roles.jpg
+</details>
 
-
-
-## navigation
-[◄ Go back to H02](../Heuristics/H02-Who.md)  if
-
-[◄ Go back to H03](../Heuristics/H03-Experience.md)  if
-
-[◄ Go back to H04](../Heuristics/H04-Communication.md)  if
-
-[◄ Go back to H05](../Heuristics/H05-LearningGoals.md)  if
-
-[◄ Go back to H06](../Heuristics/H06-LearningPreferences.md)  if
-
-[◄ Go back to README](../README.md)  if 
-
-
-
-******************************************************************
-******************************************************************
-<a name="TopofPage"></a>
-# Personas or Archetypes
-
-[◄ Go back to H02](H02-Who-will-use-or-be-affected-by-this-tool.md)
-
-[◄ Go back to README](README.md)
-
-## Description
-
-
-</details> 
-
-[Back to Top](#TopofPage)
 
 ## Rationale
-
+<details close><summary>Research Evidence for Developing Test Tool Personas</summary>
 ### Research evidence
 
 We found that people testing are a much wider and more heterogenous group than meets stereotypes for IT workers. We found that tools often were designed for a more narrow and stereotypical group.
@@ -191,6 +167,8 @@ Gain a better understanding of people who will use the tool, while managing that
 ### Disadvantages
 Takes time to do well.
 
+</details>
+
 [Back to Top](#TopofPage)
 
 ## Where do I find more information?
@@ -205,6 +183,16 @@ Takes time to do well.
 
 Having got your personas or archetypes, you can build usage stories per persona, which can be [simple stories](https://www.interaction-design.org/literature/topics/user-stories) or [scenarios](https://www.interaction-design.org/literature/topics/user-scenarios) and you can build [empathy maps](https://xd.adobe.com/ideas/process/user-research/10-tips-develop-better-empathy-maps/).
 
-[Back to Top](#TopofPage)
+## Navigation
 
+[◄ Go back to H02](../Heuristics/H02-Who.md)  
 
+[◄ Go back to H03](../Heuristics/H03-Experience.md)  
+
+[◄ Go back to H04](../Heuristics/H04-Communication.md) 
+
+[◄ Go back to H05](../Heuristics/H05-LearningGoals.md)  
+
+[◄ Go back to H06](../Heuristics/H06-LearningPreferences.md)  
+
+[◄ Go back to README](../README.md)  
