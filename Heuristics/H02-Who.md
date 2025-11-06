@@ -130,7 +130,7 @@ When you have a small number of people to understand, you may be able to intervi
 - [Building ideas for personas](../How-To/Activities/Persona-Building.md).
 
 Another activity you might find useful to help you understand *Who* include:
--	[Stakeholder Mapping](.../How-To/Activities/Stakeholder-Mapping.md) which includes simple mapping onto a matrix, the onion model, value chain modelling and Wardley Mapping.
+-	[Stakeholder Mapping](../How-To/Activities/Stakeholder-Mapping.md) which includes simple mapping onto a matrix, the onion model, value chain modelling and Wardley Mapping.
 
 The CATWOE model from Soft Systems Methodology shows different stakeholders for a change, including beneficiaries and victims; adding, changing or removing a tool is a change. **(TBD: add link to CATWOE diagram: issue #4)** 
 
@@ -140,13 +140,13 @@ However you map the "Who?" enrich your answer by using the rest of the heuristic
 
 
 
-  Activities are described in the [Activities folder](/Activities/About-Activities-Folder.md).
+  Activities are described in the [Activities folder](..How-To/Activities/About-Activities-Folder.md).
 
 ### Quality Attributes
 - Quality in Use Attributes: Satisfaction
 - Product Quality Attributes: User goals, Appropriateness
 
-Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes Folder](/QualityAttrbiute/About-Quality-Attributes-Folder.md)
+Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes Folder](..How-To/QualityAttribute/About-Quality-Attributes-Folder.md)
 
 
 
