@@ -73,7 +73,8 @@ The Australian Leadership Foundation suggest a nine-cell matrix of leader's auth
 
 <details close><summary>Click for diagram of authority versus autonomy matrix</summary>
    
-![Matrix showing authority versus autonomy - content as bullet list in text][autonomy](../Figures/autonomyversusauthority.jpg)
+![Matrix showing authority versus autonomy - content as bullet list in text](../Figures/autonomyversusauthority.jpg "autonomy versus authority diagram")
+
 
 [autonomy]: autonomyversusauthority.jpg
 
