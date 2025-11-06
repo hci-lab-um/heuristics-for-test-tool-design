@@ -150,10 +150,6 @@ We found that:
   </summary> 
   
 ### Activities
-
-
-<details close>
-  <summary> Click for activities </summary>
   
 To understand *Who* you need to know not just the roles but also people’s characteristics. Use the answers to this heuristic question to help you enrich the persona groups that you started when answering heuristic [H02](H02-Who-will-use-or-be-affected-by-this-tool.md).
 
@@ -165,11 +161,6 @@ There is a persona [worked example here in this repository](../How-To/Activities
 You can also:
 -	Add to your Persona design, including [different types of persona](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them);
 -	Do a skills gap analysis thinking about your personas as [learner personas](https://corporate.britishcouncil.org/insights/evolving-role-learner-personas).
-
-
-</details>
-
-
 
 ### Quality Attributes
 
