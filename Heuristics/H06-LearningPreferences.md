@@ -91,9 +91,9 @@ What else might inhibit or enhance their learning?
 In one trial of the heuristics, we worked with a group of people who were choosing a tool to enable their team to communicate during a project. We investigated learning and communication preferences during problem solving. We found a wide range of preferences across solo and group learning, and that these were not the same as those experienced during problem solving. The graph shows that some of the people in the group preferred to learn solo, even if they preferred team problem solving. Similarly there was a range of responses to whether learning was best done practical/exploratory or guided/reading/theory. Note that this is true for this specific group; it may not be generally true.  
 
 
-![graph shows preference for learning solo or team drop from 40% preferring solo learning down to none preferring all team learning. Preference of 50% of participants to have mix of learning by doing and through theory. Problem solving preferences are more team based and about the same for exploratory versus guided/theory.][learningpref](learning-pref-graph.jpg)
+![graph shows preference for learning solo or team drop from 40% preferring solo learning down to none preferring all team learning. Preference of 50% of participants to have mix of learning by doing and through theory. Problem solving preferences are more team based and about the same for exploratory versus guided/theory.](../Figures/learning-pref-graph.jpg)
 
-[learningpref]: learning-pref-graph.jpg  TBD add graphic
+[learningpref]: learning-pref-graph.jpg  
 
 To get the results in the graph above, we asked four questions on a Lickert Scale:
 
