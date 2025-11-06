@@ -51,7 +51,7 @@ Suppose we are building a tool for a large group of people to use, and we don't 
 
 The worked example below shows one approach. To reach a set of personas for your context, you would need to build context-specific classification trees similar to these, and then build on them with user interviews or other evidence.
 
-<details><summary>Worked example of thinking about the heuristics to help plan a set of archetypes or personas</summary>
+<details><summary>Click here for a worked example of thinking about the heuristics to help plan a set of archetypes or personas</summary>
 
 ### Step 1: Heuristic H04 Communication Preferences
 
@@ -99,7 +99,7 @@ We can draw this in another classification tree segment,  breaking down as:
 
 This is shown in the figure below:
 
-![classification tree segment matching list in text][personasegmentH06](../../Figures/personasegmentH06.jpg)
+![classification tree segment matching list in text](../../Figures/personasegmentH06.jpg)
 
 
 
@@ -115,7 +115,7 @@ The diagram shows we have named 5 persona groups with suggested preferences. Thi
 - Dee has Blue/C communication preferences, would like a taught class, with some theory, through audio and text, for tool mastery
 - Edi has yellow/I communication preferences, would like ensemble learning that is practical, hands-on, with supporting text, and focused on the next task to be completed.
 
-![classification tree illustrating bulleted list of personas in the text][personasegmentcommsandlearning](../../Figures/personasegmentcommsandlearning.jpg)
+![classification tree illustrating bulleted list of personas in the text](../../Figures/personasegmentcommsandlearning.jpg)
 
 
 
@@ -134,7 +134,7 @@ In the diagram as it is drawn:
 **This version of the diagrams is a starting point for a discussion - it will be different in every context, but the idea is that the choices can be changed in discussions of the assumptions.
 The two diagrams together make the starting point for archetypes or personas to be more fully developed.**
 
-![classification tree illustrating bulleted list of personas in the text][personasegment-archetyperoles](../../Figures/personaclasstree-roles.jpg)
+![classification tree illustrating bulleted list of personas in the text](../../Figures/personaclasstree-roles.jpg)
 
 </details>
 
