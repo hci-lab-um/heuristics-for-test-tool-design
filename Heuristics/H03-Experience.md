@@ -55,8 +55,8 @@ We found that testers do not conform to IT worker stereotype in their experience
 - Have previous experiences with new tools or new methods been supportive to the person? This might include [whether a learning culture is encouraged](https://osf.io/preprints/psyarxiv/qz43x) and [understanding the developer experience](https://dl.acm.org/doi/10.1145/3639443): both those links are to work about developers, but the same questions arise for testers.
 - Will the tool users be familiar with testing / IT terminology? If they are business testers they may not be.
 - What else do they need to know to be able to use the tool successfully and how do you supply that to them?
-- What else have they experienced that might affect ow they perceive or use the tool?
-- If a team also ready has expereince of a particular tool, is it more beneficial to get a similar tool (to save learning costs even if the tool is subotimal) or to get the optimal tool (even if that requires a lot of relearning and retraining).
+- What else have they experienced that might affect how they perceive or use the tool?
+- If a team also ready has experience of a particular tool, is it more beneficial to get a similar tool (to save learning costs even if the tool is suboptimal) or to get the optimal tool (even if that requires a lot of relearning and retraining).
 
 
 ### Not? 
@@ -81,7 +81,7 @@ What other experiences might arise from different roles that people have had?
   </summary> 
 
 Research Point: we found that people testing software came from a wide range of backgrounds, with widely differing experiences of domains, IT, testing and tools.
-It is difficult to design tools for a wide range of people, but it is possible to make a tool useable by as many groups of people as possible. Think about *who else* needs to use the tool.
+It is difficult to design tools for a wide range of people, but it is possible to make a tool usable by as many groups of people as possible. Think about *who else* needs to use the tool.
   
 ### Usage cases
 
@@ -160,7 +160,7 @@ To understand *Who* you need to know not just the roles but also people’s char
 You need to understand the pre-existing knowledge people bring to the tool so you provide an appropriate experience to them, for example by including both introductory steps for beginners and short cuts for more experienced people.
 
 Activities to help you do that include adding to the personas or archetypes you have already developed, such as different types of persona including learner personas.
-There is a persona [worked example here in this repository](Technique-Personas-and-Archetypes.md).
+There is a persona [worked example here in this repository](../How-To/Activities/Persona-Building.md).
 
 You can also:
 -	Add to your Persona design, including [different types of persona](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them);
@@ -173,7 +173,7 @@ You can also:
 
 ### Quality Attributes
 
-We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with persona development.**
+We have tabulated the [Quality in Use and Product Quality Attributes](../How-To/QualityAttributes/About-Quality-Attributes-Folder.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with persona development.**
 
 </details>
 
