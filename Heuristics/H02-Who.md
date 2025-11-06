@@ -134,8 +134,6 @@ Another activity you might find useful to help you understand *Who* include:
 
 The CATWOE model from Soft Systems Methodology shows different stakeholders for a change, including beneficiaries and victims; adding, changing or removing a tool is a change. **(TBD: add link to CATWOE diagram: issue #4)** 
 
-We have tabulated the [Quality in Use and Product Quality Attributes](../How-To/Quality-Attributes/Understanding-Quality-Attributes.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with persona development.**
-
 However you map the "Who?" enrich your answer by using the rest of the heuristics to add details. 
 
 
@@ -148,7 +146,7 @@ However you map the "Who?" enrich your answer by using the rest of the heuristic
 
 Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes Folder](../How-To/QualityAttributes/About-Quality-Attributes-Folder.md)
 
-
+We have tabulated the attributes in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross-reference between the heuristics and the quality attributes. **These may help with persona development.**
 
 
 </details>
