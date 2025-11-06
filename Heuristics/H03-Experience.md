@@ -3,7 +3,9 @@
 
 [◄ Go back to README](../README.md)
 
-Theme Who? and Keyword Experience?
+Theme Who? 
+
+Keyword Experience?
 
 Question: What previous experiences do people bring to this tool?
 
