@@ -146,7 +146,7 @@ However you map the "Who?" enrich your answer by using the rest of the heuristic
 - Quality in Use Attributes: Satisfaction
 - Product Quality Attributes: User goals, Appropriateness
 
-Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes Folder](..How-To/QualityAttribute/About-Quality-Attributes-Folder.md)
+Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes Folder](..How-To/QualityAttributes/About-Quality-Attributes-Folder.md)
 
 
 
