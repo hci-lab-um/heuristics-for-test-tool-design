@@ -11,7 +11,7 @@ This page links to tables of heuristics and attributes, and to an activity page:
 - [Table of Heuristics with Quality in Use and Product Attributes Associated](Table-Heuristics-to-QiU-Attributes.md)
 - [Table of Quality in Use Attributes with Heuristics Associated](Table-QiU-Attributes-to-Heuristics.md)   
 - [Table of Product Qualities with Heuristics Associated](Table-Product-Attributes-and-heuristics.md)   
-- [Activity to Build Quality Attribute Pyramids and Radar Diagrams to get to the Desired UX for Different Personas](../How-To/Activities/Building-Attribute-Pyramids.md)
+- [Activity to Build Quality Attribute Pyramids and Radar Diagrams to get to the Desired UX for Different Personas](../../How-To/Activities/Building-Attribute-Pyramids.md)
 
 <a name="WhatareQA1"></a>    [Back to Top](#TopofPage)
 
@@ -95,7 +95,7 @@ The heuristics have been evaluated in reviews with test, UX and accessibility ex
 
 <details close> <summary> Click here for an activity to help you work with attributes </summary>
 
-The quality attributes information can be used with the heuristics to understand which product attributes are required in order to deliver quality in use for particular personas, and how to do this is described in an [Activity to Build Quality Attribute Pyramids and Radar Diagrams to get to the Desired UX for Different Personas](../How-To/Activities/Building-Attribute-Pyramids.md)
+The quality attributes information can be used with the heuristics to understand which product attributes are required in order to deliver quality in use for particular personas, and how to do this is described in an [Activity to Build Quality Attribute Pyramids and Radar Diagrams to get to the Desired UX for Different Personas](../../How-To/Activities/Building-Attribute-Pyramids.md)
 
 </details>
 
