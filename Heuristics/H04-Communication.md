@@ -178,7 +178,9 @@ To help you with these activities here are links to some external sites with "ho
 - Product Quality Attributes: Learnability, Accessibility, Recognizability
 
 
-We have tabulated the [Quality in Use and Product Quality Attributes](add link TBD) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with persona development.**
+Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes Folder](../How-To/QualityAttributes/About-Quality-Attributes-Folder.md)
+
+We have tabulated the attributes in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross-reference between the heuristics and the quality attributes. **These may help with persona development.**
 
 </details>
 
