@@ -140,13 +140,13 @@ However you map the "Who?" enrich your answer by using the rest of the heuristic
 
 
 
-  Activities are described in the [Activities folder](..How-To/Activities/About-Activities-Folder.md).
+  Activities are described in the [Activities folder](../How-To/Activities/About-Activities-Folder.md).
 
 ### Quality Attributes
 - Quality in Use Attributes: Satisfaction
 - Product Quality Attributes: User goals, Appropriateness
 
-Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes Folder](..How-To/QualityAttributes/About-Quality-Attributes-Folder.md)
+Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes Folder](../How-To/QualityAttributes/About-Quality-Attributes-Folder.md)
 
 
 
