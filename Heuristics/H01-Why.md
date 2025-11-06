@@ -38,7 +38,7 @@ H01 Why? and H02 Who? are closely allied: different stakeholders may have differ
 
 The research showed that sometimes we forget to ask "why?" a tool is needed. 
 
-Examining the goals we want to achieve and the problems we want to ovvercome help understand whether a tool will help, or not.
+Examining the goals we want to achieve and the problems we want to overcome helps us understand whether a tool will help, or not.
 
 If you've embarked on designing, building, or choosing a new tool to help support testing... 
 Think about:
@@ -108,7 +108,7 @@ Why else?
   <summary>Click for evidence, case studies, usage cases and quotes from the research for this heuristic
   </summary> 
 
-  - Research Point: In the research leading to the design of these heuristics, we found there are often conflicting goals and expectations for the tools, and different perceptions of what problems needed resolving to enable improvement in working practices. 
+  - Research Point: In the research leading to the design of these heuristics, we found there are often conflicting goals and expectations for the tools, and different perceptions of what problems need resolving to enable improvement in working practices. 
   - Conflicting or unclear goals mean tool acquisition may be done in a short-term mindset. 
   - In some studies, tools were not the solution to the problem the participant was trying to address.
 
@@ -118,7 +118,7 @@ In one usage, the heuristics started to be introduced late and the participant i
 
 *'In later stages, however, this question may need to be adapted. Once discussions shift toward solutions, it can be challenging to steer back to the broader "why." Different personas appear at different stages with a unique perspective on the purpose of the tool. For instance, the buyer persona’s "why" may differ significantly from that of the tool's end users. To fully understand why the tool is needed, it’s essential to ask about challenges and goals from multiple stakeholders.'*
 
-In this scenario, the participant decided to go with the Why? and Which tool? decisions as they were in place, and use the heuristics to guide their own work in planning future workshops.
+In this scenario, the participant decided to go with the `Why?' and `Which tool?' decisions as they were in place, and use the heuristics to guide their own work in planning future workshops.
 
 
 ### Case studies examples
@@ -149,18 +149,18 @@ TBD add a link to case study 1 summary
 
 Activities to help you understand goals include:
 
-- [SWOT Analysis](/How-To/Activities/SWOT-Analysis.md) 
-- [Gap Analysis](/How-To/Activities/Gap-Analysis.md)
-- [Contextual Inquiry](/How-To/Activities/Contextual-Inquiry.md)
-- [Building a Business Case and Calculating Return on Investment](/How-To/Activities/Business-cases.md)
+- [SWOT Analysis](../How-To/Activities/SWOT-Analysis.md) 
+- [Gap Analysis](../How-To/Activities/Gap-Analysis.md)
+- [Contextual Inquiry](../How-To/Activities/Contextual-Inquiry.md)
+- [Building a Business Case and Calculating Return on Investment](../How-To/Activities/Business-cases.md)
 
-  Activities are described in the [Activities folder](/How-To/Activities/About-Activities-Folder.md).
+  Activities are described in the [Activities folder](../How-To/Activities/About-Activities-Folder.md).
 
 ### Quality Attributes
 - Quality in Use Attributes: Freedom from Risk
 - Product Quality Attributes: User goals, Appropriateness
 
-Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes Folder](/How-To/QualityAttributes/About-Quality-Attributes-Folder.md)
+Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes Folder](../How-To/QualityAttributes/About-Quality-Attributes-Folder.md)
 
 
 </details>
