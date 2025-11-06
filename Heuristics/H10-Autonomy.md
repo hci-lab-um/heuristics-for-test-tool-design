@@ -155,7 +155,9 @@ There are various ways of mapping leadership, management and followship styles, 
 - Quality in Use Attributes: Context coverage, Flexibility, Satisfaction
 - Product Quality Attributes: Operability, Accessibility, Maintainability, Security
 
-We have tabulated the [Quality in Use and Product Quality Attributes](add link TBD) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. 
+Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes Folder](../How-To/QualityAttributes/About-Quality-Attributes-Folder.md)
+
+We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with context development. You may need to revisit your personas to strengthen them with localization points. Design a way for people to find the tool and its supporting training materials.**
 
 </details>
 
