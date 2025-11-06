@@ -1,11 +1,7 @@
 
-
-
 # Heuristic H10 Autonomy?
 
 [◄ Go back to README](../README.md)
-
-
 
 ## Navigation hint (where you are in idea-t)
 
@@ -33,8 +29,6 @@ Think about:
 - How teams are organized;
 - Level of confidence that teams have in their process. This might include maturity, assurance, experience level, support to grow experiences/skills.
 
-
-
 </details>
 
 <details close>
@@ -49,7 +43,7 @@ Relate this back to [H09](H09-What-risks-are-associated-with-those-workflows.md)
 
 <details close>
   
-  <summary>Click for sub questions and alternative questions
+  <summary>Click for sub-questions and alternative questions
   </summary> 
 
 ### Sub questions and alternative questions
@@ -64,8 +58,8 @@ Key questions to ask yourself:
 - What support you can give via the tool to increase confidence?
 
 
-The Australian Leadeship Foundation suggest a nine-cell matrix of leader's authority versus team autonomy levels. This gives a pattern for what control over workflows teams have. Where leaders have high authority and team low autonomy, workflows are more likely to be mandated. Where teams have more autonomy they may have more scope for tailoring their workflows. 
-- High authority, low autonomy - comtrollling leadership
+The Australian Leadership Foundation suggest a nine-cell matrix of leader's authority versus team autonomy levels. This gives a pattern for what control over workflows teams have. Where leaders have high authority and team low autonomy, workflows are more likely to be mandated. Where teams have more autonomy they may have more scope for tailoring their workflows. 
+- High authority, low autonomy - controlling leadership
 - Medium authority, low autonomy - directing leadership
 - Low authority, low autonomy - advising leadership
 - High authority, medium autonomy - co-ordinating leadership
@@ -75,9 +69,11 @@ The Australian Leadeship Foundation suggest a nine-cell matrix of leader's autho
 - Medium authority, high autonomy - empowering leadership
 - Low authority, high autonomy - participating leadership
 
-<details close><summary>click for diagram of authority versus autonomy matrix</summary>
+</details>
+
+<details close><summary>Click for diagram of authority versus autonomy matrix</summary>
    
-![Matrix showing authority versus autonomy - content as bullet list in text][autonomy](autonomyversusauthority.jpg)
+![Matrix showing authority versus autonomy - content as bullet list in text][autonomy](../Figures/autonomyversusauthority.jpg)
 
 [autonomy]: autonomyversusauthority.jpg
 
