@@ -7,7 +7,7 @@
 
 The purpose of this page is to help you prioritize which quality attributes are important for your tool, depending on your answers to the different heuristics. This is based on evidence in the research data. You can use the quotes and the data to help you build your requirements - in particular to strengthen your context description and personas.
 
-This pages links to tables of heuristics and attributes, and to an activity page:
+This page links to tables of heuristics and attributes, and to an activity page:
 - [Table of Heuristics with Quality in Use and Product Attributes Associated](Table-Heuristics-to-QiU-Attributes.md)
 - [Table of Quality in Use Attributes with Heuristics Associated](Table-QiU-Attributes-to-Heuristics.md)   
 - [Table of Product Qualities with Heuristics Associated](Table-Product-Attributes-and-heuristics.md)   
@@ -23,7 +23,7 @@ Others are technical or Product attributes which are built into the product and 
 
  <a name="QARD1"></a>   
 ### How the idea-t heuristics relate to the attributes
-<details close><summary>Click for an explanation ofhow the heuristics relate to the attributes </summary
+<details close><summary>Click for an explanation of how the heuristics relate to the attributes </summary
 
 The idea-t heuristics are based on research data, which included data about which quality in use and product attrbiutes are most important to testers when considering their test tools. These tables explain the attrbutes, and link the attrbutes to the heuristics>                                                                                                
  
@@ -46,9 +46,9 @@ QiU is also supported by all the technical attributes, such as maintainability, 
 QiU contributes to UX, and design should address trust, credibility, flow through tasks and the usefulness of the product. 
 All of this, influenced by past experiences, mantal models and personal circumstances leads to the lived experience, and gives rise to emotions. 
 
-![Flowchart showing the relationship between UI design, usability, quality in use, UX and the lived experience. ][ui-lxflow](UItoLX.jpg)
+![Flowchart showing the relationship between UI design, usability, quality in use, UX and the lived experience. ](../Figures/UItoLX.jpg)
 
-[ui-lxflow]: UItoLX.jpg
+
 
 </details>
  
@@ -62,29 +62,29 @@ What makes a tool successful is definitely not just its functionality. Here’s 
 - 98% of the participants mentioned usability and quality in use of the tools as a concern, issue, or necessity. Over 40% of the comments were about usability. <br> *``I first had to define the fields (name, data type, etc.) Then somewhere else in the admin UI, I had to configure where this field would appear on the test case form for the project. Then somewhere else again in the admin UI, I had to define the set of possible values for the dropdown fields I’d added. [. . . ] infuriating (and requires a re-learn [of] this ridiculousness every few months when I get such admin requests).”*
 - 91% of the participants mentioned other attributes including functionality, making up 34% of the comments. <br> *“every time I have to deal with a new tool, it’s the matter of installation that is the most difficult.''*
 
-Table  TBD link to file with table lists the QiU attributes with a comment for each on sub attributes and some questions to ask yourself when designing the tool.
-
 Usability is a key contributor to QiU, and is multi-faceted. Breaking down the comments and concerns on usability we found that operability is the most important usability factor for our participants, followed by learnability, and being supported to meet their goals. 
 Other attributes appeared less often. That doesn't make them less important - it just means that for our participants they are not currently their biggest concern.
 The other attributes were mentioned often in the context of a problem that adversely affecting the overall user experience. 
-
-In the table TBD add link to file with table, the attributes are listed in order of frequency measured by how many people mentioned them, and how often.
-
+In the tables of attributes and heuristics, the attributes are listed in order of frequency measured by how many people mentioned them, and how often.  
 Notice how low in the list functionality comes; people don't want more functionality; they want the overall experience to be better for the functionality supplied. 
 Similarly, user interface aesthetics were mainly mentioned as an irritation sometimes disguising what became a poor overall experience.
 
+- [Table of Heuristics with Quality in Use and Product Attributes Associated](Table-Heuristics-to-QiU-Attributes.md)
+- [Table of Quality in Use Attributes with Heuristics Associated](Table-QiU-Attributes-and-Heuristics.md)   
+- [Table of Product Qualities with Heuristics Associated](Table-Product-Attributes-and-heuristics.md)  
+
 <details close>
-<summary>How the research reveal the figures?</summary>
+<summary>How the research revealed the figures</summary>
 
 The research to find these figures included several rounds of data collection and analysis, shown in the flowchart below.
 Data was collected in interviews, workshops, and surveys with test practitioners. 
-The data was analysed using a variety of qualitative and quantitative methods, and re-analysed by a second pair of researchers to check the results matched.
-The analysis results were synthesised into a number of outputs, including this repository of heuristics. 
+The data was analysed using a variety of qualitative and quantitative methods, and re-analysed by a second pair of researchers to check that the results matched.
+The analysis results were synthesised into several outputs, including this repository of heuristics. 
 The heuristics have been evaluated in reviews with test, UX and accessibility experts.
 
-![Flowchart showing the research activities to reach the figures in the tables. ][researchflow](r-flow.jpg)
+![Flowchart showing the research activities to reach the figures in the tables. ](,,/Figures/r-flow.jpg)
 
-[researchflow]: r-flow.jpg
+
 
 </details>
 
@@ -95,7 +95,7 @@ The heuristics have been evaluated in reviews with test, UX and accessibility ex
 
 <details close> <summary> Click here for an activity to help you work with attributes </summary>
 
-The quality attributes information can be used with the heuristics to understand which product attributes are required into order to deliver quality in use for particular personas, and how to do this is decribed in an [Activity to Build Quality Attribute Pyramids and Radar Diagrams to get to the Desired UX for Different Personas](../How-To/Activities/Building-Attribute-Pyramids.md)
+The quality attributes information can be used with the heuristics to understand which product attributes are required in order to deliver quality in use for particular personas, and how to do this is described in an [Activity to Build Quality Attribute Pyramids and Radar Diagrams to get to the Desired UX for Different Personas](../How-To/Activities/Building-Attribute-Pyramids.md)
 
 </details>
 
