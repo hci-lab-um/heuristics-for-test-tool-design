@@ -82,7 +82,7 @@ The data was analysed using a variety of qualitative and quantitative methods, a
 The analysis results were synthesised into several outputs, including this repository of heuristics. 
 The heuristics have been evaluated in reviews with test, UX and accessibility experts.
 
-![Flowchart showing the research activities to reach the figures in the tables. ](,,/Figures/r-flow.jpg)
+![Flowchart showing the research activities to reach the figures in the tables. ](../../Figures/r-flow.jpg)
 
 
 
