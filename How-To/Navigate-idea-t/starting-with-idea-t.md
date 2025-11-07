@@ -1,5 +1,5 @@
 <a name="TopofPage"></a>
-# How to use the heuristics
+# How to use idea-t and the heuristics
 [◄ Go back](README.md)
 
 This section tells you about different ways to use the heuristics in different situations.
@@ -11,22 +11,24 @@ We recommend you re-use the heuristics at intervals, perhaps have a quick discus
 
   You might want to time box how long you spend on each theme, explore them, and then decide whether to allow more time to work more deeply on discovery activities. One person who [used a cut-down version of the heuristics as a simple checklist for part of a workshop](https://huddle.eurostarsoftwaretesting.com/ladybug-open-source-project-kick-off/) said *"They just help you talk about things."* You can keep it as simple as that!
 
-You might want to adopt them as an agenda for a planning meeting, or as a checklist to aid fast insights, to help you decide which heuristics you want to use for a deep dive. Timebox that activity. 
+You might want to adopt them as an agenda for a planning meeting, or as a checklist to aid fast insights, to help you decide which heuristics you want to use for a deep dive. Timebox that activity. Materials in the [Downloads folder](../../Downloads/About-Downloads-Folder.md) and the [QuickStart](QuickStart.md) will help you.
 
 </details>
 
 [Introducing the heuristics into an organisation](introducing-the-heuristics.md) may require a little planning; you need to build trust through experimenting with them.
 
+You might find the best way to introduce them is to use the heuristics as a meeting agenda when discussing a tool or automation suite, or by using a workshop to start - materials for these are in the [Downloads folder](../../Downloads/About-Downloads-Folder.md)
+
 <details close>
 <summary>Tailoring hints </summary>
 
 Don't be limited by the questions or the activities list - you won't have to do them all, and you may have preferred alternatives.
-You can add to them, tailor them, combine them to suit your context. If your context changes, go back to the original 12 just to re-check your tailoring.
+You can add to them, tailor them, or combine them to suit your context. If your context changes, go back to the original 12 just to re-check your tailoring.
 
 You can make your organization a tailored heuristics checklist based on these heuristics and the sub-questions under each heuristic - we've found that depending on context sometimes people have extra subquestions and want to split one main heuristics into two, or that they feel they have a good understanding in a particular area and want to combine heuristics. 
 
 Check the research points and explanations first - for example one case study participant wanted to combine **H04 Communication** with **H06 Learning preferences** but the research data indicates that communication preferences changed when people were learning new things, for example from paired to solo or vice versa, and from exploratory to guided or vice versa, we recommend keeping them separate.
-If you do tailor, we recommend you come back to the orginal list and review your choices periodically, to make sure you are still on track.
+If you do tailor, we recommend you come back to the original list and review your choices periodically, to make sure you are still on track.
 
 In another case study, the heuristics H07 and H11 were combined: in that specific context asking **H07 Where?** dictated which environment was to be used, and asking **H11 When?** implied which test stage, which linked to a specific environment. In other case studies, these two questions were clearly different and needed to be answered separately.
 
@@ -132,7 +134,7 @@ Each Heuristic has a page with an overview explanation of the heuristic, the res
 
 <details close> <summary>Maturity</summary>
   
-We found in the Case Studies that if an organization is mature in its appraoch to UX that some of the heuristics are embedded in how people think about the design of tools. In this case you might find it useful to concentrate on the ``else'' variants of the subquestions to challenge preconceptions: Why else? Who else? Where else? and so on. Additionally you will find you can quickly assess which of the heuristics will add most value to your discussion, and then deep dive into those. 
+We found in the Case Studies that if an organization is mature in its approach to UX that some of the heuristics are embedded in how people think about the design of tools. In this case you might find it useful to concentrate on the ``else'' variants of the subquestions to challenge preconceptions: Why else? Who else? Where else? and so on. Additionally you will find you can quickly assess which of the heuristics will add most value to your discussion, and then deep dive into those. 
 
 </details>
 
