@@ -7,9 +7,8 @@ Welcome to idea-t v2, a framework of 12 heuristics, with supporting information 
 
 <details> <summary> Click here to see an idea-t schematic </summary>
 
-TBD add alt text explanation
  
-![The idea-t framework schematic][Schematic1](/Figures/readmepage-schematic1.jpg) 
+![The idea-t framework schematic showing the three themes (Why? Who? and Context?), the keywords, and the heuristics within the themes, and how those are supported by explanations, activities, navigation hints and evidence. These are all linked to from the text on this page.][Schematic1](/Figures/readmepage-schematic1.jpg) 
 
 [Schematic1]:/Figures/readmepage-schematic1.jpg
 
@@ -22,35 +21,43 @@ Make a plan, then deep dive, then make a decision.
 
 <details> <summary> Click here to see the navigation flow through idea-t used in this page </summary>
 
-The flow chart shows the route through idea-t suggested on this page: A start point, a dive into idea-t, and a decision point. You have three options for starting: (1) if this is your first use of idea-t or you want a recap; (2) using a fast paths; or (3) making a plan for how you will use idea-t. Then you can use idea-t, deep diving as much as you need into the themes, keywords, heuristics and activities, and using the case studies, usage examples, and other resources to help you. Then you wrap up by making a decision.  This README provides links to pages with further information, and downloads of resources to use.
+The flow chart shows the route through idea-t suggested on this page: A start point, a dive into idea-t, and a decision point. You have three options for starting: (1) if this is your first use of idea-t or you want a recap; (2) using a fast path; or (3) making a detailed plan for how you will use idea-t. Then you can use idea-t, deep diving as much as you need into the themes, keywords, heuristics and activities, and using the case studies, usage examples, and other resources to help you. Then you wrap up by making a decision.  This README provides links to pages with further information, and downloads of resources to use.
 
   
-![Navigating through idea-t][Navigating1](/Figures/readmepage-navigation-flow.jpg) 
+![Navigating through idea-t: the flowchart shows three routes into the heuristics: first-time/reminders path, a fast-path, and making a plan for a deep dive. These are all routes into using the heuristics, which result in a decision point. Links to the routes are below in the text.][Navigating1](/Figures/readmepage-navigation-flow.jpg) 
 
 [Navigating1]:/Figures/readmepage-navigation-flow.jpg
 
 </details>
 
+## (1) First use / recap
 <details><summary>Click here for a summary for first use / recap / planning your use of idea-t </summary>
 
-The idea-t framework has 12 heuristics in 3 themes, together with expanations, supporting activities, and resources. It is based on research in industry about testers' experiences with their tools, and is intended to help you think about factors that affect the design and attributes of tools to support testing.  The framework have been built and evaluated iteratively with input from industry practitioners and experts.  
+The idea-t framework has 12 heuristics in 3 themes, together with explanations, supporting activities, and resources. It is based on research in industry about testers' experiences with their tools, and is intended to help you think about factors that affect the design and attributes of tools to support testing.  The framework has been built and evaluated iteratively with input from industry practitioners and experts.  
 
 The themes are Why?, Who? and Context?  
-Here is a quick introduction to the 12 heuristics:   [◄ To Quick Start page](./How-To/Navigate-idea-t/QuickStart.md) with a brief summary of each of the heuristics, with links to more information.
-
-In the Downloads you will find one-page copies of the heuristics with brief notes and mind maps skeletons, along with other resources.
 
 In the case studies during the research, people often started their use of idea-t by a one-hour planning session using a list of the heuristics, where they briefly discussed each heuristic, and decided who to involve in discussing the idea-t heuristics, and how long to take. The downloads include mind map skeletons and agendas that can aid this planning. 
 
-There is also a workshop using a mind map which can help you work with a group to use the heuristics. The workshop is designed to take 99 minutes, and was first run at TestBash Brighton in October 2025 TBD add link to workshop materials TBD
+There is also a [workshop using a mind map](./Downloads/TestBash-2025-Materials/AboutTestBashWorkshop.md) which can help you work with a group to use the heuristics. The workshop is designed to take 99 minutes, and was first run at TestBash Brighton in October 2025.
+
+The [Navigation folder](./How-To/Navigate-idea-t/About-Navigating-idea-t.md) includes information about introducing idea-t and example routes through the heuristics.
  
   </details>
 
+## (2) Fast path into idea-t and the heuristics 
+
+<details close><summary>Click here for Fast Path information</summary>
  
+There is a quick introduction to the 12 heuristics on the [◄ Quick Start page](./How-To/Navigate-idea-t/QuickStart.md) with a brief summary of each of the heuristics, with links to more information. 
+There are downloadable lists of the heuristics in the [Downloads folder](./Downloads/About-Downloads-Folder.md).  
+In the Downloads you will find one-page copies of the heuristics with brief notes and mind maps skeletons, along with other resources.
 
-<!--  ## Deep dive into idea-t framework --> 
+</details>
 
-<details><summary><h2>Deep dive into idea-t framework: </h2> Click here to deep dive into the framework </summary>
+## (3) Planning a deep dive into idea-t framework
+
+<details><summary>Click here to start a deep dive into the framework </summary>
   
  <details><summary><h3>Themes and Keywords: </h3> Click here to see idea-t themes and keywords</summary>
 
@@ -75,7 +82,7 @@ There is also a workshop using a mind map which can help you work with a group t
 
 The three themes cover everything you need to think about when designing or choosing a test tool, but they don't provide enough information to prompt thought.  
 The idea-t framework has 12 heuristic questions intended to help you think about the tool or automation you are proposing. 
-They have been distilled down from over 150 heuristics identified during the research, with topics that were frequently forgoten or problematic areas given their own heuristic under the the themes.  
+They have been distilled down from over 150 heuristics identified during the research, with topics that were frequently forgoten or problematic areas given their own heuristic under the three themes.  
 Each heuristic has a longer description which includes the subquestions and explanations that cover the areas identified in the research.
 Each heuristic's description also has links to activities that help you answer the questions, examples from the research, and information about which quality attributes are particularly relevant to the heuristic.
 
