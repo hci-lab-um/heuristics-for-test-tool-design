@@ -17,6 +17,10 @@ These include:
 **Workshop Materials**
 - The [materials for the Workshop given at TestBash](../Downloads/TestBash-2025-Materials/AboutTestBashWorkshop.md) in October 2025 are available in a folder TestBash-2025-Materials, within this Downloads folder, and includes the PowerPoint, timetable, case studies, A3 poster mindmap skeleton, for you to download, edit and use as you wish. 
 
+**Poster (v1.7)**
+
+A jpg `poster' of idea-t v1.7 can be downloaded from here [poster v1.7](../../Figures/poster.jpg)
+
 ## Navigation
 
 [◄ Go back to README](../README.md)
