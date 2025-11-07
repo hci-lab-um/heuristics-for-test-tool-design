@@ -2,7 +2,7 @@
 
 This heuristics folder contains a document for each heuristic, with explanations, additional questions, and pointers to activities to help you answer the heuristic questions. Links are listed below to each heuristic.
 
-If you just want a list of the heuristics with brief explanations, or a mindmap, instead look in the [Downloads Folder](About-Downloads-Folder.md)
+If you just want a list of the heuristics with brief explanations, see the [Quick Start](How-To/Navigate-idea-t/QuickStart.md), or a for a list of the heuristics on a pdf or Word document, a mindmap, or the heuristics as a meeting agenda, instead look in the [Downloads Folder](About-Downloads-Folder.md), where you can also find the materials for a 99 minutes workshop to start engaging with the heuristics.
 
 ## Navigation
 
