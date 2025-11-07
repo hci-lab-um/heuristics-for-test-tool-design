@@ -15,7 +15,7 @@ These include:
 - [idea-t mindmap starter kit as a bulleted list in Word document](idea-t-mindmap-bullet-list.docx)
 
 **Workshop Materials**
-- The [materials for the Workshop given at TestBash](../TestBash-2025-Materials/AboutTestBashWorkshop.md) in October 2025 are available in a folder TestBash-2025-Materials, within this Downloads folder, and includes the PowerPoint, timetable, case studies, A3 poster mindmap skeleton, for you to download, edit and use as you wish. 
+- The [materials for the Workshop given at TestBash](../Downloads/TestBash-2025-Materials/AboutTestBashWorkshop.md) in October 2025 are available in a folder TestBash-2025-Materials, within this Downloads folder, and includes the PowerPoint, timetable, case studies, A3 poster mindmap skeleton, for you to download, edit and use as you wish. 
 
 ## Navigation
 
