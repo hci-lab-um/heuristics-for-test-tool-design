@@ -69,7 +69,7 @@ In the Downloads you will find one-page copies of the heuristics with brief note
  These three themes are expanded in the 12 heuristics, each of which has a keyword.  
  The heuristics are grouped by theme.
 
-[◄ Go to Heuristic H02 Why?](./Heuristics/H02-Why.md) to start examining the "Why?" theme.  Keywords are Why? Why not? and Why Else?
+[◄ Go to Heuristic H02 Why?](./Heuristics/H01-Why.md) to start examining the "Why?" theme.  Keywords are Why? Why not? and Why Else?
 
 [◄ Go to Heuristic H02 Who?](./Heuristics/H02-Who.md) to start examining the "Who?" theme.  Keywords are Who? Experience? Communication? Learning goals? Learning preferences? Each of those also has a "not" and an "else" version.
 
@@ -121,71 +121,49 @@ Each heuristic's description also has links to activities that help you answer t
 
   TBD - add the case studies & usages to the repository and add links to the case studies
 
-  sort out a number system useful for people using the repository rather than one that fits the research write up...
+  TBD sort out a number system useful for people using the repository rather than one that fits the research write up...
 
-  Case Study 1 Asssessing whether to purchase a vendor tool upgrade
+  - Case Study 1 Assessing whether to purchase a vendor tool upgrade
   
-  Case Study 2 Assessing in-house automation suites and identifying areas for change
+  - Case Study 2 Assessing in-house automation suites and identifying areas for change
   
-  Case Study 3 Tool builders performing a design review of a new feature for the tool
+  - Case Study 3 Tool builders performing a design review of a new feature for the tool
   
-  Case Study 4 Tooling consultant planning a customer engagement
+  - Case Study 4 Tooling consultant planning a customer engagement
   
-  Case Study 5 Deciding a tooling strategy
+  - Case Study 5 Deciding a tooling strategy
   
-  Case Study 6 Retrospective on tool user issues
+  - Case Study 6 Retrospective on tool user issues
 
-  Usage cases - choose which ones and add
+  - Usage cases - choose which ones and add
 
  </details>
   
   ## How to Use idea-t and the heuristics - Navigation, Activities, Downloads
+<details><summary>Click here for links and information about navigation, activities and downloads</summary>
+ The ["How-To" directory](./How-To/About-How-To-Folder.md) contains information and downloads to help you with how to use idea-t, including navigation aids, activities, and quality attributes.
 
- The "How-To" directory contains information and downloads to help you with how to use idea-t, including navigation aids, activities, and quality attributes.
+  The [Activities folder](./How-To/About-Activities-Folder.md) contains information about activities you can do to help you answer the heuristic questions
 
-  <details><summary><h3>Navigating idea-t: </h3> Click here for idea-t navigation</summary>
-
-   words for topic
-   
-  </details>
-
-   #### Activities
-  <details><summary><h3>Activities: </h3> Click here for idea-t activities</summary>
-
-  words for topic
-
-  </details>
-
-<!--    #### Downloads  -->
-
-  
-  <details><summary> <h3> Downloads: </h3> Click here for links to downloads of idea-t heuristics lists and mindmaps </summary>
-
-  Resources to help you use idea-t; these are files downloadable from the repository page, the files do not open within the repository:
+The [Downloads folder](./How-To/About-Downloads-Folder.md) has resources to help you use idea-t; these are files downloadable from the repository page, the files do not open within the repository. THe files include:
 
   [◄ To List of Heuristics download](./Downloads/idea-t-heuristics-list-v2.docx) This is a Word document with a list of the 12 heuristics for download and printing.
 
   [◄ To xmind mind map](./Downloads/idea-t-mindmap-skeleton.xmind) This is an xmind file that holds the start of a mind map.
-  
-  [◄ To printable mind map](./Downloads/TBD) (link and file to be added - This is a downloadable poster that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
   
   [◄ To Agenda for planning meeting](./Downloads/idea-t-heuristics-meeting-agenda-v2.docx) This is a downloadable Word document with an outline agenda for an idea-t planning meeting
   
   [◄ To PDF of meeting agenda](./Downloads/idea-t-heuristics-meeting-agenda-v2.pdf) This is a downloadable PDF document with an outline agenda for an idea-t planning meeting
 
   [◄ To Workshop Materials](./Downloads/TestBash-2025-Materials/AboutTestBashWorkshop.md)  This is a downloadable set of workshop materials that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
-
+</details>
   </details>
  </details>
    </details>
  
 ## Make a decision
 
-<details><summary>Click here for resources to help you make a decision</summary>
-
-  words for topic
-
-  </details>
+Once you have worked through the heuristics and activities, use what you have discovered to decide on the most important quality attributes for the tool you are discussing, and how you can design in / evaluate those quality attributes. The quality attributes are tabulated against the heuristics in the [Quality Attributes Folder](./How-To/QualityAttributes/About-Quality-Attributes-Folder.md)
 
   </details>
 
