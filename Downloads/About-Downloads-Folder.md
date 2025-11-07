@@ -5,10 +5,10 @@ In this area of the repository you can find idea-t artefacts to download
 These include:
 
 **Fast path lists and brief information about the heuristics**:
-- [list of the 12 heuristics (pdf)](idea-t heuristics list v2.pdf)
-- [list of the 12 heuristics (docx)](idea-t heuristics list v2.docx)
-- [the heuristics as a meeting agenda (pdf)](idea-t heuristics meeting agenda v2.pdf)
-- [the heuristics as a meeting agenda (docx)](idea-t heuristics meeting agenda v2.docx)
+- [list of the 12 heuristics - pdf](idea-t heuristics list v2.pdf)
+- [list of the 12 heuristics - docx](idea-t heuristics list v2.docx)
+- [the heuristics as a meeting agenda - pdf](idea-t heuristics meeting agenda v2.pdf)
+- [the heuristics as a meeting agenda - docx](idea-t heuristics meeting agenda v2.docx)
 
 **Mindmap starter kits**:
 - [xmind mindmap starter kit](idea-t-mindmap-skeleton.xmind)
