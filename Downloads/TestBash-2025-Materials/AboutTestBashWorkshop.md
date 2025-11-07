@@ -4,3 +4,8 @@ The idea-t framework was presented at TestBash Brighton in October 2025, as a 99
 
 This folder has the workshop materials so that attendees can access the materials and use them in their work.
 
+[PowerPoint]()
+[Timetable]()
+[Case studies]()
+[A3 Mindmap poster]()
+[Mindmap as bulleted list]()
