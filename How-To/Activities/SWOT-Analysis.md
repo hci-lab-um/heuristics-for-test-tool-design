@@ -14,7 +14,7 @@
 
 ## What is a SWOT analysis?
 
-This docuement provides information about how to do a SWOT analysis.
+This document provides information about how to do a SWOT analysis.
 
 **SWOT** stands for **S**trengths **W**eaknesses **O**pportunities **T**hreats.
 
