@@ -127,3 +127,40 @@ Each Heuristic has a page with an overview explanation of the heuristic, the res
 </details>
 
 [Back to Top](#TopofPage)
+
+### UX Maturity and the Heuristics
+
+<details close> <summary>Maturity</summary>
+  
+We found in the Case Studies that if an organization is mature in its appraoch to UX that some of the heuristics are embedded in how people think about the design of tools. In this case you might find it useful to concentrate on the ``else'' variants of the subquestions to challenge preconceptions: Why else? Who else? Where else? and so on. Additionally you will find you can quickly assess which of the heuristics will add most value to your discussion, and then deep dive into those. 
+
+</details>
+
+[Back to Top](#TopofPage)
+
+### Organization Size, Team Location, and the Heuristics
+
+<details close> <summary>Organization Size</summary>
+We found in the Case Studies that if an organization is small and co-located so that person to person communication is easy that the heuristics can be used very informally, perhaps with a checklist on the wall.
+In larger organizations, or where multiple organizations are involved, or with geographical separation of team members, communications may need to be controlled more formally. Using the heuristics as an agenda for a meeting may be a useful starting point.
+
+</details>
+
+[Back to Top](#TopofPage)
+
+### Other uses for the heuristics
+
+<details close>
+<summary>Other uses</summary>
+
+Some of our case study participants discussed using the heuristics to manage discussions about tools in use or changes to tools and automation suites. The examples include:
+
+- using the heuristics during on-boarding team members to help them understand design decisions made for automation suites and tools;
+- using the heuristics during discussions with stakeholders such as customers to ensure that the requirements for the tool were clear both for the customers and for the end users of the tool;
+- using the heuristics to plan a pre-sales meeting about tooling requirements, using just **H01 Why?**, **H02 Who?**, **H08 Workflows** and **H10 Autonomy**
+
+  One participant said ``it is a way to guide the discussion and open up the discussion''
+
+  </details>
+
+[Back to Top](#TopofPage)
