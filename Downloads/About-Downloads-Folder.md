@@ -19,7 +19,7 @@ These include:
 
 **Poster (v1.7)**
 
-A jpg `poster' of idea-t v1.7 can be downloaded from here [poster v1.7](../../Figures/poster.jpg)
+A jpg `poster' of idea-t v1.7 can be downloaded from here [poster v1.7](../Figures/poster.jpg)
 
 ## Navigation
 
