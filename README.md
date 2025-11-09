@@ -3,7 +3,7 @@
 # Read Me for idea-t: a framework including 12 heuristics 
 ## influencing the design-evaluation and acquisition of tools to support testing
 
-Welcome to idea-t v2, a framework of 12 heuristics, with supporting information and activities, to help you with evaluating the design of tools to support testing. It is intended to help you with decisions, whether you build, commission, acquire or use testing tools. 
+Welcome to idea-t v2, a framework of [12 heuristics](./How-To/Navigate-idea-t/QuickStart.md), with [supporting information and activities to help you navigate and answer the heuristic questions](./How-To/About-How-To-Folder.md), to help you with evaluating the design of tools to support testing. It is intended to help you with decisions, whether you build, commission, acquire or use testing tools. 
 
 <details> <summary> Click here to see an idea-t schematic </summary>
 
@@ -11,6 +11,14 @@ Welcome to idea-t v2, a framework of 12 heuristics, with supporting information 
 ![The idea-t framework schematic showing the three themes (Why? Who? and Context?), the keywords, and the heuristics within the themes, and how those are supported by explanations, activities, navigation hints and evidence. These are all linked to from the text on this page.][Schematic1](/Figures/readmepage-schematic1.jpg) 
 
 [Schematic1]:/Figures/readmepage-schematic1.jpg
+
+The [heuristics](./Heuristics/About-Heuristics-Folder.md) are in a folder with an explanation of each one.
+There is information about how to use and answer the heuristics described in the [How-To folder](./How-To/About-How-To-Folder.md), including [activities](.How-To/Activities/About-Activities-Folder.md) along with [navigation routes](./How-To/Navigate-idea-t/About-Navigating-idea-t.md) for using the heuristics in different orders and depths depending on your context, and information about the [quality attributes](./How-To/QualityAttributes/About-Quality-Attributes.md).  
+These are linked to from each heuristic page. 
+[Downloads](./Downloads/About-Downloads-Folder.md) of lists of the heuristics, starters for mindmaps, and a workshop you can use are also available.
+
+There is also background to the [research](./About-the-research/About-the-research.md) and access to preprints of [publications](./Publications/About-Publications-Folder.md) about the research.
+
 
 </details>
 
@@ -49,7 +57,7 @@ The [Navigation folder](./How-To/Navigate-idea-t/About-Navigating-idea-t.md) inc
 
 <details close><summary>Click here for Fast Path information</summary>
  
-There is a quick introduction to the 12 heuristics on the [◄ Quick Start page](./How-To/Navigate-idea-t/QuickStart.md) with a brief summary of each of the heuristics, with links to more information. 
+There is a quick introduction to the 12 heuristics on the [Quick Start page](./How-To/Navigate-idea-t/QuickStart.md) with a brief summary of each of the heuristics, with links to more information. 
 There are downloadable lists of the heuristics in the [Downloads folder](./Downloads/About-Downloads-Folder.md).  
 In the Downloads you will find one-page copies of the heuristics with brief notes and mind maps skeletons, along with other resources.
 
@@ -69,7 +77,7 @@ In the Downloads you will find one-page copies of the heuristics with brief note
  These three themes are expanded in the 12 heuristics, each of which has a keyword.  
  The heuristics are grouped by theme.
 
-[◄ Go to Heuristic H02 Why?](./Heuristics/H01-Why.md) to start examining the "Why?" theme.  Keywords are Why? Why not? and Why Else?
+[◄ Go to Heuristic H01 Why?](./Heuristics/H01-Why.md) to start examining the "Why?" theme.  Keywords are Why? Why not? and Why Else?
 
 [◄ Go to Heuristic H02 Who?](./Heuristics/H02-Who.md) to start examining the "Who?" theme.  Keywords are Who? Experience? Communication? Learning goals? Learning preferences? Each of those also has a "not" and an "else" version.
 
