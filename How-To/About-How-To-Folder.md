@@ -8,5 +8,5 @@ This includes (will include) links to
 - [Activities](./Activities/About-Activities-Folder.md) to help you answer the heuristic questions;
 - Information about [quality attributes](./QualityAttributes/About-Quality-Attributes-Folder.md) that are associated with each heuristic;
 
-If you want working materials, meeting agendas, mindmap start kits, or a list of the heuristics as a document, you will find them in the [Downloads folder](../../Downloads/About-Downloads-Folder.md).
+If you want workshop materials, meeting agendas, mindmap start kits, or a list of the heuristics as a document, you will find them in the [Downloads folder](../Downloads/About-Downloads-Folder.md).
 
