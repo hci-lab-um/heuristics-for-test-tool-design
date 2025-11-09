@@ -4,11 +4,9 @@ This folder contains materials to help you get started with, navigate and use id
 
 This includes (will include) links to 
 
-- Navigation aids
-- Activities to help you answer the heuristics
-- Information about quality attributes
-- Workshopping materials
-- Links to Quick start material
+- [Navigation aids](/Navigate-idea-t/About-Navigating-idea-t.md) to show routes around idea-t and the heuristics, including a Quick Start page;
+- [Activities](/Activities/About-Activities-Folder.md) to help you answer the heuristic questions;
+- Information about [quality attributes](/QualityAttributes/About-Quality-Attributes.md) that are associated with each heuristic;
 
-etc..
+If you want working materials, meeting agendas, mindmap start kits, or a list of the heuristics as a document, you will find them in the [Downloads folder](../Downloads/AboutDownloads-Folder.md).
 
