@@ -1,6 +1,6 @@
 <a name="TopofPage"></a>
 # About the Research and the Researchers
-[◄ Go back](../README.md)
+[◄ Go to ReadMe](../README.md)
 
 This page is about the research behind the heuristics, information about the researchers, and also has links to videos, academic papers and other resources.
 
