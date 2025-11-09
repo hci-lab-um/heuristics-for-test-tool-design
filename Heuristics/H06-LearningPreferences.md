@@ -141,11 +141,11 @@ Some people prefer solo and group/pair learning.  People will need theory, pract
 For your personas you could ask a representative group if they prefer team or solo learning, and what mix of exploratory versus guided/theory learning they prefer, or you could provide a range of answers across your personas. 
 The [worked persona example](add link TBD) shows one way to use the heuristics to add this to your persona set for your tool.
 
-We have a [worked example of using this heuristic in persona development](TBD add link).
+We have a [worked example of using this heuristic in persona development](../How-To/Persona-Building.md).
 
 
 Other Activities: 
-- Use what you have discovered about [communication styles in H04](H04-What-comunication-needs-or-preferences-do-those-people-have.md) to inform both the media and the formats in which you supply learning materials.
+- Use what you have discovered about [communication styles in H04](H04-Communication.md) to inform both the media and the formats in which you supply learning materials.
 - If you have not worked with learning preferences, here is an article which may help you enrich your persona definition with [learning preferences](https://cultivatedmanagement.com/two-learning-styles/).
 
 
