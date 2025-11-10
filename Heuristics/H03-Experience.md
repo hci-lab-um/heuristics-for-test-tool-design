@@ -117,7 +117,7 @@ TBD
 
 <details close><summary> Research Data on Training Experiences </summary>
 
-Data collected in our surveys, workshops and interviews indicated that (1) managers did not want staff to spend time on training around tools and automation and (2) people perceived that they would not be allowed time to learn new skills around tools and automation. We also found that people's learning needs and preferences were not fullly understood by managers choosing and commisioning tools; when you think about this heuristic, also consider heuristics [H05](H05-personal-learning-goal-mastery-or-task-based.md) and [H06](H06-What-learning-preferences-do-those-people-have.md) about learning perspectives and preferences.
+Data collected in our surveys, workshops and interviews indicated that (1) managers did not want staff to spend time on training around tools and automation and (2) people perceived that they would not be allowed time to learn new skills around tools and automation. We also found that people's learning needs and preferences were not fully understood by managers choosing and commissioning tools; when you think about this heuristic, also consider heuristics [H05](H05-LearningGoals.md) and [H06](H06-LearningPreferences.md) about learning perspectives and preferences.
 
 We found that:
   
@@ -151,7 +151,7 @@ We found that:
   
 ### Activities
   
-To understand *Who* you need to know not just the roles but also people’s characteristics. Use the answers to this heuristic question to help you enrich the persona groups that you started when answering heuristic [H02](H02-Who-will-use-or-be-affected-by-this-tool.md).
+To understand *Who* you need to know not just the roles but also people’s characteristics. Use the answers to this heuristic question to help you enrich the persona groups that you started when answering heuristic [H02](H02-Who.md).
 
 You need to understand the pre-existing knowledge people bring to the tool so you provide an appropriate experience to them, for example by including both introductory steps for beginners and short cuts for more experienced people.
 
