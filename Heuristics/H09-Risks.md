@@ -145,12 +145,12 @@ In one study, the participants discussed that they are working on integrating to
   
 ### Activities
 
-To understand how to address risk appropriately in your design choices, you will need to understand the stakeholders’ attitudes to risks. Think about the stakeholders you identified in [H02](H02-Who-will-use-or-be-affected-by-this-tool.md) to consider audit, compliance, and marketing stakeholders having different viewpoints on risk, for example.
+To understand how to address risk appropriately in your design choices, you will need to understand the stakeholders’ attitudes to risks. Think about the stakeholders you identified in [H02](H02-Who.md) to consider audit, compliance, and marketing stakeholders having different viewpoints on risk, for example.
 
 Hold a Risk Workshop to identify and assess the risks. For example, you could use [Risk Storming](https://riskstorming.com/) as a workshop, or use [risk storming cards](https://www.ministryoftesting.com/testsphere/riskstorming), or [Would Heu-Risk It?](https://pejgan.se/wouldheu-riskit.html) cards.
 
 Related to risk is your stakeholders' attitude to adoption of technology. Are they early adopters who may be willing to put up with some rough edges in order to engage with new technology, or are they more mainstream and looking for a a safe, reliable option. 
-This could be linked to organizational styles you'll look at in [H10](H10-What-autonomy-of-work-styles.md) and views on agility, maturity, and other process concepts.
+This could be linked to organizational styles you'll look at in [H10](H10-Autonomy.md) and views on agility, maturity, and other process concepts.
 
 When investigating choices for a new tool, Moore's innovation curve can be a useful comparator. 
 <details close>
