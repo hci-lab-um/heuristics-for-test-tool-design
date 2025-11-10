@@ -140,7 +140,7 @@ To understand *When* the tool might be used, and other *time-related* factors, y
 
 
 Other Activities:
-- Revisit the Journey Maps and other activities from [H08](H08-What-workflows-will-the-tool-be-part-of.md) to add time factors.
+- Revisit the Journey Maps and other activities from [H08](H08-Workflows.md) to add time factors.
 - [PERT charting](https://www.smartdraw.com/pert-chart/examples/pert-chart-template/) can help us to understand workflow dependencies, whether activities can be done in parallel or must follow each other in series, where there is slack for  task to move, and where tasks are fixed on a critical path. NB: although this is a project management tool, used for planning, it is useful here as tool to understand how tasks are related to each other, and where they might be overlaps or waits between tasks. 
 
 
