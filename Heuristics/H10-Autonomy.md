@@ -36,7 +36,7 @@ Think about:
   </summary> 
 
 From case studies and reviews of the heuristics, this heuristic seems to be particularly context specific; you might find it useful to start a mindmap to help you think about leadership and autonomy in your context, across your stakeholders' contexts, and how that affects answers to the other heuristics.  
-Relate this back to [H09](H09-What-risks-are-associated-with-those-workflows.md); the domain risks may dictate the workflow, approaches, tools, and the level of autonomy people have to choose and change their workflows. In work situations with a high level of autonomy to change approaches and tools, flexibility in the tool workflows will be important. In other work places, a low level of flexibility is appropriate.
+Relate this back to [H09](H09-Risks.md); the domain risks may dictate the workflow, approaches, tools, and the level of autonomy people have to choose and change their workflows. In work situations with a high level of autonomy to change approaches and tools, flexibility in the tool workflows will be important. In other work places, a low level of flexibility is appropriate.
 
 
 </details>
@@ -144,7 +144,7 @@ To understand what styles of working the tool must support, you will need to how
 
 There are various ways of mapping leadership, management and followship styles, for example:
 - A [map of team autonomy versus organizational authority](https://leadership.org.au/) from the Australian Leadership Foundation gives two dimensions to understand work styles that may be needed. For example, if teams are working collaboratively, then a tool would need to support multiple people being assigned to a task.
-- Adding a third dimension to the map from [H09 - domain and workflow risk](H09-What-risks-are-associated-with-those-workflows.md) - could provide a rationale for how rigidly enforced or tailorable the workflows are.
+- Adding a third dimension to the map from [H09 - domain and workflow risk](H09-Risks.md) - could provide a rationale for how rigidly enforced or tailorable the workflows are.
 
 
 ### Quality Attributes
