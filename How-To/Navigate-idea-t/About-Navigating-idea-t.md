@@ -15,6 +15,16 @@ This folder and document includes:
 There are also routes through idea-t for different purposes
 - How to navigate the heuristics if you are [designing or building a tool or automation](tool-designer.md) including notes for tool vendors, teams building an open-source test tool, in-house teams building a test tool or automation suites, or if you are maintaining or making changes to a tool. You may find you need a subset, but that is very context-dependent;
 - Navigating the heuristics if you are [evaluating, choosing, acquiring, or implementing a tool, or setting a tooling strategy](choosingtool.md)
+- Almost certainly, you will need to iterate around the heuristics (click below for a flowchart that illustrates this.
+
+<details><summary>Iterative Flow around the Heuristics</summary>
+
+Generally, you would start with answering the question "Why do we need this tool?" then move on to consider the group of "Who?" questions, and finally look at the Context questions. However, information you find out from the "Who?" and "Context?" questions mean you may need to revisit "Why?", because different stakeholders you identify may have different goals in different contexts. You need to iterate between "Why?" and "Who?". The flowchart summarises this.
+
+![Flowchart showing iteration between the "Why?" "Who?" and "Context?" questions](../../Figures/interconnecting_heuristics.jpg)
+
+</details>
+  
 
 We recommend you re-use the heuristics at intervals, perhaps have a quick discussion at regular intervals to decide if you need a deep dive into any of them. 
 
