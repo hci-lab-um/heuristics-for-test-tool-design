@@ -158,9 +158,9 @@ When investigating choices for a new tool, Moore's innovation curve can be a use
 
 In one small study we asked participants to rank how innovative versus how established and well known they wanted their new tool to be. We can draw their responses on a graph overlaid on Moore's Innovation curve and find that *for this group* they are slightly more towards the early adopter side of the graph. This will be different depending on the group of personas for your tool. You could add attitude to innovation to your personas, based around the Moore's curve.
 
-![The graph shows that Moore's innovation curve moves from a small number of innovators, a larger number of early adopters, then the large mainstream group, and a small number of laggards. The bar chart overlaid on the Moore's Curve shows that for the specific group in a specific team, the curve is skewed more towards early adoption.](innovationcurve.jpg)
+![The graph shows that Moore's innovation curve moves from a small number of innovators, a larger number of early adopters, then the large mainstream group, and a small number of laggards. The bar chart overlaid on the Moore's Curve shows that for the specific group in a specific team, the curve is skewed more towards early adoption.](../Figures/innovationcurve.jpg)
 
-[innovationcurve]: innovationcurve.jpg
+
 
 
 
