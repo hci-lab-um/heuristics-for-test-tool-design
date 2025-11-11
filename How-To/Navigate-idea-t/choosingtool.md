@@ -10,13 +10,14 @@ This has two sections:
   
 You could be evaluating the tool for your own use, for your team, or for the whole organization
 
-We found during the research that people *buying* tools often forget to ask *Why* they needed the tool, and people *building* tools often forgot to ask *Who for?*
+We found during the research that people *buying* tools often forget to ask *Why* they needed the tool, and people *building* tools often forget to ask *Who for?*
 
 Start with the *Why?* question H01.
 
 If you are only evaluating the tool for yourself, use the questions to help you think about whether there are topics where you need to dig deeper. You may want the evaluation process to be quite quick - just good enough.
 
-If you are evaluating for a team, take time to think about the *Who?* and *Context?* heuristic questions, and consider that they may have different answers to H01 *``Why?''*.
+If you are evaluating for a team, especially if you are the tool purchaser but are not going to use the tool yourself, take time to think about the *Who?* and *Context?* heuristic questions, and consider that they may have different answers to H01 *``Why?''*. 
+People commissioning tools need to consider the personas who will be using the tool, and the quality in use attributes that are important to those personas; having appropriate quality in use means the tool will support the people to improve their effectiveness and efficiency as testers. We found during the research examples of testing tools that reduced efficiency and effectiveness through poor quality in use, and a misunderstanding of who would be using the tool.
 
 You will probably cover the questions in the generic order. You might not do the activities yourself, but you may want to find out if your tool supplier has those UX activities in place. 
 
