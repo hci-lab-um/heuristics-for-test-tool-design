@@ -1,109 +1,213 @@
-# idea-t: A Framework of Heuristics for Test Tool Design v1.7
-_Developed by: [Isabel Evans](mailto:isabel.evans.17@um.edu.mt) - University of Malta_
+<a name="TopofPage"></a>
 
-the idea-t framework contains 12 heuristic questions and supporting information which are intended to provoke thought and ideas when designing or choosing a test tool. 
-Elsewhere in this repository are explanations and action lists for each heuristic, plus background to the research. 
+# Read Me for idea-t: a framework including 12 heuristics 
+## influencing the design-evaluation and acquisition of tools to support testing
 
-A [quick-start / recap page](Heuristics-fast-path.md) and a downloadable [meeting agenda using the heuristics as prompts](Heuristics-list-for-quick-meeting.pdf) are available, as well as a [2-page pdf with a brief summary](Heuristics-2-page-summary-v1-1.pdf), and any of these these can be used to start a conversation before deep diving into this repository. Review all the heuristics, and then decide where you need to deep-dive. You are unlikely to use the heuristics in a linear 1-12 way; you are more likely to iterate between the heuristics, finding out more about "Why?" as you explore "Who?" and "Context?"
+Welcome to idea-t v2, a framework of [12 heuristics](./How-To/Navigate-idea-t/QuickStart.md), with [supporting information and activities to help you navigate and answer the heuristic questions](./How-To/About-How-To-Folder.md), to help you with evaluating the design of tools to support testing. It is intended to help you with decisions, whether you build, commission, acquire or use testing tools. 
 
-A summary [poster can be downloaded](poster-v2.pdf).
-Here is a thumbnail of the poster and a flowchart of the heuristics, clickable and accessible links are after the two illustrations.
+<details> <summary> Click here to see an idea-t schematic </summary>
 
-![Schematic][schematic](poster.jpg) 
+ 
+![The idea-t framework schematic showing the three themes (Why? Who? and Context?), the keywords, and the heuristics within the themes, and how those are supported by explanations, activities, navigation hints and evidence. These are all linked to from the text on this page.][Schematic1](/Figures/readmepage-schematic1.jpg) 
 
-[schematic]:poster.jpg
-
-<details><summary>Click for example iterative flow through the heuristics</summary>
-
-  ![flowchart iterating between the H01 Why?, H02-H06 Who? and H07-H12 Context? questions with feedback loops between each group][iterativeflow](interconnecting-heuristics.jpg)
-
-[iterativeflow]:interconnecting-heuristics.jpg
-
-</details>
-
-The heuristics have been developed iteratively based on research data collected 2018 to 2024, and are being evaluated in industry case studies and expert reviews. They may/will continue to change based on those case studies and reviews.
-
-## Heuristic questions
-
-<details open>
-<summary>The Heuristics and links to explanations, mini usage cases and activities to help you answer the questions:</summary>
-
-H01. [Why do we need this tool?](H01-Why-do-we-need-this-tool.md)
-
-H02. [Who will use or be affected by the tool?](H02-Who-will-use-or-be-affected-by-this-tool.md)
-
-H03. [What previous experiences do people bring to the tool?](H03-What-previous-experiences-do-people-bring-to-the-tool.md)
-
-H04. [What communication needs or preferences do people have?](H04-What-communication-needs-or-preferences-do-those-people-have.md)
-
-H05. [Is the learning goal "tool mastery" or "task completion"?](H05-personal-learning-goal-mastery-or-task-based.md)
-
-H06. [What learning preferences do people have?](H06-What-learning-preferences-do-those-people-have.md)
-
-H07. [Where will the tool be used?](H07-Where-will-the-tool-be-used.md)
-
-H08. [What workflows will the tool be part of?](H08-What-workflows-will-the-tool-be-part-of.md)
-
-H09. [What risks are associated with those workflows?](H09-What-risks-are-associated-with-those-workflows.md)
-
-H10. [What autonomy of work styles is allowed in those workflows and teams?](H10-What-autonomy-of-work-styles.md)
-
-H11. [When will the tool be used?](H11-When-will-the-tool-be-used.md)
-
-H12. [How long will the tool be used?](H12-How-long-will-the-tool-be-used.md)
+[Schematic1]:/Figures/readmepage-schematic1.jpg
 
 
 </details>
 
-<details close>
-<summary>Click for more information about how to use the heuristics</summary>
+The [heuristics](./Heuristics/About-Heuristics-Folder.md) are in a folder with an explanation of each one.
+There is information about how to use and answer the heuristics described in the [How-To folder](./How-To/About-How-To-Folder.md), including [activities](./How-To/Activities/About-Activities-Folder.md) along with [navigation routes](./How-To/Navigate-idea-t/About-Navigating-idea-t.md) for using the heuristics in different orders and depths depending on your context, and information about the [quality attributes](./How-To/QualityAttributes/About-Quality-Attributes.md).  
+These are linked to from each heuristic page. 
+[Downloads](./Downloads/About-Downloads-Folder.md) of lists of the heuristics, starters for mindmaps, and a workshop you can use are also available.
 
-These questions deliberately have multiple interpretations and a myriad of answers. They are intended to help you to think widely and come up with ideas to consider, who to involve, questions to ask. There are no right answers – by asking the questions and following the corresponding activities, you will find interpretations and answers for your context.
+There is also background to the [research](./About-the-research/About-the-research.md) and access to preprints of [publications](./Publications/About-Publications-Folder.md) about the research.
 
-**You can start to use the heuristics as an agenda for a planning meeting, or as a checklist to aid fast insights, in a tight timebox, to help you decide which heuristics you want to use for a deep dive.**
 
-Each question is linked to an explanation, with things to think about, research points and evidence from industry contributors, key questions to ask yourself, plus pointers to quality attributes to consider in your specific context. 
-The information we provide tells you *why* each heuristic is important to consider. To help you think about *how* to answer the questions, we have suggested activities, with links to external sources in case you need more information. 
-[More information on how to use the heuristics](How-to-use-the-heuristics.md).
 
-</details>
+ 
+## Start Here
 
-<details close>
-<summary>Click for Flowchart showing how to find your way around this repository</summary>
+Make a plan, then deep dive, then make a decision.
 
-![flowchart shows that from README you can jump to each heuristic's desciption with explanations and activities, and to information about the researchers, the licence, and research daa on quality attributes, then from those return to the README][flow1](h-flow1.jpg)
+<details> <summary> Click here to see the navigation flow through idea-t used in this page </summary>
 
-[flow1]: h-flow1.jpg
+The flow chart shows the route through idea-t suggested on this page: A start point, a dive into idea-t, and a decision point. You have three options for starting: (1) if this is your first use of idea-t or you want a recap; (2) using a fast path; or (3) making a detailed plan for how you will use idea-t. Then you can use idea-t, deep diving as much as you need into the themes, keywords, heuristics and activities, and using the case studies, usage examples, and other resources to help you. Then you wrap up by making a decision.  This README provides links to pages with further information, and downloads of resources to use.
 
-</details>
-
-<details close>
-  <summary>Click for information about the Research</summary>
-The heuristic questions and explanations are grounded in research data collected from surveys, workshops, interviews, and industry and academic literature in the period 2018-2023. They have been developed iteratively through a series of reviews with UX, accessibility, and testing industry experts and practitioners. This process is ongoing. 
   
-[Find out more about the research and the researcher](About-the-research-and-researcher.md).
+![Navigating through idea-t: the flowchart shows three routes into the heuristics: first-time/reminders path, a fast-path, and making a plan for a deep dive. These are all routes into using the heuristics, which result in a decision point. Links to the routes are below in the text.][Navigating1](/Figures/readmepage-navigation-flow.jpg) 
 
-[See a list of links to preprints of research papers leading to the heuristics](preprints.md)
+[Navigating1]:/Figures/readmepage-navigation-flow.jpg
 
-NOTE: both the heuristics and the underlying explanations and activities are still draft. They are being developed in an iterative process which is looking at the content and the format of the materials. Example activities and links to further information are indicative, and to be replaced later. Format and medium will change. American spellings have been adopted.
-During evaluation of the heuristics, the repository will be frozen at the start of each case study/evaluation, and then changes made based on data from the evaluations, and from previous research to enrich the contents. Starting from a simple basis, the repository will grow over time.
-
-August 2025: following the final case studies and expert reviews, suggestions and edits have been made to this V1.x repository, bringing it to v1.7. Work will start shortly on v2.0 in a separate branch.
 </details>
+
+## (1) First use / recap
+<details><summary>Click here for a summary for first use / recap / planning your use of idea-t </summary>
+
+The idea-t framework has 12 heuristics in 3 themes, together with explanations, supporting activities, and resources. It is based on research in industry about testers' experiences with their tools, and is intended to help you think about factors that affect the design and attributes of tools to support testing.  The framework has been built and evaluated iteratively with input from industry practitioners and experts.  
+
+The themes are Why?, Who? and Context?  
+
+In the case studies during the research, people often started their use of idea-t by a one-hour planning session using a list of the heuristics, where they briefly discussed each heuristic, and decided who to involve in discussing the idea-t heuristics, and how long to take. The downloads include mind map skeletons and agendas that can aid this planning. 
+
+There is also a [workshop using a mind map](./Downloads/TestBash-2025-Materials/AboutTestBashWorkshop.md) which can help you work with a group to use the heuristics. The workshop is designed to take 99 minutes, and was first run at TestBash Brighton in October 2025.
+
+The [Navigation folder](./How-To/Navigate-idea-t/About-Navigating-idea-t.md) includes information about introducing idea-t and example routes through the heuristics.
+ 
+  </details>
+
+## (2) Fast path into idea-t and the heuristics 
+
+<details close><summary>Click here for Fast Path information</summary>
+ 
+There is a quick introduction to the 12 heuristics on the [Quick Start page](./How-To/Navigate-idea-t/QuickStart.md) with a brief summary of each of the heuristics, with links to more information. 
+There are downloadable lists of the heuristics in the [Downloads folder](./Downloads/About-Downloads-Folder.md).  
+In the Downloads you will find one-page copies of the heuristics with brief notes and mind maps skeletons, along with other resources.
+
+</details>
+
+## (3) Planning a deep dive into idea-t framework
+
+<details><summary>Click here to start a deep dive into the framework </summary>
+  
+ <details><summary><h3>Themes and Keywords: </h3> Click here to see idea-t themes and keywords</summary>
+
+ The idea-t framework has three themes: Why?, Who? and Context?
+
+ In the research, we found that people designing and building tools and automation don't always ask "Who (else) will use this tool?"  
+ People acquiring or commissioning tools and automation don't always ask "Why is this needed?" 
+ We also found that the Context for using the tool or automation is not always explored.  
+ These three themes are expanded in the 12 heuristics, each of which has a keyword.  
+ The heuristics are grouped by theme.
+
+[◄ Go to Heuristic H01 Why?](./Heuristics/H01-Why.md) to start examining the "Why?" theme.  Keywords are Why? Why not? and Why Else?
+
+[◄ Go to Heuristic H02 Who?](./Heuristics/H02-Who.md) to start examining the "Who?" theme.  Keywords are Who? Experience? Communication? Learning goals? Learning preferences? Each of those also has a "not" and an "else" version.
+
+[◄ Go to Heuristic H07 Where?](./Heuristics/H07-Where.md)  to start examining the "Context?" theme. Keywords are Where?, Workflows? Risks? Autonomy? When? and How long? Each of those also has a "not" and an "else" version.
+
+  </details>
+
+
+<details><summary><h3>Heuristics Listed: </h3> Click here to see a list of the idea-t heuristics</summary>
+
+The three themes cover everything you need to think about when designing or choosing a test tool, but they don't provide enough information to prompt thought.  
+The idea-t framework has 12 heuristic questions intended to help you think about the tool or automation you are proposing. 
+They have been distilled down from over 150 heuristics identified during the research, with topics that were frequently forgoten or problematic areas given their own heuristic under the three themes.  
+Each heuristic has a longer description which includes the subquestions and explanations that cover the areas identified in the research.
+Each heuristic's description also has links to activities that help you answer the questions, examples from the research, and information about which quality attributes are particularly relevant to the heuristic.
+
+
+   [◄ To H01 Why is this tool needed?](./Heuristics/H01-Why.md) (Theme Why?)
+
+   [◄ To H02 Who will use or be affected by this tool?](./Heuristics/H02-Who.md) (Theme Who?)
+
+   [◄ To H03 Experience?](./Heuristics/H03-Experience.md)  (Theme Who?) 
+   
+   [◄ To H04 Communication?](./Heuristics/H04-Communication.md)  (Theme Who?)
+
+   [◄ To H05 Learning Goals?](./Heuristics/H05-LearningGoals.md)  (Theme Who?) 
+
+   [◄ To H06 Learning Preferences?](./Heuristics/H05-LearningPreferences.md)  (Theme Who?)
+
+   [◄ To H07 Where?](./Heuristics/H07-Where.md)  (Theme "Context?")
+
+   [◄ To H08 Workflows?](./Heuristics/H08-Workflows.md)  (Theme "Context?")
+
+   [◄ To H09 Risks?](./Heuristics/H09-Risks.md) (Theme "Context?")
+
+   [◄ To H10 Autonomy?](./Heuristics/H10-Autonomy.md) (Theme "Context?")
+
+   [◄ To H11 When?](./Heuristics/H11-When.md) (Theme "Context?")
+
+   [◄ To H12 How Long?](./Heuristics/H12-HowLong.md) (Theme "Context?")
+
+  </details>
+
+ 
+ 
+  <details><summary><h3>TBD Examples: </h3> Click here for case studies and usage examples </summary>
+
+  These are some of the case studies and usage scenarios run during the iterations to design, build and evaluate idea-t in industry settings. 
+
+  TBD - add the case studies & usages to the repository and add links to the case studies
+
+  TBD sort out a number system useful for people using the repository rather than one that fits the research write up...
+
+  - Case Study 1 Assessing whether to purchase a vendor tool upgrade
+  
+  - Case Study 2 Assessing in-house automation suites and identifying areas for change
+  
+  - Case Study 3 Tool builders performing a design review of a new feature for the tool
+  
+  - Case Study 4 Tooling consultant planning a customer engagement
+  
+  - Case Study 5 Deciding a tooling strategy
+  
+  - Case Study 6 Retrospective on tool user issues
+
+  - Usage cases - choose which ones and add
+
+ </details>
+  
+  ## How to Use idea-t and the heuristics - Navigation, Activities, Downloads
+<details><summary>Click here for links and information about navigation, activities and downloads</summary>
+ The ["How-To" directory](./How-To/About-How-To-Folder.md) contains information and downloads to help you with how to use idea-t, including navigation aids, activities, and quality attributes.
+
+  The [Activities folder](./How-To/About-Activities-Folder.md) contains information about activities you can do to help you answer the heuristic questions
+
+The [Downloads folder](./How-To/About-Downloads-Folder.md) has resources to help you use idea-t; these are files downloadable from the repository page, the files do not open within the repository. THe files include:
+
+  [◄ To List of Heuristics download](./Downloads/idea-t-heuristics-list-v2.docx) This is a Word document with a list of the 12 heuristics for download and printing.
+
+  [◄ To xmind mind map](./Downloads/idea-t-mindmap-skeleton.xmind) This is an xmind file that holds the start of a mind map.
+  
+  [◄ To Agenda for planning meeting](./Downloads/idea-t-heuristics-meeting-agenda-v2.docx) This is a downloadable Word document with an outline agenda for an idea-t planning meeting
+  
+  [◄ To PDF of meeting agenda](./Downloads/idea-t-heuristics-meeting-agenda-v2.pdf) This is a downloadable PDF document with an outline agenda for an idea-t planning meeting
+
+  [◄ To Workshop Materials](./Downloads/TestBash-2025-Materials/AboutTestBashWorkshop.md)  This is a downloadable set of workshop materials that can be used for a round table discussion / workshop for idea-t with the start of a mind map)
+</details>
+  </details>
+ </details>
+   </details>
+ 
+## Make a decision
+
+Once you have worked through the heuristics and activities, use what you have discovered to decide on the most important quality attributes for the tool you are discussing, and how you can design in / evaluate those quality attributes. The quality attributes are tabulated against the heuristics in the [Quality Attributes Folder](./How-To/QualityAttributes/About-Quality-Attributes-Folder.md)
+
+  </details>
+
+   </details>
+
+
+
+
+
+
+  
+
+  </details>
+
+## The Research
+[Find out more about the research](./About-the-research/About-the-research-and-researcher.md)
 
 ## Versions
 
 | Version          | Description                                   | Tag                                                                           | Link                                                                                |
 | ---------------- | --------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | v2 (coming soon) | Major update with new structure and filenames | `v2` (not yet live)                                                           | 
-| v1.7               | Original published heuristics                 | [`v1.7`](https://github.com/hci-lab-um/heuristics-for-test-tool-design/tree/v1.7) | [View Files](https://github.com/hci-lab-um/heuristics-for-test-tool-design/tree/v1.7) |
+| v1.7               | Original published heuristics                 | [`v1.7`](https://github.com/hci-lab-um/heuristics-for-test-tool-design/tree/v1.7) | [View Files](https://github.com/hci-lab-um/heuristics-for-test-tool-design/tree/v1.7) |  
 
-## Citation
+## Licence to use idea-t
+
+This material is [GPL-3.0 licenced](LICENSE). 
+
+## Citing idea-t
+
 If you use these heuristics please cite our work: 
 
-*Evans, I., Porter, C., & Micallef, M. (2024). Heuristics-for-test-tool-design (Version 1.7.0) [Computer software]. https://github.com/hci-lab-um/heuristics-for-test-tool-design*
+*Evans, I., Nordström, K., Porter, C., & Micallef, M. (2025). Heuristics-for-test-tool-design (Version 2.0) [Computer software]. https://github.com/hci-lab-um/heuristics-for-test-tool-design*
 
 Note: use the "Cite this repository" function for more options (e.g. bibtex).
 
-## Licence
-This material is [GPL-3.0 licenced](LICENSE). 
+[Back to Top](#TopofPage)
