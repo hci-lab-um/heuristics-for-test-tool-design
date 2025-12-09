@@ -195,8 +195,8 @@ Once you have worked through the heuristics and activities, use what you have di
 
 | Version          | Description                                   | Tag                                                                           | Link                                                                                |
 | ---------------- | --------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| v2 (coming soon) | Major update with new structure and filenames | `v2` (not yet live)                                                           | 
-| v1.7               | Original published heuristics                 | [`v1.7`](https://github.com/hci-lab-um/heuristics-for-test-tool-design/tree/v1.7) | [View Files](https://github.com/hci-lab-um/heuristics-for-test-tool-design/tree/v1.7) |  
+| v2  | Major update with new structure and filenames, now the main version | [`v2`](https://github.com/hci-lab-um/heuristics-for-test-tool-design/tree/v2.0) | [View Files](https://github.com/hci-lab-um/heuristics-for-test-tool-design/tree/v2.0)
+| v1.7               | Original published heuristics (Only make changes on the main branch) | [`v1.7`](https://github.com/hci-lab-um/heuristics-for-test-tool-design/tree/v1.7) | [View Files](https://github.com/hci-lab-um/heuristics-for-test-tool-design/tree/v1.7) |  
 
 ## Licence to use idea-t
 
