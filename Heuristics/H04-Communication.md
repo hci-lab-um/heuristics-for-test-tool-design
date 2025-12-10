@@ -43,7 +43,7 @@ Think about:
   <summary>Click for explanation of the heuristic
   </summary> 
 
-You will need to either understand the specific communication preferences of your specific users, or make generalized personas based on a communication model, for example the DISC profiles.  This is affected by people role/work persona – their behavior in work, rather than their personality. You can add this to your personas for the tool (see the [Activities Folder](TBD link to activities)).
+You will need to either understand the specific communication preferences of your specific users, or make generalized personas based on a communication model, for example the DISC profiles.  This is affected by people role/work persona – their behavior in work, rather than their personality. You can add this to your personas for the tool (see the [Activities Folder](../How-To/Activities/Persona-Building.md)).
 
 The DISC profiling method identifies communication styles in four quadrants: Dominance, Influence, Steadiness and Compliance. Each one indicates a pace of communication and how people oriented or otherwise.
 We are all a mix of these.
@@ -127,7 +127,7 @@ When will the tool be used? For one organization we spoke with, this was particu
 </details>
 
 ### Case studies examples 
-case studies TBD
+case studies TBD will be added anonymised when dissertation finalised
 
 <details close>
 <summary>Research Points and Quotes</summary>
@@ -165,7 +165,7 @@ Look at the different communication styles coming out in answer to a question ab
   
 ### Activities
 
-There is a persona [worked example here in this repository](add link TBD) including communication preferences.
+There is a persona [worked example here in this repository on building ideas for personas](../How-To/Activities/Persona-Building.md) including communication preferences.
 
 
 To help you with these activities here are links to some external sites with "how to" information: 
