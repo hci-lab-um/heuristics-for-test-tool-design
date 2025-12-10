@@ -113,7 +113,7 @@ In one case study, in a large organization, with 5000 engineers and 40 automatio
 
 
 ### Case studies examples
-TBD
+TBD Case studies to be added once dissertation finalised and case studies anonymised
 
 ### Quotes from research participants
 
