@@ -94,7 +94,7 @@ It is difficult to design tools for a wide range of people, but it is possible t
 
 ### Case studies examples
 
-TBD
+TBD (case studies will be added anonymised after the dissertation is cleared by examiners)
 
 ### Quotes from research participants
 
