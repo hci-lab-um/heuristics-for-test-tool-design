@@ -4,7 +4,7 @@
 # idea-t framework Quick Start
 # 12 heuristic questions to provoke thought and ideas when designing or choosing a tool to support testing 
 
-On each heuristic below, the "about" link on each heuristic question takes you to additional information including explanations, sub-questions, usage scenarios. The quality in use and product quality attributes are attributes that of the tool that you may need to consider, and there is information about these both linked from each heuristic's page, and also in teh Quality Attributes folder Link TBD"[Mapping Heuristics to Quality Attributes"](Qualityattributesv2.md) takes you to more information about those attributes.
+On each heuristic below, the "about" link on each heuristic question takes you to additional information including explanations, sub-questions, usage scenarios. The quality in use and product quality attributes are attributes that of the tool that you may need to consider, and there is information about these both linked from each heuristic's page, and also in the [Quality Attributes folder](../QualityAttributes/About-Quality-Attributes-Folder.md) where you can [Map Heuristics to Quality Attributes"](Qualityattributesv2.md) takes you to more information about those attributes.
 
 You might find it useful to start a list, mindmap, or postits grouping to help you. Start with the heuristic questions, add your own questions and relevant details from the explanation pages, as you think and discuss. An xmind file and a printable poster are in teh Downloads folder TBD add link
 
