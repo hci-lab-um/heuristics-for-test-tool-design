@@ -112,7 +112,7 @@ An example of simple questions to gain insights, in one small study we asked 12 
 
 
 ### Case studies examples
-TBD
+TBD  (case studies will be added anonymised after the dissertation is cleared by examiners)
 
 ### Quotes from research participants
 
