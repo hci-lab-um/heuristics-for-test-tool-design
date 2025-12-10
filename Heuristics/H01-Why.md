@@ -124,7 +124,7 @@ In this scenario, the participant decided to go with the `Why?' and `Which tool?
 ### Case studies examples
 
 TBD add a link to case study 1 summary
-
+ (case studies will be added anonymised after the dissertation is cleared by examiners)
 
 ### Quotes from research participants
 
