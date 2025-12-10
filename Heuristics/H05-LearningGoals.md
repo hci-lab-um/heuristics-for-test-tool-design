@@ -127,7 +127,7 @@ To understand *Who learns how* you need to understand their different constraint
 
 Differentiate between people’s goals for mastery of a subject, which might include mastering the theory, with their need to solve a problem right now, which is likely to be task-based.
 
-You can add these characteristics to a persona or archetype, as we show in a [worked persona example](add link TBD).
+You can add these characteristics to a persona or archetype, as we show in a [worked persona example](../How-To/Activities/Persona-Building.md).
 
 Understanding your stakeholders’ expectations for the training budget (cost and time spent) will help you understand constraints. You could [revisit stakeholders’ goals in H01](add link TBD) to understand more.
 
