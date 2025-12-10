@@ -139,7 +139,7 @@ Research Point: we found that people expressed a range of preferences for how to
 To understand *Who learns how* you need to understand their different learning preferences.  
 Some people prefer solo and group/pair learning.  People will need theory, practice, exploring, and guided learning. People may have preferences or needs for different media.
 For your personas you could ask a representative group if they prefer team or solo learning, and what mix of exploratory versus guided/theory learning they prefer, or you could provide a range of answers across your personas. 
-The [worked persona example for building ideas for personas](../How-To/Activities/Persona-Building.md) shows one way to use the heuristics to add this to your persona set for your tool.
+The [worked example for building ideas for personas](../How-To/Activities/Persona-Building.md) shows one way to use the heuristics to add learning preferences to your persona set for your tool.
 
 
 
