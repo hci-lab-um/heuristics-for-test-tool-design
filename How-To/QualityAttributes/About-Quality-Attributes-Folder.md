@@ -17,3 +17,4 @@ To use the resources in this folder, visit these links:
 - [table linking each product quality attribute to the most relevant heuristics](Table-Product-Attributes-and-Heuristics.md)
 
   
+There are activities to help you work with quality attributes in the [Activities folder](../Activities/About-Activities-Folder.md)
