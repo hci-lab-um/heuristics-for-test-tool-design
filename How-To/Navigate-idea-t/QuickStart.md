@@ -1,5 +1,5 @@
 
-[◄ Go back to README](../README.md)
+[◄ Go back to README](../../README.md)
 
 # idea-t framework Quick Start
 # 12 heuristic questions to provoke thought and ideas when designing or choosing a tool to support testing 
@@ -127,8 +127,8 @@ How long to get return on investment (ROI)? Maintainability and reliability over
 
 ## Need more information?
 
-The [READ ME](../README.md) includes links to "how to use" information, flowcharts, and examples of how people have used the heuristics.
+The [READ ME](../../README.md) includes links to "how to use" information, flowcharts, and examples of how people have used the heuristics.
 
 The [quality attributes page](../QualityAttributes/About-Quality-Attributes-Folder.md) provides explanations and evidence for each of the quality in use and product attributes identified in the research as important to testers for their tools **at the date of the research 2018-2025** and is linked to from each heuristic.
 
-[◄ Go back to README](../README.md)
+[◄ Go back to README](../../README.md)
