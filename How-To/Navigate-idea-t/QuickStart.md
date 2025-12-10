@@ -127,8 +127,8 @@ How long to get return on investment (ROI)? Maintainability and reliability over
 
 ## Need more information?
 
-TBD update link [The heuristics repository READ ME includes links to "how to use" information, flowcharts, and examples of how people have used the heuristics](https://github.com/hci-lab-um/heuristics-for-test-tool-design/blob/main/README.md)
+The [READ ME](../README.md) includes links to "how to use" information, flowcharts, and examples of how people have used the heuristics.
 
-TBD update link [The quality attributes page](Qualityattributesv2.md) provides explanations and evidence for each of the quality in use and product attributes identified in the research as important to testers for their tools **at the date of the research** and is linked to from each heuristic.
+The [quality attributes page](../QualityAttributes/About-Quality-Attributes-Folder.md) provides explanations and evidence for each of the quality in use and product attributes identified in the research as important to testers for their tools **at the date of the research 2018-2025** and is linked to from each heuristic.
 
 [◄ Go back to README](../README.md)
