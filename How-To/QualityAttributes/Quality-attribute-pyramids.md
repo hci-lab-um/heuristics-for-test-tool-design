@@ -40,6 +40,7 @@ Different personas will have different needs, and different values. The radar di
 
 The different values mean that these personas will also rate the quality in use attributes differently for this tool. The automation specialist scored efficiency and extendability most highly; they want to get into a flow in their work. The senior stakeholder may be interested in compliance, legal, and commercial attributes, so scores those more highly. The Test Manager wants certainy in teh reporting and therefore scored effectiveness higher than efficiency. The right balance of these quality in use atributes needs to be found between the personas' requirements.
 
+You can use this quality attribute pyramid method to help you enrich your [personas when you build them](../How-To/Activities/Persona-Building.md). And the quality attributes will help you specify what the personas want and need from the tool.
 
 ![Radar Diagram Showing that Different Personas Have Different Quality in Use Scores](../../Figures/rotterdamSlide28cropped.jpg)
 
