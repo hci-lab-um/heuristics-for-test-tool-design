@@ -129,7 +129,7 @@ Differentiate between people’s goals for mastery of a subject, which might inc
 
 You can add these characteristics to a persona or archetype, as we show in a [worked persona example](../How-To/Activities/Persona-Building.md).
 
-Understanding your stakeholders’ expectations for the training budget (cost and time spent) will help you understand constraints. You could [revisit stakeholders’ goals in H01](add link TBD) to understand more.
+Understanding your stakeholders’ expectations for the training budget (cost and time spent) will help you understand constraints. You could [revisit stakeholders’ goals in H01](H01-Why.md) to understand more.
 
 If you are not familiar with setting learning outcomes try this set of [learning outcomes](https://www.ctl.ox.ac.uk/effective-learning-outcomes); for your training material be clear and appropriate for different personas.
 
