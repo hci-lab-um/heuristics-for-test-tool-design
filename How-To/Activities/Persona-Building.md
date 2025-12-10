@@ -51,7 +51,7 @@ Suppose we are building a tool for a large group of people to use, and we don't 
 
 The worked example below shows one approach. To reach a set of personas for your context, you would need to build context-specific classification trees similar to these, and then build on them with user interviews or other evidence.
 
-<details><summary>Click here for a worked example of thinking about the heuristics to help plan a set of archetypes or personas</summary>
+<details><summary><h3> Click here for a worked example </h3> of thinking about the heuristics to help plan a set of archetypes or personas</summary>
 
 ### Step 1: Heuristic H04 Communication Preferences
 
