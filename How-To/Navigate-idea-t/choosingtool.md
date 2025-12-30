@@ -85,4 +85,31 @@ Additionally when setting a tooling strategy it is important to understand how t
 
 </details>
 
+## External Frameworks That May Help With Aligning The Tooling Strategy to The Organisational Strategy
+
+If you are an automation or tooling architect, you may find it beneficial to align the tool framwork you provide with the strategy framework used by your stakeholders. 
+
+<detail close><summary>Zachman Architecture Frameworks</summary>
+
+The Zachman Infrastructure Architecture Model is one example.
+
+TBD: add description of Zachman Framework.
+Add links to Activities.
+
+</details>
+
+If the automation and tooling strategy is part of a transformation in the organisation, or will cause a transformation, the Soft Systems Methodology may help you understand and manage the inpact of the transforamtion on the people in the organisation, and beyond.
+
+<detail close><summary>Soft Systems Transformation Frameworks LUMAS and CATWOE</summary>
+
+The LUMAS and CATWOE frameworks are used with soft systems thinking to model how people might react to a transformation.
+
+TBD: add description of LUMAS and CATWOE. 
+Add links to Activities.
+
+</details>
+
+
 [Back to Top](#TopofPage)
+
+
