@@ -5,23 +5,25 @@
 
 [◄ Back to About the Heuristics Page](About-Heuristics-Folder.md).
 
+## Navigation hint (where you are in idea-t)
+
 Theme Who? 
 
 Keyword Experience?
 
 Question: What previous experiences do people bring to this tool?
 
-## Navigation hint (where you are in idea-t)
+
 
 ## In brief:
 
+Think about this heuristic question to help you understand more about the people who will engage with the tool, their backgrounds, previous experiences with testing and tools, and therefore what preconceptions they may have, and what training needs you might anticipate.
 
 ## Expanding this heuristic
 <details close>
   <summary>Click for quick start summary
   </summary> 
 
-Think about this heuristic question to help you understand more about the people who will engage with the tool, their backgrounds, previous experiences with testing and tools, and therefore what preconceptions they may have, and what training needs you might anticipate.
 
 Other people will have a different background or experiences to you, that may lead them to have a different understanding of how to carry out the work, the choices they want to make, and the support they require. 
 - This includes previous experience with the domain, the software under test, IT, testing, test tools and this specific tool. 
