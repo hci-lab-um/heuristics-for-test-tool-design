@@ -6,9 +6,9 @@
 
 [◄ Go back to H01](/Heuristics/H01-Why.md)
 
-[◄ Back to README](../README.md)
+[◄ Back to README](../../README.md)
 
-[◄ Back to About the Heuristics Page](About-Heuristics-Folder.md)
+[◄ Back to About the Heuristics Page](../../Heuristics/About-Heuristics-Folder.md)
 
 ## What is a SWOT analysis?
 
