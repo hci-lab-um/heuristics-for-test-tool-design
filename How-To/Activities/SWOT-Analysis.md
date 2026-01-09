@@ -4,9 +4,11 @@
 
 ## Navigation
 
-[◄ Go back to H01](H01-Why.md)
+[◄ Go back to H01](/Heuristics/H01-Why.md)
 
-[◄ Go back to README](../README.md)
+[◄ Back to README](../README.md)
+
+[◄ Back to About the Heuristics Page](About-Heuristics-Folder.md)
 
 ## What is a SWOT analysis?
 
