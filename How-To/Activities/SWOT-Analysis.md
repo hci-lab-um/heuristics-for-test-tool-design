@@ -1,9 +1,5 @@
 <a name="TopofPage"></a>
 
-[◄ Go back to H01](H01-Why.md)
-
-[◄ Go back to README](../README.md)
-
 # SWOT Analysis
 
 ## Navigation
