@@ -61,5 +61,8 @@ The [CIPD SWOT fact sheet]( https://www.cipd.org/uk/knowledge/factsheets/swot-an
 
 [Back to Top](#TopofPage)
 
-[◄ Go back to README](../README.md)
+[◄ Go back to H01](/Heuristics/H01-Why.md)
 
+[◄ Back to README](../../README.md)
+
+[◄ Back to About the Heuristics Page](../../Heuristics/About-Heuristics-Folder.md)
