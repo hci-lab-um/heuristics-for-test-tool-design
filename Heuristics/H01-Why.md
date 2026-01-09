@@ -3,6 +3,7 @@
 # Heuristic H01 Why?
 
 [◄ Back to README](../README.md)
+
 [◄ Back to About the Heuristics Page](About-Heuristics-Folder.md)
 
 ## Navigation hint (where you are in idea-t)
