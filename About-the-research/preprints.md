@@ -26,4 +26,4 @@ If you want to cite the paper, please use the OAR@UM link to get the citation de
 
 [◄ Go back to Landing Page for the heuristics](../README.md)
 
-[◄ Go to page about the research](./About-the-research-and-researcher.md)
+[◄ Go to page about the research](About-the-research.md)
