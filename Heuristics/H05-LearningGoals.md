@@ -3,7 +3,7 @@
 
 [◄ Go back to README](../README.md)
 
-
+[◄ Back to About the Heuristics Page](About-Heuristics-Folder.md).
 
 ## Navigation hint (where you are in idea-t)
 
@@ -147,6 +147,8 @@ We have tabulated the attributes in a priority order based on the input from ind
 ## Navigation hint (where in idea-t to go next)
 
 [◄ Back to README](../README.md)
+
+[◄ Back to About the Heuristics Page](About-Heuristics-Folder.md).
 
 [◄ To H01 Why?](../Heuristics/H01-Why.md)  if you have identified stakeholders who might have goals you have not yet considered, or if you have identified conflicts between learning goals for diferent individuals and the organisation.
 
