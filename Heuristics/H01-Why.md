@@ -3,6 +3,7 @@
 # Heuristic H01 Why?
 
 [◄ Back to README](../README.md)
+[◄ Back to About the Heuristics Page](About-Heuristics-Folder.md)
 
 ## Navigation hint (where you are in idea-t)
 
@@ -168,6 +169,8 @@ Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes
 ## Navigation hint (where in idea-t to go next)
 
 [◄ Back to README](../README.md)   to get an overview of idea-t and the heuristics. 
+
+[◄ Back to About the Heuristics Page](About-Heuristics-Folder.md).
 
 [◄ Go to Heuristic H02 Who?](/Heuristics/H02-Who.md)  it is the start of examining the "Who?" theme.
 
