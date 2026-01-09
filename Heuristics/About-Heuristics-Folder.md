@@ -22,7 +22,7 @@ If you just want a list of the heuristics with brief explanations, see the [Quic
 
 [H06 Learning Preferences?](H06-LearningPreferences.md)
 
-### Them Context?
+### Theme Context?
 
 [H07 Where?](H07-Where.md)
 
