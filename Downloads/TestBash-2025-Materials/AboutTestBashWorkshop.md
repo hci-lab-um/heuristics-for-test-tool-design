@@ -10,6 +10,6 @@ This folder has the workshop materials so that attendees can access the material
 
 [Case studies](WorkshopCaseStudies.docx)
 
-[A3 Mindmap poster](workshopA3mindmap.pptx)
+[A3 Mindmap poster](workshopA3mindmap.pptx) (now just illustrative; the QR codes will no longer link to the latest files)
 
 [Mindmap as bulleted list](workshop-mindmap-bulleted.docx)
