@@ -50,7 +50,7 @@ Heuristics H04, H05 and H06 are linked, they address separate but related aspect
   <summary>Click for explanation of the heuristic
   </summary> 
 
-some words of explanation
+TBD some further words of explanation
 
 </details>
 
@@ -93,7 +93,7 @@ What else may affect their goals for learning the tool as an inhibitor or enhanc
 ### Usage cases
 
 ### Case studies examples
-TBD
+TBD - add when dissertation completed
 
 ### Quotes from research participants
 
