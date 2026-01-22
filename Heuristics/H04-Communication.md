@@ -171,7 +171,7 @@ Look at the different communication styles coming out in answer to a question ab
 There is a persona [worked example here in this repository on building ideas for personas](../How-To/Activities/Persona-Building.md) including communication preferences.
 
 
-To help you with these activities here are links to some external sites with "how to" information: 
+To help you with these activities here are links to an external site with "how to" information: 
 - Look at the [DISC profile communication preferences](https://tonyrobbins.com/disc/) either to inform personas, or to carry out DISC profiling - not to run a profile on everyone, but to think about the different communication needs and preferences shown in that model.
 
 ### Quality Attributes
