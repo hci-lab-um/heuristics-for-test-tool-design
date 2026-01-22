@@ -33,5 +33,20 @@ Some activities are helpful for more than one heuristic, or are valuable to revi
 - Skills gap analysis helps with both H05 and H06.
 - Communication preferences can be different during normal work (H04) to preferences when learning new information or activities (H06).
 
+### Accessibility
+
+Consideration of accessiblity is part of thinking about people's communication needs and preferences, and should always be part of the design and evaluation of any tool.
+<details>
+  <summary>Click for accessibility and communication needs
+  </summary> 
+
+Disabilities can be permanent, temporary or situational. They can be physical, cognitive, learning, neurological, apply to any of the senses.
+International and government bodies have standards, laws, guidelines and guidance materials.
+
+Guidelines:
+- Use the [Microsoft Inclusive Design Methodology](https://inclusive.microsoft.design/) to guide your design process by following their [Inclusive 101 guidebook](https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf);
+- A fun workshop developed by the [Accessible Reality](http://accessible-reality.org/) team supported by the University of Dundee is the “Pirates” workshop which helps you think about the different types of access needs that a person may have.
+
+</details>
 
 [◄ Go back to README](../README.md)
