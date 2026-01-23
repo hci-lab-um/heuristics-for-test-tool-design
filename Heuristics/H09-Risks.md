@@ -47,13 +47,7 @@ Consider revisiting this heuristic again once you are close to a decision; have 
 -	Risks increased by the tool.
 </details>
 
-<details close>
-  <summary>Click for explanation of the heuristic
-  </summary> 
 
-some words of explanation
-
-</details>
 
 <details close>
   
