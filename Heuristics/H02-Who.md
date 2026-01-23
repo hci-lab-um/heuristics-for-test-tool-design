@@ -135,7 +135,7 @@ When you have a small number of people to understand, you may be able to intervi
 Another activity you might find useful to help you understand *Who* include:
 -	[Stakeholder Mapping](../How-To/Activities/Stakeholder-Mapping.md) which includes simple mapping onto a matrix, the onion model, value chain modelling and Wardley Mapping.
 
-The CATWOE model from Soft Systems Methodology shows different stakeholders for a change, including beneficiaries and victims; adding, changing or removing a tool is a change. **(TBD: add link to CATWOE diagram: issue #4)** 
+The [CATWOE model from Soft Systems Methodology](https://strategicmanagementinsight.com/tools/catwoe-analysis-explained/) shows different stakeholders for a change, including beneficiaries and victims; adding, changing or removing a tool is a change. 
 
 However you map the "Who?" enrich your answer by using the rest of the heuristics to add details. 
 
