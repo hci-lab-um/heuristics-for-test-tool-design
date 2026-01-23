@@ -17,13 +17,10 @@ Question: Where will the tool be used?
 
 ## In brief:
 
-Location affects availability of the tool. Offices, at home, on customer site, countries / time zones, behind firewalls, indoors, outdoors, quiet or noisy environments.  
-Location may affect the ability of the person to use the tool. Location may be of the person, of the tool, of co-workers.
+Location affects availability of the tool. Offices, at home, on customer site, countries / time zones, behind firewalls, indoors, outdoors, quiet or noisy environments.  Location may affect the ability of the person to use the tool. Location may be of the person, of the tool, of co-workers.  Think about: Individuals and teams may be working in different offices, at home, on customer sites, in different countries, in different time zones, behind firewalls, indoors or outdoors, in quiet or noisy environments.
 
 
 ## Expanding this heuristic
-
-Think about: Individuals and teams may be working in different offices, at home, on customer sites, in different countries, in different time zones, behind firewalls, indoors or outdoors, in quiet or noisy environments.
 
 <details close>
   
