@@ -124,7 +124,7 @@ You can add these characteristics to a persona or archetype, as we show in a [wo
 
 Understanding your stakeholders’ expectations for the training budget (cost and time spent) will help you understand constraints. You could [revisit stakeholders’ goals in H01](H01-Why.md) to understand more.
 
-If you are not familiar with setting learning outcomes try this set of [learning outcomes](https://www.ctl.ox.ac.uk/effective-learning-outcomes); for your training material be clear and appropriate for different personas.
+If you are not familiar with setting learning outcomes this article about [learning outcomes](https://www.ctl.ox.ac.uk/effective-learning-outcomes) may help; for your training material be clear and appropriate for different personas.
 
 ### Quality Attributes
 
@@ -147,7 +147,7 @@ We have tabulated the attributes in a priority order based on the input from ind
 
 [◄ To H02 Who?](../Heuristics/H02-Who.md)  because in identifying learning goals you might have identified additional stakeholders.
 
-[◄ To H06 Learning Preferences?](../Heuristics/H05-LearningPreferences.md)  because it is the next heuristic in the "Who?" theme.
+[◄ To H06 Learning Preferences?](../Heuristics/H06-LearningPreferences.md)  because it is the next heuristic in the "Who?" theme.
 
 [◄ To H07 Where?](../Heuristics/H07-Where.md)  if you want to investigate the "Context?" theme now.
 
