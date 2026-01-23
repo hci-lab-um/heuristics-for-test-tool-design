@@ -63,9 +63,8 @@ Think about:
 
 ### Not? 
 What learning preferences are not relevant?
- 
+Whose learning preferences are not relevent? 
 
-- maybe a list here
 
 ### Else?
 What other learning preferences might be expressed by different stakeholders?
