@@ -156,16 +156,16 @@ In one small study we asked participants to rank how innovative versus how estab
 
 ![The graph shows that Moore's innovation curve moves from a small number of innovators, a larger number of early adopters, then the large mainstream group, and a small number of laggards. The bar chart overlaid on the Moore's Curve shows that for the specific group in a specific team, the curve is skewed more towards early adoption.](../Figures/innovationcurve.jpg)
 
+</details>
 
 
 
-
-Activities and links to external articles that may be useful:
+### Links to external articles that may be useful:
 -	Risk identification and assessment with Stakeholders;
 -	Domain identification - will the proposed tool be used in any regulated or safety critical domains, and are there requirements from those domain's standards?;
 -	Use the innovation diffusion model to think about personas with different perceptions of the risk of change - this could be as simple as drawing Moore's curve and plotting your personas onto it;
 -	Identify what testing of the test tool is appropriate;
--	Use teh Interaction Design FOundation's [humanity-centered design processes](https://www.interaction-design.org/literature/topics/humanity-centered-design) which includes environmental risk mitigation and the health and safety mitigation.
+-	Use the Interaction Design FOundation's [humanity-centered design processes](https://www.interaction-design.org/literature/topics/humanity-centered-design) which includes environmental risk mitigation and the health and safety mitigation.
 -   See Innovation Diffusion, for example look at Moore's "Crossing the Chasm" to understand where your stakeholders sit in the technology adoption cycle (Also desribed on Wikipedia, see [Crossing The Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm)) 
 -   Think about the language your personas use, with this [blogpost about two vocabularies for two audiences from Seth Godin](http://sethgodin.typepad.com/seths_blog/2017/02/the-two-vocabularies-because-there-are-two-audiences.html)
 
