@@ -41,13 +41,7 @@ Think about:
 
 </details>
 
-<details close>
-  <summary>Click for explanation of the heuristic
-  </summary> 
 
-some words of explanation
-
-</details>
 
 <details close>
   
@@ -58,7 +52,7 @@ some words of explanation
 
 - What choices about their work practices and workflow contributions should individuals and teams have?
 - Does the proposed tool cover part of a workflow, the whole of a workflow, or across more than one workflow?
-- How complex are the workflows and do they include complexity-multipliers such as [large datasets, waiting times, institutional complexity](https://www.nngroup.com/articles/complex-application-design-framework/)?
+- How complex are the workflows and do they include complexity-multipliers described in [this article, such as large datasets, waiting times, institutional complexity](https://www.nngroup.com/articles/complex-application-design-framework/)?
 - What other workflows are impacted by the workflow where the tool is used?
 - What else is happening in the workflow apart from testing activities?
 
