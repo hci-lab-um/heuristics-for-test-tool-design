@@ -104,7 +104,11 @@ What else does this tool provide that affects team autonomy or management author
   
 ### Usage cases
 
+TBD
+
 ### Case studies examples
+
+TBD
 
 ### Quotes from research participants
 
