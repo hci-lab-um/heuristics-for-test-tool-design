@@ -90,6 +90,8 @@ In one use of the heuristis, a participant indicated both that this question is 
 
 ### Case studies examples
 
+TBD post dissertation
+
 ### Quotes from research participants
 
 Research Point: We found that testers reported tools not supporting their workflow and feeling that unsuitable workflows had been imposed on their work. Workflows in tools did not always support preferred working practices, and sometimes were barriers to progress rather than enablers. Not having a choice can be a blocker, but sometimes it is essential.  
@@ -122,11 +124,11 @@ To understand and describe a workflow, you need to know the activities to be don
 The test workflow and the development workflow will interact, but so might other organizational workflows. As part of those interactions, tools will need to interact.
 
 The activities to understand this heuristic mean working with stakeholders and typical users for the tool. Workflow mapping and journey mapping are typical activities. In case you are not familiar with them, there are some external articles linked to below:
-- Make a workflow diagram as a flowchart or a [wireflow diagram](https://www.nngroup.com/articles/wireflows/)
-- As testing activities are complex and iterative, consider [designing for a complex workflow with interruptions](https://www.nngroup.com/articles/designing-for-waits-and-interruptions/)
-- [Journey Mapping](https://www.nngroup.com/articles/journey-mapping-101/) including [experience maps, customer journey maps and empathy maps](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
-- [Service blueprint](https://www.nngroup.com/articles/service-blueprints-definition/) to get the interaction between the customer journey, the workflow and the technical flow
-- Ask ["How might we? questions"](https://www.nngroup.com/articles/how-might-we-questions/) to look for options.
+- Make a workflow diagram as a flowchart or NNGroup suugest a [wireflow diagram](https://www.nngroup.com/articles/wireflows/)
+- As testing activities are complex and iterative, consider NNGroup's suggestion of how to [design for a complex workflow with interruptions](https://www.nngroup.com/articles/designing-for-waits-and-interruptions/)
+- [Journey Mapping is another UX method suggested by NNGroup](https://www.nngroup.com/articles/journey-mapping-101/) including [experience maps, customer journey maps and empathy maps](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
+- [Service blueprint is suggested by NNGroup](https://www.nngroup.com/articles/service-blueprints-definition/) to understand the interaction between the customer journey, the workflow and the technical flow
+- Also ask ["How might we? questions" listed by NNGroup ](https://www.nngroup.com/articles/how-might-we-questions/) to look for options.
 
 ### Quality Attributes
 
