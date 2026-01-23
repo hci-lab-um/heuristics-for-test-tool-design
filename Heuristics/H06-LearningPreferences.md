@@ -33,7 +33,7 @@ Depending on who needs to learn about the tool, and their preferences a mix of m
   <summary>Click for explanation of the heuristic
   </summary> 
 
-This heuristic is related to H04 `Communication preferences?' and H05 `Learning goals?' but takes a different focus.  
+This heuristic is related to H04 Communication preferences? and H05 Learning goals? but takes a different focus.  
 We found that some people had different communication preferences when they knew about a topic to their preferences when learning a topic. 
 
 Think about: 
