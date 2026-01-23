@@ -24,7 +24,7 @@ This also relates to different people having different overall goals, and the an
 
 ## Expanding this heuristic
 <details close>
-  <summary>Click for quick start summary
+  <summary>Click for quick start summary and explanation
   </summary> 
 
 Think about: 
@@ -46,13 +46,6 @@ Heuristics H04, H05 and H06 are linked, they address separate but related aspect
 
 </details>
 
-<details close>
-  <summary>Click for explanation of the heuristic
-  </summary> 
-
-TBD some further words of explanation
-
-</details>
 
 <details close>
   
@@ -64,7 +57,7 @@ TBD some further words of explanation
 - Are people more focused on the task in hand or moving to the big picture?
 - Are people interested in initiating improvements (self/workflow/organization)?
 - Do people want to complete current tasks or more interested in becoming experts/mastering work?
-- Have you considered the contexts for learning e.g. time available, inhibitors and enablers for learning, task specific or mastering tool/workflow? For example, whether there is a [learning culture that allows experimentation and a growth mindset](https://osf.io/preprints/psyarxiv/qz43x) - without that learning culture in the organization, people will not perceive they have time to learn a new tool. 
+- Have you considered the contexts for learning e.g. time available, inhibitors and enablers for learning, task specific or mastering tool/workflow? For example, [here is an author discussing the affect on development teams of a learning culture that allows experimentation and a growth mindset](https://osf.io/preprints/psyarxiv/qz43x) - without that learning culture in the organization, people will not perceive they have time to learn a new tool. 
 - Have you considered accessibility and availability of the learning materials?
 
 
