@@ -104,6 +104,8 @@ In one case study, the organization was working with SAAS software. They comment
 
 ### Case studies examples
 
+TBD post dissertation
+
 ### Quotes from research participants
 
 Research Point: we found that participants were frustrated by tools slowing down their work. We found participants with accessibility requirements could be slowed or blocked by the test tool not playing well with the assistive technology. We found participants had different views on all these points, depending on the domains and work styles they had encountered.
