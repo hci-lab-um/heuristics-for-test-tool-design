@@ -165,7 +165,7 @@ In one small study we asked participants to rank how innovative versus how estab
 -	Domain identification - will the proposed tool be used in any regulated or safety critical domains, and are there requirements from those domain's standards?;
 -	Use the innovation diffusion model to think about personas with different perceptions of the risk of change - this could be as simple as drawing Moore's curve and plotting your personas onto it;
 -	Identify what testing of the test tool is appropriate;
--	Use the Interaction Design FOundation's [humanity-centered design processes](https://www.interaction-design.org/literature/topics/humanity-centered-design) which includes environmental risk mitigation and the health and safety mitigation.
+-	Use the Interaction Design Foundation's [humanity-centered design processes](https://www.interaction-design.org/literature/topics/humanity-centered-design) which includes environmental risk mitigation and the health and safety mitigation.
 -   See Innovation Diffusion, for example look at Moore's "Crossing the Chasm" to understand where your stakeholders sit in the technology adoption cycle (Also desribed on Wikipedia, see [Crossing The Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm)) 
 -   Think about the language your personas use, with this [blogpost about two vocabularies for two audiences from Seth Godin](https://seths.blog/2017/02/the-two-vocabularies-because-there-are-two-audiences/)
 
