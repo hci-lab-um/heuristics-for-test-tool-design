@@ -117,6 +117,8 @@ In one study, the participants discussed that they are working on integrating to
 
 ### Case studies examples
 
+TBD after dissertation
+
 ### Quotes from research participants
 
 - Security is risk both when under- and over-done. We found that the combination of strict rules for environments and for tool use carries the risk of people not being able to access the tool; they were *'stuck in limbo'* - security is not just about preventing access but also about allowing access. Are the policies around the tool going to support use of the tool?
@@ -141,10 +143,10 @@ In one study, the participants discussed that they are working on integrating to
 
 To understand how to address risk appropriately in your design choices, you will need to understand the stakeholders’ attitudes to risks. Think about the stakeholders you identified in [H02](H02-Who.md) to consider audit, compliance, and marketing stakeholders having different viewpoints on risk, for example.
 
-Hold a Risk Workshop to identify and assess the risks. For example, you could use [Risk Storming](https://riskstorming.com/) as a workshop, or use [risk storming cards](https://www.ministryoftesting.com/testsphere/riskstorming), or [Would Heu-Risk It?](https://pejgan.se/wouldheu-riskit.html) cards.
+Hold a Risk Workshop to identify and assess the risks. Good resources are available in the testing community, for example, you could use [Risk Storming](https://riskstorming.com/) as a workshop, or use [risk storming cards](https://www.ministryoftesting.com/testsphere/riskstorming), or [Would Heu-Risk It?](https://pejgan.se/wouldheu-riskit.html) cards.
 
 Related to risk is your stakeholders' attitude to adoption of technology. Are they early adopters who may be willing to put up with some rough edges in order to engage with new technology, or are they more mainstream and looking for a a safe, reliable option. 
-This could be linked to organizational styles you'll look at in [H10](H10-Autonomy.md) and views on agility, maturity, and other process concepts.
+This could be linked to organizational styles you'll look at in [H10](H10-Autonomy.md) and organisational views on agility, maturity, and other process concepts.
 
 When investigating choices for a new tool, Moore's innovation curve can be a useful comparator. 
 <details close>
@@ -163,8 +165,8 @@ Activities and links to external articles that may be useful:
 -	Domain identification - will the proposed tool be used in any regulated or safety critical domains, and are there requirements from those domain's standards?;
 -	Use the innovation diffusion model to think about personas with different perceptions of the risk of change - this could be as simple as drawing Moore's curve and plotting your personas onto it;
 -	Identify what testing of the test tool is appropriate;
--	Use [humanity-centered design processes](https://www.interaction-design.org/literature/topics/humanity-centered-design) which includes environmental risk mitigation and the health and safety mitigation.
--   See Innovation Diffusion, for example look at Moore's "Crossing the Chasm" to understand where your stakeholders sit in the technology adoption cycle (see [Crossing The Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm)) 
+-	Use teh Interaction Design FOundation's [humanity-centered design processes](https://www.interaction-design.org/literature/topics/humanity-centered-design) which includes environmental risk mitigation and the health and safety mitigation.
+-   See Innovation Diffusion, for example look at Moore's "Crossing the Chasm" to understand where your stakeholders sit in the technology adoption cycle (Also desribed on Wikipedia, see [Crossing The Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm)) 
 -   Think about the language your personas use, with this [blogpost about two vocabularies for two audiences from Seth Godin](http://sethgodin.typepad.com/seths_blog/2017/02/the-two-vocabularies-because-there-are-two-audiences.html)
 
 
@@ -173,9 +175,8 @@ Activities and links to external articles that may be useful:
 - Quality in Use Attributes: Freedom from Risk, Context coverage
 - Product Quality Attributes: Operability, Appropriateness, Performance, Maintainability, Reliability, Scalability
 
-Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes Folder](../How-To/QualityAttributes/About-Quality-Attributes-Folder.md)
-
-We have tabulated the [Quality in Use and Product Quality Attributes](Qualityattributesv2.md) in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with context development. You may need to revisit your personas to strengthen them with localization points. Design a way for people to find the tool and its supporting training materials.**
+Mapping Heuristics to Quality Attributes is explained in the [Quality Attributes Folder](../How-To/QualityAttributes/About-Quality-Attributes-Folder.md).  
+Here you will find the attributes explained and tabulated in a priority order based on the input from industry practitioners during our research. Use that data to help you focus on the optimal product attributes to meet the QiU/UX goals for your tool. We've included quotes from practitioners that you can use to help you understand your own goals, stakeholders, and contexts, plus a cross reference between the heuristics and the quality attributes. **These may help with context development. You may need to revisit your personas to strengthen them with localization points. Design a way for people to find the tool and its supporting training materials.**
 
 
 </details>
