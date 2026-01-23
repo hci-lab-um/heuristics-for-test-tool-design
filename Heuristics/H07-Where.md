@@ -22,23 +22,8 @@ Location may affect the ability of the person to use the tool. Location may be o
 
 
 ## Expanding this heuristic
-<details close>
-  <summary>Click for quick start summary
-  </summary> 
 
 Think about: Individuals and teams may be working in different offices, at home, on customer sites, in different countries, in different time zones, behind firewalls, indoors or outdoors, in quiet or noisy environments.
-
-
-
-</details>
-
-<details close>
-  <summary>Click for explanation of the heuristic
-  </summary> 
-
-some words of explanation
-
-</details>
 
 <details close>
   
