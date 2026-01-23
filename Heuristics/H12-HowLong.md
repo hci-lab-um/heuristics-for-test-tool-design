@@ -125,7 +125,7 @@ TBD
 
 - <i>``Last year, we had problems with every upgrade, e.g. changing the database from MySQL to PostgreSQL; or dropping the SSL which forced us to put a reverse proxy to stay "https". As you can see, BIG things to find out at the time of the upgrade session. But I love that they make regular releases with substantial content and that they are shaping the products of the suite based on customers' feedback. In 3 years, it has improved a lot in small increments that let us see how they react to the actual needs of a tester.''</i>
 
-- <i>``Question: have you ever avoided using a tool? Answer: ``due to upgrade/support issues''</i>
+- Question: have you ever avoided using a tool? Answer: <i>``due to upgrade/support issues''</i>
 
 </details>
 
