@@ -23,13 +23,7 @@ This heuristic implies "how quickly?" and other time-related questions, as part 
 
 
 ## Expanding this heuristic
-<details close>
-  <summary>Click for quick start summary
-  </summary> 
 
-some words of summary
-
-</details>
 
 <details close>
   <summary>Click for explanation of the heuristic
