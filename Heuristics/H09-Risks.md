@@ -143,7 +143,7 @@ TBD after dissertation
 
 To understand how to address risk appropriately in your design choices, you will need to understand the stakeholders’ attitudes to risks. Think about the stakeholders you identified in [H02](H02-Who.md) to consider audit, compliance, and marketing stakeholders having different viewpoints on risk, for example.
 
-Hold a Risk Workshop to identify and assess the risks. Good resources are available in the testing community, for example, you could use [Risk Storming](https://riskstorming.com/) as a workshop, or use [risk storming cards](https://www.ministryoftesting.com/testsphere/riskstorming), or [Would Heu-Risk It?](https://pejgan.se/wouldheu-riskit.html) cards.
+Hold a Risk Workshop to identify and assess the risks. Good resources are available in the testing community, for example, you could use [Risk Storming](https://riskstorming.com/) as a workshop, or use risk storming cards from Ministery of Testing, [need to be logged in toMoT to acces](https://www.ministryoftesting.com/testsphere/riskstorming), or [Would Heu-Risk It?](https://pejgan.se/wouldheu-riskit.html) cards.
 
 Related to risk is your stakeholders' attitude to adoption of technology. Are they early adopters who may be willing to put up with some rough edges in order to engage with new technology, or are they more mainstream and looking for a a safe, reliable option. 
 This could be linked to organizational styles you'll look at in [H10](H10-Autonomy.md) and organisational views on agility, maturity, and other process concepts.
