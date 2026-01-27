@@ -12,11 +12,12 @@ This page links to tables of heuristics and attributes, and to an activity page:
 - [Table of Quality in Use Attributes with Heuristics Associated](Table-QiU-Attributes-to-Heuristics.md)   
 - [Table of Product Qualities with Heuristics Associated](Table-Product-Attributes-and-Heuristics.md)   
 - [Activity to Build Quality Attribute Pyramids and Radar Diagrams to get to the Desired UX for Different Personas](../../How-To/Activities/Building-Attribute-Pyramids.md)
+- [Explanation of quality attribute pyramids](Quality-attribute-pyramids.md)
 
 <a name="WhatareQA1"></a>    [Back to Top](#TopofPage)
 
 ## What are Quality Attributes and How to Apply Them?
-<details open><summary>Click for an explanation of quality attributes</summary>
+<details close><summary>Click for an explanation of quality attributes</summary>
 Quality attributes are properties of a product which affect how well the product performs. Generally, a software system but it could be some other product or service.  
 Some of these are Quality in Use attributes: they refer to attributes that are a measure of how good the experience is when using the product. They include the effectiveness and efficiency with which someone can carry out their task, their safety, and the flexibility with which they can work. 
 Others are technical or Product attributes which are built into the product and which the building blocks contributing to how the quality in use is achieved. They include functionality, usability, performance, security, and many others.  
@@ -45,8 +46,7 @@ Usability is one contributor to quality in use, which also includes flexibility 
 QiU is also supported by all the technical attributes, such as maintainability, performance, security. 
 QiU contributes to UX, and design should address trust, credibility, flow through tasks and the usefulness of the product. 
 All of this, influenced by past experiences, mantal models and personal circumstances leads to the lived experience, and gives rise to emotions. 
-
-![Flowchart showing the relationship between UI design, usability, quality in use, UX and the lived experience. ](../Figures/UItoLX.jpg)
+For more information see [Quality attribute pyramids](Quality-attribute-pyramids.md).
 
 
 
