@@ -15,7 +15,7 @@ If you do tailor, we recommend you come back to the original list and review you
 
 In another case study, the heuristics H07 and H11 were combined: in that specific context asking **H07 Where?** dictated which environment was to be used, and asking **H11 When?** implied which test stage, which linked to a specific environment. In other case studies, these two questions were clearly different and needed to be answered separately.
 
-If you want to tailor the heuristics to suit your context, please do - see the [licence](LICENSE) to see how to do that and remember to reshare your versions and tailoring.
+If you want to tailor the heuristics to suit your context, please do - see the [licence](../../LICENSE) to see how to do that and remember to reshare your versions and tailoring.
 
 </details>
 
