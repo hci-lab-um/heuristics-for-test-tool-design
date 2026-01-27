@@ -173,13 +173,13 @@ Takes time to do well.
 
 ## Where do I find more information?
 
-[Personas](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)
+[Introdction to Personas from Interaction Design Foundation](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)
 
-[Archetypes](https://radinadoneva.medium.com/behavioural-archetypes-instead-of-personas-c7ccc5b8b998) 
+[Article about Archetypes](https://radinadoneva.medium.com/behavioural-archetypes-instead-of-personas-c7ccc5b8b998) 
 
 [NNGroup have a really useful summary with links to many ways of building personas](https://www.nngroup.com/articles/personas-study-guide/)
 
-[Personas may be more or less broad in scope](https://www.nngroup.com/articles/persona-scope/)
+[NNGroup describe personas may be more or less broad in scope](https://www.nngroup.com/articles/persona-scope/)
 
 Having got your personas or archetypes, you can build usage stories per persona, which can be [simple stories](https://www.interaction-design.org/literature/topics/user-stories) or [scenarios](https://www.interaction-design.org/literature/topics/user-scenarios) and you can build [empathy maps](https://xd.adobe.com/ideas/process/user-research/10-tips-develop-better-empathy-maps/).
 
