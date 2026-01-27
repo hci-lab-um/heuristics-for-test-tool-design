@@ -16,7 +16,7 @@ Welcome to idea-t v2, a framework of [12 heuristics](./How-To/Navigate-idea-t/Qu
 </details>
 
 The [heuristics](./Heuristics/About-Heuristics-Folder.md) are in a folder with an explanation of each one.
-There is information about how to use and answer the heuristics described in the [How-To folder](./How-To/About-How-To-Folder.md), including [activities](./How-To/Activities/About-Activities-Folder.md) along with [navigation routes](./How-To/Navigate-idea-t/About-Navigating-idea-t.md) for using the heuristics in different orders and depths depending on your context, and information about the [quality attributes](../How-To/QualityAttributes/About-Quality-Attributes.md).  
+There is information about how to use and answer the heuristics described in the [How-To folder](./How-To/About-How-To-Folder.md), including [activities](./How-To/Activities/About-Activities-Folder.md) along with [navigation routes](./How-To/Navigate-idea-t/About-Navigating-idea-t.md) for using the heuristics in different orders and depths depending on your context, and information about the [quality attributes](./How-To/QualityAttributes/About-Quality-Attributes-Folder.md).  
 These are linked to from each heuristic page. 
 [Downloads](./Downloads/About-Downloads-Folder.md) of lists of the heuristics, starters for mindmaps, and a workshop you can use are also available.
 
