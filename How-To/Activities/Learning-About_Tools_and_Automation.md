@@ -13,7 +13,7 @@ test automation university https://testautomationu.applitools.com/
 
 Angie's website
 
-Krisoffer website
+Kristoffer website
 
 Richard's website
 
