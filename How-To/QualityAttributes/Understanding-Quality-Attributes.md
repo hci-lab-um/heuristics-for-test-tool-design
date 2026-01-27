@@ -1,7 +1,7 @@
 <a name="TopofPage"></a>
 # Quality Attributes
 
-[◄ Go back to Heuristics List in README file](../../README.md)
+[◄ Go back to README file](../../README.md)
 
 [◄ Go back to Quick Start Heuristics page](../../How-To/Navigate-idea-t/QuickStart.md) 
 
