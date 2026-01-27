@@ -43,7 +43,7 @@ The different values mean that these personas will also rate the quality in use 
 
 ![Radar Diagram Showing that Different Personas Have Different Quality in Use Scores](../../Figures/rotterdamSlide28cropped.jpg)
 
-Use this method to enrich your understanding of the [personas you have built](../How-To/Activities/Persona-Building.md) and use the attributes to help you specify what attributes the tool needs to satisfy its users. 
+Use this method to enrich your understanding of the [personas you have built](Persona-Building.md) and use the attributes to help you specify what attributes the tool needs to satisfy its users. 
 
 </details>
 
