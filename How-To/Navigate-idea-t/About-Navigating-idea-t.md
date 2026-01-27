@@ -6,7 +6,7 @@ This folder and document includes:
 
 - [Quick Start Guide](QuickStart.md) (briefly introduced below)
 - [Introducing the heuristics into your organisation](introducing-the-heuristics.md) (briefly introduced below)
-- [Notes on tailoring idea-t and the heuristics to fit your organisation](tailoring-idea-t-md) (briefly introduced below)
+- [Notes on tailoring idea-t and the heuristics to fit your organisation](tailoring-idea-t.md) (briefly introduced below)
 - [Generic routes through the heuristics](genericroutes.md)
 - Considerations if you are working in an organization that has a high level of understanding and maturity in its UX practices (discussed below);
 - Some differences in usage depending on organization size and location of team members (discussed below);
