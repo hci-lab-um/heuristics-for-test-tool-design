@@ -14,7 +14,7 @@ Expect this to be iterative. When you know more about Who? (Heuristics H02 - H06
 
 Why the tool is needed, what goals it supports, and what goals it doesn't support. What problem the tool is intended to solve, and if a tool is the best option for solving the problem.
 
-- [About H01. Why is this tool needed?](../../../H01-Why.md)
+- [About H01. Why is this tool needed?](../Heuristics/H01-Why.md)
 - Key points: We found nearly a third of comments made about challenges with implementing tools successfully were management and organizational in origin, and were often about conflicting goals across the organization. A mutual understanding across stakeholders of why the tool is needed, what goals it supports, and importantly what goals it doesn't - or cannot - support is vital.
 - Quality in Use Attributes: Freedom from Risk.
 - Product Quality Attributes: User goals, Appropriateness.
@@ -23,7 +23,7 @@ Why the tool is needed, what goals it supports, and what goals it doesn't suppor
 
 Who (else) will use the tool? Who provides information for inputs? Who uses information from outputs?	
 
-- [About H02. Who will use or be affected by this tool?](H02-Whol.md)
+- [About H02. Who will use or be affected by this tool?](H02-Who.md)
 - Key points: We found a broad and non-stereotypical group of people are testing, and therefore may be using the tool. You will also have stakeholders who may not use the tool, but may influence the goals for the tool. As you identify Why the tool is needed, you might find that different stakeholders have different perceptions of why the tool is required and what it should do: you need to understand Who needs the tool.
 - Heuristics H03, H04, H05, H06 will give you more information about "who?" 
 - Quality in Use Attributes: Satisfaction.
