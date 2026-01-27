@@ -12,7 +12,7 @@ To use the resources in this folder, visit these links:
 
 - [table linking each heuristic to the most relevant quality in use and product quality attributes](Table-Heuristics-to-QiU-Attributes.md)
 
-- [table linking each quality in use attribute to the most relevant heuristics](Table-Q0U-Attributes-to-Heuristics.md)
+- [table linking each quality in use attribute to the most relevant heuristics](Table-QiU-Attributes-to-Heuristics.md)
 
 - [table linking each product quality attribute to the most relevant heuristics](Table-Product-Attributes-and-Heuristics.md)
 
