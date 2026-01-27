@@ -107,7 +107,7 @@ Each heuristic's description also has links to activities that help you answer t
 
    [◄ To H05 Learning Goals?](./Heuristics/H05-LearningGoals.md)  (Theme Who?) 
 
-   [◄ To H06 Learning Preferences?](./Heuristics/H05-LearningPreferences.md)  (Theme Who?)
+   [◄ To H06 Learning Preferences?](./Heuristics/H06-LearningPreferences.md)  (Theme Who?)
 
    [◄ To H07 Where?](./Heuristics/H07-Where.md)  (Theme "Context?")
 
