@@ -75,6 +75,8 @@ Similarly, user interface aesthetics were mainly mentioned as an irritation some
 - [Table of Quality in Use Attributes with Heuristics Associated](Table-QiU-Attributes-and-Heuristics.md)   
 - [Table of Product Qualities with Heuristics Associated](Table-Product-Attributes-and-heuristics.md)  
 
+</details>
+
 <details close>
 <summary>How the research revealed the figures</summary>
 
@@ -90,7 +92,7 @@ The heuristics have been evaluated in reviews with test, UX and accessibility ex
 
 </details>
 
-</details>
+
 
 
 ### Building Quality Attribute Pyramids and Radar Diagrams to get to the Desired UX
