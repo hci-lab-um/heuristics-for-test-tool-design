@@ -3,7 +3,7 @@
 | Heuristic | Quality in Use | Product Quality Attributes |
 |-------------|-----------------------|----------------------------------------------------|
 |H01. [Why is this tool needed?](../../Heuristics/H01-Why.md)| Freedom from Risk (including economic, health, safety, environmental, societal risk)| User goals, Appropriateness|
-|H02. [Who will use or be affected by this tool?](../../Heuristics/H02-Whol.md)|Satisfaction|User goals, Appropriateness|
+|H02. [Who will use or be affected by this tool?](../../Heuristics/H02-Who.md)|Satisfaction|User goals, Appropriateness|
 |H03. [What previous experiences do people bring to this tool?](../../Heuristics/H03-Experience.md)|Effectiveness, Satisfaction| Learnability, Appropriateness, User error protection, Recognizability|
 |H04. [What communication needs or preferences do people have?](../../Heuristics/H04-Communication.md)|Effectiveness, Satisfaction, Flexibility | Learnability, Accessibility, Recognizability |
 |H05. [Do people want "tool mastery" or "task completion" when learning to use the tool?](../../Heuristics/H05-LearningGoals.md)|Effectiveness, Flexibility | Learnability, User error protection |
