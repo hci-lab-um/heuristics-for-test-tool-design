@@ -33,7 +33,7 @@ Who (else) will use the tool? Who provides information for inputs? Who uses info
 
 What previous experiences, expectations and skill levels do people bring? Testers do not conform to IT worker stereotype in their experiences.	
 
-- [About H03. What previous experiences do people bring to this tool?](../../Heuristics/H03-Experiences.md)
+- [About H03. What previous experiences do people bring to this tool?](../../Heuristics/H03-Experience.md)
 - Key points: Thinking about previous experiences will help you focus on understanding expectations and skill levels, as well as communication styles. We found that testers do not conform to IT worker stereotypes in their experiences: we found boat builders, historians, philosophers, artists, musicians, urban planners and many other backgrounds. Different people will have different skills in technology, the specific tool set, testing, and the domain for the product under test.
 - Quality in Use Attributes: Effectiveness, Satisfaction.
 - Product Quality Attributes: Learnability, Appropriateness, User error protection, Recognizability.
