@@ -17,10 +17,14 @@ This page links to tables of heuristics and attributes, and to an activity page:
 <a name="WhatareQA1"></a>    [Back to Top](#TopofPage)
 
 ## What are Quality Attributes and How to Apply Them?
+
 <details close><summary>Click for an explanation of quality attributes</summary>
+ 
 Quality attributes are properties of a product which affect how well the product performs. Generally, a software system but it could be some other product or service.  
 Some of these are Quality in Use attributes: they refer to attributes that are a measure of how good the experience is when using the product. They include the effectiveness and efficiency with which someone can carry out their task, their safety, and the flexibility with which they can work. 
 Others are technical or Product attributes which are built into the product and which the building blocks contributing to how the quality in use is achieved. They include functionality, usability, performance, security, and many others.  
+
+</details>
 
  <a name="QARD1"></a>   
 ### How the idea-t heuristics relate to the attributes
