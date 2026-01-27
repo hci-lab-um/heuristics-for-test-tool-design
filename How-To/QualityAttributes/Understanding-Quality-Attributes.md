@@ -34,10 +34,10 @@ The idea-t heuristics are based on research data, which included data about whic
 
 </details>
 
-### Usability, Quality in Use, and the User Experience: how they relate together
+## Usability, Quality in Use, and the User Experience: how they relate together
 
 <details close>
-<summary>Click here for Usability, Quality in Use, and the User Experience: how they relate together</summary>
+<summary>Usability, Quality in Use, and the User Experience: how they relate together</summary>
 
 Quality in Use (QiU) and Usability had the most frequent mentions in our data. 
 Understanding how the different attributes are building blocks to the overall user experience (UX) helps us to design in a better UX, shown in the flowchart below. 
@@ -45,12 +45,14 @@ A good User Interface (UI) is supported by interaction design, and contributes t
 Usability is one contributor to quality in use, which also includes flexibility in use and freedom from risk. 
 QiU is also supported by all the technical attributes, such as maintainability, performance, security. 
 QiU contributes to UX, and design should address trust, credibility, flow through tasks and the usefulness of the product. 
-All of this, influenced by past experiences, mantal models and personal circumstances leads to the lived experience, and gives rise to emotions. 
-For more information see [Quality attribute pyramids](Quality-attribute-pyramids.md).
+All of this, influenced by past experiences, mental models and personal circumstances leads to the lived experience, and gives rise to emotions. 
+
+![Flowchart showing the relationship between UI design, usability, quality in use, UX and the lived experience. ](../../Figures/UItoLX.jpg)
 
 
 
 </details>
+
  
 [Back to Top](#TopofPage)
 
