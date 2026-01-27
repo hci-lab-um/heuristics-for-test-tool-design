@@ -14,7 +14,7 @@
 
 [◄ Go back to H06](../../Heuristics/H06-LearningPreferences.md)  
 
-[◄ Go back to README](../README.md)   
+[◄ Go back to README](../../README.md)   
 
 ## What is a persona?
 
