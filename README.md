@@ -189,7 +189,7 @@ Once you have worked through the heuristics and activities, use what you have di
   </details>
 
 ## The Research
-[Find out more about the research](./About-the-research/About-the-research-and-researcher.md)
+[Find out more about the research](./About-the-research/About-the-research.md)
 
 ## Versions
 
