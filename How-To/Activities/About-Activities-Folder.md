@@ -11,7 +11,7 @@ The table below lists the heuristics, and for each one, a link to one or more su
 
 | Theme       | Keyword                  | Heuristic  | Activities |
 | ----------- | -------------------------|----------- |----------- |
-| Why         | Why                      |    H01     | [SWOT Analysis](../How-To/Activities/SWOT-Analysis.md); [Gap Analysis](../How-To/Activities/Gap-Analysis.md); [Contextual Inquiry](../How-To/Activities/Contextual-Inquiry.md); [Building a Business Case and Calculating Return on Investment](../How-To/Activities/Business-cases.md)      |
+| Why         | Why                      |    H01     | [SWOT Analysis](SWOT-Analysis.md); [Gap Analysis](Gap-Analysis.md); [Contextual Inquiry](Contextual-Inquiry.md); [Building a Business Case and Calculating Return on Investment](Business-cases.md)      |
 | Who         | Who                      |    H02     |      [Personas](../How-To/Activities/Persona-Building.md); [Stakeholder Mapping](../How-To/Activities/Stakeholder-Mapping.md); [CATWOE model](https://strategicmanagementinsight.com/tools/catwoe-analysis-explained/)      |
 | Who         | Experience               |    H03     |   [Personas](../How-To/Activities/Persona-Building.md); [different types of persona](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them); [skills gap analysis for learner personas](https://corporate.britishcouncil.org/insights/evolving-role-learner-personas). |
 | Who         | Communication            |    H04     |    [Personas](../How-To/Activities/Persona-Building.md); [DISC profile communication preferences](https://tonyrobbins.com/disc/)        |
