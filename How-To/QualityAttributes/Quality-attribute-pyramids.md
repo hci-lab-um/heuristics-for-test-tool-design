@@ -51,42 +51,7 @@ You can use this quality attribute pyramid method to help you enrich your [perso
 [Back to Top](#TopofPage)
 
 
-## Usability, Quality in Use, and the User Experience: how they relate together
-
-<details close>
-<summary>Usability, Quality in Use, and the User Experience: how they relate together</summary>
-
-Quality in Use (QiU) and Usability had the most frequent mentions in our data. 
-Understanding how the different attributes are building blocks to the overall user experience (UX) helps us to design in a better UX, shown in the flowchart below. 
-A good User Interface (UI) is supported by interaction design, and contributes to usability, which also includes designing for the users' efficiency, effectiveness, support to meet their goals in their context. 
-Usability is one contributor to quality in use, which also includes flexibility in use and freedom from risk. 
-QiU is also supported by all the technical attributes, such as maintainability, performance, security. 
-QiU contributes to UX, and design should address trust, credibility, flow through tasks and the usefulness of the product. 
-All of this, influenced by past experiences, mental models and personal circumstances leads to the lived experience, and gives rise to emotions. 
-
-![Flowchart showing the relationship between UI design, usability, quality in use, UX and the lived experience. ](../../Figures/UItoLX.jpg)
 
 
-
-</details>
-
-
-## Standards and Reference Texts
-
-<details close>
-<summary>Standards and References</summary>
-
-[Summary of ISO 20510 from TMAP with links to additional attributes](https://www.tmap.net/wiki/quality-characteristics)
-
-[Summary of the ISO/IEC 25000 series of standards](https://iso25000.com/index.php/en/iso-25000-standards)
-
-[ISO 25019 portal](https://www.iso.org/standard/78177.html)
-
-NB: even as I write this, new standards are being developed, published, and discussed meaning there are several ways of dividing up the quality in use and product quality attributes. 
-On this page, I have provided a simplified summary of some of the main quality attributes, plus notes from the research data. 
-You can of course go to buy the new standard, [ISO 25019](https://www.iso.org/standard/78177.html) which has different definitions.
-Or use this summary from TMAP of the previous version ISO 25010 with their additional definitions for AI and sustainability [Summary of ISO 20510 from TMAP with links to additional attributes](https://www.tmap.net/wiki/quality-characteristics). 
-
-</details>
 
 
