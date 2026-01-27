@@ -1,6 +1,6 @@
 <a name="TopofPage"></a>
 # Generic Route through idea-t and the heuristics
-[◄ Go back to ReadMe](.//.//README.md)
+[◄ Go back to ReadMe](../../README.md)
 
 [◄ Go back to About Navigating list](About-Navigating-idea-t.md)
   
