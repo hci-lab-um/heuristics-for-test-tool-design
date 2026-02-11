@@ -1,1 +1,28 @@
 # Case Study 2: Reviewing In-house Automation Suites
+
+TBD - needs formatting
+
+
+<details><summary>Assessing Automation Suites</summary>
+
+### Method
+
+This case study examined the application of twelve tool evaluation heuristics in an industry setting, where a team reviewed three in-house built test automation suites of varying maturity. The evaluation took place in April 2024 at a multi-national entertainment company. The participant, who had previously used the heuristics in an earlier case study, facilitated a workshop with an automation manager and two team leads, using the heuristics as a structured discussion guide presented via a slide deck. Three automation suites were reviewed in sequence: a mature suite (four years old), a suite in its infancy, and an intermediate suite (approximately two years old).
+
+### Results
+
+A clear and important finding emerged across all three reviews: the maturity of the automation suite directly influenced which heuristics were most relevant and how deeply they needed to be discussed. For the mature suite, fewer heuristics required active discussion, as many answers were already well understood by the experienced team. For the new suite, almost all heuristics proved valuable, generating substantive discussion about purpose, workflows, risks, and ways of working. The intermediate suite fell between these two extremes.
+
+Heuristics H01 (Why?), H02 (Who?), H07 (Where?), H08 (Workflows?) and H11 (When?) were consistently the most useful across all three reviews. H04 (Communication preferences) and H05 (Learning perspectives) were not used in any of the three reviews, as participants felt confident they already understood these areas well.
+
+### Impact and Evaluation
+
+The heuristics proved effective as a structured discussion framework, enabling the team to confirm existing understanding, surface new insights, and identify areas requiring further attention. For the mature suite, the heuristics helped consolidate shared understanding and surface valuable "side effects" of the suite not previously articulated. For the new suite, discussion of risks (H09) revealed not only technical risks but also people-related risks, including territorial behaviour and trust issues around the automation rollout, leading directly to a separate deep-dive conversation about work styles and communication.
+
+A key insight emerging from all three reviews was that the primary outcome would be changes to ways of working rather than changes to the automation suites themselves. Automation was described as "an amplification of existing systems," with process and communication issues needing resolution before automation could deliver its full benefit.
+
+The participant noted that the heuristics allowed people to express new ideas and uncover insights, and that conversations naturally flowed through them. The flexibility of the heuristics to serve different purposes - confirming agreed direction for mature suites, generating new ideas for newer ones - was highlighted as particularly valuable.
+
+Improvements identified for the heuristics included adding guidance paths to reflect different contexts and maturity levels, and clarifying that learning-focused heuristics are more relevant for new automation suites or when new users are introduced. The case study process would benefit from more timely feedback collection and clearer instructions around scoring criteria.
+
+</details>
