@@ -125,13 +125,10 @@ Each heuristic's description also has links to activities that help you answer t
 
  
  
-  <details><summary><h3>TBD Examples: </h3> Click here for case studies and usage examples </summary>
+  <details><summary><h3>Examples: </h3> Click here for case studies and usage examples </summary>
 
-  These are some of the case studies and usage scenarios run during the iterations to design, build and evaluate idea-t in industry settings. 
-
-  TBD - add the case studies & usages to the repository and add links to the case studies
-
-  TBD sort out a number system useful for people using the repository rather than one that fits the research write up...
+  Six case studies and several usage scenarios were run during the iterations to design, build and evaluate idea-t in industry settings. 
+  These are summarised and linked to from the [case studies folder](/How-To/Case_Studies/About-the-Case-Studies.md) and in the heuristics descriptions.
 
   - Case Study 1 Assessing whether to purchase a vendor tool upgrade
   
@@ -144,8 +141,6 @@ Each heuristic's description also has links to activities that help you answer t
   - Case Study 5 Deciding a tooling strategy
   
   - Case Study 6 Retrospective on tool user issues
-
-  - Usage cases - choose which ones and add
 
  </details>
   
