@@ -72,4 +72,4 @@ Overall, this case study demonstrates that the heuristics successfully guided a 
 
 </details>
 
-The [full case study report still to be added - link not working](to be added) is length TBD 
+The full case study report - still to be added - is length TBD 
