@@ -125,8 +125,7 @@ In this scenario, the participant decided to go with the `Why?' and `Which tool?
 
 ### Case studies examples
 
-TBD add a link to case study 1 summary
- (case studies will be added anonymised after the dissertation is cleared by examiners)
+Case study 1 - evaluating a vendor tool - was particularly interesting for use of heuristics H01 Why? as the question of why the tool was needed was unwrapped in more detail during the discussions, resulting in a realisation that the problem to be solved would not be addressed by that tool.  [Click here for Case Study summaries with links to the full report details](../How-To/Case_Studies/About-the-Case-Studies.md). 
 
 ### Quotes from research participants
 
