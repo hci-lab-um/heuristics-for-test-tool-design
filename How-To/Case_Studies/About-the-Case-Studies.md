@@ -2,6 +2,13 @@
 
 The six case studies are:
 
+- an evaluation by a tool-using organisation of a vendor tool;
+- a review of in-house test automation suites by the automation team leaders and test architect responsible for them;
+- a vendor review of the design for a new feature for a tool;
+- a planning session for a tool acquisition;
+- setting an organisational tooling strategy;
+- reviewing customer queries about a tool to look for patterns.
+
 They are summarised below, with links to the full case study descriptions.
 
 ## Case Study 1 Evaluating a Vendor Tool
