@@ -100,7 +100,9 @@ Both **H01 Why?** and **H02 Who?** are important
 </details>
 
 ### Case studies examples 
-TBD  (case studies will be added anonymised after the dissertation is cleared by examiners)
+
+Each of the Case Studies found teh H02? Who? question useful; in Case Study 1, additional stakeholders were identified and engaged, in Case Study 2 it was found that while a mature automation suite had clearly identfied stakeholders, this was not so clear for a new automation suite, and so on. The summaries here will help you identify which case studies are most seful to you: 
+[Click here for Case Study summaries with links to the full report details](../How-To/Case_Studies/About-the-Case-Studies.md). 
 
 ### Quotes from research participants
 
