@@ -63,7 +63,7 @@ The organisation's high UX maturity meant the heuristics largely formalised exis
 
 <details><summary> Click here for case study 4 short précis  </summary>
 
-This case study examined the application of twelve tool evaluation heuristics by two consultants working in Scandinavia, focusing on tooling for agile and DevOps projects. The consultants used version 1.2 of the heuristics to plan pre-sales meetings with potential customers for tool evaluation and selection projects between July and October 2024.
+This case study examined the application of twelve tool evaluation heuristics by two consultants working in Scandinavia, focusing on tooling for agile and DevOps projects. The consultants used the heuristics to plan pre-sales meetings with potential customers for tool evaluation and selection projects between July and October 2024.
 
 The consultant identified a core subset of heuristics most valuable for early customer engagement: H01 (Why?), H02 (Who?), and H08 (Workflows?). These questions helped establish fundamental customer needs and define the scope for deeper discovery. The consultant created a visual mapping of heuristics against their consultancy process stages, finding the framework provided a science-backed approach to understanding business and user needs.
 
@@ -79,7 +79,7 @@ Challenges identified included difficulty introducing new methods to customers w
 
 <details><summary> Click here for case study 5 short précis </summary>
 
-This case study examined the application of twelve tool evaluation heuristics by a testing consultant planning advice on test automation tooling strategy for an enterprise-level organisation with approximately 5,000 engineers. The study took place between June and August 2024, using version 1.2 of the heuristics.
+This case study examined the application of twelve tool evaluation heuristics by a testing consultant planning advice on test automation tooling strategy for an enterprise-level organisation with approximately 5,000 engineers. The study took place between June and August 2024.
 
 The consultant used the heuristics to challenge their thinking while planning for a significant organisational restructure that shifted testing from a specialised role to an activity performed by all engineers. The heuristics were assessed against the consultant's existing internalised practice, revealing substantial alignment while surfacing new perspectives.
 
@@ -95,7 +95,7 @@ H12 (How long will the tool be used?) generated the most significant insight, pr
 
 <details><summary> Click here for case study 6 short précis </summary>
 
-This case study examined whether tool evaluation heuristics could have prevented customer issues if applied during design. A test tool vendor in the Netherlands retrospectively reviewed 100 customer issues from 18 months (37 improvement requests, 37 user questions, 26 technical support queries) against version 1.4 of the heuristics in October-November 2024.
+This case study examined whether tool evaluation heuristics could have prevented customer issues if applied during design. A test tool vendor in the Netherlands retrospectively reviewed 100 customer issues from the previous 18 months (37 improvement requests, 37 user questions, 26 technical support queries) with the study date of October-November 2024.
 
 Analysis found that 42% of issues had medium or high heuristic applicability, suggesting they might have been prevented or mitigated through earlier heuristic application. The top three applicable heuristics were H08 (Workflows), H04 (Communication preferences), and H06 (Learning preferences). Both high-importance issues in the sample had highly applicable heuristics.
 
