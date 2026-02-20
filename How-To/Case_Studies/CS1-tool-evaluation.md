@@ -6,7 +6,7 @@
 
 This case study evaluated a set of twelve heuristics designed to guide tool evaluation processes in software testing contexts. The study took place between January and April 2024 at a multi-national entertainment and leisure company with web-based services and a large engineering department.
 
-The organization was asked by a commercial vendor to evaluate their updated testing tool, which integrated accessibility checking functionality previously provided by a free open-source plugin. The study participant, a key contact within the organization, agreed to use version 1.0 of the heuristics during this evaluation and document the experience.
+The organization was asked by a commercial vendor to evaluate their updated testing tool, which integrated accessibility checking functionality previously provided by a free open-source plugin. The study participant, a key contact within the organization, agreed to use the heuristics during this evaluation and document the experience.
 
 The twelve heuristics examined were:
 - H01: Why do we need this tool?
