@@ -6,7 +6,7 @@
 
 This case study examined the application of twelve tool evaluation heuristics in the design process for two new features of an existing commercial test tool. The study took place between February and May 2024 at a test tool vendor organisation based in the Netherlands. The organisation's product is a SaaS tool designed specifically for ease of use by non-technical users as well as specialist testers, with an estimated 70% of end users having no IT background. Customers include public authorities, charities, and commercial organisations, with end users spanning medical staff, warehouse operatives, and professional testers.
 
-Three participants were involved: a support lead who acted as key contact and diary author, a lead front-end developer with UX experience who leads design and build of the tool's user experience, and the organisation's director. The heuristics used were version 1.1, incorporating improvements identified in earlier case studies.
+Three participants were involved: a support lead who acted as key contact and diary author, a lead front-end developer with UX experience who leads design and build of the tool's user experience, and the organisation's director. The heuristics used incorporated improvements identified in earlier case studies.
 
 The case study proceeded through two structured meetings. An initial planning meeting reviewed all twelve heuristics and assessed their relevance to the organisation's context. A subsequent design meeting applied selected heuristics directly to prototypes of two new features: support for exploratory testing, and the ability to tailor role-based workflows. Data was collected via participant diary entries and follow-up discussion with the researcher.
 
