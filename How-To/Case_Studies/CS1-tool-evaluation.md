@@ -72,4 +72,4 @@ Overall, this case study demonstrates that the heuristics successfully guided a 
 
 </details>
 
-The full case study report - still to be added - is length TBD 
+The [full case study 1 report](full-CS1-repo-version.pdf) is a pdf file length 13 pages, just over 5000 words.
