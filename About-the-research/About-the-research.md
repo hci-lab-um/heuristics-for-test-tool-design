@@ -9,7 +9,7 @@ This page is about the research behind the heuristics, information about the res
 <summary>Click for Presentations, Videos and Articles</summary>
 
 Podcasts:
-- [Chat with Richard Seidl about stereotyping](https://www.youtube.com/watch?v=fn3Q3Gex_dE)
+- [Chat with Richard Seidl about stereotyping](https://youtu.be/blPHnprdbzE)
 - [Chat with Lisa Crispin and Janet Gregory about job titles](https://www.youtube.com/watch?v=NaH_6iE6rW0) 
 
 If you want a brief summary, here is [an article "Just a tester?"](https://www.womenwhotest.com/2023/04/14/just-a-tester-a-report-part-way-through-data/) from 2023 which summarises the research to that point and highlights of the findings. There are also [summaries on Isabel's blog](https://isabelevansconsultancy.wordpress.com/) reporting on research progress.
