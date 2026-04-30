@@ -36,7 +36,7 @@ Other presentation slides from talks at industry conferences are in the [Downloa
 <summary>Click for Background</summary>
 
 ###	Background
-After nearly four decades working in the IT industry, mainly in software testing, latterly as a consultant and trainer, Isabel had observed that teams and organizations didn’t have the successes they anticipated with adoption of tools to support testing. Wanting to understand the blockers to test tool adoption and what might overcome these, with an initial idea that improving the usability of tools would help people adopt them and use them successfully, she started a post-graduate study at University of Malta to give a structure for researching the ideas. Isabel is working with Prof. Chris Porter and Prof. Mark Micallef who are her academic supervisors.
+After nearly four decades working in the IT industry, mainly in software testing, latterly as a consultant and trainer, Isabel had observed that teams and organizations didn’t have the successes they anticipated with adoption of tools to support testing. Wanting to understand the blockers to test tool adoption and what might overcome these, with an initial idea that improving the usability of tools would help people adopt them and use them successfully, she started a post-graduate study at University of Malta to give a structure for researching the ideas. Isabel worked with Prof. Chris Porter and Prof. Mark Micallef who are her academic supervisors, and with Dr. Julian Harty to contributed to work on several of the papers arising from the research.  Isabel graduated with a PhD in March 2026.
 
 </details>
 
@@ -44,9 +44,9 @@ After nearly four decades working in the IT industry, mainly in software testing
 [Preprints of published papers are listed here](preprints.md) and a summary of the research journey story so far is below. 
 
 <details close>
-<summary>Click for Story So Far</summary>
+<summary>Click for Story Through the Research </summary>
 
-###	Story So Far
+###	Story Through the Research
 
 Links to the published versions of the papers are below, and you can also [download a preprint draft](preprints.md) if you cannot access the publishers' libraries.
 
@@ -65,7 +65,7 @@ Links to the published versions of the papers are below, and you can also [downl
 **Shaping the Heuristics:** First, we needed to understand how heuristics should be developed and what they look like. Should they be like Nielsen's Ten Heuristics? Like Bach and Bolton's FEW HICCUPS? Something different? We looked at many examples to see how heuristics are displayed and discovered that they have different levels of directedness and also that they are displayed in different formats. Working with UX practitioners and experts, we trialed and refined various styles for the heuristics and chose a format - the short question with explanation - used in this repository. 
 Based on that format, we then set out to design a set of heuristic questions, grounded in the research data collected earlier.
 
-**Evaluating the Heuristics - expert reviews:** We have taken versions of the heuristics to test experts and practitioners to understand if the content of the heuristics indicate anything useful about the people who will use the test tools. That includes asking someone who had built a tool whether the heuristics would have changed their thinking when designing/building the tool, and a review with an accessibility expert.
+**Evaluating the Heuristics - expert reviews:** We took versions of the heuristics to test experts and practitioners to understand if the content of the heuristics indicate anything useful about the people who will use the test tools. That included asking someone who had built a tool whether the heuristics would have changed their thinking when designing/building the tool, and a review with an accessibility expert.
 We updated the heuristics based on the review comments, in an iterative process.
 
 **Evaluating the Heuristics - case studies:** We undertook an iterative build-review-refining of the heuristic set content through industry case studies to evaluate the heuristics in use.
@@ -74,6 +74,21 @@ This GitHub repository is here to support the case studies and capture the heuri
 
 
 </details>
+
+<details><summary>Click here for information about Isabel's dissertation</summary>
+
+### The Completed Dissertation: `A Framework to Support Test Tool Design and Acquisition'
+
+The dissertation that supported the award of Isabel's PhD is long... nearly 120,000 words! So here is a link to a [precis of around 3000 words](Dissertation-Precis.md). The precis provides a chapter-by-chapter overview of the entire dissertation.
+
+The purpose of this summary is to allow you to decide which parts of the dissertation – if any – you want to read. **Reading the dissertation is not necessary for using idea-t, it is made available for transparency and to allow deep background reading for those who want it.**
+The dissertation may be downloaded from the [University of Malta Open Access Repository OAR@UM as a PDF]( https://www.um.edu.mt/library/oar/handle/123456789/144337).
+
+The precis was produced with the help of Claude *(Claude Sonnet 4.6, Anthropic, April 2026)*.
+
+</details>
+
+
 
 [Back to Top](#TopofPage)
 ## About Us 
@@ -84,7 +99,7 @@ This GitHub repository is here to support the case studies and capture the heuri
 
 ### Isabel Evans - Researcher - my brief history
 
-After more than 30 years in IT, on software industry projects, quality and testing practitioner I am now a part-time post-graduate student at the University of Malta. My research focuses on human factors in test automation. My interest in this topic arose from real-life experiences as a test manager, quality manager, and test consultant. I am an author, including a book, "Achieving Software Quality Through Teamwork", and chapters in "Agile Testing: How to Succeed in an eXtreme Testing Environment", "The Testing Practitioner", and "Foundations of Software Testing". I've spoken and told stories at software conferences worldwide, as well as chairing EuroSTAR (2019) and HUSTEF (2018). I am a Fellow of the British Computer Society and received the 2017 EuroSTAR Testing Excellence Award.
+After more than 30 years in IT, on software industry projects, quality and testing practitioner I am now a part-time post-graduate student at the University of Malta. My research focuses on human factors in test automation. My interest in this topic arose from real-life experiences as a test manager, quality manager, and test consultant. I am an author, including a book, "Achieving Software Quality Through Teamwork", and chapters in "Agile Testing: How to Succeed in an eXtreme Testing Environment", "The Testing Practitioner", and "Foundations of Software Testing". I've spoken and told stories at software conferences worldwide, as well as chairing EuroSTAR (2019) and HUSTEF (2018). I am a Fellow of the British Computer Society and received the 2017 EuroSTAR Testing Excellence Award. Having graduated in March 2026, I am now Dr. Isabel Evans.
 
 - [My linked-in profile](https://www.linkedin.com/in/isabelevans/)
 - [My website](https://isabelevansuk.wordpress.com/)
