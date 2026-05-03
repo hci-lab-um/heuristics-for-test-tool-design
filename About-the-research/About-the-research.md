@@ -85,9 +85,9 @@ The purpose of this summary is to allow you to decide which parts of the dissert
 
 Longer summaries of parts of the dissertation are also available if you want a little more information:
 
-[Summary of Chapters 1-4](DisSummaryChapters1_2_3_4_How_Research_Done.md) for an understanding of the background and methodology
+[Summary of Chapters 1-4](DisSummary_Chapters1_2_3_4_How_Research_Done.md) for an understanding of the background and methodology
 
-[Summary of Chapter 5](Dis_Chapter5_Experiences-withTools.md) for a description of the work on people's experiences of tools to support testing
+[Summary of Chapter 5](Dis_Chapter5_Experiences_with_Tools.md) for a description of the work on people's experiences of tools to support testing
 
 [Summary of Chapter 6](Dis_Chapter6_Who_is_Testing.md) for a description of the work on the characteristis of people doing testing
 
