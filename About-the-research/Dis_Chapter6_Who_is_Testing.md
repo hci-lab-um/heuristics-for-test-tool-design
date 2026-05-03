@@ -8,7 +8,7 @@
 
 ### Understanding Who is Performing Testing - short summary
 
-<details close><summary>## 500-Word Précis</summary>
+<details close><summary>500-Word Précis</summary>
 
 The first research study (Chapter 5) showed that tools frequently fail testers — and that part of the reason is that tool designers do not fully understand who testers are. This chapter investigates **RQ1.2: What are the characteristics of testers using test tools?**
 
@@ -40,7 +40,7 @@ The longer summary below gives more detail on the reason for the study, method, 
 ### Understanding Who is Performing Testing
 
 ---
-<details close><summary>Reason></summary>
+<details close><summary>Reason</summary>
 
 ### Reason for the Study
 
@@ -52,10 +52,11 @@ This chapter answers **RQ1.2: What are the characteristics of testers using test
 
 ---
 
-### Method
+
 
 <details close><summary>Method</summary>
 
+### Method
 
 An anonymous online survey was conducted with 78 industry practitioners. Ethics approval ICT202300127 was obtained. The survey was promoted via conference presentations, webinars, LinkedIn, online discussion groups, and direct contacts, giving an international, self-selected sample.
 
