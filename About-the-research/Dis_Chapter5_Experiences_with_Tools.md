@@ -4,9 +4,9 @@
 
 ---
 
-## 500-Word Précis
+### Experiences with Tools to Support Testing - short summary
 
-### Experiences with Tools to Support Testing
+<details close><summary> 500-Word Précis</summary>
 
 Software testers use a wide range of tools every day — from test management and defect tracking systems to automation frameworks and performance tools. These are known collectively as **TsST (Tools to Support Testing)**. The assumption behind providing these tools is straightforward: good tools make testing more efficient and effective. The reality, as this study found, is more complicated and more troubling.
 
@@ -26,14 +26,16 @@ The finding that tools affect testers' emotional wellbeing, combined with the di
 
 **Key references:** Wiklund et al. [32]; Bach and Bolton [31]; Johnson et al. [142]; Green and Petre [140]; Porter [8]
 
+</details>
 ---
 
-## 1000-Word Summary
 
-### Experiences with Tools to Support Testing
 
----
+## 1000-Word Précis
 
+The longer summary below gives more detail on the reason for the study, method, results, themes arising, discussion, next steps arising from the research.
+
+<details close><summary>Reason></summary>
 ### Reason for the Study
 
 Software tools are expected to make testing faster and more effective. But a persistent and costly problem has long been recognised in the industry: tools are acquired but not properly used — a phenomenon known as **shelfware**. Despite this, almost no prior research had asked testers directly about their experiences with the tools they use every day.
@@ -42,8 +44,10 @@ This chapter addresses that gap, answering **RQ1.1: What are testers' experience
 
 The work in this chapter is grounded in and published in three papers: Evans et al. [38, 39, 40].
 
+</details>
 ---
 
+<details close><summary>Method</summary>
 ### Method
 
 Data was collected across several stages, with analysis carried out incrementally so that each stage informed the next (illustrated in Figure 5.1 in the dissertation).
@@ -64,8 +68,11 @@ Data analysis used word frequency counts, thematic analysis, and sentiment codin
 
 Ethics approvals ICT0292018 and 972116092021 were obtained. All participants were anonymised.
 
+</details>
 ---
 
+<details close><summary>Results</summary>
+  
 ### Results
 
 Participants raised concerns in three main areas, at the frequencies shown below:
@@ -91,7 +98,7 @@ Within usability and quality in use, the most frequently mentioned attributes we
 
 *Based on Table 5.10 in the dissertation*
 
-**[Note: Table 5.10 in the dissertation provides a full breakdown of quality-in-use and technical attribute codes and frequencies — this would be a valuable table to reproduce in full in any detailed publication.]*
+**[Note: Table 5.10 in the dissertation provides a full breakdown of quality-in-use and technical attribute codes and frequencies]**
 
 Two unexpected themes emerged alongside the technical and organisational findings.
 
@@ -103,14 +110,17 @@ Emotional responses were validated through three rounds of coding. No correlatio
 
 **Theme 2 — The Illusion of Usability.** This concept emerged from the data and was not anticipated at the start of the research. The illusion of usability is the belief — held by tool designers and purchasers — that:
 
-1. **Usability = a good-looking interface.** Tools that look attractive and are easy to get started with are assumed to be usable. In practice, deeper workflow support, learnability over time, and integration with other tools matter far more to experienced testers.
+Illusion 1. **Usability = a good-looking interface.** Tools that look attractive and are easy to get started with are assumed to be usable. In practice, deeper workflow support, learnability over time, and integration with other tools matter far more to experienced testers.
 
-2. **Usability = quality in use.** Designers focus on usability without attending to the technical attributes — maintainability, portability, performance, and compatibility — that testers also depend on heavily.
+Illusion 2. **Usability = quality in use.** Designers focus on usability without attending to the technical attributes — maintainability, portability, performance, and compatibility — that testers also depend on heavily.
 
-3. **Users don't change.** Tools are designed for a static, defined user. In reality, testers grow, develop new skills, change team contexts, and take on new responsibilities. A tool that works for a beginner may frustrate an expert; a tool designed for an individual may fail a team.
+Illusion 3. **Users don't change.** Tools are designed for a static, defined user. In reality, testers grow, develop new skills, change team contexts, and take on new responsibilities. A tool that works for a beginner may frustrate an expert; a tool designed for an individual may fail a team.
 
+</details>
 ---
 
+<details close><summary>Discussion, Conclusions and Next Steps</summary>
+  
 ### Discussion
 
 The findings from RQ1.1 confirm and extend existing knowledge. Wiklund et al. [32] identified usability as an impediment to test automation. Johnson et al. [142] found that developers ignored tool warnings they could not understand. Green and Petre [140] showed that cognitive load from tool design affects programmers' performance. This research adds a new dimension: the emotional and lived experience impact of poor tool design on testers specifically.
@@ -129,6 +139,7 @@ The connection between emotional responses and tool quality raises important que
 - Emotional responses to tools are real, significant, and under-recognised in both tool design and tool acquisition practice.
 - A superficial understanding of who testers are, and what they need, underlies all three forms of the illusion.
 
+
 ---
 
 ### Next Steps
@@ -137,8 +148,12 @@ The finding that tool problems are partly rooted in a poor understanding of who 
 
 Future work identified in the dissertation (Appendix N) includes: a longitudinal study of testers' lived experiences with tools as organisations improve; and a multidisciplinary investigation of emotions among testers and other IT workers.
 
+
+</details>
 ---
 
+<details close><summary>Glossary, Abbreviations, References</summary>
+  
 ### Glossary and Abbreviations
 
 | Term | Meaning |
@@ -170,5 +185,5 @@ Future work identified in the dissertation (Appendix N) includes: a longitudinal
 - [183] Hart — NASA Task Load Index
 
 ---
-
+</details>
 *This is a summary of part of Isabel Evans' dissertation published on the University of Malta Open Access Repository OAR@UM. The full dissertation may be downloaded as a PDF from https://www.um.edu.mt/library/oar/handle/123456789/144337*
