@@ -82,9 +82,18 @@ This GitHub repository is here to support the case studies and capture the heuri
 The dissertation that supported the award of Isabel's PhD is long... nearly 120,000 words! So here is a link to a [precis of around 3000 words](Dissertation-Precis.md). The precis provides a chapter-by-chapter overview of the entire dissertation.
 
 The purpose of this summary is to allow you to decide which parts of the dissertation – if any – you want to read. **Reading the dissertation is not necessary for using idea-t, it is made available for transparency and to allow deep background reading for those who want it.**
+
+Longer summaries of parts of the dissertation are also available if you want a little more information:
+
+[Summary of Chapters 1-4](DisSummaryChapters1_2_3_4_How_Research_Done.md) for an understanding of the background and methodology
+
+[Summary of Chapter 5](Dis_Chapter5_Experiences-withTools.md) for a description of the work on people's experiences of tools to support testing
+
+[Summary of Chapter 6](Dis_Chapter6_Who_is_Testing.md) for a description of the work on the characteristis of people doing testing
+
 The dissertation may be downloaded from the [University of Malta Open Access Repository OAR@UM as a PDF]( https://www.um.edu.mt/library/oar/handle/123456789/144337).
 
-The precis was produced with the help of Claude *(Claude Sonnet 4.6, Anthropic, April 2026)*.
+The precis and summaries were produced with the help of Claude *(Claude Sonnet 4.6, Anthropic, April 2026)*.
 
 </details>
 
