@@ -3,11 +3,12 @@
 *This summary of material from Isabel Evans' dissertation was produced with the help of Claude (Claude Sonnet 4.6, Anthropic, April 2026)*
 
 This is asummary of the first four chapters of the dissertation, providing an overview of the reason for reasearch, the review of related literature, the theoretical framework within which the research was done, and the methodology used for the research.
+
 ---
 
 ## 500-Word Précis
 
-<detail close><summary>500 word precis></summary>
+<details close><summary>500 word precis</summary>
 
 ### How Was the Research Done?
 
@@ -25,7 +26,7 @@ The **methodology** (Chapter 4) is **mixed methods** and grounded in **pragmatis
 
 **Key references:** Saunders [2]; Wiklund et al. [32]; Checkland and Poulter [37]; Garvin [12]; Cummings [169]
 
-</detail>
+</details>
 ---
 
 ## 1000-Word Summary
@@ -35,7 +36,7 @@ This 1000 word summary provides more detail abour the purpose and target of the 
 
 ---
 
-<detail close><summary>Purpose and Target</summary>
+<details close><summary>Purpose and Target</summary>
 
 ### Purpose and Target of the Research
 
@@ -51,11 +52,11 @@ The research addresses this problem through one central research question: **"Ho
 
 The research places **people** at the centre. Testers are not just operators of technology — they are skilled, diverse, and human. Understanding who they are, what they experience, and what they need is the essential first step towards tools that actually work for them.
 
-</detail>
+</details>
 
 ---
 
-<detail close><summary>Understanding the research domain</summary>
+<details close><summary>Understanding the research domain</summary>
 
 ### Understanding the Research Domain
 
@@ -70,11 +71,11 @@ The **literature review** (Chapter 2) surveys the history of test tools, from th
 
 A systematic search of academic databases found almost no prior work applying HCI methods specifically to the tools used by testers. This absence — the **research gap** — motivated all three research questions.
 
-</detail>
+</details>
 
 ---
 
-<detail close><summary>Why the research was needed</summary>
+<details close><summary>Why the research was needed</summary>
 
 ### Why the Research Was Needed
 
@@ -86,11 +87,11 @@ Second, **the absence of solutions.** Wiklund et al. [32] called for practical, 
 
 The research fills this gap in three steps, matching the three sub-questions. The approach is described in the methodology.
 
-</detail>
+</details>
 
 ---
 
-<detail close><summary>Theoretical Framework</summary>
+<details close><summary>Theoretical Framework</summary>
 
 ### Theoretical Framework
 
@@ -116,10 +117,11 @@ The relationship between people and automation is explored using Cummings' model
 
 The relationship between the System Under Test (SUT) and the Test System (TS) — the environment within which testing takes place — adds another layer of complexity: both systems need to be maintained, both change constantly, and any tool that supports testing is part of that changing, recursive whole.
 
-</detail>
+</details>
+
 ---
 
-<detail close><summary>Methodology</summary>
+<details close><summary>Methodology</summary>
 
 ### Methodology
 
@@ -146,9 +148,11 @@ The reasoning approach is **abductive** — exploring data openly, without a fix
 
 Sample sizes are appropriate for qualitative work and were validated against industry demographic data. Where group effects were observed in workshops (some participants feeling inhibited from expressing honest opinions), subsequent data collection was designed around anonymous surveys and one-to-one interviews.
 
+</details>
+
 ---
 
-<detail><summary>References, GLossary and Abbreviations</summary>
+<details><summary>References, Glossary and Abbreviations</summary>
 
 ### Key References
 
@@ -195,7 +199,7 @@ Sample sizes are appropriate for qualitative work and were validated against ind
 | **OSF** | Open Science Framework — an online platform for sharing research data and instruments |
 
 
-</detail>
+</details>
 
 ---
 
