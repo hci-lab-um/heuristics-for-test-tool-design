@@ -87,9 +87,14 @@ Longer summaries of parts of the dissertation are also available if you want a l
 
 [Summary of Chapters 1-4](DisSummary_Chapters1_2_3_4_How_Research_Done.md) for an understanding of the background and methodology
 
+Two discovery studies provided the evidence that some help for tool design and acquisition might be needed. These are written up in the dissertation chapters 5 and 6. 
+
 [Summary of Chapter 5](Dis_Chapter5_Experiences_with_Tools.md) for a description of the work on people's experiences of tools to support testing
 
 [Summary of Chapter 6](Dis_Chapter6_Who_is_Testing.md) for a description of the work on the characteristis of people doing testing
+
+The two discovery studies (Chapters 5 and 6) established that testing tools frequently fail the people using them, and that testers are a far more diverse group than stereotypes suggest. The next challenge was to turn those findings into something practically useful: a framework that could help tool designers and purchasers make better decisions. Dissertation chapters 7 and 8 describe how that framework — **idea-t** ("Influencing the Design, Evaluation and Acquisition of Tools for Testing") — was built.
+
 
 The dissertation may be downloaded from the [University of Malta Open Access Repository OAR@UM as a PDF]( https://www.um.edu.mt/library/oar/handle/123456789/144337).
 
