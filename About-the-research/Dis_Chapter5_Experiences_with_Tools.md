@@ -98,7 +98,7 @@ Within usability and quality in use, the most frequently mentioned attributes we
 
 *Based on Table 5.10 in the dissertation*
 
-**[Note: Table 5.10 in the dissertation provides a full breakdown of quality-in-use and technical attribute codes and frequencies]**
+**Note: Table 5.10 in the dissertation provides a full breakdown of quality-in-use and technical attribute codes and frequencies, and that information is enlarged on in the tables in the [Quality Attributes Folder](../How-To/QualityAttributes/About-Quality-Attributes-Folder.md) in this repository**
 
 Two unexpected themes emerged alongside the technical and organisational findings.
 
