@@ -105,6 +105,8 @@ FInally, the dissertation has a discussion of the research as a whole piece of w
 
 [Summary of Chapters 12 and 13](Dis_Chapter12and13_Learnings.md) provides a summary of the discussion and conclusions of the dissertation.
 
+**Relevant entries from the bibliography, glossaries and list of abbreviations in the dissertation are added to the summaries and precis with original numbering, and the [full bibliography, glossary and abbreviations lists](Bibliography_Glossary_Abbreviations.md) are also available to browse.**
+
 The dissertation may be downloaded from the [University of Malta Open Access Repository OAR@UM as a PDF]( https://www.um.edu.mt/library/oar/handle/123456789/144337).
 
 The precis and summaries were produced with the help of Claude *(Claude Sonnet 4.6, Anthropic, April 2026)*.
