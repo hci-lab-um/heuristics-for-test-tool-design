@@ -4,9 +4,9 @@
 
 Claude produced this 500-word summary of chapters 5 and 6 of the dissertation:
 
+The two discovery studies (Chapters 5 and 6) established that testing tools frequently fail the people using them, and that testers are a far more diverse group than stereotypes suggest. The next challenge was to turn those findings into something practically useful: a framework that could help tool designers and purchasers make better decisions. Chapters 7 and 8 describe how that framework — **idea-t** ("Influencing the Design, Evaluation and Acquisition of Tools for Testing") — was built. The design and building of the idea-t framework was covered in chapters 7 and 8 of the dissertation, summarised below.
+
 <details close><summary>500-word precis</summary>
-  
-The two discovery studies (Chapters 7 and 8) established that testing tools frequently fail the people using them, and that testers are a far more diverse group than stereotypes suggest. The next challenge was to turn those findings into something practically useful: a framework that could help tool designers and purchasers make better decisions. Chapters 7 and 8 describe how that framework — **idea-t** ("Influencing the Design, Evaluation and Acquisition of Tools for Testing") — was built.
 
 **Chapter 7** covers the development work. A key early decision was to use **heuristics** — question-based rules of thumb — rather than a fixed set of personas or a prescriptive checklist. Testers are too diverse, and contexts too varied, for a one-size-fits-all approach. Heuristics already familiar in software testing and UX practice (such as Nielsen's Ten Heuristics [138]) offer a recognised, flexible format. The "shape" of the heuristics — whether they should be textual, pictorial, or conceptual; and whether they should ask, prompt, or tell — was investigated through a small pilot study with five UX practitioners. The result was a clear preference for **textual, question-style heuristics**. Starting from 153 candidate questions derived from research data, iterative expert reviews with 28 participants over nine prototype versions produced a refined set of **twelve heuristic questions**, ready for testing in industry case studies.
 
