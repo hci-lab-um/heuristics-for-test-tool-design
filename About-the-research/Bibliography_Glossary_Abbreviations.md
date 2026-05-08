@@ -8,6 +8,8 @@
 
 ## List of Abbreviations
 
+<details close><summary>Abbreviations</summary>
+  
 | Abbreviation | Meaning |
 |---|---|
 | **5W's and H** | 5W's and H Framework (Who? Why? Where? What? When? How?) |
@@ -57,9 +59,13 @@
 | **UX** | User Experience |
 | **VPE** | Visual Programming Environment |
 
+</details>
+
 ---
 
 ## Glossary of Terms
+
+<details close><summary>Glossary</summary>
 
 **automation** — The use of tools to complete activities without, or with minimal, human intervention. *(Cambridge English Dictionary [1])*
 
@@ -119,10 +125,14 @@
 
 **Zachman Framework** — A framework for the strategy for enterprise architecture. See https://zachman-feac.com/zachman/about-the-zachman-framework
 
+</details>
+
 ---
 
-## Bibliography
+## Bibliography Core References
 
+<details close><summary>Core references by research question</summary>
+  
 ### Research Question 1.1: Experiences with Tools — Core References
 
 | Ref | Citation |
@@ -167,10 +177,14 @@
 | [218] | D. Quiñones and C. Rusu, "How to develop usability heuristics: A systematic literature review," *Computer Standards & Interfaces*, vol. 53, pp. 89–122, 2017. |
 | [222] | J. A. Zachman, *About the Zachman Framework*, 2025. https://zachman-feac.com/zachman/about-the-zachman-framework |
 
+</details>
+
 ---
 
 ### Full Bibliography (All References)
 
+<details close><summary>Full Bibliography</summary>
+  
 | Ref | Citation |
 |---|---|
 | [1] | Cambridge English Dictionary. Accessed (4 April 2025). https://dictionary.cambridge.org/dictionary |
@@ -345,6 +359,8 @@
 | [256] | G. Sim and J. C. Read, "Using computer-assisted assessment heuristics for usability evaluations," *British Journal of Educational Technology*, vol. 47, no. 4, pp. 694–709, 2016. |
 | [257] | D. Dewar, *Testing mnemonics desktop*, 2015. https://findingdeefex.com/ |
 | [258] | D. Quiñones, C. Rusu, and V. Rusu, "A methodology to develop usability/user experience heuristics," *Computer Standards & Interfaces*, vol. 59, pp. 109–129, 2018. |
+
+</details>
 
 ---
 
