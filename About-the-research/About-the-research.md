@@ -99,7 +99,7 @@ The two discovery studies (Chapters 5 and 6) established that testing tools freq
 
 The idea-t framework was then evaluated and refined through a series of formative case studies, with the idea-t framework being improved as a result of the comments from the people who had used it. A sixth study was done - a retrospective analysis of customer issues with one particular commercial tool, to identify where the idea-t framework might have supported early decision making for the tool design, and which heuristics would have been most useful. This was followed by an expert review.
 
-{Summary of Chapters 9, 10 and 11](Dis_Chapter9-10-11_Evaluating_idea-t.md) provides a summary of the chapters discussing the evaluations. More detailed summaries of the case studies also form part of the idea-t framework itself, and can be found in the ["How To" folder](../How-To/About-How-To-Folder.md) of the framework, under "Case Studies".
+[Summary of Chapters 9, 10 and 11](Dis_Chapter9-10-11_Evaluating_idea-t.md) provides a summary of the chapters discussing the evaluations. More detailed summaries of the case studies also form part of the idea-t framework itself, and can be found in the ["How To" folder](../How-To/About-How-To-Folder.md) of the framework, under "Case Studies".
 
 The dissertation may be downloaded from the [University of Malta Open Access Repository OAR@UM as a PDF]( https://www.um.edu.mt/library/oar/handle/123456789/144337).
 
