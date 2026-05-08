@@ -101,6 +101,10 @@ The idea-t framework was then evaluated and refined through a series of formativ
 
 [Summary of Chapters 9, 10 and 11](Dis_Chapter9-10-11_Evaluating_idea-t.md) provides a summary of the chapters discussing the evaluations. More detailed summaries of the case studies also form part of the idea-t framework itself, and can be found in the ["How To" folder](../How-To/About-How-To-Folder.md) of the framework, under "Case Studies".
 
+FInally, the dissertation has a discussion of the research as a whole piece of work, including applying the idea-t framework to itself, and comparing it with other frameworks.
+
+[Summary of Chapters 12 and 13](Dis_Chapter12and13_Learnings.md) provices a summary of the discussion and conslusions of the dissertation.
+
 The dissertation may be downloaded from the [University of Malta Open Access Repository OAR@UM as a PDF]( https://www.um.edu.mt/library/oar/handle/123456789/144337).
 
 The precis and summaries were produced with the help of Claude *(Claude Sonnet 4.6, Anthropic, April 2026)*.
