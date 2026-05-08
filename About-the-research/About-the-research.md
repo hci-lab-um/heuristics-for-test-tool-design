@@ -103,7 +103,7 @@ The idea-t framework was then evaluated and refined through a series of formativ
 
 FInally, the dissertation has a discussion of the research as a whole piece of work, including applying the idea-t framework to itself, and comparing it with other frameworks.
 
-[Summary of Chapters 12 and 13](Dis_Chapter12and13_Learnings.md) provices a summary of the discussion and conslusions of the dissertation.
+[Summary of Chapters 12 and 13](Dis_Chapter12and13_Learnings.md) provides a summary of the discussion and conslusions of the dissertation.
 
 The dissertation may be downloaded from the [University of Malta Open Access Repository OAR@UM as a PDF]( https://www.um.edu.mt/library/oar/handle/123456789/144337).
 
