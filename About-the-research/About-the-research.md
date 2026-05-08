@@ -113,7 +113,7 @@ The precis and summaries were produced with the help of Claude *(Claude Sonnet 4
 
 No AI was used to write the original dissertation; it was written up by Isabel. 
 These summaries produced by Clause and then edited by Isabel were the result of a set of instructions and conversation, working from a pdf of the dissertation as published, using Claude Sonnet 4.5. 
-[This document with the transcript of the instructions and conversation with Claude](Claude-conversation-precis-dissertation.pdf) is attached for transparency.
+[This document with the transcript of the instructions and conversation with Claude](Claude-conversation-summaries-dissertation.pdf) is attached for transparency.
 
 </details>
 
