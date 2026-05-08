@@ -12,7 +12,7 @@ The two discovery studies (Chapters 5 and 6) established that testing tools freq
 
 **Chapter 8** describes the idea-t framework in full. The twelve heuristics divide into three themes: **Why?** (one heuristic about purpose), **Who?** (five heuristics about the people who will use or be affected by the tool), and **Context?** (six heuristics about where, when, and how the tool will be used). Each heuristic is supported by a keyword, sub-questions, explanatory guidelines, research evidence, suggested activities, and links to **ISO 25010 quality attributes**. The framework is explicitly designed to help overcome the three illusions of usability identified in Chapter 5: it pushes designers and purchasers beyond attractive interfaces, beyond usability alone, and beyond the assumption of a static, stereotypical user.
 
-The framework is published openly on GitHub at https://github.com/hci-lab-um/heuristics-for-test-tool-design under a Creative Commons licence, making it freely available to practitioners worldwide.
+The framework is published openly on GitHub in this repository under a Creative Commons licence, making it freely available to practitioners worldwide.
 
 **Key terms:** idea-t; Heuristics; Why? / Who? / Context?; Shape of heuristics; Iterative prototyping; ISO 25010; Quality attributes; TsST; Illusion of Usability; Personas
 
