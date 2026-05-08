@@ -2,7 +2,7 @@
 
 *This summary of material from Isabel Evans' dissertation was produced with the help of Claude (Claude Sonnet 4.6, Anthropic, April 2026)*
 
-The final two chapters of the dissertation are a discussion of the research, and a set of conclusions; in brief, what ISabel learnt from the research, new findings, and the implications of those findings.
+The final two chapters of the dissertation are a discussion of the research, and a set of conclusions; in brief, what Isabel learnt from the research, new findings, and the implications of those findings.
 
 Clause produced a 500-word precis:
 
