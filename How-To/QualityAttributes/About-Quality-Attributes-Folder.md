@@ -18,3 +18,6 @@ To use the resources in this folder, visit these links:
 
   
 There are activities to help you work with quality attributes in the [Activities folder](../Activities/About-Activities-Folder.md)
+
+
+[◄ Go back to "About the How To"](../About-How-To-Folder.md)
