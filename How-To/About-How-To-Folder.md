@@ -7,7 +7,7 @@ This includes links to
 - [Navigation aids](./Navigate-idea-t/About-Navigating-idea-t.md) to show routes around idea-t and the heuristics, including a Quick Start page;
 - [Activities](./Activities/About-Activities-Folder.md) to help you answer the heuristic questions;
 - Information about [quality attributes](./QualityAttributes/About-Quality-Attributes-Folder.md) that are associated with each heuristic;
-- - [Case Studies to provide you with examples](https://github.com/hci-lab-um/heuristics-for-test-tool-design/blob/main/How-To/Case_Studies/About-the-Case-Studies.md) with summaries of how idea-t was used in six industry settings
+- [Case Studies to provide you with examples](https://github.com/hci-lab-um/heuristics-for-test-tool-design/blob/main/How-To/Case_Studies/About-the-Case-Studies.md) with summaries of how idea-t was used in six industry settings
 
 ## Materials in other folders
 
