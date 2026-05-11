@@ -76,8 +76,8 @@ Notice how low in the list functionality comes; people don't want more functiona
 Similarly, user interface aesthetics were mainly mentioned as an irritation sometimes disguising what became a poor overall experience.
 
 - [Table of Heuristics with Quality in Use and Product Attributes Associated](Table-Heuristics-to-QiU-Attributes.md)
-- [Table of Quality in Use Attributes with Heuristics Associated](Table-QiU-Attributes-and-Heuristics.md)   
-- [Table of Product Qualities with Heuristics Associated](Table-Product-Attributes-and-heuristics.md)  
+- [Table of Quality in Use Attributes with Heuristics Associated](Table-QiU-Attributes-to-Heuristics.md)   
+- [Table of Product Qualities with Heuristics Associated](Table-Product-Attributes-and-Heuristics.md)   
 
 </details>
 
