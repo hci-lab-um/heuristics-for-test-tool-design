@@ -33,8 +33,8 @@ Others are technical or Product attributes which are built into the product and 
 The idea-t heuristics are based on research data, which included data about which quality in use and product attrbiutes are most important to testers when considering their test tools. These tables explain the attrbutes, and link the attrbutes to the heuristics>                                                                                                
  
 - [Table of Heuristics with Quality in Use and Product Attributes Associated](Table-Heuristics-to-QiU-Attributes.md)
-- [Table of Quality in Use Attributes with Heuristics Associated](Table-QiU-Attributes-and-Heuristics.md)   
-- [Table of Product Qualities with Heuristics Associated](Table-Product-Attributes-and-heuristics.md)   
+- [Table of Quality in Use Attributes with Heuristics Associated](Table-QiU-Attributes-to-Heuristics.md)   
+- [Table of Product Qualities with Heuristics Associated](Table-Product-Attributes-and-Heuristics.md)   
 
 </details>
 
