@@ -111,3 +111,6 @@ No AI was used to write the original case study documents; they were all run by 
 These were summarized by Isabel without use of AI for the dissertation, and the project with Claude was an experiment after the dissertation was complete to see if it could help with much shorter, industry-facing summaries to be part if the idea-t framework supporting materials. 
 This first interaction with Claude taught Isabel something about how to interact and how to provide instructions to Claude. The Claude version was Claude Sonnet 4.5. 
 [This document with the transcript of the conversation with ](Claude-conversation-precis-casestudies.pdf) is attached for transparency.
+
+
+[◄ Go back to "About the How To"](../About-How-To-Folder.md)
