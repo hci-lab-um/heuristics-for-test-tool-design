@@ -4,7 +4,7 @@
 
 The final two chapters of the dissertation are a discussion of the research, and a set of conclusions; in brief, what Isabel learnt from the research, new findings, and the implications of those findings.
 
-Clause produced a 500-word precis:
+Claude produced a 500-word precis:
 
 ---
 
