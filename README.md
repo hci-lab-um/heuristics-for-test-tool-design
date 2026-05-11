@@ -92,7 +92,7 @@ In the Downloads you will find one-page copies of the heuristics with brief note
 
 The three themes cover everything you need to think about when designing or choosing a test tool, but they don't provide enough information to prompt thought.  
 The idea-t framework has 12 heuristic questions intended to help you think about the tool or automation you are proposing. 
-They have been distilled down from over 150 heuristics identified during the research, with topics that were frequently forgoten or problematic areas given their own heuristic under the three themes.  
+They have been distilled down from over 150 heuristics identified during the research, with topics that were frequently forgotten or problematic areas given their own heuristic under the three themes.  
 Each heuristic has a longer description which includes the subquestions and explanations that cover the areas identified in the research.
 Each heuristic's description also has links to activities that help you answer the questions, examples from the research, and information about which quality attributes are particularly relevant to the heuristic.
 
@@ -148,9 +148,9 @@ Each heuristic's description also has links to activities that help you answer t
 <details><summary>Click here for links and information about navigation, activities and downloads</summary>
  The ["How-To" directory](./How-To/About-How-To-Folder.md) contains information and downloads to help you with how to use idea-t, including navigation aids, activities, and quality attributes.
 
-  The [Activities folder](./How-To/About-Activities-Folder.md) contains information about activities you can do to help you answer the heuristic questions
+  The [Activities folder](./How-To/Activities/About-Activities-Folder.md) contains information about activities you can do to help you answer the heuristic questions
 
-The [Downloads folder](./How-To/About-Downloads-Folder.md) has resources to help you use idea-t; these are files downloadable from the repository page, the files do not open within the repository. THe files include:
+The [Downloads folder](./Downloads/About-Downloads-Folder.md) has resources to help you use idea-t; these are files downloadable from the repository page, the files do not open within the repository. THe files include:
 
   [◄ To List of Heuristics download](./Downloads/idea-t-heuristics-list-v2.docx) This is a Word document with a list of the 12 heuristics for download and printing.
 
