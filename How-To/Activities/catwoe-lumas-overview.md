@@ -57,7 +57,7 @@ LUMAS describes an iterative cycle of change:
 
 The **User** of the methodology sits at the centre of this cycle, not at the edge of it. The framework makes explicit that the person doing the work — and experiencing the situation — is central to the process of change, not merely an observer of it.
 
-![Soft Systems LUMAS Model Based on [37] Dissertation Figure 7.2, page 123](../../Figures/.jpg)
+![Soft Systems LUMAS Model Based on [37] Dissertation Figure 7.2, page 123](../../Figures/softsystems2.jpg)
 
 
 
@@ -80,8 +80,8 @@ CATWOE is used to decide on **purposeful activities** to make interventions and 
 
 The framework is not taken in alphabetical order. It is worked through as **T → W → C → A → O → E**: first define the transformation and world view, then consider customers, actors, owners, and environmental constraints [37].
 
-> **Figure 7.3** — *Soft Systems CATWOE Framework (Based on [37])*
-> *(Dissertation Figure 7.3, page 124 — insert image here)*
+![Soft Systems CATWOE Model Based on [37] Dissertation Figure 7.3, page 124](../../Figures/softsystems4.jpg)
+
 
 ---
 
@@ -95,8 +95,9 @@ LUMAS and CATWOE are complementary — they address different aspects of the sam
 
 The **User** in LUMAS becomes a more detailed and nuanced set of *people* in CATWOE: the same person might be a Customer (affected by the change), an Actor (carrying it out), or an Owner (with authority over it) — and possibly all three at different times.
 
-> **Figure 7.4** — *People in LUMAS and CATWOE (Based on [37])*
-> *(Dissertation Figure 7.4, page 124 — insert image here)*
+![Soft Systems People in LUMAS and CATWOE Models Based on [37] Dissertation Figure 7.4, page 124](../../Figures/users-in-lumas-and-catwoe.jpg)
+
+
 
 Together, LUMAS and CATWOE form part of a wider thinking process. The CATWOE analysis, for example, leads to:
 
@@ -134,8 +135,7 @@ CATWOE provides a method for defining the problem and partial solution clearly b
 
 This leads to a primary task definition and purposeful activity, grounded in a clear understanding of who is involved, what they are trying to achieve, and what constraints apply.
 
-> **Figure 7.5** — *Soft Systems Applying CATWOE Framework (Based on [37])*
-> *(Dissertation Figure 7.5, page 125 — insert image here)*
+![Soft Systems Applying CATWOE Framework Based on [37] Dissertation Figure 7.5, page 125](../../Figures/softsystems3.jpg)
 
 ---
 
@@ -155,22 +155,11 @@ This leads to a primary task definition and purposeful activity, grounded in a c
 
 ---
 
-## Relevant Figures and Diagrams
-
-The following figures from the dissertation are relevant to this overview. They should be inserted at the points indicated above:
-
-| Figure | Title | Dissertation Page | Suggested Location |
-|--------|-------|-------------------|--------------------|
-| Figure 7.2 | Soft Systems LUMAS Model (Based on [37]) | p. 123 | [The LUMAS Framework](#the-lumas-framework) section |
-| Figure 7.3 | Soft Systems CATWOE Framework (Based on [37]) | p. 124 | [The CATWOE Framework](#the-catwoe-framework) section |
-| Figure 7.4 | People in LUMAS and CATWOE (Based on [37]) | p. 124 | [How LUMAS and CATWOE Work Together](#how-lumas-and-catwoe-work-together) section |
-| Figure 7.5 | Soft Systems Applying CATWOE Framework (Based on [37]) | p. 125 | [Applying CATWOE](#applying-catwoe) section |
-
 ---
 
 ## Comparison Table: CATWOE/LUMAS and idea-t
 
-The table below, drawn from the dissertation's research modelling, shows how the concepts in CATWOE and LUMAS map to areas of the idea-t framework. This is included here for reference, not as a guide to using idea-t — see the idea-t documentation for that.
+The table below, drawn from the dissertation's research modelling, shows how the concepts in CATWOE and LUMAS map to areas of the idea-t framework. This is included here for reference, not as a guide to using idea-t — see the idea-t documentation for that - but it does indicate which heuristics might help address parts of this model if it is used.
 
 *Table 12.4 — Comparing idea-t to Soft Systems CATWOE and LUMAS (from research modelling)*
 
