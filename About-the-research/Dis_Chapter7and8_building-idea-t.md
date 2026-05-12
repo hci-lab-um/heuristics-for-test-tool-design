@@ -2,7 +2,7 @@
 
 *This summary of material from Isabel Evans' dissertation was produced with the help of Claude (Claude Sonnet 4.6, Anthropic, April 2026)*
 
-Claude produced this 500-word summary of chapters 5 and 6 of the dissertation:
+Claude produced this 500-word summary of chapters 7 and 8 of the dissertation:
 
 The two discovery studies (Chapters 5 and 6) established that testing tools frequently fail the people using them, and that testers are a far more diverse group than stereotypes suggest. The next challenge was to turn those findings into something practically useful: a framework that could help tool designers and purchasers make better decisions. Chapters 7 and 8 describe how that framework — **idea-t** ("Influencing the Design, Evaluation and Acquisition of Tools for Testing") — was built. The design and building of the idea-t framework was covered in chapters 7 and 8 of the dissertation, summarised below.
 
