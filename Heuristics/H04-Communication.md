@@ -130,7 +130,9 @@ When will the tool be used? For one organization we spoke with, this was particu
 </details>
 
 ### Case studies examples 
-case studies TBD will be added anonymised when dissertation finalised
+
+
+[Click here for Case Study summaries with links to the full report details](../How-To/Case_Studies/About-the-Case-Studies.md). 
 
 <details close>
 <summary>Research Points and Quotes</summary>
