@@ -22,7 +22,7 @@ The framework is published openly on GitHub in this repository under a Creative 
 
 ---
 
-The following longer summary from Claude covers the reason for the idea-t framework, methods used when designing and building it, results of protoyping, and then the discussion, conclusion and next steps.
+The following longer summary from Claude covers the reason for the idea-t framework, methods used when designing and building it, results of prototyping, and then the discussion, conclusion and next steps.
 
 <details close><summary>Reason for the idea-t framework</summary>
   
