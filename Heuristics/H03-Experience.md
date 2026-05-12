@@ -98,7 +98,9 @@ It is difficult to design tools for a wide range of people, but it is possible t
 
 ### Case studies examples
 
-TBD (case studies will be added anonymised after the dissertation is cleared by examiners)
+In the case studies, it emerged that the level and types of experience that participants using idea-t had within their organisations and with specific tools affected how they used idea-t, and which heuristics were most useful to them. See in particular case studies 1, 2 and 3. Case study 6 surfaced data showing that taken for granted assumptions might mean not anticipating customer issues.
+
+[Click here for Case Study summaries with links to the full report details](../How-To/Case_Studies/About-the-Case-Studies.md). 
 
 ### Quotes from research participants
 
