@@ -57,8 +57,9 @@ LUMAS describes an iterative cycle of change:
 
 The **User** of the methodology sits at the centre of this cycle, not at the edge of it. The framework makes explicit that the person doing the work — and experiencing the situation — is central to the process of change, not merely an observer of it.
 
-> **Figure 7.2** — *Soft Systems LUMAS Model (Based on [37])*
-> *(Dissertation Figure 7.2, page 123 — insert image here)*
+![Soft Systems LUMAS Model Based on [37] Dissertation Figure 7.2, page 123](../../Figures/.jpg)
+
+
 
 ---
 
