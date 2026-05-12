@@ -186,4 +186,4 @@ Future work identified in the dissertation (Appendix N) includes: a longitudinal
 
 ---
 </details>
-*This is a summary of part of Isabel Evans' dissertation published on the University of Malta Open Access Repository OAR@UM. The full dissertation may be downloaded as a PDF from https://www.um.edu.mt/library/oar/handle/123456789/144337*
+*This is a summary of part of Isabel Evans' dissertation published on the University of Malta Open Access Repository OAR@UM. The [full dissertation may be downloaded as a PDF from University of Malta Open Access](https://www.um.edu.mt/library/oar/handle/123456789/144337)*
