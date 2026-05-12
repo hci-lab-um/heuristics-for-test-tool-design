@@ -2,7 +2,7 @@
 
 *This summary of material from Isabel Evans' dissertation was produced with the help of Claude (Claude Sonnet 4.6, Anthropic, April 2026)*
 
-This is a summary of the first four chapters of the dissertation, providing an overview of the reason for reasearch, the review of related literature, the theoretical framework within which the research was done, and the methodology used for the research.
+This is a summary of the first four chapters of the dissertation, providing an overview of the reason for research, the review of related literature, the theoretical framework within which the research was done, and the methodology used for the research.
 
 ---
 
