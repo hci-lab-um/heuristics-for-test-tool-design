@@ -3,7 +3,7 @@
 # Read Me for idea-t: a framework including 12 heuristics 
 ## influencing the design-evaluation and acquisition of tools to support testing
 
-Welcome to idea-t v2, a framework of [12 heuristics](./How-To/Navigate-idea-t/QuickStart.md), with [supporting information and activities to help you navigate and answer the heuristic questions](./How-To/Activities/About-Activities-Folder.md), to help you with evaluating the design of tools to support testing. It is intended to help you with decisions, whether you build, commission, acquire or use testing tools. 
+Welcome to idea-t v2, a framework of [12 heuristics](./How-To/Navigate-idea-t/QuickStart.md), with [supporting information and activities to help you navigate and answer the heuristic questions](./How-To/About-How-To-Folder.md), to help you with evaluating the design of tools to support testing. It is intended to help you with decisions, whether you build, commission, acquire or use testing tools. 
 
 <details> <summary> Click here to see an idea-t schematic </summary>
 
@@ -16,7 +16,7 @@ Welcome to idea-t v2, a framework of [12 heuristics](./How-To/Navigate-idea-t/Qu
 </details>
 
 The [heuristics](./Heuristics/About-Heuristics-Folder.md) are in a folder with an explanation of each one.
-There is information about how to use and answer the heuristics described in the [How-To folder](./How-To/About-How-To-Folder.md), including [activities](./How-To/Activities/About-Activities-Folder.md) along with [navigation routes](./How-To/Navigate-idea-t/About-Navigating-idea-t.md) for using the heuristics in different orders and depths depending on your context, and information about the [quality attributes](./How-To/QualityAttributes/About-Quality-Attributes-Folder.md).  
+There is information about how to use and answer the heuristics described in the [How-To folder](./How-To/About-How-To-Folder.md), including [activities](./How-To/Activities/About-Activities-Folder.md) along with [navigation routes](./How-To/Navigate-idea-t/About-Navigating-idea-t.md) for using the heuristics in different orders and depths depending on your context, [case studies](./How-To/Case_Studies/About-the_Case_Studies.md) of using the heuristics in industry, and information about the [quality attributes](./How-To/QualityAttributes/About-Quality-Attributes-Folder.md).  
 These are linked to from each heuristic page. 
 [Downloads](./Downloads/About-Downloads-Folder.md) of lists of the heuristics, starters for mindmaps, and a workshop you can use are also available.
 
