@@ -173,7 +173,7 @@ Takes time to do well.
 
 ## Where do I find more information?
 
-[Introdction to Personas from Interaction Design Foundation](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)
+[Introduction to Personas from Interaction Design Foundation](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)
 
 [Article about Archetypes](https://radinadoneva.medium.com/behavioural-archetypes-instead-of-personas-c7ccc5b8b998) 
 
