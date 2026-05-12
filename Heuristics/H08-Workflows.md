@@ -32,9 +32,9 @@ Think about:
 - Tool to tool workflows.
 - Tool to person workflows.
 - Person to tool workflows.
-- Person to person worksflows.
+- Person to person workflows.
 - Consider consequential activities in the pipeline, whether the tool can work within the pipeline, how to get entry into the pipeline and how to get out of the pipeline and to the next activity.
-- Consder also integrations between tools / databases / other technology as well as considering workflows.
+- Consider also integrations between tools / databases / other technology as well as considering workflows.
 - When discussing this include UXers (workflows are about people) and automators (workflows are about technology) - both are needed, and the communication between them.
 
 
@@ -83,7 +83,7 @@ What changes would we need to make in our ways of working or processes to make t
 
 <details close><summary>Mini usage case - iterating between H08 Workflows, H02 Who? and H01 Why?</summary>
 
-In one use of the heuristis, a participant indicated both that this question is essential, and also noted its link to H01 and H02, and to the context for the investigation.
+In one use of the heuristics, a participant indicated both that this question is essential, and also noted its link to H01 and H02, and to the context for the investigation.
 *'This heuristic would be in the core when mapping the current state together with the key stakeholders. I would use a current state mapping exercise to explore this heuristic effectively to understand both the big picture and role specific workflows. At this stage, it's crucial to loop back to questions of "why," "who," and the broader context to understand relevant motivations and connections. A current state mapping exercise captures individual activities and identifies bottlenecks within the process.'*
 
 </details>
