@@ -185,14 +185,14 @@ Having got your personas or archetypes, you can build usage stories per persona,
 
 ## Navigation
 
-[◄ Go back to H02](../Heuristics/H02-Who.md)  
+[◄ Go back to H02](../../Heuristics/H02-Who.md)  
 
-[◄ Go back to H03](../Heuristics/H03-Experience.md)  
+[◄ Go back to H03](../../Heuristics/H03-Experience.md)  
 
-[◄ Go back to H04](../Heuristics/H04-Communication.md) 
+[◄ Go back to H04](../../Heuristics/H04-Communication.md) 
 
-[◄ Go back to H05](../Heuristics/H05-LearningGoals.md)  
+[◄ Go back to H05](../../Heuristics/H05-LearningGoals.md)  
 
-[◄ Go back to H06](../Heuristics/H06-LearningPreferences.md)  
+[◄ Go back to H06](../../Heuristics/H06-LearningPreferences.md)  
 
-[◄ Go back to README](../README.md)  
+[◄ Go back to README](../../README.md)   
