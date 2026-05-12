@@ -40,7 +40,7 @@ The primary outcome was that changes to ways of working, rather than changes to 
 
 </details>
 
-[Click for 1000 word precis and full report for CS2](CS2-review-automation-suite.md)
+[Click for 1000 word precis and full report for CS2](CS2-review-automation-suites.md)
 
 ## Case Study 3 Design Review of a Tool Feature
 
