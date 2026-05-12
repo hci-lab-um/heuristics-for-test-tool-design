@@ -87,14 +87,12 @@ Additionally when setting a tooling strategy it is important to understand how t
 
 ## External Frameworks That May Help With Aligning The Tooling Strategy to The Organisational Strategy
 
-If you are an automation or tooling architect, you may find it beneficial to align the tool framwork you provide with the strategy framework used by your stakeholders. 
+If you are an automation or tooling architect, you may find it beneficial to align the tool framwork you provide with the strategy framework used by your stakeholders. Your stakeholders may be using a specific strategy model, find out what they are using and align to it.
 
 <details close><summary>Zachman Architecture Frameworks</summary>
 
-The Zachman Infrastructure Architecture Model is one example.
+The Zachman Infrastructure Architecture Model is one example of modelling organisational strategy. You can find information on the [Zachman Framework Wikipedia page](https://en.wikipedia.org/wiki/Zachman_Framework).  A [brief summary based on Isabel's dissertation description of the framework is available on this repository](../Activities/zachman-framework-overview.md).
 
-TBD: add description of Zachman Framework.
-Add links to Activities.
 
 </details>
 
