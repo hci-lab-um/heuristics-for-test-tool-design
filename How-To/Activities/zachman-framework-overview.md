@@ -32,7 +32,8 @@ The framework is described as a *tool for thinking* that provides a logical and 
 
 ## Structure: The Matrix
 
-The Zachman Framework is organised as a **matrix**: a grid of rows and columns. Each cell in the grid represents one specific aspect of the enterprise. Every cell is independent — one fact in one place.
+The Zachman Framework is organised as a **matrix**: a grid of rows and columns. Each cell in the grid represents one specific aspect of the enterprise. Every cell is independent — one fact in one place. Note: The full Zachman Framework diagram is referenced in the dissertation footnote as available at:
+`https://zachman-feac.com/images/ZI_PIcs/ZF3.jpg` but this URL has not been verified as currently live; a diagram is available on the Wikipedia Zachman Framework page.
 
 ![Simplified Schematic of Zachman Framework™ Adapted from [222] Dissertation Figure 7.1, page 122](../../Figures/SimplifiedZachman.jpg)
 
@@ -115,19 +116,6 @@ The Zachman Framework has developed over more than 40 years [222]:
 
 ---
 
-## Relevant Figures and Diagrams
-
-The following figures from the dissertation are relevant to this overview. They should be inserted at the points indicated above:
-
-| Figure | Title | Dissertation Page | Suggested Location |
-|--------|-------|-------------------|--------------------|
-| Figure 7.1 | Simplified Schematic of Zachman Framework™ (Adapted from [222]) | p. 122 | [Structure: The Matrix](#structure-the-matrix) section |
-
-The full Zachman Framework diagram is referenced in the dissertation footnote as available at:
-`https://zachman-feac.com/images/ZI_PIcs/ZF3.jpg`
-***This URL has not been verified as currently live — check before use.***
-
----
 
 ## Glossary
 
