@@ -90,7 +90,7 @@ In one use of the heuristis, a participant indicated both that this question is 
 
 ### Case studies examples
 
-TBD post dissertation
+[Click here for Case Study summaries with links to the full report details](../How-To/Case_Studies/About-the-Case-Studies.md). 
 
 ### Quotes from research participants
 
