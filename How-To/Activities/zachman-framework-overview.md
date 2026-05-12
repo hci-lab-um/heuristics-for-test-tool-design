@@ -160,6 +160,7 @@ The questioning framework *Who? Why? Where? What? When? How?* — used across jo
 
 [223] M. de Vries, "A framework for understanding and comparing enterprise architecture models," *Management Dynamics*, vol. 19, no. 2, pp. 17–29, 2010.
 
+
 [224] S. R. Mary and P. Rodrigues, "Survey and comparison of frameworks in software architecture," in *Advances in Computing and Communications: First International Conference, ACC 2011*, Springer, 2011, pp. 9–18.
 
 **Additional Zachman resource referenced in dissertation:**
