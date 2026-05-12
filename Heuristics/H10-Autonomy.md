@@ -102,13 +102,9 @@ What else does this tool provide that affects team autonomy or management author
   <summary>Click for evidence, case studies, usage cases and quotes from the research for this heuristic
   </summary> 
   
-### Usage cases
+### Usage cases and case studies examples
 
-TBD
-
-### Case studies examples
-
-TBD
+[Click here for Case Study summaries with links to the full report details](../How-To/Case_Studies/About-the-Case-Studies.md). 
 
 ### Quotes from research participants
 
