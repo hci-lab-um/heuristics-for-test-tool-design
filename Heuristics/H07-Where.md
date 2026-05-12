@@ -42,7 +42,7 @@ Key questions to ask yourself:
     - Is it findable in the place people want to use it?
     - Where else might the tool need to be accessed from?
     - Local or cloud hosted?
-    - Will the person using the tool have the same spec hardware as the devloper of the tool?
+    - Will the person using the tool have the same spec hardware as the developer of the tool?
     - Will the person using the tool have the same spec hardware as the person demo'ing the tool?
     - Do we have the same spec hardware in all our offices?
     - Does the tool work on our infrastructure (at all)?
