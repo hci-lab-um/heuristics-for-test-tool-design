@@ -106,7 +106,7 @@ In one case study, the organization was working with SAAS software. They comment
 
 ### Case studies examples
 
-TBD
+[Click here for Case Study summaries with links to the full report details](../How-To/Case_Studies/About-the-Case-Studies.md). 
 
 ### Quotes from research participants
 
