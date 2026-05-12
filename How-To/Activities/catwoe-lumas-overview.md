@@ -222,9 +222,12 @@ See Zachman Framework overview document. In SSM, the focus is on people's experi
 
 **Primary source:**
 
-[37] P. Checkland, *Systems Thinking, Systems Practice*. Chichester: Wiley, 1981 (and subsequent editions). *(Primary source for Soft Systems Methodology, LUMAS, and CATWOE.)*
+[37] P. Checkland and J. Poulter, “Soft systems methodology,” in Systems Approaches
+to Making Change: A Practical Guide, Springer, 2020, pp. 201–253 *(Primary source for Soft Systems Methodology, LUMAS, and CATWOE.)*
 
-*(Full bibliographic details for reference [37] to be confirmed from the dissertation bibliography.)*
+Also useful but not directly referenced: P. Checkland, *Systems Thinking, Systems Practice*. Chichester: Wiley, 1981 (and subsequent editions). 
+
+
 
 ---
 
