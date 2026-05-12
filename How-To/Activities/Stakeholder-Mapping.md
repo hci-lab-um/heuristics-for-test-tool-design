@@ -8,7 +8,7 @@
 Stakeholder mapping: within an organizational or team system, identifying interested parties for an intended change. 
 NB: system here is not the IT system; the IT system will be part of the overall organizational system. The introduction of a testing tool is a change to the system of software development and testing currently used in the organization.
 
-Helps to answers the heuristic question H01: “Who will use or be affected by this tool?”
+Helps to answer the heuristic question H01: “Who will use or be affected by this tool?”
 
 There are many techniques for stakeholder analysis, which you choose depends on the importance and complexity of the situation you are wishing to understand, and the time you have available. 
 
