@@ -1,6 +1,6 @@
 # The Zachman Framework: An Overview
 
-> *This document was produced with the assistance of Claude Sonnet 4.6 by Anthropic.*
+> *This document was produced by summarising a section of Isabel's dissertation with the assistance of Claude Sonnet 4.6 by Anthropic.*
 
 ---
 
@@ -34,8 +34,7 @@ The framework is described as a *tool for thinking* that provides a logical and 
 
 The Zachman Framework is organised as a **matrix**: a grid of rows and columns. Each cell in the grid represents one specific aspect of the enterprise. Every cell is independent — one fact in one place.
 
-> **Figure 7.1** — *Simplified Schematic of Zachman Framework™ (Adapted from [222])*
-> *(Dissertation Figure 7.1, page 122 — insert image here)*
+![Simplified Schematic of Zachman Framework™ Adapted from [222] Dissertation Figure 7.1, page 122](../../Figures/SimplifiedZachman.jpg)
 
 The matrix currently has up to **36 cells** (six columns × six rows), covering every area of planning, discussion, and action for an enterprise [223]. It has grown over the years: it started with 15 cells and expanded as the framework broadened from information systems to enterprise-level thinking.
 
