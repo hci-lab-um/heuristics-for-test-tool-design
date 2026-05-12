@@ -71,7 +71,7 @@ Challenges identified included difficulty introducing new methods to customers w
 
 </details>
 
-[Click for 1000 word precis and full report for CS4](CS4-plan-tool-acquistion.md)
+[Click for 1000 word precis and full report for CS4](CS4-plan-tool-acquisition.md)
 
 ## Case Study 5 Setting a Tooling Strategy
 
