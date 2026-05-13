@@ -53,7 +53,7 @@ Guidelines:
 
 <details close><summary>Activities to help with identifying relevant quality attributes</summary>
 
-Understanding which quality attributes are important to emphasise for the tools in your context, with your people, to meet your goals; you need to understand the quality attributes and how they relate to the heuristics, and you need a way to decide which attributes to focus on.  The [quality attributes folder](..QualityAttributes/About-Quality-Attributes-Folder.md) has tables of quality attributes relating them to the heuristics, and you can [workshop attribute pyramids and radar diagrams](Building-Attribute-Pyramids.md) to agree priorities.  
+Understanding which quality attributes are important to emphasise for the tools in your context, with your people, to meet your goals; you need to understand the quality attributes and how they relate to the heuristics, and you need a way to decide which attributes to focus on.  The [quality attributes folder](../HowTo/QualityAttributes/About-Quality-Attributes-Folder.md) has tables of quality attributes relating them to the heuristics, and you can [workshop attribute pyramids and radar diagrams](Building-Attribute-Pyramids.md) to agree priorities.  
 
 </details>
 
