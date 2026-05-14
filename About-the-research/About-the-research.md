@@ -40,15 +40,10 @@ After nearly four decades working in the IT industry, mainly in software testing
 
 </details>
 
-
-[Preprints of published papers are listed here](preprints.md) and a summary of the research journey story so far is below. 
-
 <details close>
 <summary>Click for Story Through the Research </summary>
 
 ###	Story Through the Research
-
-Links to the published versions of the papers are below, and you can also [download a preprint draft](preprints.md) if you cannot access the publishers' libraries.
 
 **Stories about experiences with test tools:** In the initial stage of the research we went out to industry with a simple question “tell me a story about your experiences with test tools” via interviews, surveys and workshops, and was startled by the results. These were:
 1.	Testers’ lived experience is adversely affected by poor tools (Papers: “[Stuck in Limbo with Magical Solutions](https://www.scitepress.org/Link.aspx?doi=10.5220/0009091801950202)” and “[Scared, Frustrated and Quietly Proud](https://dl.acm.org/doi/abs/10.1145/3452853.3452872)”). 
@@ -72,10 +67,11 @@ We updated the heuristics based on the review comments, in an iterative process.
 The case study results were used to refine the heuristics based on comments and observations of them in use.
 This GitHub repository is here to support the case studies and capture the heuristics and supporting information.
 
+**Links to the published versions of the papers may reach paywalls in some cases so you can also [download a preprint draft](preprints.md) if you cannot access the publishers' libraries.**
 
 </details>
 
-<details><summary>Click here for information about Isabel's dissertation and links to summaries of the chapters and studies</summary>
+<details><summary>Click here for information about Isabel's dissertation and links to summaries of the chapters</summary>
 
 ### The Completed Dissertation: `A Framework to Support Test Tool Design and Acquisition'
 
