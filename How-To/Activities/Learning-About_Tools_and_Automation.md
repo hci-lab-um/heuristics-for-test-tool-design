@@ -3,7 +3,7 @@
 TBD when enough (MVP)  link to this from the About Activities file
 
 TBD:
-in this file have a list of resourves for people using the heuristics and idea-t who need to find out how to
+in this file have a list of resources for people using the heuristics and idea-t who need to find out how to
 -design and build tools and autoomation
 -use tools and automation
 
@@ -18,3 +18,5 @@ Kristoffer website
 Richard's website
 
 etc etc
+
+also have resources about influencing change - either here or in a how-to about implementing change maybe linked from the navigation page  cover AMC coaching handbook see https://www.annemariecharrett.com/
