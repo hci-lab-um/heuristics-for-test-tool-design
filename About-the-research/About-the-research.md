@@ -55,7 +55,7 @@ After nearly four decades working in the IT industry, mainly in software testing
 
 **Finding out who is testing software:** To better understand the potential in tester persona development, we asked "Who is testing?" in a further detailed survey which provided evidence of the heterogenous nature of the testing community, and the wide range of people’s characteristics, contexts, approaches, and requirements. The data indicated that the people designing tools may benefit from a framework to help them better understand testers and the contexts for testing. A paper "Breaking Tester Stereotypes: who is testing and why it matters" was presented in July 2024 at the BCS HCI 2024 conference and has been published by them, and a journal paper "The Software Testing Community and IT Stereotypes: a study with industry professionals" is published in IWC journal 2025. There is a [summary on a blog](https://isabelevansconsultancy.wordpress.com/2024/07/26/research-report-breaking-tester-stereotypes-who-is-testing-and-why-it-matters/) and [preprints on this repository](preprints.md).
 
-**Encapsulating findings in a usable summary:** Based on the data analysed so far, we are working on building a set of heuristics for tool designers to use when designing test tools. Iterating through a series of reviews of versions of the heuristics both with UX experts and practitioners, and with test experts and practitioners. The draft heuristics are [listed on this repository](README.md), with their explanations and suggested activities.
+**Encapsulating findings in a usable summary:** Based on the data analysed so far, we built a set of heuristics for tool designers to use when designing test tools. We iterated through a series of reviews of versions of the heuristics both with UX experts and practitioners, and with test experts and practitioners. The draft heuristics are [listed on this repository](README.md), with their explanations and suggested activities.
 
 **Shaping the Heuristics:** First, we needed to understand how heuristics should be developed and what they look like. Should they be like Nielsen's Ten Heuristics? Like Bach and Bolton's FEW HICCUPS? Something different? We looked at many examples to see how heuristics are displayed and discovered that they have different levels of directedness and also that they are displayed in different formats. Working with UX practitioners and experts, we trialed and refined various styles for the heuristics and chose a format - the short question with explanation - used in this repository. 
 Based on that format, we then set out to design a set of heuristic questions, grounded in the research data collected earlier.
@@ -79,19 +79,17 @@ The dissertation that supported the award of Isabel's PhD is long... nearly 120,
 
 The purpose of this summary is to allow you to decide which parts of the dissertation – if any – you want to read. **Reading the dissertation is not necessary for using idea-t, it is made available for transparency and to allow deep background reading for those who want it.**
 
-Longer summaries of parts of the dissertation are also available if you want a little more information:
+Longer summaries of parts of the dissertation are also available if you want a little more information.
 
-[Summary of Chapters 1-4](DisSummary_Chapters1_2_3_4_How_Research_Done.md) for an understanding of the background and methodology
+Read [Summary of Chapters 1-4](DisSummary_Chapters1_2_3_4_How_Research_Done.md) for an understanding of the background and methodology.
 
 Two discovery studies provided the evidence that some help for tool design and acquisition might be needed. These are written up in the dissertation chapters 5 and 6. 
+Read [Summary of Chapter 5](Dis_Chapter5_Experiences_with_Tools.md) for a description of the work on people's experiences of tools to support testing. 
+Read [Summary of Chapter 6](Dis_Chapter6_Who_is_Testing.md) for a description of the work on the characteristis of people doing testing. 
+The two discovery studies (Chapters 5 and 6) established that testing tools frequently fail the people using them, and that testers are a far more diverse group than stereotypes suggest. 
 
-[Summary of Chapter 5](Dis_Chapter5_Experiences_with_Tools.md) for a description of the work on people's experiences of tools to support testing
-
-[Summary of Chapter 6](Dis_Chapter6_Who_is_Testing.md) for a description of the work on the characteristis of people doing testing
-
-The two discovery studies (Chapters 5 and 6) established that testing tools frequently fail the people using them, and that testers are a far more diverse group than stereotypes suggest. The next challenge was to turn those findings into something practically useful: a framework that could help tool designers and purchasers make better decisions. Dissertation chapters 7 and 8 describe how that framework — **idea-t** ("Influencing the Design, Evaluation and Acquisition of Tools for Testing") — was built.
-
-[Summary of Chapters 7 and 8](Dis_Chapter7and8_building-idea-t.md) for a description of the process to build and prototype idea-t.
+The next challenge was to turn those findings into something practically useful: a framework that could help tool designers and purchasers make better decisions. Dissertation chapters 7 and 8 describe how that framework — **idea-t** ("Influencing the Design, Evaluation and Acquisition of Tools for Testing") — was built.  
+Read [Summary of Chapters 7 and 8](Dis_Chapter7and8_building-idea-t.md) for a description of the process to build and prototype idea-t.
 
 The idea-t framework was then evaluated and refined through a series of formative case studies, with the idea-t framework being improved as a result of the comments from the people who had used it. A sixth study was done - a retrospective analysis of customer issues with one particular commercial tool, to identify where the idea-t framework might have supported early decision making for the tool design, and which heuristics would have been most useful. This was followed by an expert review.
 
@@ -110,8 +108,9 @@ The precis and summaries were produced with the help of Claude *(Claude Sonnet 4
 ## Using Claude to Produce the Precis and Summaries for the Disseration.
 
 No AI was used to write the original dissertation; it was written up by Isabel. 
-These summaries produced by Claude and then edited by Isabel were the result of a set of instructions and conversation, working from a pdf of the dissertation as published, using Claude Sonnet 4.5. 
+The summaries linked from this page were produced by Claude and then edited by Isabel were the result of a set of instructions and conversation, working from a pdf of the dissertation as published, using Claude Sonnet 4.5. 
 [This document with the transcript of the instructions and conversation with Claude](Claude-conversation-summaries-dissertation.pdf) is attached for transparency.
+The idea-t repository was written by Isabel.
 
 </details>
 
