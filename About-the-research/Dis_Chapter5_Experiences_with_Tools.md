@@ -48,6 +48,7 @@ The work in this chapter is grounded in and published in three papers: Evans et 
 ---
 
 <details close><summary>Method</summary>
+
 ### Method
 
 Data was collected across several stages, with analysis carried out incrementally so that each stage informed the next (illustrated in Figure 5.1 in the dissertation).
