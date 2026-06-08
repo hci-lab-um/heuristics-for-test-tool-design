@@ -40,6 +40,8 @@ Think about:
 
 - For the **tests and test artefacts**, how much and how quickly will they change over time?
 
+- For remote or distributed teams `when' also needs consideration of time zones, out of hours communications, resource sharing, exscallation during out of hours in another time zone, support from the tool supplier across time zones, language used, and other ways that geography affects time.
+
 
 </details>
 
