@@ -100,10 +100,9 @@ If the automation and tooling strategy is part of a transformation in the organi
 
 <details close><summary>Soft Systems Transformation Frameworks LUMAS and CATWOE</summary>
 
-The LUMAS and CATWOE frameworks are used with soft systems thinking to model how people might react to a transformation.
+The [LUMAS and CATWOE frameworks](../Activities/catwoe-lumas-overview.md) are used with soft systems thinking to model how people might react to a transformation.
 
-TBD: add description of LUMAS and CATWOE. 
-Add links to Activities.
+They help you focus on understanding the different stakeholders for a change (and introducing a new tool is a change), their different viewpoints, who will benefit and who will be disadvantaged by the change.
 
 </details>
 
