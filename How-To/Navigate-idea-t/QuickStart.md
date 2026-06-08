@@ -6,7 +6,7 @@
 
 On each heuristic below, the "about" link on each heuristic question takes you to additional information including explanations, sub-questions, usage scenarios. The quality in use and product quality attributes are attributes that of the tool that you may need to consider, and there is information about these both linked from each heuristic's page, and also in the [Quality Attributes folder](../QualityAttributes/About-Quality-Attributes-Folder.md) where you can find information about how to map Heuristics to Quality Attributes and more information about those attributes.
 
-You might find it useful to start a list, mindmap, or postits grouping to help you. Start with the heuristic questions, add your own questions and relevant details from the explanation pages, as you think and discuss. An xmind file and a printable poster are in the [Downloads folder](../../Downloads/About-downloads.md).
+You might find it useful to start a list, mindmap, or postits grouping to help you. Start with the heuristic questions, add your own questions and relevant details from the explanation pages, as you think and discuss. An xmind file and a printable poster are in the [Downloads folder](../../Downloads/About-Downloads-Folder.md).
 
 Expect this to be iterative. When you know more about Who? (Heuristics H02 - H06) you may find that feeds back to a better understanding of H01 Why? When you know more about Context? (Heuristics H07 - H12) you may find that feeds back to enriching H01 and H02-H06. 
 
