@@ -9,6 +9,7 @@ This page is about the research behind the heuristics, information about the res
 <summary>Click for Presentations, Videos and Articles</summary>
 
 Podcasts:
+- [Chat with Lisa Crispin and Janet Gregory about the idea-t framework](https://www.youtube.com/watch?v=Q_l7KDyjTZM)
 - [Chat with Richard Seidl about stereotyping](https://youtu.be/blPHnprdbzE)
 - [Chat with Lisa Crispin and Janet Gregory about job titles](https://www.youtube.com/watch?v=NaH_6iE6rW0) 
 
