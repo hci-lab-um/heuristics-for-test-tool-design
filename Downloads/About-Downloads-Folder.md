@@ -19,7 +19,7 @@ These include:
 
 **Poster (v2.0)**
 
-*Print or presentation:* The [poster for idea-t v2.0](idea-t-v2-poster-A3=landscape.pptx) is currently available as a PowerPoint file where the poster side can be printed to A3 paper, or displayed as a presentation. 
+*Print or presentation:* The [poster for idea-t v2.0](idea-t-v2-poster-A3-landscape.pptx) is currently available as a PowerPoint file where the poster side can be printed to A3 paper, or displayed as a presentation. 
 
 *Alt text and accessibility:* In the PowerPoint file, the notes for the slide provide a description of the poster as a bulleted list (too long to put in alt text for the image). 
 That description is also available as a separate [alt-text txt file](idea-t-poster-as-a-bulleted-list.txt). 
