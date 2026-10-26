@@ -1,0 +1,126 @@
+Idea- framework description.
+A) The poster header with logo and straplines:
+1. the framework and its contents are described in full on the GitHub repository: 
+https://github.com/hci-lab-um/heuristics-for-test-tool-design
+2. idea-t was designed by Dr Isabel Evans, at University of Malta.
+3. idea-t stands for “influencing the design-evaluation and acquisition of tools to support 
+testing.
+4. The tagline for the poster is “Better Questions. Better Decisions”
+5. idea-t has 3 themes: Why? Who? And Context?
+6. Each theme has a number of heuristics presented as questions, example activities that 
+help answer those questions, relevant quality in use attrbutes, relevant product quality 
+attributes, keywords, and alternative questions.
+7. Theme Why has 1 heuristic, H01. Theme Who has 5 heuristics, H02 to H06. Theme 
+Context has 6 heuristics, H07 to H12.
+8. These are shown on the poster in a grid layout, bulleted below by theme. Sometimes an 
+activity, attribute, or alternative applies to more than one heuristic so you will see repeats in 
+the bulleted list below.
+
+B) The poster content (themes are shown left to right and heuristics within themes left to 
+right on the poster itself):
+Theme 1. Why?
+Heuristic: H01: why is this tool needed?
+•	Activities: SWOT, Gap analysis, Stakeholder mapping, business case;
+•	Quality in Use: Freedom from risk;
+•	Product quality: user goals, appropriateness;
+•	Keyword: Why?
+•	Alternatives: Why else? Why not?
+
+Theme 2 Who?
+Heuristic: H02: who will use or be affected by this tool?
+•	Activities: persona and archetype modelling, journey mapping, stakeholder 
+mapping, business case;
+•	Quality in Use: Satisfaction;
+•	Product quality: user goals, appropriateness, recognizability; 
+•	Keyword: Who?
+•	Alternatives: Who else? Who not?
+
+Heuristic: H03: What previous experiences do people bring to this tool?
+•	Activities: persona and archetype modelling, journey mapping, training and support 
+plan, business case;
+•	Quality in Use: Satisfaction, Effectiveness;
+•	Product quality: Learnability, appropriateness, recognizability, user error protection;
+•	Keyword: experience?
+•	Alternatives: What else? What not? 
+
+Heuristic: H04: What communication needs or preferences do people have?
+•	Activities: MS Inclusive design, persona and archetype modelling, journey mapping, 
+training and support plan, business case;
+•	Quality in Use: Satisfaction, Effectiveness, Flexibility;
+•	Product quality: Learnability, accessibility, recognizability, user error protection;
+•	Keyword: communication?
+•	Alternatives: How else? How not? Needs (accessibility) and Preferences (styles).;
+
+Heuristic: H05: Do people want “tool mastery” or “task completion” if learning to use the 
+tool?
+•	Activities: MS Inclusive design, persona and archetype modelling, journey mapping, 
+training and support plan, business case;
+•	Quality in Use: Satisfaction, Effectiveness, Flexibility;
+•	Product quality: Learnability, accessibility, recognizability, user error protection;
+•	Keyword: mastery or task?
+•	Alternatives: How else? How not? Needs (accessibility) and Preferences (styles).
+
+Heuristic: H06: What learning preferences do people have? 
+•	Activities: MS Inclusive design, persona and archetype modelling, journey mapping, 
+training and support plan, business case;
+•	Quality in Use: Satisfaction, Effectiveness, Flexibility;
+•	Product quality: Learnability, user error protection;
+•	Keyword: learning preference?
+•	Alternatives: How else? How not? Needs (accessibility) and Preferences (styles).
+
+Theme 3: Context?
+Heuristic: H07: Where will the tool be used?
+•	Activities: Persona and archetype modelling, journey mapping, infrastructure and 
+supported platforms plan, service modelling, ecosystem modelling, service 
+blueprint, training and support plan, business case;
+•	Quality in Use: Context coverage, effectiveness;
+•	Product quality: Operability, appropriateness, user goals, maintainability, 
+compatibility, functionality;
+•	Keyword: Where?
+•	Alternatives: Where else? Where not?
+
+Heuristic: H08: What workflows is the tool part of?
+•	Activities: Persona and archetype modelling, journey mapping, infrastructure and 
+supported platforms plan, service modelling, ecosystem modelling, service 
+blueprint, training and support plan, business case;
+•	Quality in Use: Context coverage, effectiveness;
+•	Product quality: Operability, appropriateness, user goals, recognizability, 
+maintainability, security, compatibility, functionality;
+•	Keyword: Workflows?
+•	Alternatives: Where else? Where not?
+
+Heuristic: H09: What risks are associated with the workflows the tool is part of?
+•	Activities: Persona and archetype modelling, journey mapping, infrastructure and 
+supported platforms plan, team shapes and autonomy, risk storming, service 
+blueprint, training and support plan, business case;
+•	Quality in Use: Context coverage, freedom from risk;
+•	Product quality: operability, appropriateness, accessibility, maintainability, security, 
+performance, reliability, scalability;
+•	Keyword: Risk?
+•	Alternatives: What else? What not?
+
+Heuristic: H10: What autonomy of work styles is allowed in those workflows and teams?
+•	Activities: Persona and archetype modelling, journey mapping, infrastructure and 
+supported platforms plan, team shapes and autonomy, risk storming, training and 
+support plan, business case;
+•	Quality in Use: context coverage, satisfaction, flexibility;
+•	Product quality: operability, appropriateness, accessibility, maintainability;
+•	Keyword: Autonomy?
+•	Alternatives: How else? How not?
+
+Heuristic: H11: When will the tool be used?
+•	Activities: Journey mapping; infrastructure and supported platforms plan, 
+maintenance plan, de-commissioning plan, business case;
+•	Quality in Use: Context coverage, efficiency;
+•	Product quality: operability, appropriateness, recognizability, maintainability, 
+performance, compatibility, reliability;
+•	Keyword: When?
+•	Alternatives: When else? When not?
+
+Heuristic: H12: How long will the tool be used?
+•	Activities: Journey mapping; infrastructure and supported platforms plan, 
+maintenance plan, de-commissioning plan, business case;
+•	Quality in Use: Context coverage, freedom from risk;
+•	Product quality: maintainability, portability, scalability;
+•	Keyword: How Long?
+•	Alternatives: When else? When not?
